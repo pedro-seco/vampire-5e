@@ -1,0 +1,761 @@
+
+
+
+
+Breathing Life into  Your Chronicle
+The Vampire core book provides a lot of helpful advice on crafting and telling stories set in the World of Darkness. However, what does it feel like to really live in the World of Darkness? Part of the art of Storytelling is to fire the imaginations of your players, transporting them and immersing them in the game world. The more detail and description you can offer, the easier it will be for your troupe to think and act in character. The more real you can make the world, the more invested the players will become in its future. 
+Sights
+In every scene, to give each player a similar sense of place, it is important to describe the environment surrounding their characters. Where are the entrances and exits? Are there obstacles or weapons within sight, that might be relevant if things turn violent? Are there any deep shadows or other hiding places? Are there signs stating any important information? Are there other objects in the room which might invite curiosity? If there are other people present, what do they look like? Are they displaying any clear modes of behaviour, such as fear, deference, or aggression? Preparing these sorts of details will help bring the scene to life, even if these details may not be directly relevant to your story. 
+Documents & Props
+Physical objects are good visual aids and can provide a great tactile element to your games. If you are playing in a well-known town or city, providing maps, guidebooks or local tourist information is an easy step that can give the players a real sense of place. If you have time to make the effort, you could consider generating documents that are directly relevant to your story. For example, if a player character receives a letter in your game, then actually writing out the letter authentically to put in the hands of that player will leave a strong impression. Similarly, preparing telegrams, emails, handwritten notes, diary excerpts, etc. for your players to come across serves to help increase their immersion. If your players are willing, you can 
+I N T RO D U C T I O N
+even encourage they write back or engage in ongoing correspondence with the other characters of the game world. 
+   Although table-top role-playing largely takes place in your troupe's collective imagination, and there is no requirement to resemble your character physically, some players - particularly if they have some difficulty acting 'in character' - may find benefit in adopting simple props that bring out their fictional persona. It doesn't have to be much - a hat, a wig, some jewellery, a pipe or cigarette holder, glasses or a monocle - whatever helps the troupe embrace the character.
+LIVE ACTION ROLE-PLAYING
+Live action role-playing (LARP) is a sister activity to tabletop role-playing that fully embraces the physicality of the game world and its characters. Rather than describing the actions of your character, to be played in the imaginations of the troupe, you physically act out your wishes yourself, for real. In live games players dress to resemble their characters and are usually required to remain 'in character' at all times. 
+   Vampire: The Masquerade has a long and acclaimed associated history of live roleplaying. The early adoption and conversion of the World of Darkness by LARP enthusiasts led to the creation of the Mind's Eye Theatre (MET) rules system and the founding of many supporting fan clubs such as the Camarilla and One World by Night. Several versions of the MET system have been published over the years by White Wolf and By Night Studios, and player networks have expanded to allow characters and chronicles to cross national and international borders. Games continue worldwide to this day, with major events in the calendar - such as the annual Grand Masquerade in New Orleans - planned and supported by White Wolf themselves. 
+
+STO RY T E L L E R' S TO O L K I T  
+
+I N T RO D U C T I O N
+
+
+
+
+
+100 Victims
+This section provides a hundred potential victims, mortals out in the city at night. The descriptive material focuses on the victims' role in the story, not on their superficial characteristics. They don't have to be victims first and foremost: they might deliver a cryptic warning, or provide a helpful lead, or just add flavor and obstacles to the story in the moment.
+  You don't have to take these victims whole: feel free to roll the percentiles once for a victim type, once for a motive, and once for a Resonance. If you want to randomly generate the victim's race or ethnicity, get demographic data for your chronicle city from the census or some similar source. For many cities, Wikipedia provides a basic racial breakdown that's close enough for roleplaying games. Apply whatever modifier you see fit for the district of the city and the time of night: in Chicago, for example, a victim encountered pre-dawn as the first shift comes on to a construction site is more likely to be Polish, Mexican, or from the former Yugoslavia than someone met at most other times and places in the city. names: Coming up with names on the spur of the moment can be difficult even for experienced Storytellers. The entry provides one name coded masculine and one coded feminine for each victim. Swap first and last names around at will. The names reflect an American urban environment; change them up for a chronicle set in a non-American city. who they are: This entry presents a brief description of the character that the players' characters will notice at first blush, and then offers a synopsis of the character's situation or purpose. what they want: What a character wants dictates how they behave toward other characters. Do they try to use them? Help them? Does wanting the same thing make another character a rival or a comrade? Some of the following goals are long-term and some are short-term. That's important in portraying a character as well. What the character wants right now and what the character wants eventually can often be two different things and 
+
+might even be contradictory. Bear that in mind when using these motivations: a character with these wants is capable of having additional motivations as well. resonance: These victims offer an even breakdown of the four Resonance types. None of these victims are well-balanced, although you can certainly ignore the Resonance if you wish, or roll a die and only use the Resonance given on a 6+. To randomly determine the victim's Intensity, roll a die; 1-6: Fleeting; 7-9: Intense; 0: Acute.
+01  Actor
+names: Braden Cortez, Susan Allen who they are: Good looking but not threateningly so, done some good theater and maybe some okay television, or at least a commercial what they want: Eternal youth; they see younger types getting their parts now resonance: Sanguine (enthusiastic about their latest part, always late to auditions like now)
+02  Anarchist
+names: Jon Bailey, Faye Diaz who they are: Got a black bandana handy in case the protest breaks out, got some leaflets to urge you to protest
+what they want: Revolutionary change; the system 
+is rigged, and worse, it's lousy resonance: Choleric (passionate about their cause, loves to break windows to fuck the Man)
+03  Artist
+names: Charles England, Ludwika Chmielewska who they are: Spattered with paint or dust or whatever they work in, headed for another opening for someone less talented what they want: Liquor, because the free wine at the opening will suck resonance: Sanguine (inspired by the night, gonna pull some art groupies at this opening for sure)
+04  Assassin
+names: Septimio Ramon, Li Qin who they are: "Assassin" sounds so glamorous, compared to "kills innocent, usually weaker, people for money"
+V I C T I M S
+what they want: To change employers, get some bigger jobs maybe really make real change in the world resonance: Sanguine (always hyper-aware of surroundings, full of endorphins from working out)
+05  Baller
+names: Stephen Wilcox, Helen Johnson who they are: Wearing old school Jordans because respect, headed to or from a game, street or league
+what they want: To win resonance: Choleric (a good competitor always competes)
+06  Bartender
+names: Roman Sawicki, Phang Phan
+who they are: Loose shirt open over bar T-shirt, off shift but not for long, or maybe just on break what they want: Better shifts, because tips and 
+sleep are nice, so they've heard resonance: Phlegmatic ("Hands always under control, you're going to tell me anyway so I might as well look like I care.")
+07  Bass Player
+names: Jerry Kasmarek, Kelly Rodriguez who they are:Carrying a fucking bass guitar because Declan can't be arsed to come get them what they want: Someone who can write better lyrics than fucking Declan
+resonance: Melancholy ("Just stay in the background and do your job.")
+08  Bike Messenger
+names: Ben Ketchum, Chan Chiu who they are: In a fucking hurry, get the gig, get the tip, get through this intersection, coke don't pay for itself
+what they want: Their friends' approval, maybe with coke or coke-inspired cleverness resonance: Choleric (bikes hard, hates all cars and the assholes who drive them)
+09  Biker
+names: Donte Mitchell, Angie Kim who they are: Leathers and hair and fuck you, this 
+STO RY T E L L E R' S TO O L K I T  
+chain isn't a fucking fashion accessory though it does look pretty rad
+what they want: To ride out of this shitburg resonance: Choleric (it's the gang for life, and fuck everyone else)
+10  Budding Capitalist Youth
+names: Zach Krantz, Maddie Fox who they are: "Wanna buy this candy? It's for my school."
+what they want: To move up, make a deal with the truck dude, and leave all their good-for-nothing friends behind in the dust
+resonance: Sanguine (gonna be young and smarter than everyone forever)
+11  Burglar
+names: Roger Reed, Vicki Pedroia who they are: On their way to - or possibly from - a break-in
+what they want: Not to be looked at right this minute
+resonance: Choleric ("Other folks just hold my nice things for me until I can take them")
+12  Bus Driver
+names: Kevin Handler, Renee Forde who they are: Just a steering wheel in a uniform to you people
+what they want: To be a poet -, they surely could with all the things they've heard on this job resonance: Melancholy (reading a Russian novel about someone who also can't understand their family)
+13  Busker
+names: Sam Martin, Linda Porter who they are: Playing this guitar or this overturned plastic tub or doing Michael Moonwalk for the passing masses
+what they want: One fucking twenty just fucking once would be nice
+resonance: Phlegmatic (people are just faces with small bills attached)
+14  Cabbie
+names: Mohammed Mersal, Li An Phan who they are: Driving at night, stopping for most people because they know how racist other cabbies can be
+what they want: To make enough to bring their fiancé over from the old country, this city is cold but there's opportunity here at least resonance: Melancholy (went to university in the old country, you know)
+15  Car Thief
+names: Brian Umberto, Tina Byrom who they are: On their good days, they're fast not furious
+what they want: The local team to stop sucking resonance: Phlegmatic (boosting's just a job, jobs pay for Netflix and beer)
+16  City Worker
+names: Jarrod Casiano, Helen Cooke who they are: Reflective vest and hard hat, setting out orange cones for time and a half overtime what they want: An excuse to sit down and take some weight off
+resonance: Choleric ("You gotta push back or you get pushed to the ground.")
+17  Clergy
+names: George Okasha, Elizabeth Park who they are: Heading out to late-night services or just locking up the church or mosque or synagogue what they want: A sign that this isn't just empty platitudes
+resonance: Melancholy (if the Almighty does exist, that may actually be even worse)
+18  Clipboard Nuisance
+names: Alex Komerko, Rita Cintron who they are: Bright T-shirt and bright smile and dead eyes
+what they want: Utopia, or failing that just a minute of your time
+resonance: Sanguine ("It feels so good to be working for real change, you know?")
+
+19  Club Kid
+names: Lee Pan, Heather Salinas who they are: Going out tonight, gonna dance, gonna pull, gonna score, gonna do it all again tomorrow what they want: Either get laid or dance trying resonance: Sanguine ("Actually I don't even need molly, I just love this scene so much")
+20  Coach Driver
+names: Don Ellard, Merced Verdugo who they are: Drives the horse-drawn coach around the park or through Old Town for tourists and lovers what they want: The past to come alive, you know, when things were romantic resonance: Phlegmatic ("Don't spook the horse. Aww isn't he sweet, he brought flowers!")
+21  Commuter
+names:  Eligio Galvez, Gina Truesdell who they are: Heading home finally after that idiot Chaffee kept them two hours over to solve his fuckup what they want: To remember to get cat food on the way home
+resonance: Phlegmatic (cats know best, just sleep through the bullshit)
+22  Construction Worker
+names: James Rawlins, Loana Guevara who they are: You'd think the way this city is falling apart there'd be more jobs for someone who builds things, wouldn't you? what they want: To know what happened to their sister, she just vanished while they were at work resonance: Melancholy (still miss her, but you can't live in what might be)
+23  Conventioneer
+names: Nathan Edwards, Clemmie Claire who they are: In from out of town for this big showdown at the convention center, still wearing their lanyard like a dork what they want: To cheat on their spouse resonance: Melancholy (after a while all these towns look the same)
+
+
+26  Dancer
+names: Damian del Arroz, Rhonda Wallace 
+who they are: Some people call 
+stripping sex work, but it's just show biz except better paid in general what they want: Something long-term, maybe romantic but maybe professional, something permanent you know? resonance: Sanguine (still got their looks and get good tips from the regulars)
+27  Delivery
+names: Willard Burrough, Yu Tsao who they are: Holding a plastic bag full of plastic cartons, looking at their phone map what they want: To get this over with resonance: Choleric (hate customers, hate cooks, hate managers most of all)
+28  Dog Walker
+names: Justin Kucharski, Elaine Ardoin who they are: Is it their dog or someone else's? It's a very good boy, so of course it's barking at you, you monster what they want: To be an actor, that's really what they do, this other thing is just part time resonance: Sanguine (dogs know best, just be happy to be out and seeing stuff)
+29  Doorman
+names: Joe Collins, Rosie Davis who they are: Standing outside the hotel or apartment building in this maroon coat, smiling at everyone who looks like they make more than they do what they want: A celebrity sighting, once they saw Mia Farrow resonance: Sanguine ("Oh, I've had way worse jobs.")
+30  Drug Dealer
+names: Nikodem Petrovsky, Ashley Robinson who they are: Your best friend, "Of course I can hook you up, yeah I know a guy." what they want: A reliable 
+way to move the stuff; got a line on a big shipment but it's above their pay grade resonance: Phlegmatic (business is business, no hard feelings)
+31  Drunk
+names: Vic Evans, Jordan Quezada who they are: Sloppy staring, untucked clothes, distant affect, strong smell of whiskey what they want: To find their way home, ideally without losing their phone again resonance: Melancholy (alcoholic and just beginning to figure that out)
+32  Emergency Medical Technician
+names: Bob Lovejoy, Huyan Cao who they are: Driving or riding 
+V I C T I M S
+in the ambulance, saving lives and taking insurance records, a valkyrie in scrubs what they want: To save 
+everyone, every single one, can't let another one die too young, gotta do better! resonance: Choleric (passionate about saving lives, angry about idiots risking theirs)
+33 Escort
+names: Antony Marzak, Juliet Cafferty who they are: A sex worker who mostly does in-call business now. They have a website and everything, and are thinking of trying to get into cam work for the slow nights. what they want: To stay off the streets. They've done that and hated it. resonance: Choleric (angry at lousy johns, passionate about their work for favored clients)
+34  Fan
+names: Doug Wendel, Phillis Jewell
+who they are: Standing in line for the movie or concert or politician they love, or just come back from seeing them what they want: To be right on the internet as a way of connecting with the admired one resonance: Choleric ("Why don't people appreciate this thing I love correctly?")
+35  Film Maker
+names: Valenty Duda, Kathleen Villa who they are: Scouting for 
+STO RY T E L L E R' S TO O L K I T  
+their next piece, maybe shooting some B-roll what they want: The perfect 
+location, the perfect face resonance: Sanguine (the best part of the film is this part, when it's all potential and nobody has fucked it up yet)
+36  Firefighter
+names: Artie Edison, Kinga Kaminski who they are: On their way to or from a fire or hanging out by the station chewing tobacco because smoking causes fires what they want: Enough sleep, maybe this weekend resonance: Choleric (really passionately in love with their current 
+partner who they haven't seen in a week) 37  Foodie
+names: Rennie Gober, Jill Belgrave who they are: Waiting in line for this chic Asian fusion bistro, or on their phone checking Yelp, or walking home from a great night with the perfect wine what they want: Bragging 
+rights, to be the one who discovered this place or this flavor first resonance: Sanguine (who can be in a bad mood in a world with wine in it)
+38  Foreign Tourist
+names: Tomorlin Sadamba, Beya Bayiha
+who they are: Wherever your 
+city is, they are Not From Here, and boy does it show what they want: To speak their language and be understood resonance: Choleric ("The food here is way worse than home and the people are so rude." )
+39  Ghoul
+names: Baal Acosta, Ila Santecristo
+who they are: Not your ghoul, but you can see the tattoos peeking out from under their shirt collar, and smell their carrion breath what they want: Vitae, maybe yours resonance: Sanguine (full of blood and love for the Master or for Freedom From Master)
+40  Goth
+names: Rook Stormcrow, Ravyn Cazares who they are: Hey, the nineties called, they want their look back - but on second thought, you wear 
+it so well they'll let you keep it for now what they want: Their grand-
+mother's lost heirloom, sold in a weak moment to pay rent resonance: Melancholy (it's not just a pose, it's called paying attention to the city around you)
+41  Hacker
+names: Jose Taylor, Linda Ling who they are: The laptop bag over their shoulder looks distressed but their glasses look designer new. They're carrying Red Bull on their way back to the loft to game.
+what they want: A new exploit resonance: Phlegmatic (people will never get good at security, which is just a fact of life like gravity)
+42  Has-Been
+names: Sean Xavier Lacey, Beverly Coffler-Murdoch who they are: They were a local hero - hit the winning run, saved that kid, homecoming royalty - but now they don't even get the "do I know you" as much as they used to
+what they want: One more shot resonance: Melancholy (remem-
+bering the past is self-defeating but it's better than thinking about the future)
+43  Hustler
+names: Orian Murrin, Diane Kim who they are: Just doing it to get by for now. "What is it? What do you got?" Always shaking hands, always making calls. what they want: A hookup, of whatever kind resonance: Phlegmatic ("Hate the players, not the game.")
+44  Influencer
+names: Eric Gilmore, Anitra Jackson
+who they are: They look great on Instagram, sound fun on YouTube, or do that thing on that one platform you barely look at but three million people somehow follow them on it what they want: A selfie angle that works with their chin resonance: Sanguine (be the meteor not the dinosaur, bitches)
+45  Jogger
+names: Lam Vau, Peggy Hodges who they are: Gotta keep the Fitbit fed, get those steps in, good for your core, one more block and 
+
+hydrate
+46  Junkie
+names: David Atwood, Gatty 
+Rivera
+
+STO RY T E L L E R' S TO O L K I T  
+resonance: Phlegmatic 
+(everything is just something heavy to lift when you think about it)
+49  Librarian
+names: Lei Tsao, Felicia Price
+who they are: If the library is 
+still open, they're still there; if it's closed, they're on their way home from somewhere even more boring than home what they want: The sweet embrace of death
+resonance: Melancholy (nobody 
+cares)
+50  Lineman
+names: Diego Chavez, Nancy Michalski
+who they are: Working for the phone company or the power company, up on the pole or waiting in the truck what they want: Kids, they're not getting any younger resonance: Choleric (big fan of boxing, MMA, wrestling, anything like that)
+51  Local Character names: Robbie Woo-Woo, Go-Go Annie
+who they are: It's more fun if we all act like the person in the unwashed sports jersey with the weird hair and the crazy musical instrument and the infectious chant is a "local character" not a 
+"borderline schizophrenic."
+what they want: Their mom to come back from the dead, the world has been kind of meaningless since she passed resonance: Sanguine (manic phase)
+52  Loner
+names: Meade Killeen, Catherine Olzewska
+who they are: Chin and hands plunged into their coat, looking down, walking with purpose; other people instinctively move away from them a little bit what they want: To be left alone resonance: Choleric (they know they aren't their best self around others - anger issues and sarcasm)
+53  Longshoreman
+names: Martino Romero, Sue Ramsay
+who they are: Working on the docks or the train yards, running cranes and unloading containers what they want: To make ends 
+meet, maybe if the union weren't so useless resonance: Melancholy (hate rats and see too many of them at the docks)
+54  Lover
+names: Ron Lawson, Nikki Calogera
+who they are: Entwined with their lover, surrounded by the beautiful city that exists just for this perfect person that they love what they want: Their lover to be happy resonance: Sanguine (true love and pheromones make the best cocktail)
+55  Mugger
+names: Matt Hoffer, Joya Maldonado who they are: "Just give me your phone and your wallet and nobody has to get hurt". what they want: "Your fucking phone and wallet are you fucking deaf?!" resonance: Choleric ("I will fucking cut you if you don't hand over your fucking phone and wallet right fucking now!")
+56  Nightcrawler
+names: Paul Sutton, Stephanie Grahame who they are: TV stations need footage, papers need photographs, the nightcrawler gets them by looking for the worst or hottest (or both) thing happening right now and shooting it what they want: Scandal and 
+sex, or blood and sex resonance: Sanguine (hopped up on speed)
+57  Nurse
+names: Douglas Vought, Oanh Phan who they are: Just got off a eighteen-hour shift, didn't even bother changing out of scrubs what they want: Someone to 
+believe in: a true healer or a true friend
+resonance: Phlegmatic (dead tired)
+58  Office Drone
+names: Phil Symanski, Kate Williams
+who they are: A cube monkey, a desk warmer, a sarariman, "Full benefits and business casual on 
+Fridays, so who's laughing now?" what they want: To play video games resonance: Phlegmatic (you can't change the world, but the company matches your 401K contribution)
+59  Panhandler
+names: Wladislaw Zajacki, Shirley Osborn
+who they are: Homeless or just shabby, sitting on the corner or standing in the doorway, fast food cup in hand
+what they want: A dollar
+resonance: Melancholy (people 
+just don't care)
+60  Pickpocket
+names: Tommy Walchak, Keely Lloyd
+who they are: Standing just a little too close on the train or outside the theater, looking at their phone in one hand
+what they want: Your wallet resonance: Phlegmatic (calm is key, nobody sees you)
+61  Plainclothes Detective
+names: Bastiano Ybarra, Mary Hawthorne
+who they are: Called in on this one, drinking coffee and wincing but not at the coffee what they want: To close this case resonance: Phlegmatic ("At least it's not as bad as that one thing on the West Side.")
+62  Poet
+names: Derek Hayward, Kerri Jaimes
+who they are: Horn rims and 
+black sweater, living on a grad school stipend or a barista's salary and, more importantly, on Rimbaud or Hughes or Walcott
+what they want: Immortality resonance: Melancholy (words are the way we see the world so the right words make all the difference)
+63  Private Eye
+names: Joe Allen, Luann Huitt who they are: Sensible shoes and nondescript suit jacket, a good camera in a bad case, following someone or something what they want: This cold to go away so they can breathe for once resonance: Melancholy (nobody looks good through a viewfinder, not even the one taking the picture)
+64  Promoter
+names: Adelio Lugo, Mauli Farhas who they are: Standing outside the club to get people to come in, "It's theme night, this band is gonna blow up. Cover is twenty bucks but you get a free drink."
+what they want: Attention resonance: Choleric (passionate about this act, and angry that Ricki won't let them book their own night it's just Tuesdays for Christ's sake)
+65  Punk
+names: Cal Bremer, Jessie Newberg who they are: Mohawk for life, motorcycle jacket, boots, if it's not loud enough it's not good enough what they want: To get clean; the junk dulls the sound resonance: Choleric (angry at corporate sellouts and phonies and haters and Dad)
+66  Ranter
+names: Rick Aycoke, Dawn Boies who they are: They have a message to deliver, much of it written in block capitals on poster board or shouted at their fellow passengers what they want: One person 
+to really listen and believe in the danger
+resonance: Choleric ("THEY ARE ALL AROUND US AND USE US FOR FUEL")
+67  Reporter
+names: Achilles Marinakis, Chan Henley who they are: Just asking some questions, trying to get this straight for the readers or viewers or my editor what they want: The inside story resonance: Phlegmatic ("I know something bigger is going on, I can feel it, see hints of a big pattern.")
+68  Salesman
+names: Paul Carson, Stacey Thomas
+who they are: "Off the job right now, but sure if you want I could tell you about this great opportunity."
+what they want: The commis-
+sion resonance: Melancholy (can't get a break on this treadmill but can't get off)
+69  Sanitation Worker
+names: Timoteusz Dambrowski, Hilda Moreno who they are: Driving the garbage truck or wrestling the overflowing cans
+what they want: A strike resonance: Melancholy (the 
+
+workers are alienated from their labor, especially if their labor is carrying garbage)
+70  Scalper
+names: Juan Hughes, Marisa who they are: Middle-aged and unmemorable but they got tickets if you want them. "Oh, you've got tickets? Want to sell them?"
+what they want: Money
+resonance: Phlegmatic (tickets tickets tickets who needs tickets got four together)
+71  Scenester
+names: Celestyn Moultrie, Tania Ruiz Khan
+who they are: Dressed just outside of extra, ready for that thing you don't even know exists, hitting the scene and drinking it in what they want: To catch the wave of the next thing resonance: Phlegmatic (seen it before done better in Brooklyn, used to like it before it got popular)
+72  Security Guard
+names: Elias Pawlak, Medea Cepeda
+who they are: Uniform, badge, flashlight, patterns, flat feet
+what they want: A new job, maybe real police work resonance: Melancholy (I can't believe I miss Afghanistan fuck my life)
+73   Shoeshine
+names: Ronnie Shields, Beneditta Sobczak who they are: Sitting on the 
+
+step outside the building or the subway entrance, got their rags and brushes and polish and professional patter
+what they want: To stay warm resonance: Sanguine (people watching is its own reward, really)
+74  Skater
+names: Justin Davis, Viola Gore who they are: Skateboard punk with whipcord muscles and a drawl, but killer moves what they want: Avoid the enemy gang resonance: Sanguine (the skating high is even better than skating high) 75  Slayer names: Ronald Duchesne, Xin Qian Shen
+who they are: They know you exist, and they know you can be killed because they've done it once. By daylight, while it slept, but still.
+what they want: To kill the 
+creature that killed their little brother resonance: Melancholy (life isn't bad enough already, there has to be fucking bloodsuckers in it)
+76  Small Timer
+names: David Sarver, Kimmy Baez
+who they are: The medallions really pop against that track suit, but that eager shark smile brings the whole look together. what they want: A score that gets them in resonance: Melancholy (always thinking of an angle and scared of bigger fish)
+77  Sob Story
+names: Jack Stapleton, Charlotte 
+Abrams who they are: "Man, I just need to get home. I lost my phone. I got mugged." Something about the flat delivery undermines the tragedy, or that's what you tell yourself anyway. what they want: One fat rube to buy the short con tonight resonance: Phlegmatic ("I think my delivery might be getting a little flat.")
+78  Sorcerer
+names: Miles Gastelum, Gina Trejo
+who they are: They know magic 
+exists, and they have begun to explore it and tame it to their will. Whether they wear a trench coat or a sari, you know them by their staring eyes. what they want: An artifact; 
+and all their research and rituals have pointed them to this city. resonance: Melancholy (long study of dubious lore plays hell with your personal life)
+79  Stoner
+names: Jud Hopkins, Linda Ross
+who they are: Amiable expression, a little chunky, kind of going through the motions on the job if that's where they are
+what they want: Doritos, man resonance: Phlegmatic ("This is the good shit, man, really chill.")
+80  Store Clerk
+names: Gilbert Franklin, Alia Kapoor who they are: Nametag and store logo, thousand-yard stare, 
+V I C T I M S
+still young or well past it.
+what they want: Sex, probably, but anything exciting to happen resonance: Phlegmatic ("If this was an important job, they'd pay me better.")
+81  Street Cleaner
+names: Simon Hedrick, Maria Puente who they are: Wearing city (or private cleaning company) coveralls and pushing a broom or one of those big hoses attached to a water truck what they want: A real rain to 
+wash this filth off the streets
+resonance: Melancholy (different day, same shit, literally)
+82  Street Magician
+names: Kumal Kang, Alicia McKee
+who they are: Just a little bling to distract you, "nothing up my sleeve," draws a crowd of people with nothing better to do
+what they want: To be on TV resonance: Sanguine (this beats real work)
+83  Street Preacher
+names: Clayton Abraham Miller, Sherry Ellis who they are: Wearing a suit that's seen better days, proclaiming the will of the Almighty through a handheld microphone in a calm but intense tone what they want: To save these sinners resonance: Choleric (can they not hear the Word of the Almighty?)
+
+STO RY T E L L E R' S TO O L K I T  
+84  Streetwalker
+names: Jimi Harkness, Anael Almanza who they are: Standing on the corner, wearing tight and trashy but not looking happy with it; they have a pimp who has a temper
+what they want: Bad things for their hotter rival on the next street over
+resonance: Phlegmatic (if you don't care, it doesn't matter)
+85  Surveillance Technician
+names: Raj Oberoi, Cornelia DiSanto who they are: Sitting in the van listening to the bug or watching the feed, waiting for it to go down. If they're not Second Inquisition, they're three degrees or fewer of separation from them, and they need to check in regularly.
+what they want: Solid evidence, on tape resonance: Phlegmatic (the key to surviving a stakeout is to keep an even keel, it's a marathon not a sprint)
+86  Teacher
+names: Eugene Marks, Twyla Rittenhouse who they are: Maybe an adjunct hoping to make tenure track, maybe still idealistic about public education, maybe just paying off those loans for ever. what they want: Right now, a one-night-stand to forget about work
+resonance: Melancholy ("Missed my shot at tenure, kids today are idiots when they're not animals, I didn't go to school for thirteen years and not learn how compound interest works.")
+87  Tourist
+names: Feng Peng, Jennifer Pereira who they are: Visiting your wonderful city to see that one thing that everyone knows but also maybe see the real city you know? what they want: More time here, this city is great resonance: Sanguine (new places feed lovely daydreams)
+88  Trader
+names: Randy Townsend, Katie Palomino
+who they are: Good suit or ugly blazer, but on their phone making a deal that could buy your whole wardrobe a million times over. what they want: Venture capital, so they can make some real money
+resonance: Sanguine (master of the universe, just that the universe hasn't got the word yet)
+89  Trucker
+names: Chuck Duffy, Liz McCoy who they are: Walking back to the truck, stretching their legs, or behind the wheel and taking a shortcut what they want: Go home, see the kids resonance: Phlegmatic (too soon to take more Adderall)
+90  Attractive Stranger
+names: Lucas Griffith, Celina Merrill who they are: A crisp shirt buttoned-down just the right amount and with the sleeves rolled up to just below the elbows or long hair and a summer dress which is indecently short but still seems classy because of the buttons. what they want: To enjoy the night air, meet their date, and sushi that they don't have to pay for themselves. resonance: Sanguine (it's a beautiful evening and they are better than everyone else who's out in it)
+91  Undercover Cop
+names: Bob Posada, Teresa Kane who they are: Dressed a little too straight to be crooked, but those eyes ain't right what they want: To get this song out of my head resonance: Sanguine (nothing better than a badge and a gun and a world of fuckheads to use them on)
+92  Unemployable
+names: Norman Robinson, Aline Dellinger who they are: They used to have a trade, but it got obsolete or moved to India or Mexico or somewhere even cheaper. They're past forty and on the dole or unemployment or nothing, depending on the country. At least cheap beer is still cheap.
+what they want: To find out the real story of how 
+20
+
+
+
+
+
+100 Sites
+This section presents some typical sites that could be open at night in your city and your chronicle. Sites appear alphabetically. The Supporting Cast given in each entry represent the sort of people who hang out in the site at night; the Storyteller can alter their characteristics or their Resonances to suit their own story. 
+   Apply hunting test modifiers or change them to suit the method employed - a Difficulty reduction to seduction styles is not going to help you if you take your blood by force.
+   Sites can and should have an impact on the game mechanics. The Other Systems entry provides some suggestions toward that end.
+01  Airport
+supporting cast: Hurried passengers, Over-attentive security personnel, flight attendants power-napping
+resonance(s): Choleric other systems: Any chase through security suddenly adds +3 to Difficulty. Larceny tests to smuggle items through security begin at Difficulty 5; it's often easier to suborn airport personnel such as janitors.
+02  Alley
+supporting cast: A student hurrying home, a lurking mugger, a gruff-looking man starting a barrel fire
+resonance(s): Melancholic other systems: This site provides half the normal blood when hunting (rounded down).
+03  Amusement Park
+supporting cast: Families having fun, lovers getting rooked by carnies on the midway, lost kids, pickpockets, costumed characters; depending on the park, maybe even a hipster nouveau freak show
+resonance(s): Sanguine
+other systems: A good place to lose a tail; shadowers lose two dice from their pools to follow a target through here.
+04  Animal Shelter
+supporting cast: Overworked veterinarian, idealistic volunteer care worker, cynical animal services catcher, stray dogs and cats 
+S I T E S
+resonance(s): Melancholy
+other systems: A good source of less-than-rigorously-tracked medical supplies, tranquilizers, and such. Rather than the human Resonance(s) above, Kindred can take twice the result when hunting for animal blood. Kindred lose dice from their Stealth pools equal to 5 minus their Animal Ken.
+05  Army Surplus Store
+supporting cast: A rotating cast of college-age clerks, preppers buying more duct tape and bulk protein bars, punks looking for boots, Boy Scouts excitedly discussing an upcoming hike.
+resonance(s): Choleric
+other systems: Your one-stop shop for all kinds of useful gear from chemical glow sticks to pre-sharpened stakes; make scrounging tests at Difficulty -2.
+06  Art Gallery
+supporting cast: Owner and buyer, curious tourists, extremely wealthy dabblers, too-cool artist, grumbling critic, art students prepping for their exams, Toreador investor 
+resonance(s): Roll: 1-7: Phlegmatic, 8-0: Choleric other systems: Hunting tests involving Social skills here are at -1 to Difficulty, as the audience opens itself up to the strange and new and dangerous.
+07  Asylum
+supporting cast: Brutal orderlies, dangerously experimental (or negligent) psychiatrists, and a host of mentally ill sufferers.
+resonance(s): Phlegmatic (Choleric in the full moon) other systems: Malkavians get a one-die bonus to Resonance effects from the patients'  blood.
+08  Bar, After-Hours
+supporting cast: After-hours drinkers, punks on a bender, junkie looking to score, curious "scene tourists," predatory dealer 
+resonance(s): Melancholy
+other systems: It's deliberately dark and gross here; Most hunting tests take -1 to Difficulties. Everyone's blood here has alcohol or something stronger in it (Core p. 310).
+
+
+
+
+
+other systems: Quick gambling system: Bet a dot of Resources and roll Wits + Awareness vs. a pool one die larger (No Willpower or Blood Surge or other monkey business). If you win, gain an extra dot; if you win at a cost, stand pat and owe a minor Boon to someone dangerous. If you lose, lose the dot. On a total failure, lose the dot and incur a major debt to someone unpleasant.
+19  Cathedral
+supporting cast: Priests and vergers, Midnight Mass parishioners and choir, a genuflecting janitor, a sketching tourist.
+resonance(s): Sanguine other systems: There's no such thing as "holy ground." It's probably just nerves that explain why all vampires lose one die from their Physical pools while inside the cathedral. However, the cathedral registries and archives provide a two-dice bonus to Investigation involving the history of the city.
+20  Chemical Plant
+supporting cast: Third-shift workers in a good year, truck drivers and forklift operators, very underpaid security guards, mobsters disposing of corpses resonance(s): Choleric other systems: Alchemical scrounging tests here take -1 to Difficulty. Drinking from longterm workers here can have very weird side effects indeed: heavy-metal poisoning (Up to 5 Superficial damage that slowly chelates out; only mend one point per night, and only after going to 
+Hunger 5) is only the least of them.
+21  Church, Decaying
+supporting cast: Verger forgotten by nearly everyone, Cainite Heresy cultists looking for a meeting place, elderly widowers visiting the churchyard resonance(s): Melancholy other systems: With barely anyone around, Difficulties to find prey at all are at +2.
+22  Church, Storefront
+supporting cast: Enthusiastic immigrant or lower-class congregation, preacher obsessed by hellfire or social justice or both, church ladies keeping the neighborhood together
+resonance(s): Sanguine other systems: Someone here has True Faith. Suborning the preacher gives you a dot of Influence in the district as long as you keep them.
+23  Chop Shop
+supporting cast: Grease monkeys, car thieves with new merch, buyers in a hurry
+resonance(s): Choleric other systems: Make a quick Wits + Streetwise test and drive off in a new car, guaranteed clean plates and papers, for just $20,000 cash, minus two grand per success. 
+24  Cinema, Arthouse
+supporting cast: Film-buff projectionist, concession and ticket sales staff, old-fashioned movie-lovers, introverted homeless man, rowdy teenage potheads, cult movie fanatics, artsy film students, 
+really intense fans of F.W. Murnau, 
+F.W. Murnau
+resonance(s): Depends on the film playing: Horror (Melancholy), Drama (Phlegmatic), Martial Arts or Western (Choleric), Comedy or Erotic (Sanguine) other systems: Non-fatal and subtle hunting test Difficulties at -1 in the flickering dark
+25  City Hall
+supporting cast: Janitors and cops within smelling distance of retirement, a dedicated civil servant doing outreach for the party, one of the mayor's comelier aides likewise occupied
+resonance(s): Phlegmatic other systems: Characters with more Influence than their opponents add the difference to their Social contest pools here.
+26  Clinic supporting cast: Concerned 
+doctor, friendly nurse, genial receptionist, busy lab technician, worried patients resonance(s): Phlegmatic, but roll: 1: Choleric, 0: Sanguine
+other systems: No bagged blood 
+here, sadly, although there is a blood work lab with a samples fridge. Hunting here isn't easy because there's very little unwatched space: +2 to Difficulty.
+27  Coal Tunnels
+supporting cast: None living resonance(s): None other systems: Those who know them can navigate around the downtown core from basement to basement unseen by anyone. Navigate with Wits + Survival; emerge unseen with Dexterity + Larceny or Stealth (depending on the robustness of the locks on the forgotten coal doors).
+28  Coffee Shop
+supporting cast: Coffee-guzzling students, energetic counterculture intellectuals, people killing time before the movie, hardworking staff
+resonance(s): Sanguine (thanks to a combination of caffeine and branded rebellion)
+other systems: Vampires drinking heavily caffeinated blood can add one more die to Wits with a Blood Surge than normal, at the cost of one point of Willpower.
+29  Community College
+supporting cast: Students of varying ages, smokers of varying tobaccos on the porches, homeless people sleeping on the quad, security guard looking busy resonance(s): Roll: 1-6: Melancholy, 7-9: Phlegmatic, 0: Sanguine other systems: Kindred who enroll at community college can buy new Specialties or Skill dots (if the Storyteller agrees the subject can be taught here) at two-thirds the regular cost. The library adds one die to Academics, Craft, and Technology research dice pools.
+30  Consulate
+supporting cast: Quiet, welldressed security guards, a junior diplomat sending a fax home, an irritated local lawyer, guests and hosts at a reception for a foreign dignitary or cultural figure resonance(s): Phlegmatic other systems: With the right two-dot Contact here, you can get a fake passport (one-dot Mask) once per story.
+31  Courthouse
+supporting cast: Night clerks, judges, ambulance-chasing lawyers, defendants and bailiffs, janitors with a government pension and surprising political connections
+resonance(s): Choleric other systems: Court records reveal much, especially the true working of power in the city; add one die to relevant research pools (e.g., Investigation and Politics) and two dice to such pools touching on local Ventrue affairs.
+32  Crematorium
+supporting cast: Crematory operator on the take
+resonance(s): None other systems: Add two dice to pools for Intimidation tests of Kindred you brought here.
+33  Diner supporting cast: Short-order cook, waitresses, drunks and stoners, college kids on dates or in packs taking up booths, truckers and businessmen passing through
+resonance(s): Phlegmatic other systems: Hunting tests at +1 Difficulty inside, but once you pick the target inside you take a -1 Difficulty just outside.
+34  Dojo
+supporting cast: Students of various ages, hardcore instructors, wannabe kickboxer, devoted Olympic hopeful
+resonance(s): Choleric
+other systems: Hunting tests here are at +3 Difficulty, given the dojo's focus on situational awareness and defensive thinking
+35  Drug Lab
+supporting cast: Naked flunkies weighing and cutting the stuff, lots of itchy guards, drug chemist
+resonance(s): Sanguine other systems: To hunt regularly in this site, you pretty much have to run it, but a one-time hit that leaves no witnesses ... The equipment here can be dual-purposed by thin-blood alchemists with Fixatio.
+36  Drug Market,  Open-Air
+supporting cast: Customers of every variety. Suspicious lookouts watching new arrivals. Overly-curious tourists. Groups of dealers jealously guarding their spots. Undercover cops sizing the place up for a raid.
+resonance(s): Sanguine
+other systems: To hunt from 
+this site, you have to be able to protect it - from the cops, and from rival crime bosses who want to "protect" it. 
+37  Drugstore
+supporting cast: Night-shift pharmacist, bored cashiers, stock clerk sneaking a joint, dawdling or stoned or just out-of-it customers
+resonance(s): Phlegmatic other systems: If the alchemist can get into the pharmacy, their scrounging tests are at -2 Difficulty. It's not easy to do in a 24-hour drugstore, though.
+38  Electronics Shop supporting cast: Shady proprietor, bargain-hunting shoppers, fuming former customers, bored staff, time-pressed trucker making a delivery, nervous thief attempting to sell off his haul.
+resonance(s): Choleric other systems: This is where stuff that "fell off the truck" fell. A full-fledged fence operation substitutes Streetwise for Technology, and has no customers, being strictly business-to-business.
+39  Factory, Abandoned
+supporting cast: Rats, ragged stray dog, unwholesome vagrant, curious teenage wanderers 
+resonance(s): Animal other systems: This place is seriously scary; add two dice to pools for Dread Gaze or any other attempt to terrify a target.
+40  Forex Office
+supporting cast: Traders playing the markets on the day side of the world, custodians, office manager looking at porn resonance(s): Depends on the markets; make an Intelligence + Finance test (Difficulty 4) to pick a Resonance or roll: 1-3: Melancholy, 4-7: Phlegmatic, 8-0: Sanguine other systems: If the office is open plan, +1 to stealth-based hunting test Difficulties; if it's a cubicle farm, -1 to stealth-based hunting test Difficulties.
+41  Gas Station
+supporting cast: Night-shift attendant, truckers in dirty clothes, carloads of curfew- breaking teenagers, bored young gangbangers, stray dogs that don't back down, middle-aged motorists comparing printed-out internet directions with the big plastic-shielded map inside the store, a filthy bastard taking all the used-car magazines a yuppie DUI-waiting-to-happen trying to act casual resonance(s): Roll: 1-8: Phlegmatic, 9-0: Choleric other systems: Stealth-based hunting tests at -1 to Difficulty everywhere except right out under the lights by the pumps.
+42  Gun Shop
+supporting cast: Regular customers in red or camo baseball caps, preppers, off-duty cops, frightened homeowners and gentrifiers resonance(s): Roll: 1-7: Phlegmatic, 8-0: Choleric other systems: In some cities, this place is inconveniently far out in the suburbs and only stays open for a very short time after sunset. 
+43  Gym
+supporting cast: Fitness buffs, insomniac travelers, night-shift trainers funding a steroid habit. In old-school gyms: proper boxers and their trainers and their shifty handlers.
+resonance(s): Choleric other systems: Increase all hunting Difficulties by +1.
+44  Hardware Store
+supporting cast: Do-it-your-
+selfers, decorators, contractors with big orders and no time, 
+professional sellers, harried manager
+resonance(s): Phlegmatic other systems: Whatever you need for that upcoming Craft test, get it here.
+45  Hematology Lab
+supporting cast: Hematology 
+chief, phlebotomists, security guard, sleeping graduate student, overworked researcher, clinical technician catching up on backlog
+resonance(s): Phlegmatic other systems: Add one die to pools for alchemical scrounging tests. The blood is much better inventoried; attempts to steal or tamper with it undetected are at +3 to Difficulty.  This lab might be in a hospital, a pharmaceutical corporate facility, or a university. Its records might reveal a great deal to characters who can puzzle them out with Medicine or Science (Biochemistry), but it's an extended test at best.
+46  Homeless Shelter
+supporting cast: Homeless people of all kinds, church workers talking in a foreign language, an earnest liberal trying to impress an activist resonance(s): Phlegmatic
+other systems: All hunting 
+tests at +1 to Difficulty, but tests to disguise the cause of death take -2 to Difficulty.
+
+
+
+score of medical blood instead of Blood Bonus (three times the hunting test margin in blood bags). Scrounging pharmaceuticals is possible here; scrounging medical waste takes -2 to Difficulty.
+48  Hotel, Five-Star supporting cast: Obsequi-
+ous concierge staff, efficient maid, eager busboys and porters, world-weary bartender, wildly partying rich kids, repressed conventioneers, unscrupulous businessman on assignment, celebrity on a press junket, reclusive billionaire resonance(s): Roll: 1-6: Phlegmatic, 7-0: Sanguine; Manipulation other systems: Superb security imposes a +3 Difficulty on tests to hunt the guests without pre-existing social ties or contacts; hunting the staff only takes +1 to Difficulty. Resources •••• to stay here, Resources ••••• for a suite.
+49  Jail supporting cast: Corrupt or uncaring guards, gang bangers, drunks sleeping it off, people held for months without trial because they can't make bail, prison preachers resonance(s): Roll: 1-2: Phlegmatic, 3-7: Melancholy 8-0: Choleric other systems: Getting access to the jail population means either getting sent to jail, which is not ideal for Kindred, or bribing a guard, which is ideal for Kindred.
+50  Junk Shop
+supporting cast: Saul the old white-haired proprietor, his grand-nephew for the heavy lifting, long-haired music snobs rifling through the old record collections, hipster interior decorators, suburban antique fans, old fella in suspenders and army jacket wandering the aisles, junk shop cat
+resonance(s): Phlegmatic other systems: Old postcards and letters may hold forgotten secrets, idiosyncratic books and magazines have informative paragraphs, trinkets might be talismans. Characters can look for something significant amidst the junk (Resolve + Awareness; Difficulty 4) and apply their margin to the next Mental test, assuming they pay Saul $10 for the whatever-it-was. Scrounging tests at -1 Difficulty; Larceny tests at -2 Difficulty, but stealing from Saul is bad luck, everyone says so...
+51  Kebab Stand
+supporting cast: Manic or hard-bitten operator, drunk clubbers, hungry panhandler, good Samaritan bringing coffee resonance(s): (From customers) Roll: 1-6: Choleric, 7-0: Sanguine other systems: In some cities, this stand sells hot dogs or pizza by the slice or tacos. Whatever the food, this is a great place to hear gossip about the club or latenight scenes; add one die to Social test pools to get the word on the street.
+52  Laundromat
+supporting cast: Disgruntled owner, small-time drug dealer selling where it's warm, single moms doing four loads while their kids sleep, drunks and creeps.
+resonance(s): Melancholy other systems: Feeding here in the over-bright fluorescents usually takes +2 to Difficulty, but this can be a good place to acquire later targets walking home with their arms full.
+53  Lawyer's Office
+supporting cast: Partners, associates, paralegals and clerks desperately researching an upcoming case, IT guys compiling at night during off-peak server hours, cleaning staff
+resonance(s): Choleric other systems: What's the difference between a ghoul and a lawyer? One drinks your blood and promises to do what you say, and the other is a ghoul. Hunting in the office takes a +1 to Difficulty, if at all possible.
+54  Library supporting cast: Avuncular librarian, necking teens, empty-eyed university students doped up on caffeine pills and fear, sleepy homeless person.
+resonance(s): Phlegmatic other systems: Libraries provide additional dice to pools for research tasks within their subject area. The size of the bonus depends on the library's quality: an underfunded branch library might just add one die to one or two Specialties of Academics, while a top university library adds a die (or even two) to any Specialty of Academics, Medicine, Politics, or Science.
+55  Limousine Service
+supporting cast: Owner; his 
+sister-in-law, the dispatcher; drivers waiting for assignment; two full-time mechanics; a receptionist handling sales
+resonance(s): Phlegmatic other systems: The cars have tinted windows, fully polarized in back. You could sleep in the back seat of one in broad daylight, assuming you trusted the driver.
+56  Loan Shark's "Office"
+supporting cast: Loan shark, a couple of leg-breakers, a desperate looking client
+resonance(s): Melancholy other systems: As with many criminal sites, only by muscling into the racket above the loan shark can you hunt on this site. 
+57  Mansion, Modernist
+supporting cast: Resentful scion of a fortune; obsessed architects on tour; socialite giving a reception and their guests, counting the minutes until they can leave.
+resonance(s): Phlegmatic other systems: Hosting a reception or other function there adds one dot to Influence with the arts community in town for the next month.
+58  Medical Center
+supporting cast: Professionally friendly appointment secretary, nurses projecting calm, murmuring specialists, nervous patients holding it together resonance(s): Phlegmatic other systems: Accessing medical records from an internal terminal here takes a -1 to Difficulty. The online inventory system for bagged blood is state-of-the-art; Manipulation + Technology to use it to mark extra blood as "expended." Difficulty 5 test (Difficulty 3 for a character with Medicine); gain twice the margin in free (but processed) blood bags each week.
+59  Morgue
+supporting cast: The night medical examiner and his bullied and tyrannized staff, janitors who have literally seen it all, a few morgue attendants who get high on their break on the loading dock. Oh, and lots of corpses.
+resonance(s): Melancholy other systems: Add two to dice pools for Investigation into mysterious deaths. Many Rituals and alchemical formulae involve parts of corpses; a Contact here would pay for themselves in Minor Boons.
+60  Mosque
+supporting cast: Patient imams and eager religious students, immigrants joyful at keeping some connection to Allah in this cold land, radical weirdos, secret police infiltrating badly or ham-handedly 
+"liaising."
+resonance(s): Sanguine
+other systems: Non-Muslim 
+vampires lose a die from all Social tests here. Muslim vampires suffer the "holy ground" effect as the Cathedral, p. XX.
+61  Motel, Dire
+supporting cast: Three-time loser on the run, drunken manager, undercover narc, organized crime 
+S I T E S
+lowlife, gang members, bad-luck prostitute, nomad vampire resonance(s): Melancholic
+other systems: Most hunting 
+tests take -1 to Difficulty; it would be even easier if half the people here weren't hiding out from someone.
+62  Museum
+supporting cast: Curator work-
+ing late, non-profit reception full of bored swells and nervous grant applicants, thief casing the joint, underpaid security guard hired because the insurance company insisted. Mummies.
+resonance(s): Phlegmatic other systems: Add two dice to any pool for researching the museum's Specialty. Some museums may also grant one bonus die to Occult pools.
+63  Nightclub, Edgy
+supporting cast: Edgelord impresario, bouncers and bartenders and cocktail waitresses, scenesters looking for the next wave, drug dealers, lifestyle journos looking to kill the next wave, kids trying to look cool or get laid, creeps trying to lay people way too young for them, poaching Kindred
+resonance(s): Sanguine
+other systems: Most hunting tests take -1 to Difficulty here. If you're not part of whichever scene this club represents, lose one die from Social test pools here.
+64  Nightclub, Exclusive
+supporting cast: Hedge fund managers, Instagram influencers, high-end escorts resonance(s): Sanguine
+
+
+
+likewise, genuine opera nerds in the nosebleed seats, stagehands, musicians resonance(s): Depends on the opera: Wagner (Choleric), Mozart or Italian (Sanguine), Russian (Melancholic), modern (Phlegmatic) other systems: Stealth-based hunting backstage or right after the show takes a -1 to Difficulty. Hunting during the performance is just rude, but a quick sip-and-lick takes -1 to Difficulty.
+69  Park
+supporting cast: Teens out on a clandestine drunk, softball players gearing up for a game, dog owners drinking coffee and watching their pets 
+resonance(s): Sanguine other systems: Gangrel add one die to pools for hunting tests here.
+70  Parking Garage
+supporting cast: Aggravat-
+ed drivers looking for a spot, speed-walking office workers headed for home, half-inebriated clubbers heading out to party 
+resonance(s): Phlegmatic other systems: Hunting only produces half the regular amount, due to scarcity of prey.
+71  Pawn Shop
+supporting cast: Proprietor, desperate junkie with a broken camera, deal-hunting shopper out of their element, old man from the neighborhood, sad case hoping to buy back a wedding ring, twitchy small-time thief 
+resonance(s): Phlegmatic other systems: See the Electronics Shop (p. XX) and the Junk Shop (p. XX); characters with the right Contacts can get handguns here.
+72  Photo Studio
+supporting cast: Seen-it-all pro photographer, flamboyant hair and makeup crew, grumbling production assistants, eager photo apprentice, stoic models, modeling agent, micro-managing advertising executive, concerned client, rental office receptionist resonance(s): Roll: 1-6: Phlegmatic, 7-0: Sanguine other systems: Each individual studio in the building can be sealed and totally darkened. Just saying.
+73  Police Station supporting cast: Unhelpful desk sergeant, about half a shift worth of patrolmen, two homicide detectives working late, motorpool gearheads, vagrants in holding cells
+resonance(s): Choleric other systems: Getting access to the police intranet provides a two-dice bonus to pools for characters looking into crimes (knowingly or unknowingly) in this city, going back a century.
+74  Power Plant
+supporting cast: Maintenance engineers keeping the old dynamos turning, cops on a drive-by, picketers (if it's a nuclear plant)
+resonance(s): Phlegmatic other systems: Securely fenced with monitored gates, but lots of empty space and hiding places. Attempts to break in take +1 to Difficulty, but once inside hunting tests take -1 to Difficulty.
+S I T E S
+75  Private Club
+supporting cast: The rich and powerful, posh and poised valets, drunken club members, nervous and overwhelmed guests in borrowed blazers, white-gloved waiters leaning over with folded hands to take requests, blue-coated doormen sneaking a smoke outside the front door, white-jacketed kitchen staff joking in a foreign language 
+resonance(s): Phlegmatic other systems: If one of the characters is Ventrue, then the coterie are the "legacy" and members here. If none of the characters is Ventrue, the Blue Bloods won't take kindly to lesser breeds trying to drink from their cellar. Characters who are 
+(or can pose as) members or social peers of members can make a Charisma or Manipulation + Etiquette test (Difficulty 4) and gain a pool of extra dice equal to their margin. They can spend dice from that pool on Politics or Finance tests for the next three nights or until they run out of dice.
+76  Private Investigator's Office
+supporting cast: The owner and head detective, busy investigators, a bored client waiting for help, a secretary brewing coffee 
+resonance(s): Melancholic other systems: Access to the P.I.'s skip-tracing software adds one die to Investigation dice pools.
+77  Psychic Parlor
+supporting cast: The psychic, credulous séance circle, college kids on a lark
+STO RY T E L L E R' S TO O L K I T  
+resonance(s): Phlegmatic other systems: If the psychic has real gifts, resolve them as Resolve + Awareness. Difficulty equals twice the level of the Auspex power the psychic attempts to replicate.
+78  Railway Station
+supporting cast: Business travelers or late commuters, tourists carrying overstuffed backpacks, porters and ticket clerks and conductors and maintenance staff. resonance(s): Random (1-3: Phlegmatic; 4-6: Melancholy; 7-8: Choleric; 9-0: Sanguine) other systems: Probable Second Inquisition presence means tests to cover up a kill suffer +2 to Difficulty. That said, a hunting roll timed for a train's arrival takes -1 to Difficulty.
+79  Restaurant, Buffet
+supporting cast: Family diners, manager, service staff, cashiers, cooks, cleaning crew resonance(s): Phlegmatic other systems: Alchemists' scrounging tests for bulk foodstuffs and condiments are at -2 to Difficulty here.
+80  Restaurant, Fashionable supporting cast: Steely-eyed maître d'hôtel, sycophantic waiters, magnificent hostesses, smooth bartender, agonizingly overworked kitchen assistants, wealthy partiers, faux-humble celebrity chef, taciturn valets
+resonance(s): Sanguine other systems: If you don't have Resources ••• you can't even afford to look at the wine list, and if you don't have Influence ••• or Fame ••• you can't get a reservation. Thus, you add two dice to pools for Social tests on your mortal guests here, and one die to those tests on Kindred susceptible to fashions.
+81  Roller Rink
+supporting cast: Kids skat-
+ing, rollergirls, a teacher and his class on a field trip. During derby matches: a heavy crowd of hipsters and extreme sports followers. 
+resonance(s): Sanguine other systems: During derby matches, see Night Game, Core p. 326.
+82  Shantytown Under the Overpass
+supporting cast: Homeless folks, filthy junkies, mentally ill wanderers
+resonance(s): Melancholy
+other systems: All hunting 
+tests are -2 to Difficulty; the blood may be contaminated with God knows what; characters looking for Renfields with nothing to lose need look no further
+83  Slaughterhouse
+supporting cast: Immigrant 
+line workers, floor foreman, lots of livestock, butchers and restaurateurs coming to get the good cuts before sunrise resonance(s): Choleric or Animal other systems: If hunting for animal blood, take double the result. The slaughterhouse may be long empty, in which case treat it as the Abandoned Factory (p. XX).
+84  Squat
+supporting cast: Activists, trust-fund radicals, that one band that's going to break big in two years, their heroin dealer's side piece, random junkies.
+resonance(s): Sanguine other systems: Hunting tests at -1 Difficulty; fifty percent chance the victim has heroin or oxy in their blood.
+85  Stadium
+supporting cast: On game 
+night: 80,000 of them (see Night Game, Core p. 326). Other nights: maintenance and custodial staff echoing in the cavernous halls, coaches watching films.
+resonance(s): Choleric other systems: Post-hypnotically Dominated athletes, coaches, or team staff make excellent carrier pigeons for messages to other cities.
+86  Subway Station, Busy
+supporting cast: Maintenance 
+crews, energetic buskers, sorry-state panhandlers, busy commuters, pickpockets, late-night theater crowd, weekend club kids, track rats, hopeless case contemplating suicide resonance(s): Random (1-3: Phlegmatic; 4-6: Melancholy; 7-8: Choleric; 9-0: Sanguine) other systems: Pushing someone under a train involves Strength + Stealth vs. their Wits + Dexterity; if you win by 3 or more they go under the train for all the Aggravated damage (or 4d10 Superficial damage for Kindred).
+
+
+
+STO RY T E L L E R' S TO O L K I T  
+
+S I T E S
+
+STO RY T E L L E R' S TO O L K I T  
+50 Omens
+These omens appear in random order, as befits the exhalations of fate. They can mean anything the Storyteller wishes. Even traditionally unfavorable omens might be lucky for those already cursed, after all.
+01-02: An unusual number of dead insects tend to be found on the windowsills of the characters' haven.
+03-04: An old woman appears in a surprising place, like a nightclub bathroom, and tells a character she can see they are a good person.
+05-06: Every fortune cookie the character sees for a week contains the same message: Ahoy bass no crying north Mrs Dash 1000 Kim.
+07-08: A mound of fake fingernails appears on a grave the character visits.
+09-10: A coyote and a corgi fight to the death in plain sight, but nobody seems to remark on it.
+11-12: Letters burn out on the neon VACATION sign at the travel agent, spelling CA I N
+13-14: One of the character's old prescription medicine bottles (with their name on the label) resurfaces in an alchemist's lab.
+15-16: A human spontaneously combusts while watching Nosferatu at a revival house.
+17-18: Three lights appear in the top of the old lighthouse, where the single lamp burned out decades ago.
+19-20: A flock of pigeons begins to settle on the statue in the park but suddenly panics and explodes off it. It remains clear of birds for three days.
+21-22: The sun sets with a green flash.
+23-24: Right after the rain, the soot on the side of the factory building looks like a clawed hand print.
+25-26: A character starts dreaming of dragonflies.
+27-28: The license plate on the car that nearly hit one of the characters, the temperature today, a sale price in the carniceria: the number of the player who hit the home run in the bar the coterie just entered; the characters just cannot get away from the number 38.
+29-30: A black cat goes out of its way to avoid crossing the coterie's path.
+31-32: The thornbush in the park suddenly sprouts massive overgrowth and red flowers out of season.
+33-34: A spider spins a cobweb completely covering the character's resting place in one day.
+35-36: In the crowd flocking to or from a music festival three girls wearing fake flowers in their hair sing a song from the character's youth. Its lyrics may hold a message of prophecy.
+37-38: The pattern of play in the chess games in the park eerily echoes the Primogens' maneuvers for power in the city.
+39-40: The sodium lights in the parking lot flare up and flicker out in a specific, repeating rhythm.
+41-42: Raccoons run amok in the alley behind a fried chicken joint, scattering the small bones in a very suggestive pattern.
+43-44: A seagull drops a shoe with a human foot inside it onto the roof of Elysium.
+45-46: A mass of ants crawl all over the place where the character was sitting, ignoring the rest of the bench.
+47-48: A man with a jackhammer has three reflective yellow stripes on his jacket and seems to be across the street from the character, no matter where they are in the city. Other city worker jackets only have one yellow stripe.
+49-50: A Roman denarius appears in the fountain after the character throws in a regular coin.
+51-52: Everywhere the character looks at two windows, the one on the left always has the blind all the way down. The manifestation ends when they hear a gunshot.
+53-54: An albino squirrel catches its foot in the grating over the subway nearest the character's haven.
+55-56: The names on a wedding cake thrown in the dumpster behind an office building are the same as the names of the character and their former spouse.
+57-58: A wasp's nest strongly resembles City Hall.
+59-60: At midnight the cloud over the tallest skyscraper in the city looks like a man impaled on that building.
+61-62: The King of Hearts (the "suicide king") keeps showing up: in a three-card monte game, the first card dealt in a poker game, embroidered on a gang banger's jacket, when a man named King commits suicide and it makes the headline crawl.
+63-64: Everywhere the character goes, they see groups of pregnant women with baby carriages; one woman in particular wears a bright red scarf.
+65-66: The dryers in the character's building begin spinning widdershins instead of clockwise.
+67-68: Ask the player what shoes their character is wearing right now. They see the identical pair hanging over a power line. This happens for three nights in a row.
+69-70: Three nights in a row the character hears a tour guide describe a murder to a crowd of tourists. The last time, the tour guide was speaking Chinese except for the murder description.
+71-72: Three nights in a row, a different red SUV (a Lincoln Navigator) stops to mistakenly pick up the character in a rideshare mixup.
+73-74: A rat runs across the character's path with a discarded heroin syringe stuck in its throat, then dies.
+75-76: The character's haven casts no shadow in the full moon.
+77-78: For one night, whenever the character sees a clock face or compass rose outdoors, they feel a strong urge to look into the direction of the wind.
+79-80: Salt shakers near the character keep falling off tables or tipping over or being dropped by wait staff.
+81-82: The keys to the characters' havens rust suddenly, and perhaps unnaturally quickly.
+83-84: Wires, chains, cables, clotheslines, and the like in the characters' field of vision tend to hang in double loops, like handcuffs.
+O M E N S
+85-86: A sensationalistic YouTuber reports that a wolf at the zoo gave birth to a two-headed cub.
+87-88: The weird colors in the night sky over the chemical plant match those in the aura of a stranger.
+89-90: When viewed from the rooftop or on Google Maps, the pattern of street construction around the character's haven makes a large "N" (or a pair of "V's" or some other interesting symbol).
+91-92. The character sees a magazine burning in a fire in a garbage drum; the cover model dresses like they do.
+ 93-94: The pictures of local celebrities on the wall of the rib joint keep shifting their positions, or so it seems - the dust remains undisturbed.
+95-96: Quotations and incidents from Macbeth recur coincidentally around the character, especially Lady Macbeth's line, "who would have thought the old man to have had so much blood in him."
+97-98: The melting snow reveals a homeless man, frozen in the act of pointing toward the Prince's mansion.
+99-00: A bike messenger wipes out against a van at the same instant that a bird flies into a glass window. Both van and window have the word "CLIFF" on them.
+
+
+
+
+
+
+2
+
+3
+
+
+
+
+
+
+
+
+
+2
+
+3
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+STO RY T E L L E R' S TO O L K I T  
+
+
+
+2
+
+3
+
+
+
+2
+
+STO RY T E L L E R' S TO O L K I T  
+
+
+
+2
+
+3
+
+
+
+2
+
+STO RY T E L L E R' S TO O L K I T  
+
+
+
+2
+
+3
+
+
+
+
+
+STO RY T E L L E R' S TO O L K I T  
+
+
+
+2
+
+3
+
+
+
+
+
+
+
+
+
+2
+
+3
+
+
+
+2
+
+
+
+
+
+2
+
+3
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+

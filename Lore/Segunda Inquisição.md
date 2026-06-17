@@ -113,3 +113,6 @@ A Segunda Inquisição serve como pano de fundo poderoso para narrativas, trazen
 - **Dilemas Morais:** A destruição em massa e as traições abrem espaço para debates éticos profundos.
 
 **Nota:** O cenário da Segunda Inquisição desafia jogadores e narradores a explorar a sobrevivência em um mundo cada vez mais hostil.
+---
+
+*Ver também:* [[Lore/Camarilla]] · [[Lore/Kindred]] · [[Lore/Anarquistas]] · [[Mecânicas/Perigos do Sangue]] · [[Lore/Londres]]

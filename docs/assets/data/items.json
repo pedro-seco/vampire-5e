@@ -1,0 +1,16 @@
+[
+  {"name":"Unarmed","description":"Punches, kicks, grapples. Deals Superficial damage to vampires (halved before applying to track).","bonus":"—"},
+  {"name":"Knife / Dagger","description":"Concealable blade. Superficial to vampires. A sharpened stake through the heart (Diff 3, Str + Weaponry) causes Torpor.","bonus":"+1 die"},
+  {"name":"Stake","description":"Wooden stake. Only effective through the heart (Diff 3). Causes Torpor — not Final Death. Incapacitates until removed.","bonus":"+1 die"},
+  {"name":"Club / Baton / Baseball Bat","description":"Blunt weapon. Deals Superficial damage to vampires. Easy to improvise.","bonus":"+1 die"},
+  {"name":"Sword / Machete","description":"Edged weapon. Superficial to vampires. Decapitation is possible (Messy Critical vs. immobilised, Diff 3 = Final Death).","bonus":"+2 dice"},
+  {"name":"Axe / Heavy Weapon","description":"Slow but powerful. Superficial to vampires. Same decapitation rules as sword.","bonus":"+2 dice"},
+  {"name":"Pistol","description":"Handgun. Superficial to vampires. Effective and concealable.","bonus":"+2 dice"},
+  {"name":"Shotgun","description":"Superficial to vampires. −1 Difficulty at close range. Loud; draws attention.","bonus":"+3 dice"},
+  {"name":"Rifle","description":"Long-range. Superficial to vampires. Requires setup; invisible from distance.","bonus":"+3 dice"},
+  {"name":"Fire","description":"Torches, Molotov, flamethrower. Deals Aggravated damage to vampires and mortals. Triggers Terror Frenzy (Composure + Resolve, Diff 3).","bonus":"Aggravated"},
+  {"name":"Sunlight (Direct)","description":"Direct sunlight. Aggravated damage each turn. Rate varies by BP and time of day (Storyteller discretion). Triggers Terror Frenzy.","bonus":"Aggravated"},
+  {"name":"Light Armor","description":"Ballistic vest or armored jacket. Provides 1 die of armor against physical attacks. Wearable under clothing.","bonus":"1 die armor"},
+  {"name":"Heavy Armor","description":"Tactical or military armor. Provides 2 dice of armor. Imposes −1 die to Dexterity-based rolls due to bulk.","bonus":"2 dice armor"},
+  {"name":"Shield","description":"Riot or military shield. Adds 1 die of armor in melee. Imposes −1 die on attacks.","bonus":"1 die armor"}
+]

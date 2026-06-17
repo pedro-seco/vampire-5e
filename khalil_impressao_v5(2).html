@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Khalil Mansour — Ficha</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Cinzel+Decorative:wght@700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background:var(--bg); min-height:100vh; margin:0; }
+:root {
+  --bg:#0a0704; --bg-col:#130e08; --bg-dsc:#1a1109;
+  --txt:#e0d4bc; --txt-s:#a09070; --txt-m:#6a5a40; --txt-e:#4a3820;
+  --acc:#8b1a1a; --gold:#c9a030;
+  --brd:#241808; --brd-s:#3a2510;
+}
+.page {
+  max-width:1200px;
+  margin:0 auto; padding:32px 40px;
+  background:var(--bg);
+  font-family:'EB Garamond',Georgia,serif;
+  color:var(--txt); font-size:14px; line-height:1.5;
+}
+.page-sep {
+  max-width:1200px; margin:0 auto;
+  border-top:2px solid var(--acc); padding-top:40px; margin-top:40px;
+}
+
+/* HEADER */
+.hname { font-family:'Cinzel Decorative','Cinzel',serif; font-size:20px; letter-spacing:3px; color:var(--txt); line-height:1.2; margin-bottom:5px; }
+.hdeco { height:2px; background:var(--acc); margin-bottom:5px; position:relative; }
+.hdeco::before,.hdeco::after { content:'◆'; position:absolute; top:-6px; color:var(--acc); font-size:11px; }
+.hdeco::before { left:0; } .hdeco::after { right:0; }
+.hmeta { display:flex; flex-wrap:nowrap; gap:0; border-bottom:1px solid var(--brd); padding-bottom:7px; margin-bottom:8px; align-items:flex-end; }
+.hmi { padding:0 6px; border-right:1px solid var(--brd); }
+.hmi:first-child { padding-left:0; }
+.hlbl { font-family:'Cinzel',serif; font-size:14px; letter-spacing:2px; text-transform:uppercase; color:var(--gold); display:block; margin-bottom:2px; white-space:nowrap; }
+.hval { font-size:14px; color:var(--txt); white-space:nowrap; }
+.hmi-xp { margin-left:auto; border-right:none; display:flex; align-items:center; gap:5px; padding-left:4px; padding-right:0; white-space:nowrap; }
+.xp-item { display:flex; align-items:center; gap:1px; }
+.xp-lbl { font-family:'Cinzel',serif; font-size:14px; letter-spacing:2px; text-transform:uppercase; color:var(--gold); }
+.xp-box { width:56px; height:20px; border:1.5px solid var(--txt-m); }
+
+/* SECTION HEADER */
+.sh {
+  font-family:'Cinzel',serif; font-size:14px; letter-spacing:2.5px;
+  text-transform:uppercase; color:var(--acc);
+  border-bottom:1px solid var(--brd-s); padding-bottom:3px; margin-bottom:5px;
+  display:flex; align-items:center; gap:5px;
+}
+.sh::before { content:''; display:inline-block; width:2px; height:8px; background:var(--acc); flex-shrink:0; }
+.sh-tip { font-family:'EB Garamond',serif; font-style:italic; color:var(--txt-m); font-size:14px; letter-spacing:0; text-transform:none; }
+
+/* 4-COL */
+.four { display:grid; grid-template-columns:1fr 1fr 1fr 1fr; gap:12px; margin-bottom:14px; }
+.col { background:var(--bg-col); border:1px solid var(--brd); padding:7px 8px; }
+.ag-t { font-family:'Cinzel',serif; font-size:14px; letter-spacing:2px; text-transform:uppercase; color:var(--txt-m); margin-bottom:4px; }
+
+/* ATTRIBUTES */
+.ar { display:flex; justify-content:space-between; align-items:baseline; padding:4px 0; border-bottom:1px dotted var(--brd-s); font-size:14px; }
+.ar:last-child { border-bottom:none; }
+.an { color:var(--txt-s); }
+.av { font-family:'Cinzel',serif; font-size:16px; color:var(--gold); font-weight:600; }
+
+/* SKILLS */
+.sk-div { border-top:1px solid var(--brd); margin-top:6px; padding-top:5px; }
+.sr { display:flex; justify-content:space-between; align-items:baseline; padding:3px 0; border-bottom:1px dotted var(--brd-s); font-size:14px; }
+.sr:last-child { border-bottom:none; }
+.sn { color:var(--txt-s); } .sn-e { color:var(--txt-e); }
+.sv { font-family:'Cinzel',serif; font-size:16px; color:var(--acc); font-weight:600; }
+.ss { font-style:italic; color:var(--txt-m); font-size:14px; }
+
+/* ADV/FLAWS */
+.advr { display:flex; justify-content:space-between; align-items:baseline; padding:4px 0; border-bottom:1px dotted var(--brd-s); font-size:14px; }
+.advr:last-child { border-bottom:none; }
+.adv-n { color:var(--txt-s); } .flaw-n { color:var(--acc); }
+.adv-v { font-family:'Cinzel',serif; font-size:16px; color:var(--acc); font-weight:600; }
+
+/* TRACKERS */
+.trk { background:var(--bg-col); border:1px solid var(--brd); padding:12px 16px; margin-bottom:14px; }
+.tk-grid { display:grid; grid-template-columns:90px max-content 48px 90px max-content; row-gap:10px; column-gap:12px; align-items:center; justify-content:center; margin-bottom:12px; }
+.tklbl { font-family:'Cinzel',serif; font-size:14px; letter-spacing:2px; text-transform:uppercase; color:var(--acc); white-space:nowrap; text-align:right; }
+.tkboxes { display:flex; gap:3px; }
+.box { width:16px; height:16px; border:1.5px solid var(--txt); flex-shrink:0; }
+
+/* BP EXPANDED */
+.bp-panel { background:var(--bg-dsc); border:1px solid var(--brd); border-left:3px solid var(--acc); padding:7px 10px; }
+.bp-head { display:flex; align-items:center; gap:10px; margin-bottom:7px; padding-bottom:6px; border-bottom:1px solid var(--brd); }
+.bp-title { font-family:'Cinzel',serif; font-size:14px; letter-spacing:2px; text-transform:uppercase; color:var(--acc); white-space:nowrap; }
+.bp-res { font-family:'Cinzel',serif; font-size:14px; letter-spacing:1.5px; text-transform:uppercase; color:var(--txt-m); margin-left:auto; white-space:nowrap; }
+.bp-res-line { display:inline-block; width:24px; height:12px; border-bottom:1px solid var(--brd-s); margin-left:4px; vertical-align:middle; }
+.bp-cols { display:grid; grid-template-columns:1fr 1fr; gap:4px 20px; }
+.bp-row { display:flex; justify-content:space-between; align-items:baseline; padding:2px 0; border-bottom:1px dotted var(--brd-s); font-size:14px; }
+.bp-row:last-child { border-bottom:none; }
+.bp-k { color:var(--txt-s); font-size:14px; }
+.bp-v { color:var(--gold); font-weight:600; font-family:'Cinzel',serif; font-size:16px; }
+
+/* DISCIPLINES */
+.disc-two { display:block; }
+.dcol { display:block; margin-bottom:6px; }
+.dg { font-family:'Cinzel',serif; font-size:14px; letter-spacing:2px; text-transform:uppercase; color:#fff; background:var(--acc); padding:5px 12px; margin-bottom:6px; display:flex; justify-content:space-between; align-items:center; }
+.dg:not(:first-child) { margin-top:6px; }
+.dg-n { } .dg-r { opacity:.75; }
+.de { background:var(--bg-dsc); border:1px solid var(--brd); border-left:3px solid var(--acc); padding:8px 12px; margin-bottom:8px; }
+.de:last-child { margin-bottom:0; }
+.d-lvl { font-family:'Cinzel',serif; font-size:14px; letter-spacing:1.5px; color:var(--gold); text-transform:uppercase; margin-bottom:3px; }
+.d-name { font-family:'Cinzel',serif; font-size:14px; font-weight:600; color:var(--txt); margin-bottom:3px; }
+.d-pool { font-size:14px; color:var(--txt-m); font-style:italic; margin-bottom:4px; }
+.d-fam { font-size:14px; color:var(--acc); font-style:italic; margin-bottom:4px; }
+.d-desc { font-size:14px; color:var(--txt-s); text-align:justify; line-height:1.55; margin-bottom:5px; }
+.d-meta { display:flex; gap:16px; font-size:14px; border-top:1px solid var(--brd); padding-top:4px; }
+.d-ml { color:var(--txt-m); } .d-mv { color:var(--txt); font-weight:500; }
+
+/* PAGE 2 */
+.p2g { display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:10px; }
+.ce { display:flex; gap:8px; padding:7px 0; border-bottom:1px solid var(--brd); font-size:14px; }
+.ce:last-child { border-bottom:none; }
+.cn { font-family:'Cinzel',serif; font-size:16px; color:var(--acc); flex-shrink:0; width:20px; }
+.ct { color:var(--txt-s); font-style:italic; line-height:1.5; }
+.te { padding:8px 0; border-bottom:1px solid var(--brd); font-size:14px; }
+.te:last-child { border-bottom:none; }
+.tn { color:var(--txt); font-size:14px; font-weight:600; }
+.tl { color:var(--acc); font-size:14px; font-style:italic; display:block; margin-top:2px; }
+.td { color:var(--txt-s); margin-top:3px; line-height:1.6; text-align:justify; font-size:14px; }
+.three-sm { display:grid; grid-template-columns:1fr 1fr 1fr; gap:9px; margin-bottom:10px; }
+.lb { background:var(--bg-col); border:1px solid var(--brd); border-left:2px solid var(--acc); padding:10px 12px; font-size:14px; color:var(--txt-s); line-height:1.6; text-align:justify; }
+.lt { font-family:'Cinzel',serif; font-size:14px; letter-spacing:1.5px; text-transform:uppercase; color:var(--acc); margin-bottom:5px; }
+.hist { background:var(--bg-col); border:1px solid var(--brd); padding:12px 14px; font-size:14px; color:var(--txt-s); line-height:1.65; text-align:justify; margin-bottom:12px; }
+.hist-t { font-family:'Cinzel',serif; font-size:14px; letter-spacing:1.5px; text-transform:uppercase; color:var(--gold); margin-bottom:5px; }
+.na { border:1px solid var(--brd); width:100%; height:62mm; position:relative; }
+.nl { position:absolute; inset:8px; display:flex; flex-direction:column; }
+.nll { flex:1; border-bottom:1px solid var(--brd-s); }
+.nll:last-child { border-bottom:none; }
+</style>
+</head>
+<body>
+
+<!-- PAGE 1: MECÂNICA -->
+<div class="page">
+
+  <div class="hname">Khalil Mansour</div>
+  <div class="hdeco"></div>
+  <div class="hmeta">
+    <div class="hmi"><span class="hlbl">Clan</span><span class="hval">Nosferatu</span></div>
+    <div class="hmi"><span class="hlbl">Generation</span><span class="hval">9th</span></div>
+    <div class="hmi"><span class="hlbl">Predator Type</span><span class="hval">Alleycat</span></div>
+    <div class="hmi"><span class="hlbl">Faction</span><span class="hval">Anarchist</span></div>
+    <div class="hmi"><span class="hlbl">Embrace</span><span class="hval">1916 · Cairo</span></div>
+    <div class="hmi"><span class="hlbl">Languages</span><span class="hval" style="font-size:14px;">Arabic · French · Turkish<sup>1</sup> · English<sup>1</sup></span></div>
+    <div class="hmi-xp">
+      <div class="xp-item"><span class="xp-lbl">XP Total</span><div class="xp-box"></div></div>
+      <div class="xp-item"><span class="xp-lbl">XP Spent</span><div class="xp-box"></div></div>
+    </div>
+  </div>
+
+  <!-- 4 COLUNAS: Físico | Social | Mental | Adv+Flaws -->
+  <div class="four">
+
+    <div class="col">
+      <div class="sh">Physical</div>
+      <div class="ag-t">Attributes</div>
+      <div class="ar"><span class="an">Strength</span><span class="av">2</span></div>
+      <div class="ar"><span class="an">Dexterity</span><span class="av">4</span></div>
+      <div class="ar"><span class="an">Stamina</span><span class="av">2</span></div>
+      <div class="sk-div">
+        <div class="sh" style="margin-bottom:3px;">Skills <span class="sh-tip">(specialty)</span></div>
+        <div class="sr"><span class="sn">Athletics</span><span class="sv">1</span></div>
+        <div class="sr"><span class="sn">Brawl</span><span class="sv">3</span></div>
+        <div class="sr"><span class="sn-e">Craft</span><span></span></div>
+        <div class="sr"><span class="sn-e">Drive</span><span></span></div>
+        <div class="sr"><span class="sn-e">Firearms</span><span></span></div>
+        <div class="sr"><span class="sn">Larceny</span><span class="sv">2</span></div>
+        <div class="sr"><span class="sn-e">Melee</span><span></span></div>
+        <div class="sr"><span class="sn">Stealth <span class="ss">(Infiltration)</span></span><span class="sv">4</span></div>
+        <div class="sr"><span class="sn-e">Survival</span><span></span></div>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="sh">Social</div>
+      <div class="ag-t">Attributes</div>
+      <div class="ar"><span class="an">Charisma</span><span class="av">1</span></div>
+      <div class="ar"><span class="an">Manipulation</span><span class="av">3</span></div>
+      <div class="ar"><span class="an">Composure</span><span class="av">3</span></div>
+      <div class="sk-div">
+        <div class="sh" style="margin-bottom:3px;">Skills <span class="sh-tip">(specialty)</span></div>
+        <div class="sr"><span class="sn">Animal Ken</span><span class="sv">2</span></div>
+        <div class="sr"><span class="sn-e">Etiquette</span><span></span></div>
+        <div class="sr"><span class="sn-e">Insight</span><span></span></div>
+        <div class="sr"><span class="sn-e">Intimidation</span><span></span></div>
+        <div class="sr"><span class="sn-e">Leadership</span><span></span></div>
+        <div class="sr"><span class="sn-e">Performance</span><span></span></div>
+        <div class="sr"><span class="sn-e">Persuasion</span><span></span></div>
+        <div class="sr"><span class="sn">Streetwise</span><span class="sv">1</span></div>
+        <div class="sr"><span class="sn">Subterfuge</span><span class="sv">3</span></div>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="sh">Mental</div>
+      <div class="ag-t">Attributes</div>
+      <div class="ar"><span class="an">Intelligence</span><span class="av">2</span></div>
+      <div class="ar"><span class="an">Wits</span><span class="av">3</span></div>
+      <div class="ar"><span class="an">Resolve</span><span class="av">2</span></div>
+      <div class="sk-div">
+        <div class="sh" style="margin-bottom:3px;">Skills <span class="sh-tip">(specialty)</span></div>
+        <div class="sr"><span class="sn-e">Academics</span><span></span></div>
+        <div class="sr"><span class="sn">Awareness</span><span class="sv">3</span></div>
+        <div class="sr"><span class="sn-e">Finance</span><span></span></div>
+        <div class="sr"><span class="sn">Investigation</span><span class="sv">2</span></div>
+        <div class="sr"><span class="sn-e">Medicine</span><span></span></div>
+        <div class="sr"><span class="sn-e">Occult</span><span></span></div>
+        <div class="sr"><span class="sn">Politics</span><span class="sv">1</span></div>
+        <div class="sr"><span class="sn-e">Science</span><span></span></div>
+        <div class="sr"><span class="sn-e">Technology</span><span></span></div>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="sh">Advantages</div>
+      <div class="advr"><span class="adv-n">Contacts (Criminal)</span><span class="adv-v">3</span></div>
+      <div class="advr"><span class="adv-n">Haven</span><span class="adv-v">1</span></div>
+      <div class="advr"><span class="adv-n">Linguistics<sup>1</sup></span><span class="adv-v">2</span></div>
+      <div class="advr"><span class="adv-n">Mask</span><span class="adv-v">2</span></div>
+      <div class="advr"><span class="adv-n">Resources</span><span class="adv-v">2</span></div>
+      <div class="advr"><span class="adv-n">Status (Anarch)</span><span class="adv-v">2</span></div>
+      <div class="sh" style="margin-top:8px;">Flaws</div>
+      <div class="advr"><span class="flaw-n">Adversary (Sire)</span><span class="adv-v" style="color:var(--acc);">2</span></div>
+      <div class="advr"><span class="flaw-n">Dark Secret</span><span class="adv-v" style="color:var(--acc);">1</span></div>
+      <div class="advr"><span class="flaw-n">Enemy</span><span class="adv-v" style="color:var(--acc);">1</span></div>
+    </div>
+
+  </div>
+
+  <!-- TRACKERS -->
+  <div class="trk">
+    <div class="tk-grid">
+      <!-- Row 1: Health + Willpower -->
+      <span class="tklbl">Health</span>
+      <div class="tkboxes">
+        <div class="box"></div><div class="box"></div><div class="box"></div>
+        <div class="box"></div><div class="box"></div>
+      </div>
+      <div></div>
+      <span class="tklbl">Willpower</span>
+      <div class="tkboxes">
+        <div class="box"></div><div class="box"></div><div class="box"></div>
+        <div class="box"></div><div class="box"></div>
+      </div>
+      <!-- Row 2: Humanity + Hunger -->
+      <span class="tklbl">Humanity</span>
+      <div class="tkboxes">
+        <div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div>
+        <div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div>
+      </div>
+      <div></div>
+      <span class="tklbl">Hunger</span>
+      <div class="tkboxes">
+        <div class="box"></div><div class="box"></div><div class="box"></div>
+        <div class="box"></div><div class="box"></div>
+      </div>
+    </div>
+
+    <!-- BLOOD POTENCY EXPANDED -->
+    <div class="bp-panel">
+      <div class="bp-head">
+        <span class="bp-title">Blood Potency</span>
+        <div class="tkboxes">
+          <div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div>
+          <div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div>
+        </div>
+        <span class="bp-res">Resonance:<div class="bp-res-line"></div></span>
+      </div>
+      <div class="bp-cols">
+        <div>
+          <div class="bp-row"><span class="bp-k">Blood Surge</span><span class="bp-v">+2 dice</span></div>
+          <div class="bp-row"><span class="bp-k">Damage Mended (Per Rouse Check)</span><span class="bp-v">2 Superficial</span></div>
+          <div class="bp-row"><span class="bp-k">Discipline Power Bonus</span><span class="bp-v">None</span></div>
+        </div>
+        <div>
+          <div class="bp-row"><span class="bp-k">Rouse Check Re-Roll</span><span class="bp-v">Level 2 and below</span></div>
+          <div class="bp-row"><span class="bp-k">Bane Severity</span><span class="bp-v">2</span></div>
+          <div class="bp-row"><span class="bp-k">Feeding Penalty</span><span class="bp-v">Animal/bagged: no Hunger</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- DISCIPLINES -->
+  <div class="sh">Disciplines</div>
+  <div class="disc-two">
+
+    <!-- LEFT: ANIMALISM -->
+    <div class="dcol">
+      <div class="dg"><span class="dg-n">Animalism</span><span class="dg-r">●●●</span></div>
+
+      <div class="de">
+        <div class="d-lvl">Animalism ●</div>
+        <div class="d-name">Bond Famulus</div>
+        <div class="d-desc">The vampire feeds an animal with vitae over three consecutive nights, making it a ghoul famulus. They form a permanent mental link with the creature and can use Feral Whispers on their famulus for free. Only one famulus may be maintained at a time. While the famulus lives, the vampire senses its general direction, distance, and emotional state, and whether it is in danger.</div>
+        <div class="d-fam">Famulus: spider swarm — nested within the body, undetectable except by X-ray.</div>
+        <div class="d-meta">
+          <span><span class="d-ml">Cost </span><span class="d-mv">Free</span></span>
+          <span><span class="d-ml">Duration </span><span class="d-mv">Permanent</span></span>
+        </div>
+      </div>
+
+      <div class="de">
+        <div class="d-lvl">Animalism ●●</div>
+        <div class="d-name">Feral Whispers</div>
+        <div class="d-pool">Pool: Manipulation + Animalism (persuade) · Charisma + Animalism (summon)</div>
+        <div class="d-desc">Establishes two-way communication with animals. Simple communication and basic commands require no roll. To persuade an animal to perform a task: Manipulation + Animalism, Difficulty 3 (simple instinctual task) to 6 (suicidal task). To summon animals of a type: Charisma + Animalism, Difficulty based on scarcity in the area. Margin of success determines how many appear; a critical win summons nearly all of that type in the immediate area.</div>
+        <div class="d-meta">
+          <span><span class="d-ml">Cost </span><span class="d-mv">1RC · Free on famulus</span></span>
+          <span><span class="d-ml">Duration </span><span class="d-mv">One scene</span></span>
+        </div>
+      </div>
+
+      <div class="de">
+        <div class="d-lvl">Animalism ●●● · Amalgam: Obfuscate 2</div>
+        <div class="d-name">Unliving Hive</div>
+        <div class="d-desc">Extends all Animalism powers to insect swarms, treating a swarm as a single creature. The vampire can bind the swarm as their famulus and nest it within their own body, undetectable by any means except X-ray. In combat: Health 5, 8 dice to resist attacks, Superficial damage from Brawl and Aggravated from fire or insecticide. Uses: −2 dice to a swarmed target's pools; +1 to +3 dice to Intimidation depending on insect type and the victim's phobias.</div>
+        <div class="d-meta">
+          <span><span class="d-ml">Cost </span><span class="d-mv">No additional cost</span></span>
+          <span><span class="d-ml">Duration </span><span class="d-mv">Passive</span></span>
+        </div>
+      </div>
+    </div>
+
+    <!-- RIGHT: OBFUSCATE + CELERITY + POTENCE -->
+    <div class="dcol">
+      <div class="dg"><span class="dg-n">Obfuscate</span><span class="dg-r">●●</span></div>
+
+      <div class="de">
+        <div class="d-lvl">Obfuscate ●</div>
+        <div class="d-name">Silence of Death</div>
+        <div class="d-desc">Eliminates all sounds emanating from the vampire's person — footsteps, rustling clothing, rattling equipment. Anyone who could only detect the vampire through hearing cannot do so. Does not muffle sounds produced deliberately, such as striking objects or slamming doors — applies only to sounds arising naturally from the person. Only Sense the Unseen (Auspex ●) can detect the silenced vampire.</div>
+        <div class="d-meta">
+          <span><span class="d-ml">Cost </span><span class="d-mv">Free</span></span>
+          <span><span class="d-ml">Duration </span><span class="d-mv">One scene</span></span>
+        </div>
+      </div>
+
+      <div class="de">
+        <div class="d-lvl">Obfuscate ●●</div>
+        <div class="d-name">Unseen Passage</div>
+        <div class="d-desc">The vampire becomes functionally invisible while in motion. As long as they do not emit strong odors or make sounds above a whisper, the power works automatically. Fails automatically if activated while being directly and actively observed. Only Sense the Unseen (Auspex ●) can pierce this concealment.</div>
+        <div class="d-meta">
+          <span><span class="d-ml">Cost </span><span class="d-mv">1 Rouse Check</span></span>
+          <span><span class="d-ml">Duration </span><span class="d-mv">One scene · until detected</span></span>
+        </div>
+      </div>
+
+      <div class="dg" style="margin-top:6px;"><span class="dg-n">Celerity</span><span class="dg-r">●</span></div>
+
+      <div class="de">
+        <div class="d-lvl">Celerity ●</div>
+        <div class="d-name">Rapid Reflexes</div>
+        <div class="d-desc">The vampire suffers no penalty for lack of cover when targeted by Firearms attacks — they can attempt to dodge bullets and arrows even without cover. The vampire also gains one free minor action per turn, worth up to 2 dice, which can be used to reload, draw a weapon, move a short distance, or perform any similarly quick action.</div>
+        <div class="d-meta">
+          <span><span class="d-ml">Cost </span><span class="d-mv">Free</span></span>
+          <span><span class="d-ml">Duration </span><span class="d-mv">Passive</span></span>
+        </div>
+      </div>
+
+      <div class="dg" style="margin-top:6px;"><span class="dg-n">Potence</span><span class="dg-r">●</span></div>
+
+      <div class="de">
+        <div class="d-lvl">Potence ●</div>
+        <div class="d-name">Lethal Body</div>
+        <div class="d-desc">The vampire's unarmed attacks can deal Aggravated damage to mortals, if they choose. Additionally, ignores 1 level of armor per dot of Potence when making unarmed attacks.</div>
+        <div class="d-meta">
+          <span><span class="d-ml">Cost </span><span class="d-mv">Free</span></span>
+          <span><span class="d-ml">Duration </span><span class="d-mv">Passive</span></span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+
+<div class="page-sep"></div>
+<!-- PAGE 2: NARRATIVA -->
+<div class="page">
+
+  <div class="hname" style="font-size:20px;margin-bottom:3px;">Khalil Mansour</div>
+  <div class="hdeco" style="margin-bottom:5px;"></div>
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;">
+    <span style="font-style:italic;color:var(--txt-m);font-size:9.5px;">"O Dragomano" · "Ibn al-Zill" · "Oberon-7"</span>
+    <span style="font-family:'Cinzel',serif;font-size:12px;letter-spacing:2px;color:var(--acc);text-transform:uppercase;">Aspectos Narrativos</span>
+  </div>
+
+  <div class="p2g">
+    <div>
+      <div class="sh">Convicções</div>
+      <div class="ce"><span class="cn">I</span><span class="ct">"Nunca deixe rastros."</span></div>
+      <div class="ce"><span class="cn">II</span><span class="ct">"Morto não conserta nada."</span></div>
+      <div class="ce"><span class="cn">III</span><span class="ct">"Desconfie de quem te pede o que não faria com as próprias mãos."</span></div>
+    </div>
+    <div>
+      <div class="sh">Touchstones</div>
+      <div class="te">
+        <div class="tn">Peter Hollis <span style="color:var(--txt-m);font-size:8.5px;font-weight:400;">†1953 · Espião · MI6</span></div>
+        <span class="tl">→ Convicção I: "Nunca deixe rastros."</span>
+        <div class="td">Analista do MI6 que viu o sobrenatural durante uma operação de Khalil em 1916. Não foi silenciado — foi desacreditado. Viveu de 1919 até 1953 em instituições psiquiátricas, descrevendo com precisão cirúrgica coisas que ninguém acreditou. Khalil o visitou uma vez, em 1931. Não voltou.</div>
+      </div>
+      <div class="te">
+        <div class="tn">Hassan el-Amin <span style="color:var(--txt-m);font-size:8.5px;font-weight:400;">Mortal · Empresário</span></div>
+        <span class="tl">→ Convicção II: "Morto não conserta nada."</span>
+        <div class="td">Dono de rede de bares e restaurantes. Fachada logística involuntária — não sabe que é. Khalil o conhece há décadas sob identidades diferentes. Hassan acredita ter muita sorte nos negócios. Representa o custo humano invisível de um século de operações.</div>
+      </div>
+      <div class="te">
+        <div class="tn">Edmund Ashford <span style="color:var(--txt-m);font-size:8.5px;font-weight:400;">Kindred · Tremere · Abraçado 1915</span></div>
+        <span class="tl">→ Convicção III: "Desconfie de quem te pede..."</span>
+        <div class="td">Orientalista britânico. Se conheceram no Cairo em 1916, ambos no Arab Bureau por razões distintas. Se reencontraram décadas depois e reconheceram algo imediato — a textura de quem foi vivo naquela época. Troca operacional duradoura: ocultismo por operações de campo. O que nenhum diz em voz alta é que quando o outro desaparece por anos sem notícia, nota.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sh">Referência Mecânica</div>
+  <div class="three-sm">
+    <div class="lb">
+      <div class="lt">Clan Bane — Repulsive (Severity 2)</div>
+      Todos os Nosferatu contam como tendo o Flaw Repulsive (−2 dados em rolls sociais baseados em aparência sem Obfuscate ativo). Qualquer tentativa de se disfarçar como humano — incluindo poderes de Obfuscate — sofre penalidade igual ao Bane Severity (−2 dados com BP 3).
+    </div>
+    <div class="lb">
+      <div class="lt">Compulsão — Paranoia (Hunger ≥4)</div>
+      O vampiro deve investigar e expor qualquer segredo oculto presente na cena antes de realizar qualquer outra ação. Dura até que um segredo seja revelado ou a Hunger diminua abaixo de 4. Suprimir por um turno custa 1 Willpower.
+    </div>
+    <div class="lb">
+      <div class="lt">Predador — Alleycat</div>
+      Ataca vítimas diretamente, alimentando-se no caos do confronto físico. Bônus: Celerity ● (Rapid Reflexes), 3 dots de Contacts criminais, specialty em Brawl (Grappling) ou Intimidation (Stickups). Custo: −1 Humanity na criação.
+    </div>
+  </div>
+
+  <div class="sh">Histórico</div>
+  <div class="hist">
+    <div class="hist-t">Origem &amp; Abraço</div>
+    Nascido em 1883 em Damasco, filho de família de dragomanos — intérpretes profissionais que sobreviviam sendo úteis a quem quer que estivesse no poder. Trabalhou como intérprete e agente duplo nas Guerras dos Balcãs (1912–13) e durante a Primeira Guerra Mundial, operando entre o Arab Bureau britânico e a inteligência otomana no Cairo. Abraçado em 1916 por al-Musawwir, ancião Nosferatu alinhado ao Sabbat, que desejava um ativo dentro do Bureau. Desertou em 1917 forjando a própria destruição. Al-Musawwir ainda acredita que o childe morreu. Desde então opera como "O Dragomano" na contra-inteligência do Movimento Anarquista, acumulando um século de operações em Berlim, Paris, Cairo, Buenos Aires e outros centros.
+  </div>
+
+  <div class="sh">Notas de Sessão</div>
+  <div class="na">
+    <div class="nl">
+      <div class="nll"></div><div class="nll"></div><div class="nll"></div><div class="nll"></div>
+      <div class="nll"></div><div class="nll"></div><div class="nll"></div><div class="nll"></div>
+      <div class="nll"></div><div class="nll"></div><div class="nll"></div><div class="nll"></div>
+      <div class="nll"></div><div class="nll"></div><div class="nll"></div><div class="nll"></div>
+      <div class="nll"></div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

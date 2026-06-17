@@ -64,6 +64,23 @@ Ao contrário da Camarilla, os Anarchs muitas vezes permanecem conectados ao mun
 
 ## O Significado da Revolução
 
-Mais do que nunca, os Anarchs sentem que a vitória é possível. Com os anciões sendo chamados pelo **Beckoning** e os domínios da [[Camarilla]] desmoronando sob a pressão da Segunda Inquisição, o Movimento se apresenta como a única força capaz de criar uma nova ordem vampírica.
+Mais do que nunca, os Anarchs sentem que a vitória é possível. Com os anciões sendo chamados pelo **Beckoning** e os domínios da [[Camarilla]] desmoronando sob a pressão da [[Segunda Inquisição]], o Movimento se apresenta como a única força capaz de criar uma nova ordem vampírica.
 
 > **"Se o antigo regime pode cair em Berlim, ele pode cair em qualquer lugar."**
+
+---
+
+## O Status Perfectus
+
+A declaração de princípios do Estado Livre Anarquista — ver [[Lore/Book of Nod#O Status Perfectus (Anarchs)|texto completo no Book of Nod]]:
+
+1. Declaramo-nos livres e independentes, sem lealdade a nenhuma criatura acima de nós.
+2. Declaramos nossa capacidade de nos governar, sem Príncipe nem Primogênio.
+3. Declaramos nossa fraternidade com os Kindred oprimidos em todo lugar e oferecemos um lar a todos os clãs.
+4. Reconhecemos nossa responsabilidade de manter a Máscara.
+
+---
+
+## Ver Também
+
+[[Lore/Camarilla]] · [[Lore/Sabbat]] · [[Lore/Kindred]] · [[Lore/Segunda Inquisição]] · [[Lore/Beckoning]] · [[Mecânicas/Humanidade]] · [[Narração/Coteries]]

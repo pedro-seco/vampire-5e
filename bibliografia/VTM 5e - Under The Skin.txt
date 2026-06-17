@@ -1,0 +1,564 @@
+
+
+
+Under the Skin
+Author: Freja Gyldenstrøm
+Developers: Travis Legge and Juhana Pettersson with Kevin Schluter
+Producer: Kevin Schluter
+Art Director and Graphic Design: Sarah Robinson 
+Cover Artist: Nevzat Aydin
+Illustrators: Nevzat Aydin, Raquel Cornejo, Maichol Quinto,  and Paradox Artist(s)
+Copy Editor: Brendan Rabon
+Cultural Consultant: Mary Rose Valentine
+Proofreader: Scott Thomas
+ 
+WORLD OF DARKNESS BRAND TEAM
+Vice President: Sean Greaney
+Editor: Karim Muammar
+Art Director: Tomas Arfert
+Marketing Manager: Jason Carl
+Partnerships Manager: Dhaunae De Vir
+Community Developer: Martyna "Outstar" Zych
+Licensing Manager: Nikola Filipov Campaign Manager: Viktor Bovallius
+RENEGADE GAME STUDIOS
+	President & Publisher: Scott Gaeta	Lead Developer, World of Darkness: Juhana Pettersson
+      Finance Controller: Robyn Gaeta	Playtest Coordinator: Marcus E. Burchers Vice President of Operations: Leisha Cummins	Marketing Manager: Jordan Gaeta Vice President Sales: Andrew Lupp	E-Commerce Manager: Nick Medinger
+Senior Producer, Board & Card Games: Dan Bojanowski	Event Manager: Sara Erickson
+	Producer, RPGs: Kevin Schluter	Organized Play Manager: Trevor McGregor
+Associate Producer, Board & Card Games: Kane Klenko	Project Manager: Rachel Del Rio Associate Producer, Heroscape: Lee Houff	Customer Service Manager: Jenni Janikowski
+	Associate Producer, RPGs: Ben Heisler	Finance Specialist: Madeline Minervini
+ Director of Visual Design: Anita Osburn	Creative Production: Noelle Lopez & Gordon Tucker Creative Director, Games: Jeanne Torres	Customer Service: Bethany Bauthues
+	Creative Director, RPGs: Sarah Robinson	Community Coordinator: Anais Morgan
+	Senior Game Designer: Matt Hyra	Sales & Marketing Coordinator: Sophia Gambill 
+Game Designers: Alex Davy, Dyllan Fernandez, Dan 	Community Specialist: Rina Amaranthine Blanchett, Christopher Chung, & Sarah Rowan
+This book uses the supernatural for settings, characters and themes. All mystical and supernatural elements are fiction and intended for entertainment purposes only. This book contains mature content. Reader discretion is advised.
+Vampire: The Masquerade creators: Mark Rein•Hagen with Justin Achilli, Steven C. Brown, Tom Dowd, Andrew Greenberg, Chris McDonough, Lisa Stevens, Josh Timbrook, and Stewart Wieck.
+Vampire: The Masquerade 5th Edition created by Martin Ericsson, Karim Muammar, and Kenneth Hite
+
+(c) 2024 Paradox Interactive(r) AB. Vampire: The Masquerade(r) are trademarks and/or registered trademarks of Paradox Interactive AB in Europe, the U.S., and other countries.
+Visit the World of Darkness online at www.worldofdarkness.com  
+(c) 2024 Regengade Game Studios
+Table of Contents
+	Introduction 	4
+	Jumping In 	4
+	Background 	4
+	A Coterie of Foundlings 	5
+	Setting 	5
+	Central Horror Themes 	6
+	The Truth that Lurks Below 	6
+	It Begins with a Taste 	8
+	The Feeding 	8
+	An Appointment 	9
+	The First Night of Need 	11
+	Going to Church 	11
+	The Night Passes 	13
+	The Second Night of Need 	14
+	Emerie's Library (Optional) 	14
+	Midnight Mass 	15
+	The Third Night of Need 	18
+	Silencing the Blood 	18
+	All Roads Lead to Elysium 	19
+	In Chronicles 	21
+	Deeper into the Gehenna War 	21
+	Appendix: The Players' Coterie 	22
+	Bjarne "The Bear" 	23
+	Elena "The Butterfly" 	26
+	Jo Roth "The Rot" 	29
+	Mary Lee "Love" 	32
+	Nikita "Nickie" 	35
+	Stephen "Just Stephen" Benson 	38
+
+INTRODUCTION
+You're on a hunt like any other when one of you sinks their teeth into something unexpectedly delicious. This Blood doesn't merely fill you 
+with bliss, it's an almost religious experience with a flavor that suggests great refinement and antiquity.
+But drinking Blood like that comes with consequences. Not only do you crave another taste, you've unknowingly gotten yourselves mixed up in 
+an age-old battle between forces beyond your understanding. It's only a matter of time before they notice you.
+
+CONTENT WARNING
+Under the Skin includes addiction, cannibalism, eating disorders, gore, religious blasphemy and evangelism, body horror, pregnancy, and sexuality/sensuality (including coercion). Depending on play and character choices, it may also involve social isolation, bullying, and stories of abuse.
+Jumping In
+Under the Skin is a stand-alone story, written to be played out in a single session of 31/2-5 hours. It's designed for a coterie of 4-6 inexperienced Kindred. The story is inspired by material from the sourcebook Gehenna War. It can easily be run with only the Vampire: The Masquerade core rulebook at hand.
+  You'll find a coterie of six ready-to-play vampire characters in the Appendix. You can also adapt it to an existing coterie of character (see In Chronicles, p. 21).
+Background
+A coterie of inexperienced vampires gets swept up in the drama of an ancient war between beings so old they are basically gods and the societies dedicated to fighting in it. Out on a routine hunt, the players' characters feed, as they do every night. But this time, the mortal they feed on has recently ingested the Blood of a 5th generation methuselah, and now the characters crave another taste.
+  As they investigate what the hell is going on and where they can get more of the good stuff, they uncover a congregation of Kindred cultists who worship a reincarnated messiah - the methuselah in torpor - and take communion by ingesting his Blood. The cult is led by an autarkis ancilla and his coterie of neonate childer, who manipulate their mortal congregation with the "miracles" they produce.
+  Visiting the cultists, the players' characters quickly realize that those who ingest the Blood become victims to it - from ingestion, they're running on borrowed time until they become just another Blood-crazed mindless servant to the secret messiah. This puts them in a race against time to find a way to free themselves of the influence of the Blood. It's hard to say whether the Camarilla Court the characters must answer to hinders or helps them deal with all this.
+And soon, the methuselah awakens.
+
+
+
+Central Horror Themes
+This story contains a multitude of potential horrors, but two are at the forefront:
+* Cannibalism, the devouring of one's own self, the act of becoming all at once the one who eats and the one who is eaten. Driven by need, desire, or lust, the cannibal transgresses all boundaries to fill themselves, and in doing so feasts upon themselves, as one is consumed by one's own fears, secrets, and obsessions.
+* Transformation horror, the involuntary process of becoming something (more) monstrous, of losing yourself and seeing who you were fall away, slowly or suddenly, to be replaced by something terrible.
+  These themes are already part of vampire mythology, but here you get a chance to explore them in greater depth. Of course, you can also run the story with a focus on the action and mystery of running against the clock - it's up to you how much time you spend on the gory details or the scenes of investigation.
+The Truth that  Lurks Below
+On the surface, the coterie has just tasted some extra delicious Blood, and they're motivated to find some more. They also owe it to the court to investigate the presence of new arrivals.
+Everybody Wants Something
+As the story progresses, the coterie must face a slew of personalities. They all, of course, have goals of their own. The autarkis blood cult wants to do the bidding of their god. The coterie's Mawla wants more power in the Camarilla Court. And the methuselah wants what ancient blood gods most desire - to claim an empire, to be worshiped, and to get back at their old enemies... or even their descendants.
+The Sleeping Methuselah
+If all goes well, the coterie never sees the methuselah whose Blood they incidentally ingest. The blood god remains a mystery, the effects of its vitae its most tangible representative. It starts out dormant, entombed in a Catalonian effigy from the medieval period. However, as it sleeps, it dreams. Like a mystery saint, the effigy weeps bloody tears - and when those tears are ingested, it gets the ability to manipulate those who've ingested them. Its Blood is almost sentient, and the methuselah can work their powers through it to an unusual extent. With enough age, some powers become more like miracles.
+  The methuselah is a 5th Generation Tzimisce. It's sealed in the effigy which contains the dried-up husk of its physical remains, but its consciousness can travel as far as its Blood. The Blood grows stronger and more sentient the wider it is spread.
+  The methuselah is too old to bear a name that anyone would know, apart, perhaps, from other ancient vampires of its generation. The Kindred who worship it sometimes call it the Redeemer, a figure invested with all their hopes of a better existence in the future. As long as the methuselah lies sleeping, they can pretend it'll relieve them of the curse of vampirism, or whatever it is that they desire. If it wakes, it's too powerful to be defeated and, therefore, isn't presented in game terms. The coterie members have already lost and can, at best, make their escape.
+Unfathomable Blood
+Throughout this scenario, characters encounter, and likely consume, the Unfathomable Blood of the sleeping methuselah. This is a term for the Storyteller to use, not the in-world term any characters might use. Developing a name for what afflicts them may be a memorable moment in the story. The first taste of Unfathomable Blood each night slakes 1 Hunger, and feeding on a vessel with Unfathomable Blood in their veins slakes twice the usual amount of Hunger, as through they've drunk from a Vampire of high Blood Potency. Bagged Unfathomable Blood is less potent than in a vessel or Kindred, but still can slake Hunger until sunrise. Unfathomable Blood never slakes the final level(s) of Hunger, unless the Kindred kills the vessel as usual.
+  Throughout this story, consider using any Messy Critical or Bestial Failure results to get the character in question to taste any nearby Unfathomable Blood.
+Ingesting Unfathomable Blood: Tasting the Unfathomable Blood activates and immediately triggers the Unfathomable Compulsion, a unique Compulsion to consume more Unfathomable Blood that functions like a unique Dyscrasia and the Hunger Compulsion: 
+Characters suffer a -2 die penalty to any test that doesn't involve locating or consuming more of this Unfathomable Blood until they reach Hunger 5. Furthermore, those suffering the Unfathomable Compulsion slake only half Hunger from other sources of Blood, make Hunger Frenzy tests at Hunger 3+ rather than 4+, and must make an additional Rouse Check upon waking at dusk. A successful Wits + Occult test (Difficulty 2) reveals the Blood itself seems to be consuming the other blood, as though the Kindred is somehow "drinking for two." 
+Unfathomable Blood cannot create Blood Bonds on 
+BEFORE YOU BEGIN
+its own. Blood Bonds still function normally when consuming vitae from other Kindred. While a Kindred has Unfathomable Blood Compulsion, their Blood Potency is temporarily considered 2 higher.
+Detecting Unfathomable Blood: Characters with merits such as Bloodhound or who activate powers like Reveal Temperament (see Players Guide), Scry the Soul, or A Taste for Blood automatically detect Unfathomable Blood in this story, even if a test to detect it otherwise fails. ¦
+
+Before you start play, particularly if the troupe doesn't know one another well (or know one another at all if it's being run at as a special event), you may consider starting with the following:
+• Ensure everyone understands what a Vampire game may entail. Players trying Vampire for the first time may not be expecting a bloody game of personal horror.
+• Distribute the characters and mention that although each has been designed to connect with the core themes of the story the players are free to make use of that how they will.
+• Explain the concept of the characters' coterie and their relationship with their Mawla: Emerie Alveston.
+• Select the Humanist Chronicle Tenets or another of your choice.
+• Mention that the story starts with a feeding scene, for which you need at least one character to have already started the act of feeding. If no one volunteers their character, choose Bjarn, Nikta, or Elena since their predator types are the most appropriate. Advise the players that characters involved in this opening scene stand to gain power at a price and ask for volunteers. Everyone else should start with Hunger 1 and make a Rouse Check to see if their Hunger increased earlier in the evening. ¦
+
+Part One:
+  IT BEGINS WITH A TASTE
+The night is waning fast, and you've looked just about everywhere for signs of the unknown vampires your contact said might be about. You've done your duty for 
+the Court, and it's only fair you take a break to feed before you return to hand in your report. The vessel you've stumbled upon smells like a hidden gem. A clot... A dyscrasia to the Kindred with a philosophical bent.
+The man smells sweetly like satisfied desire. Like pomegranates left almost too long in the sun. Like cotton candy kisses. Like backseat sex in a 1974 vintage 
+Cadillac Sedan when you were newly nineteen. His blood calls out to you, reminding each of you of something you thought you'd lost. It's not a question of whether you want to feed on him. It's about who gets there first.
+The Feeding? If the players' characters talk to him, they can find out that:His name is Peter, like the apostle.
+Location: In the alley behind the 24/7 corner market.? 	He was handing out flyers for his church. He may try to 
+
+The victim is a clean-looking young man with a side part. In his freshly ironed white shirt and blue sweater vest, he doesn't look anywhere near as sinful as he smells, but when the characters sink their teeth into him, he develops a happy, glazed-over expression in his eyes as if he was hoping for exactly this to happen. Players familiar with Vampire may suspect Peter harbors a dyscrasia.
+hand them a flyer. It bears the title "Salvation is Here!" and looks like your average Watchtower pamphlet complete with watercolor illustrations of sheep and smiling shepherds. The church is The Reformed Evangelical Church of the Redeemer (see p. 11).
+With a successful test of Wits + Insight at Difficulty 
+2, they may also notice that Peter seems hyper-focused. He appears aware of vampires and unbothered by the coterie's desire to feed on him. While he is happy to give up a bit of blood, he only wants to talk about God. He doesn't mind having one or two of the Kindred drink from him but gets scared if more than that feed. He freaks out if they drink too long, trying weakly to fight them off and whimpering. His blood is the best damn thing they've ever tasted, though.
+  If you haven't determined who would feed on Peter (Bjarne makes a good default), ask the players which of their characters feeds. Then who is second (if any). The others can choose to feed on him as well or wait to feed later (and deal with their Hunger). If the coterie refuses to feed on Peter, they'll carry a strong impression of how tasty his blood smelled, even through the casing of his flesh. Allow them to leave him in peace and proceed to An Appointment below.
+Peter's blood is delicious (see Unfathomable Blood, 
+p. 6). It's also particularly filling, slaking twice the usual amount of Hunger. Characters who drink from Peter have fed on Unfathomable Blood and suffer the consequences of it. Those who succeed on a Wits + Occult (Difficulty 3) test understand that the blood seems supernatural, not like a clot or dyscrasia (based on mortal resonance alone), but something different.
+Ending the Scene: Once the vampires have fed or abstained from feeding and spoken to Peter, proceed to the next scene: An Appointment.
+PETER, DELICIOUS EVANGELIST
+Peter's devotion to his new faith might prevent his upcoming college graduation next year. Neat and tidy, Peter's side part and slight gut make him look a little naïve and utterly unmenacing. A perfect victim.
+General Difficulty: 3 / 2
+Standard Dice Pools: Physical 4, Social 3, Mental 3
+Secondary Attributes: Health 4, Willpower 3
+Exceptional Dice Pools: Performance 5 (piano), 
+Persuasion 4, Academics 6 (Bible studies)
+An Appointment
+Location: Emerie Alveston's townhouse library.
+The first thing you sense when you walk into the library - apart from how it seems too big to fit inside the townhouse - is the smell of the shelved tomes: dry leather, myrrh, a hint of something like vanilla. Blood runes run along the shelves, a curious method for organizing the volumes.
+Starting the Scene: As the Storyteller, you should narrate the introduction of the characters into this scene without too much of a preamble. After the introductory first scene, this is where active play starts in earnest.
+  The coterie has an appointment with their Mawla, Emerie Alveston, to report whatever unusual events in the domain they may have come across. Emerie has kept them on a short leash to make sure they stay loyal as they grow accustomed to their new vampiric existence in the city. During this appointment, any Kindred who drank from the evangelist becomes aware of an overwhelming desire to taste his blood again.
+  It's a struggle for any characters who drank Peter's blood to remain inconspicuous as they start to feel shaky and a little cold in Emerie's library. They remember the way Peter's blood slid down their throats, filled their veins with bliss. The blood runes running around the room appear to pulse, tormenting anyone who drank Unfathomable Blood. If she notices their restlessness, she gets annoyed.
+  If none of the player's vampires fed on Peter, or if the Storyteller wishes to draw this scene out, their meeting is interrupted when another vampire barges into the scene. Mikayla, a newly embraced Duskborn in Emerie's care, stumbles into the room, high on the power of Peter's blood. Any character who was present in the previous scene can smell it on her. No test is needed.
+  Mikayla mentions that she thought she saw the coterie leaving the convenience store as she bumped into a delicious man who spoke of God and whose blood tasted of angel's tears. She then talks about how powerful she feels and asks Emerie if this is what older vampires feel like. Emerie grits her teeth and sends Mikayla to her quarters, promising to deal with her after the meeting.
+  After any distractions are addressed, Emerie informs the coterie the next Elysium is in three nights' time, and if all goes well, Emerie is admitted as the newest member of the Primogen council, representing an influential coterie of blood sorcerers. She reminds the coterie that her promotion helps them as well, allowing them each more freedom or more influence, as they most desire.
+  As the coterie reports that all is well in their part of the city, Emerie gets even more annoyed. She informs them her sources tell her differently. If Mikayla shows up high on Peter's blood, she also points out that the Duskborn, "got into Gods-knows-what in your territory." She lays the blame for Mikayla's state on the coterie. Either way, she orders them to investigate the presence of a suspected blood cult in the city, giving them directions to an old church just outside the coterie's domain. This is the Reformed Evangelical Church of the Redeemer. The Kindred there were unofficially permitted into the city and are due to present themselves to the Prince in the next three nights and she doesn't want any surprises when they do. Emerie can tolerate nothing interfering with her, nay, their impending political success.
+Choosing Honesty: Should the coterie choose to tell Emerie about their symptoms and the strangely tasty - and potent - blood, she blames their youth and inexperience with feeding properly. If they didn't feed but instead smelled the blood on Mikayla, they may tell Emerie this instead, to which Emerie replies that the Duskborn is her concern, not theirs, and to focus on the assignment she has given. If pushed, she grows thoughtful and says she may look through her books. She tells them to come back in two nights' time.
+Ending the Scene: You can end the scene after the characters have either told the truth or lied about their delicious discovery and after Emerie has told them about the suspicious church to investigate.
+EMERIE ALVESTON, COURT SORCERER
+Emerie Alveston is the strict but (so far) benevolent Mawla of the players' coterie. First and foremost, she's their primary connection to the court, and it's through her they get most of their tasks - a mix of Camarilla problems for them to solve and personal errands she needs them to run.
+   Emerie is a tall, dark-haired woman who looks to be in her late 30s. She dresses with the semi-formal eccentricity of a researching academic and almost always seems like she's being interrupted while doing something much more important. Clan: Tremere
+Generation: 11th
+Blood Potency: 2
+General Difficulty: 5 / 4
+Standard Dice Pools: Physical 6, Social 8, Mental 8, 
+Disciplines 9
+Secondary Attributes: Health 6, Willpower 8
+Exceptional Dice Pools: Etiquette 9, Leadership 8, Occult 9
+Disciplines: Blood Sorcery 5 (A Taste for Blood, Scour 
+Secrets*, Blood of Potency, Theft of Vitae, Blood Aegis*; 
+Rituals: Blood Walk, Craft Bloodstone, Ward Against 
+Ghouls, Communicate with Kindred Sire, Warding 
+Circle against Ghouls, Deflection of Wooden Doom, 
+Ward against Cainites), Dominate 2 (Cloud Memory, 
+Mesmerize), Presence 3 (Daunt, Awe, Dread Gaze)
+*See Players Guide for the description or replace with another appropriate option
+MIKAYLA, DUSKBORN WARD
+In the event the player characters refrained from feeding on Peter, Mikayla acts as a proxy to display the power presented in the Blood, but also the dangerous, addictive quality it holds. Devious Storytellers may also decide she fed on Peter if the coterie left him alive for it. She is a thin, raven-haired woman appearing to be in her early 20s. She has a penchant for fishnet, corsets, skirts, and boots. She prefers heavy eye makeup.
+General Difficulty: 3 / 2
+Standard Dice Pools: Physical 4, Mental 5, Social 5
+Secondary Attributes: Health 5, Willpower 5
+Exceptional Dice Pools: Awareness 6, Persuasion6, 
+Stealth 6, Distillations 4
+Disciplines: Thin-Blood Alchemy 1 (Formulae: Far Reach, 
+Haze) ¦ 
+I
+Part Two:
+THE FIRST 
+NIGHT OF NEED
+Those of you who drank Peter's blood wake up feeling famished. Faint memories from your dreams, whispers in a language you don't know, the warm caress of many hands follow you into the first moments of the night, as you slowly return to reality. Em-
+erie's given you a mission: visit a local Evangelical church, which has recently been reopened. Who knows? Perhaps Peter will be there.t's time for the coterie to go to church. They may stop and feed on the way, but any who've fed on Peter find little relief from their Hunger. If they decide to try to track down Peter, any of his pamphlets also lead 
+them to the church. There'll be some in the alley where they encountered him, and the convenience store owner knows he belongs to the new church as well.
+Going to Church
+Location: The Reformed Evangelical Church of the Redeemer The service is underway when the coterie arrives at the church. It's led by a bony but enigmatic preacher whose odd, southern European accent has the congregation spellbound. 
+The building itself is a small structure with shared walls with the music store on one side and boarded up café on the other. Its Reformed Evangelical Church of the Redeemer sign barely covers a former sign with the words boutique clothing still barely visible. The so-called church wouldn't hold more than a couple dozen congregants. Luckily, it only holds about thirteen tonight with its makeshift rows of folding chairs and makeshift, but well-adorned, altar.
+  When it's time for communion, the members of the congregation approach the altar to kneel in groups of three and receive the blood and body of the Redeemer. As they return to the pews, the parishioners exude the same mouth-watering smell that Peter did. It becomes apparent that whatever the preacher is giving them must be affecting the quality of their blood.
+Observing the Mass (Optional): Characters who know 
+Spanish, Catalan, or Latin or who succeed on an Intelligence + Academics or Streetwise test (difficulty 4) recognize the accent is Catalan, but a little bit unusual. A successful Wits + Academics or Occult test (Difficulty 4 or 3 if they've discovered the accent is Catalan) reveals the mass to include more Catholic and occult elements than expected for an Evangelical church. A Wits + Awareness test (difficulty 2) reveals one member of the congregation looks particularly nervous around them: Clara Laurent (see below).
+Taking Communion (Optional): Player's characters can take communion if they have the Eat Food Advantage. There's some sort of blood in the wine. The 
+Unfathomable Blood in the communion wine slakes one 
+Hunger if it's the first time they've tasted Unfathomable 
+Blood for the night and provides the Unfathomable Compulsion until the vampire's Hunger increases to 5 or the following sunrise, whichever comes first.
+Talking to the Preacher (Optional): Talking to the preacher afterward, the coterie discovers his name is Father Benedict Castillo. He doesn't have time to talk right now, but eagerly invites them to midnight mass the next night. He confirms that he recognizes their true nature (thanks to his Auspex) and that he hopes to have more like-minded souls among the flock. It's going to be special, and he hints that there might be feeding opportunities of an unusual nature for Kindred curious about the faith. He promises to present himself and his coterie to the Prince and asks them to apologize on his behalf that he hasn't done so yet.
+  Because the good Father is busy, it takes an effort to get anything out of him. At the very least, the characters learn that:
+* Benedict is the head of the church.
+* Benedict is a vampire, running the congregation with his coterie.
+  In addition, a successful Resolve + Persuasion test at a Difficulty of 3 can break through the priest's brusque efforts to proceed with his work and reveal the following:
+* His congregation believes that the Messiah is about to return and happily gives their blood to his coterie to help. ? 	Benedict and his coterie have traveled far to be in the city.
+* Benedict and his coterie long to join a bigger cause and look forward to meeting and uniting with the Camarilla.
+  Any other questions are met with a repeated invitation to return the next night.
+Feeding on the Congregation (Optional): Peter is nowhere to be seen, but the rest of the congregation smell just as sweet. The coterie must again make a Hunger Frenzy test (current Willpower + one third Humanity) at Difficulty 3 to resist following some of the mortal members out of the church and feeding on them between the great big pines that line the grounds. Remember that those who have already tasted the Unfathomable Blood have their dice pools reduced by 2 for any test not specifically geared toward attaining more of the Blood (see Unfathomable Blood, p. 6).
+  Feeding on any member of the congregation exposed the Kindred to Unfathomable Blood.
+Meeting Clara Laurent
+As they prepare to leave, or if they have spotted her and seek her out, the coterie runs into Clara. She's friendly and a little nervous. If the characters ask why she's nervous, she explains that she recognizes the group as Kindred (thanks to her Auspex). Knowing her coterie should've introduced themselves to the Prince already, she was worried that the coterie was there to punish her.
+Talking to Clara, the coterie can learn that:
+* Father Benedict is hoping to present the Prince with a gift.
+* With a successful test of Wits + Insight at Difficulty 2, the coterie can determine Clara is nervous and perhaps naïve, hoping to make new acquaintances in the city.
+* Clara appears to feel genuine empathy. With a test of Manipulation + Subterfuge or Wits + Insight at Difficulty 3, the coterie can determine that Clara is worried about her coterie. They haven't been themselves since they found the effigy.
+  If the interaction is friendly, Clara invites one or two of the characters to walk with her around the church where she brushes away a pile of rotten leaves to show them a small basement window. There's just enough space that one vampire at a time can look through the window.
+  It reveals an underground chamber beneath the church. Three languid vampires are lying on pillows in various states of disarray inside, their eyes half-closed.
+  In the middle of the room, there's a medieval tomb effigy - a granite sculpture of a curly-haired warrior, his hands folded in prayer. As the players' characters look on, there's suddenly a great deal of excitement among the other Kindred. Father Benedict walks into the room, nodding at one of them, and the vampire hurries over to the effigy, kneels at its side, and starts licking its face. "It's crying blood," says Clara, "the most wonderful blood." Clara pushes the coterie back from the window before Father Benedict can see them. She asks them to come back the next night.
+Ending the Scene: Once the coterie has gained information from Clara and looked around the church, proceed to the next scene: The Night Passes.
+CLARA LAURENT, SOFT-SPOKEN NOVITIATE
+Clara is a small-town girl who got in over her head in the late 1990s when she went to the big city for college. She blends in well these days, keeping up the expected fashion for someone who looks 22 years old still. She's generally quiet and eager to keep her head down, but after getting mixed up with Father Benedict, she's begun to have second thoughts.
+   Clara joined Benedict recently, but before they discovered the effigy. They're recently from Chicago, New York, New Orleans, or any other major city far enough away that communication isn't easy given the threat of the Second Inquisition. She is still Blood Bound to her sire, which has prevented some of the worst effects of the Unfathomable Blood.
+   As a Tremere, Clara holds her clan's thaumaturgy in high regard, and may be too myopic to see non-sorcerous means of dealing with the Unfathomable Blood as viable options.
+Clan: Tremere
+Generation: 12th
+Blood Potency: 1
+General Difficulty: 4 / 3
+Standard Dice Pools: Physical 5, Social 6, Mental 6, 
+Disciplines 7
+Secondary Attributes: Health 5, Willpower 6
+Exceptional Dice Pools: Stealth 7, Insight 8, Subterfuge 8
+Disciplines: Auspex 3 (Heightened Senses, Sense the 
+Unseen, Scry the Soul), Blood Sorcery 4 (A Taste for 
+Blood, Extinguish Vitae, Blood of Potency, Blood Aegis*; Rituals: Clinging of the Insect, As Fog on Water*, Ward against Spirits, Ward against Cainites)
+*See Players Guide for the description or replace with another appropriate option
+The Night Passes
+For the Kindred who have slaked their Hunger on the church congregation, or even on the sacramental wine, the rest of the night flies by in a pleasurable haze.
+  Those who tasted Peter's blood the previous night but avoided feeding on the congregation or drinking the altar wine may attempt to slake their Hunger on normal blood. Afflicted vampires suffer the drawbacks of having tasted Unfathomable Blood.
+  Those who've abstained from tainted blood should have enough information to get worried about what's going on at this point, perhaps even those who have tasted the Unfathomable Blood.
+Ending the Scene: Address any unfinished business or activities the coterie wants to squeeze in before sunrise. Keep in mind that it is already late when they finish at the church, and they must make it home before dawn. Then proceed to Part Three. ¦
+W
+Part Three:
+THE SECOND 
+NIGHT OF NEED
+Those of you who drank the blood have the same daytime dream. It's filled with thick black smoke, the soft shuck of steel withdrawn from flesh, and the scent of fear. As 
+you feel something writhing under your skin, wriggling to make space for itself, the 
+discomfort shocks you awake, clawing at your arms. When you check, the veins down your arms have become raised and itchy. For a moment you recall an illustration of 
+the venous system from a schoolbook years ago. It was standing there just like a body, as if it could function on its own. You feel desperate Hunger rise within.hen the coterie members rise the next night, they've got time to prepare for the evening or conduct research. You can spell out some of the options they have to 
+choose from:
+* Attempt to slake their Hunger.
+* Make their way to their Mawla to go through her books for research.
+After whatever preparations they choose to make, the characters can then go to the Church in time for the Midnight Mass.
+Emerie's Library (Optional)
+Location: Emerie Alveston's townhouse library.
+With a few hours spent at Emerie's library and a successful test of Resolve + Academics or Investigation at Difficulty 3 allows a player's character to pick out the following texts:
+* "Sanguine, Curses" and "Sanguine, Rites" in The Esoteric Lexicon of Occulted Practices from Myth and Legend Vol. IV: R-T.
+* Les Heures de la Comtesse Sanglante. Illuminated manuscript from the 1600s. The first folio depicts a grinning devil, blood pouring at its feet.
+* The Devil's Chalice: The Bloody Black Arts - Origins of the Grail Legend.
+  A successful test of Intelligence + Academics or Occult at Difficulty 4 (3 if Nickie helps with his knowledge of French) lets the reader discover several references to a late medieval dark arts recipe for combating demonic blood dependency. It's not a cure for Blood Bonds, but it does tell them that their symptoms could be due to dangerous deficiency of the blood humor, according to the ancient science of humorism, and should be treated by cleansing the "deficient" blood and ingesting new, clean blood.
+  If Mikayla was introduced in their earlier meeting with Emerie, the coterie can run into her again. She enters the library looking strung out. She's paler than usual and her eyes appear sunken in. Her exposed arms are covered in scratch marks. She asks if the coterie has seen Peter. If they've fed on any of the Unfathomable Blood, she can smell it on them and begs for a taste. She's able to restrain herself from attacking, mainly out of fear of Emerie, but persists in begging until she's fed, the party threatens to involve Emerie, or the party otherwise subdues her.
+Midnight Mass
+Location: The Reformed Evangelical Church of the Redeemer There's something special about this night's midnight mass at the Reformed Evangelical Church of the Redeemer, a new light in the eyes of the congregation. Many of them recognize the coterie from the night before, reaching out to touch them as they pass.
+  If the coterie isn't participating in the mass, one of the members of the congregation, a tall and beefy man, attempts to motivate them. He bites his lip and stares at the coterie, tempting them to feed as blood begins to rush down his chin. Characters who've tasted Unfathomable Blood with Hunger 3+, and those who haven't tasted Unfathomable Blood at Hunger 4+ must make a Hunger Frenzy test. Remember that those who've tasted Unfathomable Blood recently suffer a two-dice penalty for attempts to resist ingesting the Blood.
+
+  If they take communion or feed on the members of the congregation, they slake Hunger as described in Unfathomable Blood (p. 6).
+  It's easy to stop drinking it, however, as even those who can drink it only get so much sacramental wine, and a member of the priest's coterie (see Clara, p. 13, and Alvaro, Diego, or Sara, p. 17) shows up to gently hold them back if they attempt to gorge themselves on members of the congregation.
+  Once the players' characters have contended with their Hunger, Father Benedict approaches. The congregation sings as the priest invites the coterie to follow him down into the basement, stating that he has a special gift for them. If the characters enter the basement, go to Deterioration (below). If the characters refuse, Benedict may attempt to lure them with more Blood or compel one or more of them with his Disciplines. Characters escaping surely notice Clara doing the same (see Ending the Scene for Deterioration, below).
+Deterioration
+Following Father Benedict into the dank basement below the church, the coterie sees the stone effigy again. Father Benedict's vampire followers kneel around it.
+  The priest presents them to his coterie: Clara, the novice; Alvaro, the faithful, who was the first to discover the effigy; Diego, whose connections allowed them to purchase the church; Sara, who sees to the needs of the flock.
+  Then the statue starts to cry. The assembled Kindred begin to make elated sounds. The players' characters who've tasted the Blood begin to hear a pulse. The sound is overpowering and intense, like when you lay your head down on a pillow, and it's all that you can hear. It envelops them, seemingly emanating from everywhere around them.
+  Alvaro, shaking with anticipation, falls to the ground and begins licking up the Blood. The priest pushes him away, stating that it's time for their guests to worship. The pulse grows louder. The characters start hearing something like words mixing with it.
+  The desire to drink from the effigy is overwhelming. Reward player creativity by allowing characters to attempt to hold each other back and fight against the desire - using a burner phone to reach out to a Touchstone, gorging themselves on an uncontaminated blood source (perhaps a coterie member who hasn't yet tasted the Redeemer's Blood offers some of their vitae up freely), or even using their own Folkloric Block to resist approaching the effigy should allow a character to resist. Otherwise, they must make a Hunger Frenzy test at Difficulty 5 to resist. Characters who've tasted 
+Unfathomable Blood already this evening make this test at -2 to their dice pool. The desire is only overwhelming for a moment, then it dissipates (and the Frenzy stops for the players' characters) as the effigy stops crying.
+  The church vampires seem confused. They're asking why it's stopped. It's never stopped so soon. They haven't even had a taste yet. Diego points at the coterie.
+"It's your fault! It doesn't like you. It's dried up because of you!"
+"Shut up," Alvaro says. "I've noticed you sneaking out just before dawn. You've been coming down here to drink by yourself, haven't you, Diego?"
+Sara's eyes are large and red. "It didn't dry out, did it?" Father Benedict touches the face of the effigy, rubbing its eyes. "Why won't you cry for us, Master? Are you all out of tears? Isn't there enough to cry about? Haven't we served you perfectly?" He bends down, putting his face on the face of the statue. Sara screams excitedly. "There's more. Of course, there's more." Then she throws herself at the priest, snapping at the back of his neck.
+  As the player's coterie watch, the cultists start trying to drink from each other. They're tearing flesh, fabric, bleeding on the stone floor. As one throws themselves down to lick up the Blood, another starts drinking from the one on the floor. Clara is the exception. Backing away, she's knocking the glass out of the window leading to the outside via a shallow light well. Full of fear, she hurriedly tells the players' coterie to follow her.
+  Assuming the coterie leaves, one way or another, one of the cultists follows them. The coterie makes it halfway down the street before the cultist catches up. Ripping at their clothes, the cultist demands that the Blood must be drunk! Holding out the shredded flesh of their arms, bearing their neck and tearing at their own flesh, the cultist begs them to drink. Those with the Unfathomable Hunger Compulsion at Hunger 3+ or anyone at Hunger 4+ may need to pass a Hunger Frenzy test to resist drinking. Feeding off the cultist may provoke a Hunger Frenzy on their part, leading them to flee back to the effigy for more tears. If Clara is with the coterie or watching from a distance, she helps them escape. The pulsing sound has grown so loud to those who hear it that it fills the world. Inside the church, the congregation continues singing.
+Extending the Scene with Violence (Optional): If the coterie slakes too much Hunger from any cultist following them, the cultist in question may also enter Hunger Frenzy, attacking one of the coterie members rather than running off, or running off into the night to attack any nearby mortals. Preserving the Masquerade may require the coterie to follow and stop the Frenzied Kindred.
+Extending the Scene with Victims (Optional): Players may have hard choices to make if the streets aren't entirely deserted around the church. A late-night jogger or drunk stumbling home may spot the whole thing, requiring the characters to act swiftly to preserve the Masquerade.
+Ending the Scene: Clara helps the coterie escape, asking them to meet her again the next night behind a failing strip mall. She thinks she might know what's going on and if they'll help her, perhaps they've still got a chance to stop it. From here, the coterie goes home to rest, picking up with Part Four. If the coterie didn't waste any time or demands answers from Clara, they may continue with Part Four as though it's the same evening, though the threat of sunrise may still cut short their activities.
+  Note: The blood cult coterie may be too strong for the players' coterie to challenge directly, especially when they're together and full of Unfathomable Blood. Fortunately, they're too interested in spreading their own vitae to pay attention to their surroundings, making escape easy.
+FATHER BENEDICT CASTILLO (HEAD OF THE 
+CHURCH)
+Thin and bony, Father Benedict wears a plain white priest's robe, any symbols of a denomination carefully removed. He looks old and distinguished, but his accent and choice of words may reveal he's been dead for over 100 years already.
+Clan: Not something he likes to talk about, but Malkavian
+Generation: 11th
+Blood Potency: 2
+General Difficulty: 5 / 4
+Standard Dice Pools: Physical 7, Social 8, Mental 8, 
+Disciplines 8
+Secondary Attributes: Health 9, Willpower 8
+Exceptional Dice Pools: Leadership 9, Persuasion 9, 
+Subterfuge 9
+Disciplines: Auspex 3 (Sense the Unseen, Premonition, 
+Share the Senses), Dominate 5 (Compel, Mezmerize, 
+Dementation, The Forgetful Mind, Mass Manipulation), 
+Obfuscate 2 (Cloak of Shadows, Unseen Passage)
+ALVARO, THE FAITHFUL
+A man in appearing in his mid-30s, Alvaro, like the other cultists, dresses in white robes over plain dark pants and a white shirt. 
+He's got short cropped black hair and a thin mustache.
+Clan: Banu Haqim
+Generation: 12th
+Blood Potency: 1
+General Difficulty: 5 / 4
+Standard Dice Pools: Physical 8, Social 6, Mental 7, 
+Disciplines 6
+Secondary Attributes: Health 7, Willpower 4
+Exceptional Dice Pools: Athletics 9, Larceny 9, Subterfuge 9
+Disciplines: Celerity 2 (Rapid Reflexes, Fleetness), Blood 
+Sorcery 1 (Corrosive Vitae), Potence 1 (Lethal Body)
+DIEGO, THE WELL-CONNECTED
+Diego, in addition to the white cult uniform, wears a golden necklace with an elaborate cross pendant. He is prone to periods of staring off into space, lost in thought, when not engaged in activity. Clan: Lasombra
+Generation: 13th
+Blood Potency: 1
+General Difficulty: 4 / 4
+Standard Dice Pools: Physical 8, Social 7, Mental 7, 
+Disciplines 6
+Secondary Attributes: Health 6, Willpower 7
+Exceptional Dice Pools: Subterfuge 8, Investigation 8, 
+Politics 8
+Disciplines: Dominate 2 (Compel, Cloud Memory), 
+Oblivion 2 (Ashes to Ashes, Shadow Cast), Potence 2 
+(Lethal Body, Prowess)
+SARA, THE HERDSWOMAN
+Bright and bubbly, Sara has curly blonde hair and wears thickly applied and poorly contoured makeup. She is outgoing and slightly patronizing. Her demeanor is reminiscent of an overzealous youth pastor. She wears the white robe of the cult as well.
+Clan: Caitiff
+Generation: 12th
+Blood Potency: 1
+General Difficulty: 5 / 3
+Standard Dice Pools: Physical 5, Social 6, Mental 6, 
+Disciplines 5
+Secondary Attributes: Health 5, Willpower 6
+Exceptional Dice Pools: Etiquette 7, Insight 9, Finance 9
+Disciplines: Auspex 2 (Sense the Unseen, Premonition), Celerity 4 (Rapid Reflexes, Fleetness, Blink, Traversal) ¦ 
+T
+Part Four:
+THE THIRD 
+NIGHT OF NEED
+It's become clear that you're running on borrowed time. The Blood is starting to take over, and you've seen what it does to those who've imbibed too much of it. As you rise 
+for the night, those of you who've fed on the Redeemer's Blood hear his voice inside your minds. It's friendly, loving, even, but all it says is, "Bleed for me."he coterie is expected at Elysium and should make their way there soon if they still want to be welcomed in the city after tonight.
+Silencing the Blood
+Afflicted characters may realize they've been compromised. Working with Clara is one way that may be able to contain the Blood. The coterie may have other ideas as well. They may need to urgently feed as well before attending Elysium.
+  If one member of the coterie is unafflicted, they may be able to save time by finding bagged blood or bringing a vessel back to the coterie, but that may involve an alternate feeding scene, Stains, Masquerade issues, or all of the above. Staking the Afflicted (Optional): The coterie may attempt to quiet any of their coterie members with a stake or forcing them into torpor. A successful Intelligence + Occult (Difficulty 3) test reveals that anyone still suffering from Unfathomable Blood in their system is likely a danger to their allies, and incapacitating the afflicted may not be effective if even one individual tainted with the mysterious blood remains free. A critical success or margin of 4+ reveals that torpor may not be enough to hamper the blood, as certain elders are reputed to be able to manipulate the eternal struggle between Kindred even from Torpor.
+Exorcising the Compulsion (Optional): The coterie may suspect that they can exorcise the compulsion by using all their Blood, which risks Hunger Frenzy and may delay them to Elysium (and cause problems for their Mawla, Emerie). Entering Elysium with Hunger 5 is a recipe for disaster without feeding beforehand.
+  This is a dangerous option for the coterie, as one or many may be on the verge of Hunger Frenzy. If the coterie burns through their vitae by combat or injuring one another, it may provoke Hunger Frenzy tests due to spilled Blood.
+The Blood Ritual (Optional): If the players' characters choose to perform the blood ritual with Clara, they can meet up with her early the next night (don't forget to ask each player to make a Rouse Check for waking the next evening). She's sitting by the embers of a dying fire just inside the loading dock at the back of a dead strip mall. Her coterie is destroyed, as far as she can tell, the effigy has disappeared, and she's shaking badly. But she's not ready to give up.
+  The ritual Clara wants to perform is a combination of Ward against Spirits and Ward against Cainites (see "Rituals" in Vampire), modified to ward her and the players' coterie themselves against whatever is inside the effigy. She needs something from each of the players' characters and the assistance of another blood sorcerer if she's to be protected as well (the blood sorcerer need not know the Rituals in question, Emerie may be convinced to help but demands a life boon and full debriefing after Elysium).
+* If they found the clues in Emerie's Library: The coterie can help Clara perform the Ritual. They realize when she explains it that they should be contributing something that can symbolically cleanse their Blood as well. The ritual burns out most of the vitae in their system, raising their Hunger to the point of Frenzy (Hunger 5) and then the afflicted may need to feed on blood that hasn't been tarnished by the tears of the effigy. If Mikayla was present in the library, the coterie may invite her to participate in the hopes of breaking the effect on her as well. If they do, she may prove an ally in the final scene.
+* If the coterie didn't find any clues in Emerie's library: The Ritual seems to be going well, but as Clara extinguishes the last embers of the fire, the players' characters who ingested the Unfathomable Blood feel a presence at the edge of their minds.
+* If the ritual succeeds and another blood sorcerer helped perform it: All is well. The Unfathomable Blood has been silenced, at least for now. The coterie may proceed to Elysium.
+* If the ritual fails, or if Clara performed it on her own: Clara's eyes become shiny with exaltation as she declares that her god speaks to her and commands her to share their glory with the world in crimson rain. She tells the coterie they must go to Elysium to preach the coming of the god.
+Feeding Scenes (Optional): Those wishing to feed before attending Elysium need to act swiftly. Characters with Herd have little problem unless they've exhausted their Herd earlier. Quickly feeding before Elysium can be a quick montage, with characters making a feeding test using their Predator Pools against a Difficulty of 4 to slake one Hunger plus up to 2 more for each point of the Margin before Elysium, or all their Hunger if they murder their victim (likely incurring Stains). Those that fail need to call off their hunt in order to make it on time. A Messy Critical almost surely results in the death of the vessel.
+  Storytellers may linger on feeding scenes or keep them short depending on how much time the group has.
+All Roads Lead to Elysium
+Either the coterie managed to silence the Redeemer's Blood, or they didn't, and now it drives them to Elysium whether they want to go or not.
+If the Coterie Didn't Silence the Blood
+If the coterie goes to Elysium without having silenced the Blood, the Redeemer-touched vitae inside them calls out to be released.
+Admit to Everything: If the coterie tells Emerie they've drunk divine Blood, they'll be imprisoned under Elysium while the Primogen council decides what to do with them. This won't stop the sentient Blood inside them from wanting out. The ones who tasted the Unfathomable Blood start bleeding from every orifice. As they watch, helpless to stop the Blood, all vampires present must test Hunger Frenzy to resist gorging themselves. They still bleed out, faster than they can lick up the Blood from the floor. When they lie weak and gasping, almost empty, they watch the Blood start to gather into the outline of something vaguely human. It hangs in the air, pulsating with the rhythm of a heartbeat.
+  The last thing they hear before entering torpor are the sounds from Elysium above. Sounds of fighting, shouting, lustful growls and snarls. Then the screams, until everything is silent.
+Give in to the Demands of the Blood: It becomes impossible to resist the voice that calls to them so lovingly, so demandingly, from within their venous system. The coterie members who tasted the divine Blood open their veins and offer their vitae to any who'll partake, finding that it becomes almost irresistible to the present Kindred. Elysium erupts in chaos as the Kindred flock to them, throwing themselves at the offered vitae. The blood flow makes everybody slick, and the characters become a writhing mass of limbs and moaning mouths on the parquet floor.
+  When sufficient Blood has flown from their mangled bodies, the Blood starts to gather into a shape in the air.
+  At this point, you can offer the players' characters a final chance to stop bleeding themselves out and make their escape. Have them test Composure + Resolve at Difficulty 4, but let them help drag each other out, and reward them with automatic escape if they push someone at the crazed and thirsty masses - Clara, Mikaya, Emerie, or one of their own, for instance.
+If any characters afflicted with the Unfathomable Compulsion are still present: The shape in the air thickens, pulsating rhythmically as it takes the shape of an androgynous being, slick and sensual. If the players' characters are still present, the being floats over and caresses the first of the coterie members who drank the blessed Blood and tells them - a soft, wet hand on their cheek - that they did a good job, and everything is as it should be now.
+You'll never be alone again.
+If the Coterie Silenced the Blood
+If the coterie goes to Elysium and the Blood has been silenced, their Mawla is elected to the Primogen council and gives a speech thanking her supporters and announcing new beginnings and alliances within Kindred society at large. She makes a point of thanking the coterie, who sense that they'll each be able to ask her for a favor after tonight. ¦
+
+IN CHRONICLES
+S
+torytellers can use this story as a starting point for a longer chronicle, either diving deeper into the themes of the Gehenna War, or letting the coterie escape more or less intact from the Redeemer (who can always resurface as a chronicle-ending boss at some point in the future).
+  The focus of the coterie can be shifted to the Anarchs with minimal changes; Emerie may be a blood sorcerer of any clan working for the Baron, perhaps even to be elevated to a position of Baron herself. Benedict and his cult may have a similar provisional admittance to the Anarchs, and they are due to check in with the Anarch authorities rather than present themselves to the Prince. You can also incorporate Under the Skin into an already-existing chronicle. Just make sure you've got at least one player's character, a Mawla, or someone else in mind with Blood Sorcery, or the coterie are sure to have a bad time. A slower introduction might have the characters feed on Peter once or multiple times as they keep tabs on him, organically discovering a secret coven of Kindred on the outskirts of their Domain. Keep in mind that this story is not necessarily one you win, so prepare to risk the continuation of the chronicle or plan some additional escape routes for the players' characters if they don't manage to silence the Blood.
+  If the troupe is familiar with how far everyone is willing to go in play, all the mortal members of the congregation may need to be investigated and silenced, a task almost surely to involve many Stains. The individual Kindred of the cult may also be loose ends that need to be pursued, perhaps before the cult can regroup and leave town.
+Deeper into the Gehenna War
+Under the Skin plays with elements of the greater narratives of the Gehenna War (as well as the Gehenna War sourcebook), showing how this legendary conflict 
+
+ 
+APPENDIX:  THE PLAYERS' COTERIE
+This pre-written players' coterie is a newly established coterie of 4-6 childer who are in decidedly deep water when it comes to navigating the greater web of political scheming in Kindred society. That's what their shared Mawla helps them with in return for their service.
+  To underline the horrors of the story, themes of self-sacrifice for a greater cause, loss of self-control, or loss of freedom are written into the backgrounds of each character.
+  Feel free to modify these characters or create new ones, but you may want to keep them inexperienced with vampire society at large to avoid them solving the mystery too quickly. The inherent horror of Vampire can also be played out to differing degrees. If you want to keep this story horrific, you should consider making sure that each character still has a strong personal reason to want to maintain their individuality and relative freedom - or, potentially, a deep drive to lose themselves. A strong desire to join the creepy cult can be just as disconcerting as the attempt to avoid it. Each character also has a Primal Fear entry in their description to help guide the player on how to portray the character in this story.
+  The coterie shares a two-dot Haven, a three-dot Mawla, and the Domain (Chasse 2, Lien 1) the Camarilla lets them hunt in. If you're running the story with fewer than six player's characters, you can remove dots from Haven or Domain (one per character not used).
+Coterie Advantages: Haven 2, Mawla (Emerie Alveston) 3, Domain (Chasse 2, Lien 1) The six characters in the coterie are summarized in Table 1.
+TABLE 1: THE COTERIE
+	CHARACTER	PREDATOR TYPE	CLAN
+	Bjarne "The Bear"	Alleycat	Gangrel
+	Elena "The Butterfly"	Pursuer	Nosferatu
+	Jo Roth "The Rot"	Consensualist	Ventrue
+	Mary Lee "Love"	Siren	Malkavian
+	Nikita "Nickie"	Pursuer	Brujah
+	Stephen "Just Stephen" Benson	Sandman	Tremere
+Bjarne "The Bear"
+The way Bjarne grew up, with no future ahead of him and no real role models, it wasn't a choice for him to turn to crime, it was a straight pipeline from being born in the slum to running errands for the local gang. Prison wasn't a surprise either, it was just what you did, a mark of honor that he'd kept his mouth shut when he got caught. He ended up spending more time in there than was good for him, and he still gets a bit weird in small spaces and keeps his back to the wall at all times. But it's all good. He got out. And when he was offered to trade in his freedom after prison for a century of service to the Camarilla Court, that seemed like a pretty good deal, too. It's not like he knew how to make an honest living, and, in Bjarne's experience, you always serve somebody. Might as well be the biggest baddie around. Also, obviously, they'd probably have destroyed him if he'd refused.
+Primal Fear: Addiction
+Bjarne doesn't feel sorry for himself. He doesn't spend a lot of time questioning his former choices or cursing God (if he exists). There are just a few things that really haunt him. One is the innocents he's killed. Another is his addiction to the blood. Bjarne developed a bad heroin habit in prison. He managed to kick it once he was Embraced. But now blood is on his mind all the time. And it's not like he can just stop drinking it. Bjarne's deepest fear and constant worry, however well he hides it, is to lose the battle and become a slave to his addiction.
+Clan: Gangrel
+Embraced: 2010 (born 1978)
+Sire: A Gangrel who owed the Sheriff a favor
+Ambition: Gain the respect among the Camarilla
+Desire: Control of your cravings
+Predator: Alleycat
+Convictions: Overcome your addictions; Keep fighting to be the person you were before the Embrace.
+Touchstones: Max (his sponsor from Narcotics Anonymous); Laila (real pretty girl who hits on him whenever he runs into her - she likes to chain smoke near the park, even at night)
+Humanity: 6
+Generation: 13th
+Blood Potency: 1
+Attributes: Strength 4, Dexterity 2, Stamina 3; Charisma 1, Manipulation 2, Composure 3; Intelligence 3, Wits 2, Resolve 2
+Secondary Attributes: Health 8, Willpower 5
+Skills: Brawl 3 (Grappling), Larceny 2 (Grand Theft Auto), Melee 3, Survival 1; Animal Ken 2, Intimidation 3, Streetwise 4; Awareness 2, Medicine 1, Technology 1
+Disciplines: Animalism 1 (Bond Famulus), Fortitude 2 (Resilience, Toughness), Potence 1 (Lethal Body)
+Advantages: Contacts 4 (arms dealer, corrupt cop), Herd 1, Mask 2, Mask-Zeroed 1, Resources 1, Status 1 Flaws: Haunted 1, Long Bond 1
+
+
+
+
+Elena "The Butterfly"
+For most of their relationship, Elena's boyfriend was never bad enough to qualify for the term abusive. Not in her mind, anyway. He never hit her. Wasn't weird or pushy about sex. He just quietly, politely took control of every other aspect of her life by voicing his dissatisfaction whenever she did something wrong. Like when she spent a bit too much money on frivolous things... or time with people he felt only held her back. When she was choosing what to major in, he hovered over her until she clicked on her third choice, nursing. When she was picking what to wear out, he laid out her clothes for her. And when he wanted her to come visit his creepy boss and let him give her bloody kisses in a broom closet, she did that too, becoming, she knows now, his ghoul. Some things escalate so slowly, you forget to question them.
+  She'd probably still be in that weird relationship if Philip hadn't killed her cat. So what if Cleocatra was getting a bit incontinent with age? But he did. So, she made a deal with her domitor, and when she got home again, she ate Philip. Chewed him up and spit him out in the trash where he belonged. And that was that.
+  Now, Elena hasn't turned into a complete psycho. She's got a pretty soft heart for a vampire, often standing up for others who are too blind to see the shit they're in. She knows what cruelty she's capable of if pushed beyond her limits, though, which makes all the difference.
+Primal Fear: Losing Her Identity
+It took being turned into a creature of the night for Elena to remember who she was and what she really wants from life. As shy as she can appear, she revels in her powers, her relative autonomy, and her nightly ability to wear and say and do what she wants. She feels like herself again, and it's worth everything to her.
+  But at the heart of all that lies a sleeping terror: the fear of losing herself to the urges of the blood, not just for a frenzied moment, but forever.
+Clan: Nosferatu
+Embraced: 2021 (born 1989)
+Sire: Mike Branson (entrepreneur)
+Ambition: Live up to your potential
+Desire: Easy uncomplicated fun
+Predator: Pursuer (mostly interested in bad men and those who seem trapped in their own lives)
+Convictions: Some people are worth saving
+Touchstones: David Matthews (veterinarian who was always genuinely kind and did what he could for Cleocatra) Humanity: 6
+Generation: 13th
+Blood Potency: 1
+Attributes: Strength 2, Dexterity 2, Stamina 2; Charisma 1, Manipulation 2, Composure 4; Intelligence 3, Wits 3, Resolve 3
+Secondary Attributes: Health 5, Willpower 7
+Skills: Craft 2 (Mending), Firearms 2, Larceny 2, Melee 1, Stealth 3; Etiquette 2, Insight 3 (Detect Anger), 
+Intimidation 1, Streetwise 1, Subterfuge 1; Awareness 2, Investigation 3 (Profiling), Medicine 1, Politics 1, Technology 1
+Disciplines: Obfuscate 2 (Cloak of Shadows, Unseen Passage), Animalism 1 (Sense the Beast), Auspex 1 (Sense the Unseen)
+Advantages: Bloodhound 1, Contacts 1 (Emergency Room), Domain-Cell 1, Eat Food 2, Mask 2 (Zeroed 1), Resources 1
+Flaws: Folkloric Block 1 (Images of Virgin Mary), Long Bond 1
+
+
+
+
+ 
+
+
+
+
+
+Mary Lee "Love"
+Love always has a crush, that's how she earned the name. It was also how she earned her fangs, falling into a swirling whirlwind romance with somebody too intense and present to be real. It was the fulfilment of all her girlhood fantasies, a promise that she'd been selected for something better than the little life of poverty she'd lived before. When she woke up all alone a few nights later, she realized two things: that the walls of their elopement motel room were just as dirty as the ones at home and that she'd been abandoned.
+  But Love hasn't given up. She'll find the right one in time, and now she has just oodles of it. Almost unavoidably, she's cast her eyes on her Mawla and adopted sire, Emerie, who took her in when she was lost and all alone.
+  When Love closes her eyes for the oncoming day, she thinks about what it must be like to lie skin to skin with Emerie in her no doubt silken sheets. She imagines wearing Emerie's clothes and walking around in her apartment, reading her letters. It's unclear if Love wants to be with Emerie or live inside her skin. The one thing that is clear is that she can't stand being just herself and would give anything to be somebody better. And love can do that for you, can it not?
+Primal Fear: Being Unlovable
+Mary Lee looks at herself in mirrors and observes that she is beautiful. She drinks from willing vessels and concludes she is seductive. Still, these things don't feel true. Not when she's never had somebody truly love her for herself. They all leave when they've gotten what they came for. Mary Lee hears that's how modern dating is. But she fears it's cause she's just not good enough.
+Clan: Malkavian
+Embraced: 2019 (born 2001)
+Sire: "The Dickhead"; Emerie Alveston (by adoption)
+Ambition: Find the one and "live" happily ever after
+Desire: Impress Emerie
+Predator: Siren
+Convictions: Love is real, so protect it when you see it.
+Touchstones: Ella (baby sister)
+Humanity: 7
+Generation: 13th
+Blood Potency: 1
+Attributes: Strength 1, Dexterity 2, Stamina 2; Charisma 3, Manipulation 3, Composure 2; Intelligence 2, Wits 3, Resolve 4
+Secondary Attributes: Health 5, Willpower 6
+Skills: Craft 1 (Portraiture), Larceny 3, Melee 1, Stealth 1, Survival 1 (Trailer Park life); Etiquette 2, Insight 2, 
+Intimidation 2, Performance 1 (Dance), Persuasion 3 (Seduction), Subterfuge 2; Awareness 2, Investigation 3, Politics 1, Technology 1
+Disciplines: Auspex 2 (Heightened Senses, Premonition), Dominate 1 (Compel), Presence 1 (Awe)
+Advantages: Beautiful 2, Contacts 1 (Cindy, friend from a strip bar Love used to work at), High-functioning addict 1 (MDMA), Iron Gullet 3, Mask 1, Resources 1
+Flaws: Bond Junkie 1, Disliked 1 (local hotel/motel staff and regular guests), Enemy 1 (Carl, ex-lover)
+
+
+
+
+ 
+Nikita "Nickie"
+Nickie's one dream was to make it to the Olympic gymnastics team. Beyond that glittered hazy ideas of medals, world tours, and a place in the history books. Technically, all of those were Nickie's mother's dreams for him. But he never had time or space to think up any for himself, so he clung to the ones she spun up for him, finding comfort in her total, all-consuming support, which enveloped him as long as he stayed on track. Obviously, Nickie spent his whole short life trying to be perfect. Where kids his age had homework, movie nights, and school trips, Nickie had ligament injuries and 
+aggressive dieting. When they had band practice and shopping for prom, Nickie had his mother come into the unlockable bathroom while he was showering to check that he wasn't getting too big for his sport. This worried her constantly, and so it worried him too.
+  Nickie hadn't meant to run away. He'd just wanted to be a semi-normal teenager for a single night, just to taste a little bit of life. How ironic that the first boy he ever kissed was also the one to kill him.
+Primal Fear: Losing his Freedom
+Nickie deals very well with Hunger after his Embrace. He's so used to it, after all. What really troubles him is the lack of a clear routine. Nickie's greatest fear is therefore also his dearest secret longing: that in some form or other, his mother returns to claim him, telling him what he should be and do, taking all his newfound freedom from him.
+Clan: Brujah
+Embraced: 2015 (Born 1997)
+Sire: A boy with beautiful eyes
+Ambition: Find the true purpose of existence
+Desire: Dull the anxious feeling at the pit of his stomach
+Predator: Pursuer
+Convictions: Prioritize your own happiness; Look for goodness in the world
+Touchstones: Maja, punk friend from the music store he used to go to - she's all grown up now; Peppi, Maja's kid. Humanity: 6
+Generation: 13th
+Blood Potency: 1
+Attributes: Strength 3, Dexterity 4, Stamina 3; Charisma 2, Manipulation 1, Composure 2; Intelligence 2, Wits 3, Resolve 2
+Secondary Attributes: Health 5, Willpower 5
+Skills: Athletics 3 (Gymnastics), Brawl 2, Drive 1, Larceny 2, Melee 2, Stealth 2 (Shadowing), Survival 1, Animal Ken 2, Insight 3, Persuasion 1, Streetwise 1, Subterfuge 1; Awareness 3, Medicine 1, Science 1 (Myology), Technology 1
+Disciplines: Celerity 2 (Cat's Grace, Fleetness), Potence 1 (Soaring Leap), Animalism 1 (Sense the Beast)
+Advantages: Beautiful 2, Bloodhound 1, Contacts 1 (Jason, shifty bartender), Linguistics 1 (French, Native: Russian), Mask 2, Retainer 1 (Chris, accidental ghoul who's totally got a crush on Nickie) Flaws: Known Corpse 1, Dark Secret 1 (Anarch boyfriend)
+
+
+
+
+Stephen "Just Stephen" Benson
+Stephen is the outsider of the group. He wasn't even supposed to be one of them, except that he discovered their shared haven one night by coincidence and started inviting himself over. They meant to get someone to dominate him to go away, but, for some reason, they never did. Stephen tells himself it's because they like him. It took everything he had not to let the others know when he found out their secret. He didn't reveal it until he had something really good to offer in return for joining them. Emerie sired him herself once she learned he'd taught himself ancient Aramaic. Not that 
+he uses it much. Night to night, his most important job is to source the books she requires for her research and return the ones she's done with. Mostly, it boils down to picking up brown paper packages.
+Primal Fear: Being Left Behind
+Stephen's finally just like his friends: a vampire. Being a vampire is secondary to being part of a close-knit friend group, just to be clear. He'll do almost anything to keep them together and is in many ways actually the glue of the group. However, there's a gnawing fear at the pit of his stomach that he's not really one of them. On good nights, it tells him there's still something left for him to prove. On bad ones, he's certain they're just waiting for a chance to ditch him.
+Clan: Tremere
+Embraced: 2022 (born 1996) Sire: Emerie Alveston
+Ambition: Become a respected (and, one hopes, adored) blood sorcerer with rank, protecting and lifting up his coterie, so they'll all be thankful and impressed
+Desire: Keep the Coterie together Predator: Sandman
+Convictions: The pursuit of knowledge is pure and good; Love is greater than everything else.
+Touchstones: Alex (local research librarian); "Kitty" (best friend in primary school, haven't spoken in years but she waves when she sees him)
+Humanity: 7
+Generation: 12th
+Blood Potency: 1
+Attributes: Strength 1, Dexterity 3, Stamina 2; Charisma 2, Manipulation 3, Composure 2; Intelligence 4, Wits 2, Resolve 3
+Secondary Attributes: Health 5, Willpower 5
+Skills: Drive 1, Stealth 1 (Break-ins); Etiquette 2, Insight 2, Subterfuge 3; Academics 3 (Classical Philology), Finance 2, Investigation 3, Occult 4 (Blood Sorcery), Technology 1
+Disciplines: Blood Sorcery 2 (A Taste for Blood, Scour Secrets*; Rituals: Ward Against Ghouls, Communicate with Kindred Sire), Dominate 1 (Cloud Memory), Obfuscate 1 (Silence of Death)
+Advantages: Contacts 2 (University libraries and security), Linguistics 2 (Aramaic, Greek), Mask 1, Resources 1, Status 1
+Flaws: Long Bond 1, Bond Junkie 1
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+3
+
+3
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+

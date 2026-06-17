@@ -36,7 +36,7 @@ Grandes eventos mortais, como a **Revolução Francesa** e a **Revolução de Ou
 ---
 #### **Os Últimos Dias**
 
-Os rumores de [[Guerra da Gehenna|Gehenna]], o apocalipse vampírico, crescem à medida que os [[Gerações e Potência#Matusaléns 4ª e 5ª Geração|Matusaléns]] são chamados para o Oriente e os [[Gerações e Potência#Antediluvianos 3ª Geração|Antediluvianos]] despertam. Enquanto isso, os jovens vampiros, as **coteries de herança**, tomam o poder deixado pelos anciões, questionando se devem devolvê-lo caso eles retornem.
+Os rumores de [[Lore/Book of Nod#Gehenna os Sinais|Gehenna]], o apocalipse vampírico, crescem à medida que os [[Gerações e Potência#Matusaléns 4ª e 5ª Geração|Matusaléns]] são chamados para o Oriente e os [[Gerações e Potência#Antediluvianos 3ª Geração|Antediluvianos]] despertam. Enquanto isso, os jovens vampiros, as **coteries de herança**, tomam o poder deixado pelos anciões, questionando se devem devolvê-lo caso eles retornem.
 
 ---
 #### **O Ciclo Sem Fim**
@@ -46,4 +46,10 @@ Para os [[Anarquistas]] e aqueles que se recusam a jogar, o Jyhad não é nada a
 ---
 ### Conclusão
 
-O Jyhad é o coração pulsante da política vampírica, uma guerra que nunca termina. É uma dança entre controle e caos, uma luta entre gerações que molda não apenas a sociedade vampírica, mas também a história dos mortais. Para os [[Kindred]], é tanto uma maldição quanto o propósito de sua existência.
+O Jyhad é o coração pulsante da política vampírica, uma guerra que nunca termina. É uma dança entre controle e caos, uma luta entre gerações que molda não apenas a sociedade vampírica, mas também a história dos mortais. Para os [[Kindred]], é tanto uma maldição quanto o propósito de sua existência imortal — a razão pela qual alguém precisaria de séculos para agir.
+
+---
+
+## Ver Também
+
+[[Lore/Antediluvianos]] · [[Lore/Beckoning]] · [[Lore/Book of Nod]] · [[Lore/Camarilla]] · [[Lore/Sabbat]] · [[Lore/Anarquistas]] · [[Mecânicas/Gerações e Potência]] · [[Mecânicas/Diablerie, Blood Bond, Ghouls#Diablerie|Diablerie]] · [[Lore/Segunda Inquisição]]

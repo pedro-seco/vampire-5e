@@ -1,0 +1,687 @@
+
+
+The Book of Nod Deluxe Artifact Edition incorporates almost every word and piece of art from The Book of Nod (1993) with additional material collected from decades of Vampire: The Masquerade publications. The Book of Nod Apocrypha collects those same texts and incorporates some new text so all Vampire: The Masquerade fans can enjoy them.
+CREDITS FOR THE BOOK OF NOD APOCRYPHA AND 	CREDITS FOR THE ORIGINAL BOOK OF NOD THE BOOK OF NOD DELUXE ARTIFACT EDITION
+                                                                            Authors: Sam Chupp and Andrew Greenberg Authors: Khaldoun Khelil, Kevin Schluter, Juhana Pettersson, and 	Developer: Andrew Greenberg numerous others from Archæology and the Bible (1920), Vampire: The 	Art Director: Richard Thomas
+Masquerade 1st Edition (1991), The Book of Nod (1993, 2020), Bloody 	Illustrators: Joshua Gabriel Timbrook, Lawrence Schnelli, E. Allen 
+	Hearts: Diablerie Britain (1994), Constantinople By Night (1996), 	Smith, Doug Alexander Gregory,Larry MacDougal, Robert MacNeill, 
+The Erciyes Fragments (1999), Clanbook Assamite (2000), Clanbook 	Craig Gilmore, John Cobb, Erik Hotz, Timothy Bradstreet, Andrew 
+Tremere (2000), Nights of Prophecy (2000), Clanbook Tzimisce (2001), 	Robinson, Ken Meyer Jr., John Bridges, Tom Berg, and Steve Casper
+Libellus Sanguinis 4: Thieves in the Night (2001), Guide to the Anarchs 	Graphic Designer: Michelle E. Prahler
+(2002), Caine's Chosen: The Black Hand (2003), Vampire: The Dark 	Editor: David D. Gragert
+Ages 20th Anniversary Edition (2015), Beckett's Jyhad Diary (2018), 
+Chicago by Night (2020), Winter's Teeth Volume 1 (2020), Cults of the 
+Blood Gods (2021), Forbidden Religions (2022), Players Guide (2023)
+	Developers: Juhana Pettersson with Kevin Schluter	WORLD OF DARKNESS BRAND TEAM
+	Producer: Kevin Schluter	Vice President: Sean Greaney
+	Art Directors: Anita Osburn and Trivia Fox	Editor: Karim Muammar
+Illustrators: Rune Hrafnagaldur, Sophie Suchov, Jasper Hathaway,  	Art Director: Tomas Arfert and the illustrators from The Book of Nod  	Community Developer: Martyna "Outstar" Zych
+	with Beckett's Kaymakli Shroud illustrator(s)	Community Manager: Debbie Lane
+	Sculptor: Niklas Norman with Sarbeswar Kalita	Marketing Manager: Jason Carl
+	Graphic Designers: Anita Osburn, Gordon Tucker,  	Partnerships Manager: Dhaunae De Vir
+Licensing Manager: Nikola Filipov
+	and Jasper Hathaway	Campaign Manager: Viktor Bovallius
+Production Artist: Noelle Lopez
+Editor: Nathan Gerber
+Translators: Jenni Glaser (Greek and Latin) and  Kevin Schluter (Pseudo-Proto-Hebrew)
+Special thanks to Elisa Teague and Roey Gaftar
+RENEGADE GAME STUDIOS
+	President & Publisher: Scott Gaeta	Associate Producer, RPGs: Ben Heisler
+	Vice President Sales: Andrew Lupp	Lead Developer, World of Darkness: Juhana Pettersson
+	Controller: Robyn Gaeta	Senior Game Designer: Matt Hyra
+	Director of Operations: Leisha Cummins	Game Designers: Dan Blanchett & Christopher Chung
+	Associate Project Manager: Katie Gjesdahl	Playtest Coordinator: Marcus E. Burchers
+	Sales Assistant: Sophia Gambill 	Director of Visual Design: Anita Osburn
+	E-Commerce: Nick Medinger	Creative Director, Games: Jeanne Torres
+	Marketing Manager: Jordan Gaeta	Creative Director, RPGs: Sarah Robinson
+	Marketing Assistant: Anais Morgan	Creative Production: Noelle Lopez & Gordon Tucker
+	Senior Producer, Board & Card Games: Dan Bojanowski	Customer Service Manager: Jenni Janikowski
+	Associate Producer, Board & Card Games: Kane Klenko	Customer Service: Bethany Bauthues
+	Producer, RPGs: Kevin Schluter	Finance Clerk: Madeline Minervini
+This book uses the supernatural for settings, characters and themes. All mystical and supernatural elements are fiction  and intended for entertainment purposes only. This book contains mature content. Reader discretion is advised.
+Vampire: The Masquerade creators: Mark Rein•Hagen with Justin Achilli, Steven C. Brown, Tom Dowd, Andrew Greenberg, Chris McDonough, Lisa Stevens, Josh Timbrook, and Stewart Wieck.
+Vampire: The Masquerade 5th Edition created by Martin Ericsson, Karim Muammar, and Kenneth Hite.
+/PlayRGS          @PlayRenegade           @Renegade_Game_Studios          /RenegadeGameStudios
+	Mature Advisory: contains graphic and written 	(c) 2023 Renegade Game Studios. All Rights Reserved. 
+content of a mature nature, including violence, Paradox Interactive(r), Vampire: The Masquerade(r), World of Darkness(r), sexual themes, and strong language. Copyright 2023 Paradox Interactive AB (publ). All rights reserved.
+	Reader discretion is advised.	Visit the World of Darkness online at www.worldofdarkness.com
+
+
+
+Contents
+TABLE OF CONTENTS
+	INTRODUCTION	3
+	The Introduction to the Original 	5
+	CHAPTER 1: STORIES FROM THE LAND OF NOD 	6
+	The Tablet 	7
+	The Scrolls 	9
+	The Chronicle of Shadows 	11
+	Proverb Fragments 	12
+	The Chronicleof Secrets 	14
+	Apocryphal Texts 	15
+	CHAPTER 2: THE APOCRYPHA 	16
+	Shaal Fragment 	18
+	Shroud of Kaymakli 	19
+	Tale of the First City 	20
+	Vencel Rickard's Fragment 	22
+	Uncatalogued Fragments 	23
+	Proverbs	23
+	CHAPTER 3: KINDRED LAWS AND TRADITIONS 	25
+	Traditions of Caine 	27
+	The Laws of Haqim 	28
+	Legacies of the Trinity 	28
+	Old Tremere Code 	29
+	Traditions of the Camarilla 	30
+	The Status Perfectus 	31
+	CHAPTER 4: DISCIPLINES 	32
+	Blood Sorcery 	33
+	Blood Sorcery Rituals 	34
+	Oblivion Ceremonies 	35
+	LORESHEETS	36
+
+
+Introduction
+T
+rying to write the history of the Kindred is more difficult than you'd think. The Masquerade means that troves of diaries and letters have been burned as 
+potential risks. Elders lie when asked about the nights of antiquity, or misremember events to their own advantage.
+  The Book of Nod is a collection of fragments and scraps telling the legendary origin of the Kindred. Whether it's all true or not it's hard to say. But it is a fact that many vampires across the centuries have taken the stories in the Book of Nod seriously. It affects the Kindred whether they believe it to be literally true or not.
+  Kindred scholars of the Book of Nod are often called Noddists. They wish to find more fragments, determine the authenticity of the current text and find proof of whether it's all true or not. There's an abiding fantasy that one night, a newly awakened methuselah might confirm it one way or another, although this has yet to happen.
+  And methuselahs are liars, the same as any other vampire.
+  The Book of Nod occupies a paradoxical place in modern vampire culture. The legions of recently Embraced Anarchs trying to figure out their unlives don't know anything about the myths of Caine. The Book of Nod holds no significance to them. Yet at the same time, the Church of Caine has a presence in many domains, turning the old stories into a template for worship. In their hands, the Book of Nod is not just antiquated ideas but the basis for a real vampiric faith.
+  This booklet contains a collection of prompts based on the different chapters of the Book of Nod (Chapter 1). You can use them to make the book part of your chronicle. The prompts are followed by texts related to Kindred Mythology (Chapter 2), Kindred law (Chapter 3), and  mechanics including 
+Blood Sorcery Powers and Oblivion Ceremonies, and 
+Loresheets related to Noddist lore (Chapter 4). ?
+
+The Introduction to the Original
+
+Introduction:
+How to Use The Book of Nod
+The Book of Nod is not designed to be the definitive book on the nature of vampires and their founder, Caine. There are no game mechanics within. The reason behind this is that The Book of Nod is meant  to be 100 percent setting material. Ideally, Storytellers will use The Book of Nod as a prop in either their Masquerade Mind's Eye Theatre game  or their Vampire: The Masquerade chronicles.
+They may also use it to seed their games with an  authentic culture: the culture of the Antediluvians which filters down from Caine himself. Want to make an Elder seem ancient and ultra-conservative? Have him quote from The Chronicle of Shadows. Want to give  players the sense that they are close to the  Antediluvians? Have them find a tablet with a fragment of the Chronicle of Caine on it. Want to scare them  with threats of Gehenna? Have a Malkavian quote The Chronicle of Secrets to them.
+CHAPTER 1 STORIES FROM THE LAND OF NOD
+
+
+T
+he Book of Nod is part of the cultural heritage of the Kindred. Some, like the faithful of the Church of Caine, take it seriously while others ignore it. Still, even 
+the most secular Anarch has probably wondered at least once where vampires come from and why. This is the power of the Book of Nod: It cannot be verified or proven to be true, but it answers troubling questions. An unreliable answer is better than no answer at all, in the minds of many.
+  Among the Kindred, there are three major categories of vampires interested in the Book of Nod. The Church of Caine holds it as a holy text. Much of the worldview animating the Sabbat and motivating their bloody carnage follows the same mythical stories. The third group is the Noddists, Kindred scholars who seek to understand the nature, origins and history of vampires.
+  Among the rarefied ranks of the Noddists, there are three authorities of varying eminence: the Malkavians Aristotle de Laurent and Ayisha and the Gangrel Beckett. A Parisian elder, de Laurent is a writer, scholar and an antiquarian. He's a protégé of the Prince of Paris, François Villon, which is probably why he's been able to write down so much despite the danger to the Masquerade posed by such texts.
+  Beckett is de Laurent's adopted childe, a more active and dynamic researcher also of considerable age. He has persisted in arguing that the Book of Nod is an allegorical tale and not to be taken as the literal truth.
+  Ayisha is the youngest of the three and the most controversial, having been subject to a Blood Hunt in many Camarilla domains for her ideas concerning the transmission of knowledge through diablerie. She has also been a proponent of distributing the Book of Nod more widely among Kindred, although such projects are difficult to pull off in the modern nights.
+  Among the hoary, rotting elite of the Camarilla, de Laurent and Beckett enjoy a certain status but an average Anarch has never heard of either of them. Still, the study of the origins of the Kindred persists and there are younger Noddists, some self-taught, who have found fragments of the Book of Nod among the possessions of an elder called away by the Beckoning or through trawling mortal archives who's custodians didn't realize what they had.
+  In the prompts and ideas that follow, the Noddists encountered are usually of this latter type.
+The Tablet
+The existing fragments of the Book of Nod appear on many different mediums. Parchment, ancient diaries, vellum, and of course stone tablets. In this prompt, an ancient tablet purportedly bearing words and images from the Book of Nod appears in the domain.
+  In a chronicle, the tablet can be fought over by competing power cliques. Its age and supposed provenance adds legitimacy to the Book of Nod's claim to be an ancient text passed down from ancient vampires. Owning a physical piece of vampire history and culture is an exceedingly rare thing. If the owner plays their cards right, the status derived from simply possessing such a thing may even trump its actual contents, words from the Chronicle of Caine. How many modern Kindred can say that they hold something with such a direct connection to the Kindred of myth?
+  Any group of Kindred powerful enough to keep hold of such a substantial piece of Noddist lore could potentially leverage it for both material and political gain. While most vampires are preoccupied with hiding themselves from mortals or the nightly hunt for blood, the masters of the tablet can present themselves as part of the lofty elite in the vampire world.
+  While the tablet itself wouldn't confer the praxis of a domain, its owner can make grand claims about the wisdom of Caine, the ancient laws of the Kindred and their purported eventual destiny. They can conceal real information locked within the tablet while holding the object itself up as the symbol of their authority and power. The Church of Caine would be particularly drawn to the tablet as it would prove the Book of Nod is as an ancient text and not the invention of the Sabbat or some other foe of the Camarilla.
+  The following story ideas revolve around the tablet as a symbol of prestige. The actual occult or mystical secrets locked within are left up to the needs of the story. A young coterie such as that of the players' characters could be attracted to the Kindred holding the tablet because they're curious about the origins of their kind, or because they believe it'll grant some sort of supernatural power. A more ambitious coterie might even seek to steal it and use it to make their own reputation.
+The Elder
+An elder vampire known to possess the tablet and other Noddist artifacts has gone missing. Their wisdom kept the peace between the city's most powerful Kindred and their absence threatens to unravel everything. Were they murdered by hunters, seduced by an old rival, or did they succumb to the Beckoning? Whoever holds the tablet could gain great status with the Church of Caine and play a vital role in deciding who rules the city in the future.
+The Neonate
+A young vampire approaches the coterie and claims they are part of a Noddist prophecy and that only they can decipher the secret hidden within the tablet. Perhaps the coterie is aware that the neonate is able to trace their lineage to a legendary vampire, or a Malkavian seer saw them in a vision, or they were Embraced under peculiar circumstances. Regardless of the stranger's motives, Noddists, Bahari, and Gehenna cultists are now searching for the coterie and some would prefer the tablet's secrets remain unknown. Is this an elaborate trap conjured up by the coterie's rivals? An opportunity to ingratiate themselves with the Church of Caine? Or does Caine truly have a special role for them to play in the Gehenna War?
+
+The Warlord
+A fanatical vampire warlord or popular Church of Caine demagogue threatens to burn the city to the ground. A horde of recently Embraced, bloodthirsty followers are only a few nights away. The bestial warlord claims they purchased the tablet from a respected Kindred, perhaps even the coterie's Mawla, but was delivered a fake. Allowing such a key piece of vampire history to fall into the hands of such a creature would be a tragedy, but is it worth risking the Masquerade? Why would a supposed ally work with such a monster in the first place? Why risk such a dangerous vampire's ire and what could they have offered to pay for something as priceless as the tablet?
+The Mortal
+A mortal researcher has unearthed an ancient stone tablet with writing that local Noddist Kindred recognize as being in ancient Enochian. Unfortunately, the mortal is something of a celebrity, a high-profile academic with regular appearances on television commenting on the issues of the day. This means that it's difficult to steal the tablet discreetly to say nothing of dealing with the researcher more permanently. What's worse, they might manage to decipher the text. Of course, the contents would probably be understood as myth, not fact, but the thought of the stories of Enoch becoming public knowledge is still uncomfortable for Kindred concerned with the Masquerade.
+The Scrolls
+The Book of Nod opens with The Chronicle of Caine, exploring the origins and early trials of the first vampire. Written from the perspective of Caine himself, these scrolls are particularly coveted by Noddists who wish to gain a deeper understanding of the father of all Kindred. Among those in the know, the most high-profile Noddist researcher is the Malkavian Aristotle de Laurent, but of course among the fractious Kindred he has his detractors.
+  Many hope to get their hands on an authentic scroll in the hopes of noticing something that de Laurent missed or misinterpreted. Some clue that can either unravel the text as a hoax or prove its provenance beyond a shadow of a doubt. The Church of Caine, a Kindred cult of Noddists with a growing influence in the Camarilla, is particularly interested in anything that can cement their claims that Cainites can trace their roots to the stories of Caine.
+  The Bahari also have a keen interest in these texts as they search for clues to why Lilith chose to aid Caine when he was lost in the Land of Nod. The following story prompts focus on plots that use the scrolls to unearth the secrets of the vampiric condition and its origins. 
+The Researcher
+A scholarly vampire genealogist returns to the Elysium after a long absence, claiming to have proven that the Kindred could not have originated from a single source. Their salons quickly become popular social events, but their conclusions undermine many Noddist myths and articles of faith. Local Camarilla traditionalists, zealous Noddists, and a few members of the Church of Caine have demanded they recant their research and some fear violence follows if they don't. Perhaps some overlooked secret within the Chronicle of Caine could help them make their point? Or disprove their theory all together? Even if a young coterie is interested in the details of vampire theology, they could make a name for themselves by finding a novel solution or playing all sides for their own interests.
+The Ruins
+An ancient structure is discovered beneath the city. The local Camarilla Prince has warned that anyone disturbing the structure will be subjected to the Blood Hunt and destroyed. The origin of the buried temple or edifice is unknown, but a rumor soon spreads it was built by a long defunct cult of vampires. Why is the Prince forbidding entry? Perhaps the worn scrolls found in the vicinity will give a clue?
+The First City
+A young coterie claim they have discovered the first steps on the path to Golconda in the ruins of Enoch, the lost city where Caine ruled. They've been scouring the world for Noddist texts and believe Caine's tale of the angels can unlock the suspire, the last step into Golconda. Even if these Kindred are telling the truth, rumors spread that they have stolen the texts by murdering elders and Noddist scholars. Others believe their claim to Golconda is a ruse, and that they serve unknown masters or simply wish to dupe other Kindred into their scheme for money and clout. Most alarmingly, they are willing to trade Enoch's location for the last texts they need to reach Golconda. A secret no Noddist scholar would be willing to pass on. Even if the players' characters are not Noddists, they will have to find a way to profitably navigate this scheme before they find their allies, mentors, and rivals increasingly embroiled in the needs of these Golconda grifters.
+
+The Misunderstanding
+There's a new face among local Noddist circles, someone maintaining a mortal persona as the reclusive proprietor of an antique book store. They only make a rare appearance but seem to have access to fragments from the Book of Nod nobody else has seen. Their disheveled appearance and monomaniacal focus suggests the stories from the land of Nod have taken hold of their imagination to a singular degree. It takes a while for anyone to grasp the truth: The newcomer is not a vampire at all but a mortal who has managed to unearth some of the same secrets the Kindred have hunted for a millennia. The question becomes: Should they be eliminated? Made into a ghoul? Embraced?
+The Chronicle of Shadows
+The second collection of texts in the Book of Nod, The Chronicle of Shadows, explores Caine's commandments to his progeny and the wisdom of the clan founders. Although rarely acknowledged, the Camarilla's Traditions are often assumed to be interpretations of Caine's Law. While the Book of Nod's lore is most often pursued by elders, Camarilla members, Bahari, and the Church of Caine, some Anarchs have also become interested in the pronouncements of Caine and the Brujah founder on how Kindred should treat mortals and ghoul servants.
+  More esoterically minded Kindred might pursue the chronicle for the secrets of the restless dead. Though exceedingly rare, a few scholarly minded hunters could also find a use for these collected writings. How vampire "culture" views mortals and how they've historically used mortal society could give a shrewd group of hunters new insights into how to approach the vampire problem. The ideas below deal with the underpinnings of Kindred society, law, and politics. 
+The Traditions
+A tyrannical Camarilla Prince has proclaimed bizarre new "Traditions"or "Courtesies" in their domain restricting which clans are allowed to Embrace, which individuals may claim Domain, or even classes of acceptable Ghouls. They impose unequal, onerous responsibilities on local Kindred, and new draconian punishments for the slightest offenses. The tyrant's edicts are backed by a reclusive group of scholars claiming to possess a complete and perfectly translated version of the Chronicle of Shadows. Many believe this is simply a power grab by a power-hungry tyrant, but others suspect that the Prince is backed by a shadowy figure, recently risen from torpor, who may even by a member of the Primogen council. Unsurprisingly the Kindred saddled with the new restrictions have become agitated and are already looking for a way to overturn these supposedly "rediscovered" Traditions of Caine. A cunning coterie could find great opportunity in their plight, or find favor among the powers that be by turning over those attempting to undermine the new order. 
+The Anarchs
+An Anarch gang has caused an uproar in several cities, demanding that all ghouls be freed from the enslavement of the Blood Bond through an impractical system of cycling ghouls through a consensus circle of just about every Kindred in the city. While they have yet to resort to violence themselves, their activism has caused divisions within the local Camarilla and Anarch Movement. While such ideas do sometimes percolate among the Anarchs, this gang has taken the novel approach of referencing Noddist texts in their appeals. Where did a group of so-called "Anarchs" get their hands on these scrolls? Are they somehow connected with a larger plot to turn ghouls against their masters? How will the Church of Caine respond when its own teachings are used to strip powerful benefactors of their loyal retainers?
+The Utopians
+Despite the dangers of the Second Inquisition, a movement has emerged among a group of Brujah and thin-bloods advocating for the dismantling of the Masquerade. These zealots cite the words of Caine and the role of mortals in the city of Enoch. While this idea has outraged many Kindred in the city, it has found some supporters among the Anarchs, a few autarkis, and especially among those vampires who holding onto the myth of Carthage. According to legend, in that ancient city mortals willingly gave their blood to their Kindred benefactors. These zealots believe that they can exist among mortals openly if they have enough support. While they have yet to break the Masquerade themselves, the dangers of their message is obvious. That no one in authority has moved against them in force is as much of a mystery as their origins.
+The Hunters
+A group of mortal hunters have destroyed a Noddist vampire scholar and have stolen their cache of occult texts. They've begun to decipher the Noddist scrolls in their possession and learned a great deal about vampire society and the power of the Blood Bond and the Kiss. Most shockingly they've used this knowledge to identify and shadow ghouls back to their masters' havens. Are they part of a larger organization? How many other hunters have they passed this knowledge on to? Killing them and recovering the stolen texts might not solve the larger problem. A savvy coterie of young Kindred might have to find a way to discredit them, or perhaps they could use what the hunters have learned to attack the ghouls of their own rivals. 
+Proverb Fragments
+Aside from the Traditions derived from Caine's laws, the proverbs found within the Book of Nod are arguably the most well-known parts of Noddist lore. Many are little more than stereotypes and common wisdom intended to guide a young Kindred in the intricacies of vampiric society, but a few are thought to speak of deeper truths regarding the Cainite condition. More than a few Anarchs have suspected that the proverbs are a late addition to the Book of Nod, meant to support Camarilla rule.
+  Unlike many of the other maxims gleaned from the Book of Nod, repeating these proverbs is unlikely to raise too much suspicion in the Camarilla and may even be taken as a sign of an attentive and scholarly sire. Many Anarchs consider this kind of "schooling" a sure sign of Camarilla indoctrination. This also makes them useful to Noddists, Gehenna cultists, and Sabbat vampires who wish to seek each other out or communicate without exposing themselves to the uninitiated.
+  Making sense of a proverb is often less important than understanding the subtext present in the situation in which they are used. Is the speaker an elder or scholar? Or are they signaling their allies to action or nefarious deeds? The story ideas below expand on some of the most well-known proverbs as plot devices and how they can shape a domain's response to challenge and danger.
+"The first to die in any Jyhad are Nosferatu." 
+The city's Nosferatu have quietly been disappearing and many of the more conspiracyminded Kindred have begun to fear the worst. None have been found destroyed and the few Nosferatu who remain are either unwilling or unable to shed any light on the situation. Is the domain under attack by a subtle foe, or have the Nosferatu stumbled upon something in their warrens and tunnels that's too terrible to speak of above ground? Whatever the truth, the domain's power brokers have taken on a siege mentality as they see the Nosferatu's plight as an ill omen. Their perfunctory investigations have revealed nothing and they seem content to isolate themselves in their penthouses and gated communities until the danger passes. Kindred fear walking the streets as others of their kind begin to disappear. An outright revolt forms as common vampires become too afraid to feed and begin to band together as their paranoia grows. A savvy coterie could use this opportunity to gain goodwill among the less fortunate by finding the cause of the trouble. Or they could curry favor with the powers that be, by subverting any attempts to turn the city against them for failing to protect the less fortunate.
+"Watch your own Childer: 
+on the lips of all is the honey-taste of Diablerie."
+There is no greater crime than consuming another Kindred's very essence. This is a common refrain among those aged Cainites most likely to be on the menu. While the cannibal Noddists of the Sabbat seem to exult in "eating the heart's blood," the Book of Nod itself is quite clear in its admonitions. The fall of Enoch and the clan banes are portrayed as the foul fruit of diablerie and Caine's wrath against those who would devour their own. Despite these dire warnings, diablerie remains a singular temptation among many Kindred, perhaps more so than ever as elders become rare and the strength of the young and thin-blooded grows. When the domain's last elder goes missing, few accept that those who so long resisted the Beckoning would abandon the domain without a farewell. Their progeny quickly become the prime suspects, but without any of the obvious marks of diablerie upon them, the truth will require careful investigation. Have these wayward childer discovered a way to hide the telltale signs? Or are they the victims of a plot to see them blamed for the crime of another? 
+
+"Let not the priest, poet, or peasant see you feed. Not one of them will leave it be."
+A local mortal band gets a lot of media attention when one of their songs goes viral and soon they'll receive a large music deal. Unfortunately their lyrics make it clear that they know too much about Kindred society, making mention of "the Embrace", "ghouls", "the Kiss", and "thin-bloods". How the local vampires will handle this potential breach of the Masquerade becomes personal if a player's character's Touchstone or other RelationshipMap connection is a member. Not only could this potentially cause them to lose a vital asset, but their entire coterie may immediately be seen as the likely source of the Masquerade breach or they are forced to extreme lengths to silence their own Touchstone(s). Discovering where they learned about the Kindred could be the only way to prove their innocence. Perhaps one of their roadies is a Duskborn? Or they stumbled upon a vampire feeding in a heroin den and he became too talkative in his delirium? Or maybe they were given fragments of the Book of Nod by a rival coterie so as to frame the players' characters?
+The Chronicle of Secrets
+The most notorious part of the Book of Nod among Noddist scholars is the Chronicle of Secrets, and few Kindred bring it up in polite company. While it covers a wide variety of topics, in truth the Chronicle of Secrets is concerned with only one thing: Gehenna. The Final Nights. When all vampires are judged for their crimes before the throne of Caine. (At least if you believe in such things.)
+  We learn about the signs of Gehenna but the nature of the calamity and its cause remain mysterious. Anarchs that concern themselves with the Book of Nod find these passages the most troubling as they feed both the worst despotic impulses of Camarilla Princes and the cruel zealotry of Sabbat saboteurs. With the excuse of an upcoming apocalypse, the worst crimes and sadism suddenly become palatable and humanity a forgotten concern. The story ideas below revolve around prophecy and how Kindred might react when faced with seemingly inevitable destruction.
+The Seer
+A seer believed to be of Malkavian Blood has entered the city under the protection of a powerful mentor. The reason for their visit is unknown, but their reputation precedes them like a bad omen. The seer is believed to understand the signs of Gehenna like no other as many of their pronouncements have supposedly come to pass. The seer quotes the Chronicle of Secrets as if tutored by the most learned Noddist scholars. Is this seer here to liven up their patron's salons? Or has a sign of Gehenna appeared for them to interpret or analyze? At first this seer's presence is a novelty, but soon becomes a pressing concern as powerful Cainites begin to seek their advice and participate in dangerous Noddist rituals. When a very popular Anarch Kindred is destroyed during a vision quest guided by this seer, other Anarchs demand answers.
+The Lupines
+The Book of Nod has conflicting messages concerning werewolves. In some sections it seems to call them kin to the Gangrel and advises Kindred to leave them be as they can be dangerous enemies. In other places, such as among the Proverbs, the text advises vampires to "feast" upon the blood of the Moon Beasts. The Chronicle of Secrets implies that the rise of a great Lupine threat will be one of the many signs of the coming Gehenna, though a few Noddist scholars refute this interpretation and think the text speaks of a forgotten enemy instead. When a nearby city's Court is completely destroyed by savage monsters under a blood red moon, the few survivors are quick to blame the Lupines. While the refugees and their resources are initially welcomed, it soon becomes clear that whatever wiped out their Court has followed them to their new home. Is this an early sign of Gehenna? Or is there a darker secret following these Kindred?
+The Prophecy
+Prophecy is at the heart of the Chronicle of Secrets, and few prophecies have been more true than that of the thin-bloods considering more seem to appear every night. If the Noddist scholars are to be believed then the Book of Nod predicts the coming of the thin-bloods and their weakened nature by several millennia. That the curse of Caine weakened from generation to generation had long been clear, but that it would break and cease to take root in Embraced mortals must have seemed absurd until the first of the duskborn came to be. When a thin-blood tattooed with the Chronicle of Secrets enters a domain uninvited they are quickly captured and executed by the local Prince. The tapestries made from their remains become the centerpiece at the Elysium, but when a blood-borne plague afflicts the court many wonder if they are somehow cursed. Is this sickness the mystical revenge of the tattooed thin-blood or another sign of Gehenna's coming? 
+Apocryphal Texts
+The version of the Book of Nod compiled by Aristotle de Laurent is the one a modern vampire is most likely to see. However, de Laurent had his own prejudices and opinions as to what should be included. There are other versions of the book as well, with a slightly different set of texts.
+  The question of translations is an important issue of its own. All of the known fragments in the Book of Nod have been translated and re-translated many times across the centuries. Original meaning may have been obscured or even reversed.
+  Similarly, the various petty squabbles of Noddists through time have influenced the content of the book. Sometimes feuds between Kindred academics have turned deadly over something as trivial as the proper translation of a single expression.
+  And of course, even though de Laurent has a magnificent collection of Noddist scrolls, manuscripts, stone tablets and other artifacts, some may still have eluded him.
+  In Chapters 3 and 4, you will find the apocryphal documents that can be found in The Book of Nod 
+Deluxe Artifact Edition. ?
+
+Chapter 2: The Apocrypha
+CHAPTER 2
+THE APOCRYPHA
+
+
+I've been able to corroborate some of the apocryphal additions to the Book of Nod from interviews with our ancient kind. Of course, they're arrogant and more trusting of their memories than they perhaps should be, but it's still useful. If I have a primary text in the form of a manuscript and then find an elder able to recite it almost verbatim, it means the words didn't flow from the pen of a modern fabricator.
+Although of course there have been many mythmakers among our kind in ages past as well.
+- Beckett, a Gangrel knowledge seeker
+he version of  the Book of Nod compiled by Aristotle de Laurent is the one a modern vampire is most likely to see. However, de Laurent had his own prejudices and opinions as to what should be included. There are other versions of the book as well, with a slightly different set of texts.
+ The question of translations is an important issue of its own. All of the known fragments in the Book of Nod have been translated and re-translated many times across the centuries. Original meaning may have been obscured or even reversed.
+ Similarly, the various petty squabbles of Noddists through time have influenced the content of the book. Sometimes feuds between Kindred academics have turned deadly over something as trivial as the proper translation of a single expression.
+ And of course, even though de Laurent has a magnificent collection of Noddist scrolls, manuscripts, stone tablets and other artifacts, some may still have eluded him.
+ Below you will find a few sample apocryphal documents that can be found in The Book of Nod Deluxe Artifact Edition.
+Chapter 2: The Apocrypha
+Shaal Fragment
+And when She made preparation to return, the world broke in two. The Childer of Caine on one side, The Childer of Lilith on the other, And it was Gehenna.
+They named her Shaal for her questions, Though her names were many and maddening to hear. The Childer's Childer recognized opportunity in chaos. Arikel sought unity,
+Ashur sought divinity, Loz sought war,
+Malakai sought peace.
+Malkav sought wisdom through bargain with Ilyes, Who told his brother,
+"Your wisdom shall come with centuries of madness,
+Allowed to purify into something whole, The vitae of the mad will pour afresh in years to come.
+The old forms shall wither on the vine, And declare the end times.
+Only the children of Enoch,
+Shall see the new age."
+The breaking of the world near complete, The sacrifice of a generation prevented Shaal's Gehenna. She would try again, And again.
+Each time a new sacrifice, More burdensome than the last. Malkav's blood shall pour forth, The Book of Chaos in the Underworld written,
+To prevent Shaal's Gehenna.
+Sargon's get will understand,
+But they will not share their understanding. The Brides of the Dragon will understand, But their fee will be high.
+Her hatred is as the phases of the moon.
+Gehenna follows the path of Her ire.
+
+Shroud of Kaymakli
+The time has come, My Children, For me to bid the night goodbye.
+But know that I do not leave you.
+Await the time when I join you again After you have learned the wages Of your vanity, sin and pride.
+And mark well the heralds of my return
+For I do not leave the affairs of my house To be tended by the Children of Seth."
+"And I traveled for a hundred years before I found
+My father's first wife
+Whose blood I drank
+And yet she was Awake still. "I must talk to the One Above," I said And she smiled.
+"Talk to Him," she said,
+"But know that he has turned his back on you
+For your sin."
+At this I cried thirteen tears of blood And named them as each fell When Lilith said:
+"Why do you call our children's names?
+They cannot And will not Help you.
+They are nothing but other sins
+Committed to make sweet Abel's death
+Less sharp in your cold heart."
+And to her I said, "Mother, lover, I cannot feel.
+We made them to buoy me
+And yet they drag me into [Hell]."
+And I grew tired,
+My dead heart heavy with all that I had done. So I pledged to sleep until my wrongs Had righted themselves.
+With Lilith's knife, I cut myself and sang:
+"From these open wounds
+Life shall come from death,
+As the last daughter
+Bearing the mark of the moon,
+Sends [Lasombra's] bane to the ashes,
+Sends [Gangrel's] brood to the cold stone, Infests [Nosferatu's] den with [snakes] and strikes down his wife,
+And pierces the rest of my grandchilder
+With the fires of the wise."
+At these words, I sank Embraced by the cold arms of Lilith's garden.
+Please [God],
+Erase my folly And end this.
+On the last night, the eve of Gehenna,
+All of Caine's race shall know of God's judgment
+
+
+
+
+
+Chapter 2: The Apocrypha
+Vencel Rickard's Fragment
+And there came a time when. Malkav. seer of Caine. stopped receiving visions. His eyes went dark and could no longer foretell fortunes. 
+Even his companion, gentle Saulot, could not comfort him. 
+Doubt consumed him and he left Enoch, 
+Left his brothers and sisters, 
+Left his father's city and left in search of Caine. 
+For many a long night. he was alone. He would not feed because he needed to know why; 
+He would lay restless during the day because he no longer saw angels; 
+His doubt blinded him, his existence a cage. He asked the One Above to guide him. and like Caine before. 
+He sacrificed what was dear to him - his vision. 
+This is how Malkav, blind, came upon Caine. In the shadows of a sycamore, Malkav spoke to his Father, 
+Because God no longer spoke to him. There, in the night, Malkav asked a simple question of Caine. 
+A question he needed answered to better understand his curse, And His silence. 
+Malkav asked Caine, "Why?" "Why did you cast your brother's blood to sand?" 
+"Why did you cast yourself to darkness?" 
+"Why did you refuse forgiveness when it was 
+offered?" 
+"Why did you condemn us, and our children, and their children's children, to betray one another until the Final Nights? "Why were you blind to the love of God and your brother?" 
+And with each question Caine's anger grew and swelled, 
+Not because of Malkav's disrespect, or his doubt in him, 
+Progenitor of his Race, God and Father to them all, 
+But because Caine himself did not know. In Malkav's face, Caine saw Abel and could say nothing. He no longer remembered: 
+The love that cursed him to darkness; 
+The words of God before his banishment; His brother's voice; Were all forgotten. 
+He knew that this misery would last until the End of Days, And this angered him. 
+Then Caine said to Malkav: 
+"I do not know, Seer, and nor shall you, And like my brother feared me, your brothers shall fear you, 
+Your visions, and your burning questions. I condemn you to silence, The silence of madness so that you, like I, will be forever alone in doubt." This is how Malkav was destined to madness, crushed by doubt, 
+And so he waits until Gehenna to ask Caine once more-"Why?"
+
+Uncatalogued  Fragments
+Beware the Cainite who forgets his Curse,  As to dream of mortal harmony.  
+For all his cities will become ash  
+And all his dreams shall be scattered to the winds  
+A new enemy attends him now,  
+The childer of his arrogance  
+Twice born, thrice reborn, hungry for death  Nurtured on devoured souls  Savoring war as substance.
+His children will be reborn from the ashes,  
+The blood shall call them forth,  
+Even from the land of shadows,  
+From ashes they shall rise and walk again.  
+So let none of the faithful fear death,  
+Zillah's tears shall nourish them,  
+Blood of the Second Generation,  
+Shed in the sorrow for the loss of her brothers.  
+So shall the faithful become Zillah's childer,  And share in Caine's triumph,  And rule at their Father's side.
+Caine be thy paragon thou shalt emulate or surpass, not worship.
+No end be served when thou crawls and grovels at thy Dark Father's feet.
+Thy hierarchy and elders' writ enforces frailty. Caine is thy Father, yet Caine be elder, and due subject of thine rebellion. As Caine rebelled, thou shalt rebel. Understand thy form and role under God, embracing thy predatory role, for it be divine. The predator doth not swallow pride and accept naught as elder deigns it so.
+Weakness be imposed on thee. For thee to surpass Caine, thou shalt study Caine and surpass all weakness.
+The Path of Caine leadeth us to rightful divinity. Strength be the core of all Cainites. 
+Thou must consume the weak to become strong. 
+The Amaranth be a single path, yet not thy single journey.
+Let the snake, spider, and crocodile be roles that guide.
+Eschew the fury of the wolf, lion, and bear. The studious predator be thine model.
+And then the Dragon plundered Kupala's mantle
+As he had been led to do
+And wore it as his own
+Ruling the land between the rivers
+And every place he strode
+As was His will
+Yet it forever remained a bitter veil
+Stolen and ill-fitting
+Proverbs
+Aristotle collected and rejected many proverbs over the ages, below is a sample of these that, ultimately, were not deemed authentic to the proverbs section of the Book of Nod:
+* The strong live by their own wages; the weak by the wages of their children.
+* Writing is the mother of eloquence and the father of artists.
+* Friendship in days of prosperity is servitude forever.
+* Let your family be as a tree: prune the weakest branches that the whole may be strong. ? If you wish a secret to be known, tell it to a Toreador.
+* Three things a Prince should never do, if he means to prosper: Anger the Brujah; Embarrass the Ventrue; Ignore the Nosferatu.
+* In the darkness there is no rainbow.
+* The best way to defeat an enemy is to outlive him.
+* When the elders leave, it is time to fear.
+* If you must see love embraced, let it be done by your sire.
+* Nothing is more dangerous than a bored elder.
+* Every Cainite is a pawn on someone's chessboard
+Chapter 2: The Apocrypha
+* Do not gamble with the Beast, for in the end it always wins.
+* Give a Ventrue a crown and he will be content.
+* When you think you understand an elder's motivation, That is the time to start worrying.
+* To find the greatest darkness, seek within.
+* Never underestimate women. Once Embraced, they make the fiercest predators.
+* The safest way to assuage the rage of an elder is to amuse him.
+* When the Ravnos leave, check your purse. When the Ventrue leave, check your lands and servants. When the Brujah leave, check your defenses.
+* Only a Nosferatu truly understands what beauty is.
+* Fear your enemy most when he is silent.
+* The more generous a Setite appears, the more wary you should be of accepting his gifts.
+* Treasure those who guard you, who bear your blood as their strength. Protect them from danger, and cherish them as your own. For without them you are naked before the sun and helpless before your enemies.
+* Hunt the shadow-sleepers Think not on fear or hate Hunt them for blood for Kindred's sake.
+* They must not awaken Slay the one and there shall not be a one when the sun sets.
+* When love and hate turn strange 
+And magpies filch the hours 
+And Judas limbs betray 
+Know you are a figment 
+A shadow-sleeper's dream 
+Remember, remember 
+Dreams die when sleepers wake Remember, remember for Kindred's sake.
+* Seek not the blood of thine own Elder.
+* Embrace not Love, for Love in My Embrace will grow cold, wither, and die.
+* Thou shalt not Emrbace love. ? Never forget your Sire's Sire, Caine the Wanderer.
+* In quiet, you will know beauty, in beauty you will know truth, in truth you will know love, in love, you will know quiet.
+* Beware those who walk without a clan, for they will be our undoing. ?
+
+
+CHAPTER 3
+KINDRED LAWS
+AND TRADITIONS
+
+
+I don't care whether the Book of Nod is real or not. 
+What matters to me is the way it's being used. The Princes of the Camarilla cloak themselves in veneration of our ancient past when they wish to pass the worst of their edicts, pretending that their greed is merely observance of Caine's law. The Book of Nod is a tool used to suppress us, no matter its veracity.
+As Anarchs, we have two options: We have to suppress it, or subvert it.
+- Salvador Garcia, Anarch ideologue
+
+Kindred laws and traditions often extend back to the Book of Nod. Here are a few of them, compiled for easy reference. Their arrangement is in roughly chronological order: Many Anarchs and disaffected autarkis formerly of the Camarilla have sought out previous traditions, questioning the Ivory Tower's pretence as the bastion of Kindred orthodoxy.
+
+Traditions of Caine
+I. Covenant
+"Thy blood makes thee my brood, crafted in my image. My curse is thine, and my salvation is thine. I stand before and above thee as god-regent. I am the way, my Traditions my covenant. Renounce me and Renounce all hope."  Thus spoke Caine.
+II. Domain
+Thou art its master, and all will respect this or suffer thy wrath. All will present themselves when entering, and thou shall protect them in turn. By right, thou art allowed to hunt within the bounds of thy domain, its blood thine own. Accept its responsibility, minister thy domain, and pay others the same 
+respect thou expect."  Thus spoke Caine.
+III. Progeny
+"Thou shalt only sire another with the permission and blessing of thine elder. To create is the providence of those closest to me, for they shall be accountable. Break this, and both thee and thy progeny shall be slain." Thus spoke Caine.
+IV. Accounting
+"Those thou create are thine own blood until release from thy charge. Until that moment, their sins, their blood and their punishments are thine." Thus spoke Caine.
+V. Destruction
+"Forbidden art thou to spill the blood of another of thy kind who is elder. This right belongs only to the closest to me and none other. It is forbidden for those of weaker blood to rise against their elders. This is my final covenant."  Thus spoke Caine.
+VI. Silence of the Blood
+"Never shalt thou reveal thy true nature to those not of the blood. Doing so shall renounce thy claims to my covenants." Thus spoke Caine.
+Legacies of  the Trinity
+I. The Legacy of Trinity
+Of three is the rule of Constantinople. Only those Three can voice their concerns and set upon this codex new laws. It is also the responsibility of the Three to ensure that the concerns of the Scions are heart.
+II. The Legacy of Progeny
+Only those of the Trinity are free to sire. Even the scion families must petition the three Quaesitors for permission to sire. Failure to do so results in destruction of the progeny and banishment of  the sire.
+III. The Legacy of Founding
+Only the Three can bequeath domain, just as the First Three founded the city. Cainites are granted domain upon the Embrace, if they are to receive any at all, and are responsible for ensuring that the Codex of Legacies is enforced in their domains.
+IV. The Legacy of Shadow
+The Three are masters of the night, and hence must rule in darkness. They must be revered as divinities, but their true nature should never be revealed. Just as the nature of the Father, Sun, and Holy Ghost is unknown, so must that of  the Trinity.
+V. The Legacy of Ashes
+The destruction of a family member is prohibited unless the Three condone it. Violation of this legacy results in a trial, after which Final Death is inflicted upon the offender. Those not of the families are not so protected from harm.
+
+Old Tremere Code
+I, [initiate's name], hereby swear my everlasting loyalty to House and Clan Tremere and all its members. I am of their blood, and they are of mine. We share our lives, our goals and our achievements. I shall obey those the House sees fit to name my superiors, and treat my inferiors with all the respect and care they earn for themselves.
+  I will not deprive nor attempt to deprive any member of House and Clan Tremere of his magical power. To do so would be to act against the strength of our House. I will not slay nor attempt to slay any member of the House and Clan except in self-defense, or when a magus has been ruled outlaw by a properly constituted tribunal. If a magus has been ruled an outlaw, I shall bend all efforts to bring such magus to justice.
+  I will abide by all decisions of the tribunals, and respectfully honor the wishes of the Inner Council of Seven and the wishes of my superiors. The tribunals shall be bound by the spirit of the Code of Tremere, as supplemented by the Peripheral Code and interpreted by a properly constituted body of magi. I have the right to appeal a decision to a higher tribunal, if they should agree to hear  my case.
+  I will not endanger House and Clan Tremere through my actions. Nor will I interfere with the affairs of mundanes in any way that brings ruin upon my House and Clan. I will not, when dealing with devils, or others, in any way bring danger to the clan, nor will I disturb the faeries in any way that should cause them to take their vengeance on the House and Clan. I also swear to uphold the values and goals of the Camarilla, and I will maintain the Masquerade. Insofar as these goals may conflict with my goals, I will not pursue my own ends in any way that would endanger the Masquerade. The strength of the House and Clan Tremere depends on the strength of the Masquerade.
+  I will not use magic to scry upon members of the House and Clan Tremere, nor shall I use it to peer into their affairs. It is expressly forbidden.
+  I will train only apprentices who will swear to this code, and should any of them turn against the House and Clan, I shall be the first to strike them down and bring them to justice. No apprentice of mine shall be called magus until he first swears to uphold the code. I shall treat my apprentices with the care and respect that they earn.
+  I concede to my elders the right to take my apprentice should it be found that my apprentice is valuable to an elder's work. All are members of the House and Clan and valuable first to these precepts. I shall abide by the right of my superiors to make such decisions.
+  I shall further the knowledge of the House and Clan and share with its members all that I find in my search for wisdom and power. No secrets are to be kept, or given, regarding the arts of magic, nor shall I keep secret the doings of others which might bring harm to the House and Clan.
+  I demand that, should I break this oath, I should be cast out of the House and Clan. If I am cast out, I ask my brothers to find and slay me that my life may not continue in degradation and infamy.
+  I recognize that the enemies of the House and Clan are my enemies, that the friends of the House and Clan are my friends, and that the allies of the House and Clan are my allies. Let us work as one and grow hale and strong.
+  I hereby swear this oath on [current date]. Woe to they who try to tempt me to break this oath, and woe to me if I succumb to such temptation.
+
+
+Traditions of the Camarilla
+I. The Masquerade
+Thou shall not reveal thy true nature to those not of the Blood. Doing such shall renounce thy claims of Blood.
+II. Domain
+Thy domain is thine own concern. All others owe thee respect while in it. None may challenge thy word while in thy domain.
+III. Progeny
+Thou shall only Sire another with the permission of thine elder. If thou createst another without thine Elder's leave, both thou and thy Progeny shall be slain.
+IV. Accounting
+Those thou create are thine own children. Until thy Progeny shall be Released, thou shall command them in all things. Their sins are thine to endure.
+V. Hospitality
+Honor one another's domain. When thou comest to a foreign city, thou shall present thyself to the one who ruleth there. Without the word of acceptance, thou art nothing.
+VI. Destruction
+Thou art forbidden to destroy another of thy kind. The right of destruction belongeth only to thine Elder. Only the Eldest among thee shall call the Blood Hunt.
+
+The Status Perfectus
+Being a Declaration of Principles for the SelfGovernance of the Kindred of the Free State.
+  We, the Kindred of the Free State, do hereby declare that we and our progeny, and all Kindred who choose freedom over oppression and liberty over tyranny, of all clans and generations, have as an inherent part of their being the spiritual substance called libertas, or Free Will. We further declare that, as we have freed ourselves from the bonds of mortality, so must we free ourselves from the forces that would rob us of our libertas. Not only must we continue to struggle on our own behalf, but on behalf of our brothers and sisters who continue to be robbed of their libertas by oppression, ignorance and fear.
+  The Anarch Free State is the political expression of that struggle. In choosing to free ourselves from political tyranny, we have also chosen to embrace our own libertas and that of our brother and sister Kindred everywhere.
+  For these reasons we, the Kindred of the Anarch Free State, meeting this night in solemn convocation, do hereby pledge ourselves to the following principles:
+1. We declare ourselves to be free and independent, owing allegiance to no creature and no organization.
+2. We declare our ability to rule ourselves, with no prince, no primogen and no other ruler other than that we choose for ourselves. 3. We declare our kinship with oppressed 
+Kindred everywhere and offer a home to all Kindred of all generations and clans who will agree to dwell in harmony with us.
+4. We further accept our responsibility to our oppressed brothers and sisters everywhere and pledge to assist them at all times and in all places in their own struggle for the freedom that we declare to be the birthright of all Kindred, from now until the end of time.
+5. We recognize our responsibility to maintain the Masquerade, and we pledge to protect and defend it.
+6. We establish this Status Perfectus and recognize its duty to all Kindred. ?
+
+Chapter 4: Disciplines
+CHAPTER 4
+DISCIPLINES
+
+
+They've put me on the Red List just because 
+I published the Book of Nod, broke the Masquerade and committed diablerie more than once. But it all serves a purpose, after a fashion. Trying to kill me is like trying to quiet the voice of destiny. Every attempt only adds to my name, even when I never sought to be infamous among our kind. I never sought for this to happen but it seems my name has been inscribed in the annals of our kind for the crime of perpetuating memory. 
+The lawbreakers are the ones whose legend lasts. Look no further than Caine himself!
+- Ayisha Jocastian, Malkavian  neonate and publisher of a modern print edition of The Book of Nod
+This chapter details Discipline Powers, Rituals, and Ceremonies which connect to the themes in the Book of Nod: masters of Blood Sorcery and Oblivion search for-or create-texts and relics, and Noddists and other scholarly groups seek out the mysteries of the elders.
+Note: Scour Secrets appears in the Players Guide and Shape the Sanguine Sacrament in Winter's Teeth Volume 1.
+Blood Sorcery
+Level 1 Shape the Sanguine Sacrament
+Learned mostly by the most ostentatious of Tremere, this power is used to manipulate blood or vitae into finely crafted images-whether entertaining your fellows at Elysium with gaudy magician's tricks or diverting flowing rivulets into painstakingly precise Hermetic sigils. A few others have mastered this power to help clean up others mistakes.
+Cost: Free (or One Rouse Check if using own 
+Blood)
+Dice Pools: Manipulation + Blood Sorcery
+System: By making a successful Manipulation + Blood Sorcery roll, the user may craft the blood into any chape or image they desire. Complexity of the image varies by difficulty- a simple message of "Help!" or a basic polygonal shape may only be at Difficulty 2, while a lengthy diatribe or an intricate sculpture may be Difficulty 4 or higher. Failure on this roll means the blood fails to form the desired shape or does not respond at all-a Critical Success not only forms the desired image, but negates the need for any further rolls to change its shape for the duration of the scene.
+  If used for more utilitarian purposes, add your dots in Blood Sorcery to any roll intended to locate, clean up or otherwise collect blood. Such a use also makes it very difficult for others to find traces of blood.
+Duration: One scene or until lapsed by user Chapter 4: Disciplines
+Level 2 Scour Secrets
+The Blood Sorcerer unleashes rivulets of their Blood primed to search for information on a subject of their choosing. The Blood washes over the object of their search, allowing the Blood Sorcerer to investigate vast amounts of text and volumes in a matter of minutes. The object investigated bears a telltale bloodstain thereafter.
+Cost: One Rouse Check
+System: The user makes the Rouse Check and tests Intelligence + Blood Sorcery against a Difficulty set by the Storyteller: anything from 2 for a single letter in a regular office up to 5 for encrypted information hidden in a vast library. If the information has been supernaturally concealed the Difficulty increases further. The time spent depends on the size of the area to be searched: A single room might be scoured in minutes, while a library requires hours, if not the whole night. Additionally, the power does not impart the ability to parse the information if it comes in an unknown language or in a cipher. If the knowledge sought is stored in non-written formats, such as painting, music, or on old floppy disks, the power works at the Storyteller's discretion, though the Difficulty is likely higher.
+Duration: One night or until the information is found or the search comes up short, whichever comes first.
+Blood Sorcery  Rituals
+Level 1 Blood Apocrypha
+Kindred sorcerers have learned to embed messages into their blood, or a vessel when feeding. Though there may be difficulties in sending the messenger to the recipient, the message is much less likely to be intercepted: this old art has come into vogue since the advent of the Second Inquisition. Ingredients: A drop of mercury and one rouse check's worth of blood. Process: The Kindred whispers a message to the mercury, which carries it through the blood collected in a ceremonially prepared bowl. System: The Kindred encodes about one minute of speech into one Rouse Check worth of blood in a ritual bowl. The ritualist then designates one or more intended recipients of the message whose blood they have tasted. As part of the ritual, a Kindred, mortal, or beast messenger must consume the blood to transfer the message to their own body, otherwise the blood-and message-will rapidly sour. 
+  The first person to consume the ensorcelled blood from the messenger automatically receives the message mentally if they are the intended recipient or possess A Taste for Blood. Any other imbiber must succeed on a Wits + Occult roll (Difficulty 3) to understand the message. Duration: One month plus another month for each point of the margin of success
+Oblivion  Ceremonies
+The Oblivion Discipline and its Ceremonies are fully detailed in the Players Guide.
+Level 2 Ashen Relic
+This Ceremony allows for the preservation of pieces of a Kindred's body even after they've been destroyed. The Ceremony has become more dangerous in the era of the Second Inquisition, as tangible proof of the Kindred's existence poses more danger than ever before. Many of the Hecata and Ministry hunt down such relics, lest the secret of this ancient Ceremony draw unwanted attention from Kindred of the Camarilla or the Second Inquisition. Still, some morbid Kindred find relief in surrounding themselves with the remains of their ancestors (or descendants) and practitioners of Oblivion occasionally find other uses for such relics. To the mercurians of the thinbloods, such relics are a source of speculation and an ingredient of unknown power for their alchemy.
+Prerequisite Power: Ashes to Ashes or Oblivion's 
+Sight
+Ingredients: The decaying body of a vampire, plus salt and herbs associated with embalming. Process: The concoction is applied to the body or body part of the destroyed vampire. Since the decay of the remains - especially supernatural features such as fangs - only takes a few minutes at most, a swift performance is essential.
+System: The player makes their Ceremony test. A win preserves one small body part, such as a finger bone or a fang, while three successes in the margin can preserve a femur or skull. 
+Once created, the relic (usually in the form of a mummified hand, skull, femur, or desiccated eye) persists until destroyed or exposed to sunlight. At the Storyteller's discretion, a particularly high roll or a critical success may grant the relic the power to persist despite sunlight.
+Level 3 Wisdom of the Dead
+This Ceremony allows the Kindred to glean skills and abilities from the head or skull of a corpse. The information gleaned represents the spiritual echoes of the deceased. Their spirit or will is not invoked. Prerequisite Power: Oblivion's Sight or Where the Veil Thins
+Ingredients: The head or skull of the deceased, pure water and a small flame.
+Cost: One Rouse Check
+Dice Pools: Resolve + Oblivion System: The cermonist must possess a skull or head. After rolling Resolve + Oblivion (Difficulty 2 for a mostly intact head, or 3 for a skull), the Kindred begins to glean knowledge from the deceased. The Storyteller will name one skill the deceased was most knowledgeable about in life (or unlife if a Kindred skull) and an additional skill per point of the margin of success. For the rest of the night, the user may draw upon the deceased's knowledge: each time the user rolls one of the deceased's skills, so long as they are still carrying their skull or head, they may add 2 dice to your dice pool. This only applies if the deceased had a higher skill rating than the user.
+  At dawn, roll one die for each skill roll boosted: a failure on any of these dice indicates the skull or head dissolves to ashes as the Ceremony ends and it cannot be reconstituted by any means. Duration: Until dawn or the head/skull is destroyed. ?
+
+
+
+T he B ook of N od
+T
+he Book of Nod collects oral 	some Kindred doubt its veracity and view histories, text fragments, and 	it as the work of Carthaginian scholars. other media detailing the 	The Chronicle of Secrets is the shortest history of Caine and his childer, 	and most enigmatic section. Its highly 
+with additional poems and prophecies 	symbolic passages describe the author's regarding Gehenna and the Final Nights. 	visions of Gehenna. Some Noddists have Its author - or authors - are unknown, 	dedicated their entire unlives to attempting though many Kindred believe Caine, 	to interpret the predictions and apply Malkav, and Saulot contributed significant 	them to their modern nights. Additionally, portions of the text. The stories and 	some scholars view the Erciyes Fragments fragments have been carefully passed down 	as another version of Caine's story, while through the generations; those who own 	others dismiss the Fragments as apocryphal physical pieces of the book take great pains 	and relegate mention of them to a to ensure they don't end up in non-Cainite 	footnote in their dissertations, if they're hands. The Book of Nod also provides the 	acknowledged at all. 
+theological basis for the Sabbat's worship 	The Book of Nod's collectors, 
+of Caine. 	translators, and editors have introduced 
+	The first and largest section of the book, 	myriad inconsistencies and contradictions 
+the Chronicle of Caine, recounts the tale of the 	over the millennia, and no two scholarly analyses ever first vampire, his childer, and the rise and rebellion 	completely agree on its true content. Many among the of the Antediluvians. The Chronicle of Shadows 	Camarilla denounce the book and ban, confiscate, or destroy lays out a series of laws attributed to Caine, though 	any related texts they discover their fledglings passing around.
+
+• Precis: You are familiar with the broader concepts of the Book of Nod and some of the more commonly known prophecies. Once per story, add two dice to an Academics roll related to ancient Cainite history. 
+•• Well-versed: Your sire or Mawla taught you certain passages from the book, and may even have physical fragments in their possession. Once per story, you may seek their input on a matter regarding Noddist lore, gaining a two-dice bonus to any Occult test related to the book. 
+••• Scholar: You've dedicated significant time and study to the Book of Nod, and are familiar with at least one complete version of the text. You can support your 
+Lore
+theories with quotes from that version and are aware of counterarguments or alternative interpretations. Once per session, add three dice to a Persuasion roll when debating the Book of Nod's finer points. 
+•••• Collector: You own several fragments from the book or have memorized sections of Caine's history. Noddists seek you out hoping to examine your copies or hear you recite the tales, and they're willing to pay for it. This isn't always a monetary trade; some offer favors, an exchange of information, or access to other resources your character finds valuable. Once per story, when you grant someone access to your collection, gain three temporary dots in Resources (or other appropriate Background as approved by your Storyteller) for the remainder of the story, or the ability to call in a future favor from the Noddist. 
+••••• Noddist Master: Other Noddists look to you for insight and interpretation on the texts, and your theses on the subject are regarded as must-reads. You have exchanged correspondence with Noddist experts on finer points of lore. Once per story, you may derive a fact or prophecy from the Book of Nod that your character can apply to sway a decision, automatically succeeding at a Persuasion test at the Storyteller's discretion.
+
+Lore Sheets
+G eheNNa C ulTs
+
+D
+epending on whom you ask, Gehenna will soon befall the Kindred, or it's happening right now, or 
+it's happened already and vampires are just play-acting in the crumbling ruins of their unlives while the world comes apart at the seams. While some deride the notion of Gehenna as an invention for duping the guileless, a feverish millenarianism has gripped many Kindred with the belief that these are indeed the Final Nights, one way or another. Blood cults and heresies spring up from the shadows in ever-growing numbers. 
+• Mark the Bloody Trail: Once per session when you begin investigating or researching the presence of a blood cult you've not previously used this lore for, the Storyteller gives you one free clue to help locate the cult or to understand their current plans. 
+•• Faithful Bloodhound: You're a proven investigator; you've exposed and taken down at least one Gehenna cult already, and shown your mettle in the eyes of the sects. Either the Camarilla or the Anarchs trust you as an expert on Gehenna cults. You wield three dots of Status while taking action to investigate or persecute a cult on behalf of that sect. 
+••• Dogma: You're steeped in the lore of Gehenna, and you've learned many permutations of warped faiths that your fellow Kindred wrap themselves in. Once per session, when you discuss a vam-
+ 
+  The creeds of these new blood cults come in a dizzying variety of hatreds, anxieties  and hungers. The most successful spread their black wings from one city to the next, forming something like a cohesive doctrine even as feuding Kindred splinter off new schisms and heresies. Charting out the spread of such subversive elements requires an agile mind to keep track of the shifting tapestry, not to mention a strong stomach even by vampire standards. All too many Gehenna cults delve into stomach-churning practices.
+Lore
+pire's faith with them or observe them 	to overcome you in a conflict, they lose practicing their faith, you can extrapolate 	any such Status dots for the rest of the the rough nature of the doctrines, Con-	story as you shake the cult's faith in them victions, or code that the religion focuses 	to the core. 
+on. The Storyteller does not need to give you the exact wording, but must convey 	••••• Red Truths: Investigating the rising the primary themes, limitations, and 	tide of blood cults and Gehenna worbeliefs, even those that are not evident in 	shipers has put you in a prime position what the vampire has said or done. 	to sift a few precious grains of truth 
+                              from the bloated clot of lies that sits at •••• Cult Breaker: The charlatans and 	the heart of most of these misbegotten demagogues of millenarian cults rely on 	faiths. Whether you want to believe it or charisma and their followers' desperate 	not, you can't deny the evidence you've need for someone else to provide an-	gathered - and why not exploit it for swers, direction, and justification for their 	yourself, rather than leaving it in the dark indulgences. Such self-deception is 	blood-stained hands of frothing zealots? hard to overcome, but you know how to 	Once you have studied the practices or shatter their illusions and tear apart the 	texts of any blood cult, you are able to foundations of their faith. Once per story 	learn any Rituals or other unusual superfor a scene, while socially interacting 	natural capabilities they possess without with you, cult members do not benefit 	need of a teacher, although you must pay from any dots in Status they may have 	any experience point costs as normal.
+within their own cult. If they are unable 
+
+M aChiNaTioNs of s auloT
+(Salubri or Tremere Only) 
+W
+hile some Noddists regard Saulot as a veritable saint, others who study the history of the Salubri and Saulot see him as a dangerous player in the eternal struggle: possibly the most sinister of all antediluvians. 
+Clans Salubri and Tremere, among others, have studied the travels 
+and words of Saulot, and fear the mastermind that may lurk behind the façade of saintliness.
+  Saulot is rumored to have sired the Salubri as a means of testing his knowledge and creating goodwill towards his fellow antediluvians, with no qualms about discarding them as he vanished, a victim of diablerie by Tremere. Rumors spread among those in the know that Tremere may have lost the battle of wills when committing diablerie on Saulot and Saulot's diablerie may have been simply another move in the Jyhad.
+  If Saulot's ultimate goal is mastery over his fellow Antediluvians and all Kindred, he would manipulate a small remnant of philosophers, healers, and warriors as well as a world-spanning authoritarian cabal of once blood-bound sorcerers. With the recent fractures in the Tremere clan's pyramid structure, the Beckoning, and the Gehenna Crusade, Saulot's ultimate plans seem increasingly inscrutable. This does not stop 
+
+many from speculation, however.
+• Rumors and Signs: Those aware of the age-old conflicts of the Salubri are on the lookout for signs of their recurrence. You can ask the Storyteller if an event or location shows signs of Salubri or Tremere influence. You can ask this question once per session.
+•• Prolonged Conflict: While Saulot's words were gentle, his actions are said to have spurred on conflict between the Salubri and Tremere. You have learned to defend from these forces. Once per session gain two bonus dice when resisting Auspex, Blood Sorcery, Dominate, or Oblivion powers..
+Lore
+••• Saulot's Smile: When Tremere committed diablerie on Saulot, the sire of all Salubri smiled. Once per story when witnessing another Kindred perform an action, you can ask the storyteller what their motivation was for doing so.
+•••• The Madness of Blood: When Saulot was destroyed, his childer supposedly went mad, slaying one another as they were drawn to the site of Saulot's awakening. Once per story, you can summon your sire or one of your childer or someone who has tasted your Blood as per the Presence power Summon, using your Auspex or Dominate rating instead of PresenceYou can also ignore such a summons yourself, once per story. 
+••••• Ultimate Disguise: Your expertise in Saulot's ways gives you an advantage few others have. You possess traits of both Clans Salubri and Tremere. You may learn Blood Sorcery or Fortitude as if they were a Clan Discipline if they weren't already, but suffer both Clan Banes and Compulsions. 
+
+Lore Sheets
+s erviTor of i rad
+
+A
+ccording to the Book of Nod, Irad the Strong was the third childe of Caine, and he served as his sire's 
+enforcer and military leader in the First City. The Kindred of the Servitors of Irad seek to emulate that mythological vampire, who is said to have pledged to serve the Antediluvians in all things before his kin or his childer destroyed him. They hope that, if they spend their existence showing they serve the Antediluvians, they will be spared when the ancients rise. Irad believed it, but received the revelation too late to preserve himself.
+The cult doesn't actually have any 
+• Shield of Irad: You can't do the work of the Antediluvians if you get discovered by others. Luckily, you have a lot of experience shielding your true intentions from the gaze of outsiders. You gain an additional die on rolls involving lying to other Kindred.
+•• Sword of Irad: Sometimes you must act decisively in the name of the Third Generation, and that conviction adds additional strength to your act. Once per story, you can add three dice to a roll that is integral to your cult's plans.
+••• Know the Will of the Ancients: You are firmly convinced you know the will of the Antediluvians. Perhaps you even hear their voices in your head, or gain prophetic dreams from them. As long 
+contact with the Third Generation, but they assume that the Antediluvians would want the elders of Kindred society to be weak and divided. As such, they infiltrate any vampiric organization they can find - Camarilla cities, Anarch gatherings, and even other cults - to sow dissension and shatter fragile alliances. And now you're one such deep cover member. You're cut off from the other members of your cult, trying to enact a hazily understood plan set down by mythological figures with whom you have no direct contact, with the knowledge that if any other vampire ever found out, you'd be immediately and painfully killed. But you have faith, and that's enough.
+Lore
+as you are a member of the cult, you 	••••• Kill Thy Brother: When the Third can take an additional Conviction that is 	Generation eventually rise, you know directly related to the goals of your infil-	that most of Caine's errant childer will tration (your membership in the cult acts 	be destroyed. So, killing another vampire as your "touchstone" for the purposes 	in the name of the Antediluvians just of this Conviction). If you infiltrate a new 	makes their job a little easier. Once per group, you can change your Conviction 	story, when using a weapon or power to reflect the new assignment.	that inflicts Aggravated Health damage on a vampire, your attack inflicts two 
+•••• Do the Will of the Ancients: 	additional damage, and you don't need All actions are in service to the Third 	to roll to resist frenzy if that weapon or Generation, the thirteen vampires that 	power involves fire. will someday rise and destroy the world. There is nothing you won't do to fulfill that goal, and you have devoted your entire existence to it. The blood you have inherited from your clan founder is secondary to this higher purpose. Your clan Bane can be ignored once per story while you are a Servitor of Irad.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+1
+
+
+
+1
+
+Chapter 1: Stories From The Land of NOD
+
+VA M P I R E : T H E B O O K O F N O D A P O C RY P H A
+
+2
+
+1
+
+VA M P I R E : T H E B O O K O F N O D A P O C RY P H A
+
+1
+
+
+
+VA M P I R E : T H E B O O K O F N O D A P O C RY P H A
+
+2
+
+1
+
+
+
+2
+
+
+
+
+
+2
+
+1
+
+
+
+2
+
+
+
+
+
+2
+
+1
+
+
+
+2
+
+
+
+VA M P I R E : T H E B O O K O F N O D A P O C RY P H A
+
+2
+
+1
+
+VA M P I R E : T H E B O O K O F N O D A P O C RY P H A
+
+1
+
+Chapter 3: Kindred Laws and Traditions
+
+VA M P I R E : T H E B O O K O F N O D A P O C RY P H A
+
+2
+
+1
+
+Chapter 3: Kindred Laws and Traditions
+
+2
+
+
+
+VA M P I R E : T H E B O O K O F N O D A P O C RY P H A
+
+2
+
+1
+
+
+
+2
+
+
+
+VA M P I R E : T H E B O O K O F N O D A P O C RY P H A
+
+2
+
+1
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+

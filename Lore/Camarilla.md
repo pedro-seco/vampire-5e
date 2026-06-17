@@ -114,3 +114,14 @@ O Rio de Janeiro em 2019 é um ambiente perfeito para explorar as intrigas da Ca
 - **Moralidade e Lealdade:** Personagens podem enfrentar dilemas ao lidar com as regras rígidas da Camarilla e as realidades brutais do Rio de Janeiro.
 
 A Camarilla no Rio em 2019 é um campo fértil para explorar intrigas políticas, conflitos morais e a luta pela sobrevivência em um cenário urbano cheio de perigos.
+
+---
+
+## A Camarilla Hoje — Suplemento Camarilla (2018)
+
+### A Torre de Marfim Redefinida
+
+A Camarilla do VTM 5e �
+---
+
+*Ver também:* [[Lore/Kindred]] · [[Lore/Anarquistas]] · [[Lore/Sabbat]] · [[Lore/Segunda Inquisição]] · [[Mecânicas/Clãs]] · [[Lore/Chicago]] · [[Lore/Londres]]

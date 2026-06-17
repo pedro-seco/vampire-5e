@@ -1,0 +1,13 @@
+[
+  {"level":0,"bloodSurge":"None","damageHealed":"1 Superficial","disciplineBonus":"None","rouseRoll":"None","bane":0,"penalty":"None"},
+  {"level":1,"bloodSurge":"+1 die","damageHealed":"1 Superficial","disciplineBonus":"None","rouseRoll":"None","bane":1,"penalty":"None"},
+  {"level":2,"bloodSurge":"+1 die","damageHealed":"1 Superficial","disciplineBonus":"None","rouseRoll":"Level 1 only","bane":1,"penalty":"None"},
+  {"level":3,"bloodSurge":"+2 dice","damageHealed":"2 Superficial","disciplineBonus":"None","rouseRoll":"Level 2 and below","bane":2,"penalty":"Animal / bagged: no Hunger reduction"},
+  {"level":4,"bloodSurge":"+2 dice","damageHealed":"2 Superficial","disciplineBonus":"+1 die","rouseRoll":"Level 2 and below","bane":2,"penalty":"Animal / bagged: no Hunger reduction"},
+  {"level":5,"bloodSurge":"+3 dice","damageHealed":"3 Superficial","disciplineBonus":"+1 die","rouseRoll":"Level 3 and below","bane":2,"penalty":"Animal / bagged: no Hunger reduction"},
+  {"level":6,"bloodSurge":"+3 dice","damageHealed":"3 Superficial","disciplineBonus":"+2 dice","rouseRoll":"Level 3 and below","bane":3,"penalty":"Animal / bagged: no Hunger reduction"},
+  {"level":7,"bloodSurge":"+4 dice","damageHealed":"3 Superficial","disciplineBonus":"+2 dice","rouseRoll":"Level 4 and below","bane":3,"penalty":"Animal / bagged: no Hunger reduction"},
+  {"level":8,"bloodSurge":"+4 dice","damageHealed":"3 Superficial","disciplineBonus":"+3 dice","rouseRoll":"Level 4 and below","bane":3,"penalty":"Animal / bagged: no Hunger reduction"},
+  {"level":9,"bloodSurge":"+5 dice","damageHealed":"4 Superficial","disciplineBonus":"+3 dice","rouseRoll":"Level 5 and below","bane":3,"penalty":"Animal / bagged: no Hunger reduction"},
+  {"level":10,"bloodSurge":"+5 dice","damageHealed":"4 Superficial","disciplineBonus":"+3 dice","rouseRoll":"Level 5 and below","bane":4,"penalty":"Only human: no Hunger reduction"}
+]

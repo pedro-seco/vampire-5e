@@ -4,177 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3abbeb6cf26ff915",
+        "id": "40272c42ff78b3bc",
         "type": "tabs",
         "children": [
           {
-            "id": "0f27e81f5d74f502",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Character"
-            }
-          },
-          {
-            "id": "7067d0da2d9c801a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Character"
-            }
-          },
-          {
-            "id": "f73777ed882eb00c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O Sangue (Vitae)/Disciplinas.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Disciplinas"
-            }
-          },
-          {
-            "id": "042b5ba82e31dd6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fome, a Caça e a Besta/Fome.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fome"
-            }
-          },
-          {
-            "id": "f4886e62eece9072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fome, a Caça e a Besta/Fome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fome"
-            }
-          },
-          {
-            "id": "6e130fae1031c15e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regras/Regras Avançadas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regras Avançadas"
-            }
-          },
-          {
-            "id": "2587a737f1fdc65a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regras/Dificuldade, Contests e Conflitos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dificuldade, Contests e Conflitos"
-            }
-          },
-          {
-            "id": "7aa58e7fee951881",
+            "id": "2fd549f08d5787d4",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "External Documents/Vampire the Masquerade.pdf"
+                "file": "bibliografia/VTM 5e - Player's Guide.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vampire the Masquerade"
-            }
-          },
-          {
-            "id": "b4470b9804b35c36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O Sangue (Vitae)/Perigos do Sangue.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Perigos do Sangue"
-            }
-          },
-          {
-            "id": "52a9c257252ddfa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regras/Dano.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dano"
-            }
-          },
-          {
-            "id": "28e8d8d550b67ca9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Styles/Dominate (Pequeno).png"
-              },
-              "icon": "lucide-image",
-              "title": "Dominate (Pequeno)"
-            }
-          },
-          {
-            "id": "973ae5e02dbbedce",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Styles/Dominate (Pequeno).png"
-              },
-              "icon": "lucide-image",
-              "title": "Dominate (Pequeno)"
+              "title": "VTM 5e - Player's Guide"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,10 +38,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -213,7 +59,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -304,8 +150,8 @@
             "state": {
               "type": "annotations-outline",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "annotations-outline"
             }
           },
           {
@@ -314,8 +160,8 @@
             "state": {
               "type": "annotations-outline",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "annotations-outline"
             }
           },
           {
@@ -324,8 +170,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -334,12 +180,22 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
             "id": "edc6bd80dd4a34fc",
+            "type": "leaf",
+            "state": {
+              "type": "annotations-outline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "annotations-outline"
+            }
+          },
+          {
+            "id": "25d77212625a2a59",
             "type": "leaf",
             "state": {
               "type": "annotations-outline",
@@ -349,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -358,68 +214,70 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "bases:Criar nova base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1ad44efcd958df5",
+  "active": "2fd549f08d5787d4",
   "lastOpenFiles": [
-    "Images/Styles/Fortitude (Pequeno).png",
-    "Images/Styles/Dominate (Pequeno).png",
-    "O Sangue (Vitae)/Disciplinas.md",
-    "Regras/Regras Avançadas.md",
-    "Kindred.md",
-    "Regras/Dano.md",
-    "O Sangue (Vitae)/Perigos do Sangue.md",
-    "Images/Styles/Potence (Pequeno).png",
-    "Character.md",
-    "Fome, a Caça e a Besta/Fome.md",
-    "External Documents/Vampire the Masquerade.pdf",
-    "Images/Styles/Obsfucate.png",
-    "Untitled.canvas",
-    "Regras/Entendendo Dados e Ficha.md",
-    "Images/Styles/Pasted image 20250120205929.png",
-    "Images/Styles/Presence (Pequeno).png",
-    "Images/Styles/Celerity (Pequeno).png",
-    "Images/Styles/Pasted image 20250120165934.png",
-    "Images/Styles/Obsfucate (Pequeno) (1).png",
-    "Images/Styles/Pasted image 20250120165231.png",
-    "Mapa de Relacionamentos.md",
-    "Fome, a Caça e a Besta/Hunting and Feeding.md",
-    "Regras/Dificuldade, Contests e Conflitos.md",
-    "Regras/Regras Fundamentais.md",
-    "Regras/Exemplos de Testes.md",
-    "Fome, a Caça e a Besta/Predator Type.md",
-    "Dicas.md",
-    "Humanidade.md",
-    "Fome, a Caça e a Besta/Frenzy.md",
-    "O Sangue (Vitae)/Clãs.md",
-    "Untitled.md",
-    "O Sangue (Vitae)/Resonance.md",
-    "Advantages.md",
+    "Mecânicas/Clãs.md",
+    "docs/assets/js/sheet.js.tmp.8604.837a6d53ae8d",
+    "docs/assets/js/sheet.js.tmp.8604.16b99e9c25b2",
+    "docs/assets/js/sheet.js.tmp.8604.d43b9b0b3049",
+    "docs/assets/js/sheet.js.tmp.29916.26fce31b2c59",
+    "README.md",
+    "PENDENCIAS.md",
+    "Lore/Book of Nod.md",
     "Lore/Camarilla.md",
+    "Personagens 1.md",
+    "bibliografia/documentos/Vampire the Masquerade.pdf",
+    "bibliografia/documentos/Quaternario.pdf",
+    "bibliografia/audio/Recording Messy Critical.m4a",
+    "bibliografia/imagens/Styles/Presence (Pequeno).png",
+    "bibliografia/imagens/Styles/Potence (Pequeno).png",
+    "bibliografia/imagens/Styles/Pasted image 20250120205929.png",
+    "bibliografia/imagens/Styles/Pasted image 20250120165934.png",
+    "bibliografia/imagens/Styles/Pasted image 20250120165231.png",
+    "bibliografia/imagens/Styles/Pasted image 20250120164848.png",
+    "bibliografia/imagens/Styles/Pasted image 20250120164318.png",
+    "bibliografia/imagens/Styles/Pasted image 20241213183304.png",
+    "bibliografia/imagens/Styles/Pasted image 20241213183224.png",
+    "bibliografia/imagens/Styles/Pasted image 20241213175019.png",
+    "bibliografia/documentos",
+    "bibliografia/audio",
+    "bibliografia/imagens/Styles",
+    "bibliografia/README.md",
+    "Narração/Mapa de Relacionamentos.md",
+    "Narração/Guia do Narrador.md",
+    "Narração/Dicas.md",
+    "Narração/Coteries.md",
+    "SPEC.md",
+    "Personagens.md",
+    "Obfuscate.png.md",
+    "Obfuscate (Pequeno) (1).png.md",
+    "Aventuras/Londres.md",
+    "Lore/Londres.md",
+    "Mecânicas/Dano.md",
+    "Mecânicas/Diablerie, Blood Bond, Ghouls.md",
+    "Mecânicas/Dificuldade, Contests e Conflitos.md",
+    "Lore/Cultos Vampíricos.md",
+    "Personagens/Khalil Mansour.md",
     "Lore/Jyhad.md",
-    "Lore/Sabbat.md",
-    "Lore/Segunda Inquisição.md",
-    "External Documents/Quaternario.pdf",
-    "Recording 20241208010103.m4a",
-    "Dante (Player)/Images/Itens",
-    "Dante (Player)/Sessions/NPCs",
+    "Lore/Beckoning.md",
+    "Lore/Antediluvianos.md",
+    "Sem título.canvas",
+    "Untitled.canvas",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Dante (Player)/Sessions",
-    "Dante (Player)_Atualizado.zip",
-    "Dante (Player).zip",
-    "Dante (Player) (2).zip~RF242b0d23.TMP",
-    "Dante (Player) (2).zip"
+    "Untitled 1.canvas"
   ]
 }

@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VTM 5e — Character Sheet</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Cinzel+Decorative:wght@700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/sheet.css">
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════════════════════
+     NAV BAR
+══════════════════════════════════════════════════════════ -->
+<nav class="tabnav">
+  <div class="tabs">
+    <button class="tab active" data-tab="mechanics">Mechanics</button>
+    <button class="tab"        data-tab="narrative">Narrative</button>
+    <button class="tab"        data-tab="ref">Ref</button>
+    <button class="tab"        data-tab="manual">Manual</button>
+  </div>
+  <div class="nav-actions">
+    <button class="nav-btn" id="btn-edit">✏ Edit</button>
+    <button class="nav-btn" id="btn-export">Export</button>
+    <button class="nav-btn" id="btn-import">Import</button>
+    <input type="file" id="import-input" accept=".json" style="display:none">
+  </div>
+</nav>
+
+<!-- ══════════════════════════════════════════════════════════
+     TAB: MECHANICS
+══════════════════════════════════════════════════════════ -->
+<div id="pg-mechanics" class="pg visible">
+<div class="page">
+
+  <!-- CHARACTER HEADER -->
+  <div class="char-header">
+    <div class="char-name-row">
+      <span class="char-name" id="char-name" contenteditable="false">Khalil Mansour</span>
+      <span class="char-aliases" id="char-aliases" contenteditable="false">"O Dragomano" · "Ibn al-Zill" · "Oberon-7"</span>
+      <div class="char-controls">
+        <div class="char-switcher">
+          <button class="char-ctrl-btn" id="btn-switch" title="Switch character">▾</button>
+          <div class="char-dropdown" id="char-dropdown"></div>
+        </div>
+        <button class="char-ctrl-btn" id="btn-new" title="New character">＋</button>
+      </div>
+    </div>
+    <div class="hdeco"></div>
+    <div class="hmeta">
+      <div class="hmi"><span class="hlbl">Clan</span><span class="hval" id="hv-clan" contenteditable="false">Nosferatu</span></div>
+      <div class="hmi"><span class="hlbl">Generation</span><span class="hval" id="hv-gen" contenteditable="false">9th</span></div>
+      <div class="hmi"><span class="hlbl">Predator Type</span><span class="hval" id="hv-pred" contenteditable="false">Alleycat</span></div>
+      <div class="hmi"><span class="hlbl">Faction</span><span class="hval" id="hv-faction" contenteditable="false">Anarchist</span></div>
+      <div class="hmi"><span class="hlbl">Embrace</span><span class="hval" id="hv-embrace" contenteditable="false">1916 · Cairo</span></div>
+      <div class="hmi"><span class="hlbl">Sire</span><span class="hval" id="hv-sire" contenteditable="false">al-Musawwir</span></div>
+      <div class="hmi"><span class="hlbl">Languages</span><span class="hval" id="hv-lang" contenteditable="false">Arabic · French · Turkish · English</span></div>
+      <div class="hmi-xp">
+        <div class="xp-item"><span class="hlbl">XP Total</span><input class="xp-box" id="xp-total" type="number" min="0" value=""></div>
+        <div class="xp-item"><span class="hlbl">XP Spent</span><input class="xp-box" id="xp-spent" type="number" min="0" value=""></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4 COLUMNS: Physical | Social | Mental | Advantages+Flaws -->
+  <div class="four">
+
+    <!-- PHYSICAL -->
+    <div class="col">
+      <div class="sh">Physical</div>
+      <div class="col-title">Attributes</div>
+      <div class="attr-row">
+        <span class="attr-name">Strength</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="strength" data-d="-1">−</button></div>
+        <span class="attr-val" id="attr-strength">2</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="strength" data-d="1">+</button></div>
+      </div>
+      <div class="attr-row">
+        <span class="attr-name">Dexterity</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="dexterity" data-d="-1">−</button></div>
+        <span class="attr-val" id="attr-dexterity">4</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="dexterity" data-d="1">+</button></div>
+      </div>
+      <div class="attr-row">
+        <span class="attr-name">Stamina</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="stamina" data-d="-1">−</button></div>
+        <span class="attr-val" id="attr-stamina">2</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="stamina" data-d="1">+</button></div>
+      </div>
+      <div class="sk-div">
+        <div class="sh" style="margin-bottom:4px;">Skills <span class="sh-tip">(specialty)</span></div>
+        <div id="skills-physical"></div>
+      </div>
+    </div>
+
+    <!-- SOCIAL -->
+    <div class="col">
+      <div class="sh">Social</div>
+      <div class="col-title">Attributes</div>
+      <div class="attr-row">
+        <span class="attr-name">Charisma</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="charisma" data-d="-1">−</button></div>
+        <span class="attr-val" id="attr-charisma">1</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="charisma" data-d="1">+</button></div>
+      </div>
+      <div class="attr-row">
+        <span class="attr-name">Manipulation</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="manipulation" data-d="-1">−</button></div>
+        <span class="attr-val" id="attr-manipulation">3</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="manipulation" data-d="1">+</button></div>
+      </div>
+      <div class="attr-row">
+        <span class="attr-name">Composure</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="composure" data-d="-1">−</button></div>
+        <span class="attr-val" id="attr-composure">3</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="composure" data-d="1">+</button></div>
+      </div>
+      <div class="sk-div">
+        <div class="sh" style="margin-bottom:4px;">Skills <span class="sh-tip">(specialty)</span></div>
+        <div id="skills-social"></div>
+      </div>
+    </div>
+
+    <!-- MENTAL -->
+    <div class="col">
+      <div class="sh">Mental</div>
+      <div class="col-title">Attributes</div>
+      <div class="attr-row">
+        <span class="attr-name">Intelligence</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="intelligence" data-d="-1">−</button></div>
+        <span class="attr-val" id="attr-intelligence">2</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="intelligence" data-d="1">+</button></div>
+      </div>
+      <div class="attr-row">
+        <span class="attr-name">Wits</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="wits" data-d="-1">−</button></div>
+        <span class="attr-val" id="attr-wits">3</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="wits" data-d="1">+</button></div>
+      </div>
+      <div class="attr-row">
+        <span class="attr-name">Resolve</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="resolve" data-d="-1">−</button></div>
+        <span class="attr-val" id="attr-resolve">2</span>
+        <div class="edit-ctrl"><button class="btn-pm" data-attr="resolve" data-d="1">+</button></div>
+      </div>
+      <div class="sk-div">
+        <div class="sh" style="margin-bottom:4px;">Skills <span class="sh-tip">(specialty)</span></div>
+        <div id="skills-mental"></div>
+      </div>
+    </div>
+
+    <!-- ADVANTAGES + FLAWS -->
+    <div class="col">
+      <div class="sh">
+        Advantages
+        <button class="sh-add" id="btn-add-adv" title="Add advantage">＋</button>
+      </div>
+      <div id="advantages-list"></div>
+      <div class="sh" style="margin-top:10px;">
+        Flaws
+        <button class="sh-add" id="btn-add-flaw" title="Add flaw">＋</button>
+      </div>
+      <div id="flaws-list"></div>
+    </div>
+
+  </div>
+
+  <!-- TRACKERS -->
+  <div class="trk">
+    <div class="trk-grid">
+
+      <!-- Health -->
+      <span class="trk-label">Health</span>
+      <div class="trk-boxes">
+        <div id="health-boxes"></div>
+        <div class="trk-size-ctrl">
+          <button class="btn-pm" id="health-minus">−</button>
+          <button class="btn-pm" id="health-plus">+</button>
+        </div>
+      </div>
+
+      <!-- gap -->
+      <div></div>
+
+      <!-- Willpower -->
+      <span class="trk-label">Willpower</span>
+      <div class="trk-boxes">
+        <div id="willpower-boxes"></div>
+        <div class="trk-size-ctrl">
+          <button class="btn-pm" id="wp-minus">−</button>
+          <button class="btn-pm" id="wp-plus">+</button>
+        </div>
+      </div>
+
+      <!-- Humanity -->
+      <span class="trk-label">Humanity</span>
+      <div class="trk-boxes">
+        <div id="humanity-boxes"></div>
+        <div class="trk-size-ctrl" style="display:none!important"></div>
+      </div>
+
+      <!-- gap -->
+      <div></div>
+
+      <!-- Hunger -->
+      <span class="trk-label">Hunger</span>
+      <div class="trk-boxes" id="hunger-boxes"></div>
+
+    </div>
+
+    <!-- BLOOD POTENCY CARD -->
+    <div class="bp-panel">
+      <div class="bp-head">
+        <span class="bp-title">Blood Potency</span>
+        <div class="trk-boxes" id="bp-boxes"></div>
+        <div class="resonance-row">
+          <span class="res-label">Resonance</span>
+          <button class="res-btn" data-res="Sanguine">Sanguine</button>
+          <button class="res-btn" data-res="Choleric">Choleric</button>
+          <button class="res-btn" data-res="Melancholic">Melancholic</button>
+          <button class="res-btn" data-res="Phlegmatic">Phlegmatic</button>
+          <button class="res-btn" data-res="Empty">Empty</button>
+        </div>
+      </div>
+      <div class="bp-cols" id="bp-stats">
+        <!-- populated by JS from bp.json -->
+      </div>
+    </div>
+  </div>
+
+  <!-- DISCIPLINES -->
+  <div class="disciplines">
+    <div class="sh">
+      Disciplines
+      <button class="sh-add" id="btn-add-disc" title="Add discipline">＋</button>
+    </div>
+    <div id="disciplines-list"></div>
+  </div>
+
+  <!-- INVENTORY -->
+  <div class="inventory">
+    <div class="sh">
+      Inventory
+      <button class="sh-add" id="btn-add-inv" title="Add item">＋</button>
+    </div>
+    <div id="inventory-list"></div>
+  </div>
+
+</div>
+</div><!-- /pg-mechanics -->
+
+
+<!-- ══════════════════════════════════════════════════════════
+     TAB: NARRATIVE
+══════════════════════════════════════════════════════════ -->
+<div id="pg-narrative" class="pg">
+<div class="page">
+
+  <div class="char-name-row" style="margin-bottom:4px;">
+    <span class="char-name" id="narr-char-name" style="font-size:20px;">Khalil Mansour</span>
+  </div>
+  <div class="hdeco" style="margin-bottom:6px;"></div>
+  <div class="narr-subtitle-row">
+    <span style="font-style:italic;color:var(--txt-m);font-size:13px;" id="narr-aliases">"O Dragomano" · "Ibn al-Zill" · "Oberon-7"</span>
+    <span class="narr-label">Narrative Aspects</span>
+  </div>
+
+  <div class="p2-grid">
+    <!-- CONVICTIONS -->
+    <div>
+      <div class="sh">
+        Convictions
+        <button class="sh-add" id="btn-add-conv" title="Add conviction">＋</button>
+      </div>
+      <div id="convictions-list"></div>
+    </div>
+
+    <!-- TOUCHSTONES -->
+    <div>
+      <div class="sh">
+        Touchstones
+        <button class="sh-add" id="btn-add-ts" title="Add touchstone">＋</button>
+      </div>
+      <div id="touchstones-list"></div>
+    </div>
+  </div>
+
+  <!-- MECHANICAL REFERENCE -->
+  <div class="sh">Mechanical Reference</div>
+  <div class="three-cards">
+    <div class="ref-card">
+      <div class="ref-card-title">Clan Bane</div>
+      <div id="card-bane">All Nosferatu carry the Repulsive flaw (−2 dice on appearance-based social rolls without active Obfuscate). Any attempt to pass as human — including Obfuscate — suffers a penalty equal to Bane Severity (−2 dice at BP 3).</div>
+    </div>
+    <div class="ref-card">
+      <div class="ref-card-title">Compulsion — Paranoia (Hunger ≥ 4)</div>
+      <div id="card-compulsion">The vampire must investigate and expose any hidden secret present in the scene before taking any other action. Lasts until a secret is revealed or Hunger drops below 4. Suppressing for one turn costs 1 Willpower.</div>
+    </div>
+    <div class="ref-card">
+      <div class="ref-card-title" id="card-pred-title">Predator — Alleycat</div>
+      <div id="card-predator">Attacks victims directly, feeding in the chaos of physical confrontation. Bonus: Celerity ● (Rapid Reflexes), 3 dots of criminal Contacts, specialty in Brawl (Grappling) or Intimidation (Stickups). Cost: −1 Humanity at creation.</div>
+    </div>
+  </div>
+
+  <!-- BACKGROUND -->
+  <div class="sh">Background</div>
+  <div class="background-block">
+    <div class="background-title">Origin &amp; Embrace</div>
+    <div id="background-text" contenteditable="false">Born in 1883 in Damascus, son of a family of dragomans — professional interpreters who survived by being useful to whoever held power. He worked as an interpreter and double agent during the Balkan Wars (1912–13) and World War I, operating between the British Arab Bureau and Ottoman intelligence in Cairo. Embraced in 1916 by al-Musawwir, a Nosferatu elder aligned with the Sabbat, who wanted an asset inside the Bureau. Deserted in 1917 by faking his own destruction. Al-Musawwir still believes the childe died. Since then he has operated as "The Dragoman" in Anarchist Movement counter-intelligence, accumulating a century of operations in Berlin, Paris, Cairo, Buenos Aires, and other centers.</div>
+  </div>
+
+</div>
+</div><!-- /pg-narrative -->
+
+
+<!-- ══════════════════════════════════════════════════════════
+     TAB: REF
+══════════════════════════════════════════════════════════ -->
+<div id="pg-ref" class="pg">
+<div class="page">
+<div class="ref-page">
+
+  <!-- DAMAGE LEGEND -->
+  <div class="ref-section">
+    <div class="ref-section-title">Damage Types</div>
+    <p class="ref-note"><strong>╲ Superficial</strong> — Reduced by half (rounded up) before applying to track. Healed with a Rouse Check.</p>
+    <p class="ref-note"><strong>✕ Aggravated</strong> — Applied in full. Requires three Rouse Checks and a full day's rest to heal one box.</p>
+    <p class="ref-note" style="margin-top:6px;"><strong>Superficial sources:</strong> punches, kicks, falls, most firearms, staking (to vampires).</p>
+    <p class="ref-note"><strong>Aggravated sources:</strong> fire, sunlight, claws/fangs of supernatural creatures, specific Discipline powers, decapitation.</p>
+  </div>
+
+  <!-- HUNGER LEVELS -->
+  <div class="ref-section">
+    <div class="ref-section-title">Hunger Effects</div>
+    <table class="ref-table">
+      <thead><tr><th>Level</th><th>Effect</th></tr></thead>
+      <tbody>
+        <tr><td class="t-val">1</td><td>No penalty.</td></tr>
+        <tr><td class="t-val">2</td><td>−1 die on Rouse Checks that could be re-rolled.</td></tr>
+        <tr><td class="t-val">3</td><td>Bestial Failure possible on any roll.</td></tr>
+        <tr><td class="t-val">4</td><td>Clan Compulsion activates. Messy Critical possible.</td></tr>
+        <tr><td class="t-val">5</td><td>Frenzy test required whenever provoked. Bestial Failure replaces all failures.</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ROUSE CHECKS -->
+  <div class="ref-section">
+    <div class="ref-section-title">Rouse Checks</div>
+    <p class="ref-note">Roll one die. On a <strong>failure (1–5)</strong>: Hunger increases by 1. On a <strong>success (6–10)</strong>: no change.</p>
+    <p class="ref-note">At <strong>BP 3+</strong>, you may re-roll Rouse Checks for powers of level 2 and below — take the better result.</p>
+    <p class="ref-note"><strong>Starvation:</strong> if Hunger would exceed 5, the vampire enters immediate Frenzy (Hunger Frenzy).</p>
+  </div>
+
+  <!-- FRENZY TYPES -->
+  <div class="ref-section">
+    <div class="ref-section-title">Frenzy Types</div>
+    <table class="ref-table">
+      <thead><tr><th>Type</th><th>Trigger</th><th>Diff</th></tr></thead>
+      <tbody>
+        <tr><td class="t-name">Hunger Frenzy</td><td>Hunger 5 + smell of blood, or Hunger would exceed 5</td><td class="t-val">3</td></tr>
+        <tr><td class="t-name">Terror Frenzy</td><td>Exposed to fire or sunlight</td><td class="t-val">3</td></tr>
+        <tr><td class="t-name">Rage Frenzy</td><td>Provocation, humiliation, or physical attack</td><td class="t-val">2</td></tr>
+      </tbody>
+    </table>
+    <p class="ref-note" style="margin-top:6px;">Resist with <strong>Composure + Resolve</strong> vs. Difficulty. Failure = Beast takes control.</p>
+    <p class="ref-note"><strong>Compulsion:</strong> triggered by Messy Critical or Bestial Failure. The clan-specific compulsion applies for the rest of the scene. Suppressing for one turn costs 1 Willpower.</p>
+  </div>
+
+  <!-- RESONANCE TABLE -->
+  <div class="ref-section">
+    <div class="ref-section-title">Resonance</div>
+    <table class="ref-table">
+      <thead><tr><th>Resonance</th><th>Emotion / State</th><th>Disciplines</th></tr></thead>
+      <tbody>
+        <tr><td class="t-name">Sanguine</td><td>Desire, lust, passion</td><td class="t-acc">Celerity, Presence</td></tr>
+        <tr><td class="t-name">Choleric</td><td>Anger, violence, hatred</td><td class="t-acc">Potence, Celerity</td></tr>
+        <tr><td class="t-name">Melancholic</td><td>Fear, sorrow, loneliness</td><td class="t-acc">Fortitude, Obfuscate</td></tr>
+        <tr><td class="t-name">Phlegmatic</td><td>Calm, lethargy, apathy</td><td class="t-acc">Auspex, Dominate</td></tr>
+        <tr><td class="t-name">Empty</td><td>No strong emotion</td><td>—</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- BLOOD POTENCY BY GENERATION -->
+  <div class="ref-section">
+    <div class="ref-section-title">Blood Potency by Generation</div>
+    <table class="ref-table">
+      <thead><tr><th>Generation</th><th>Max BP</th><th>Starting BP</th></tr></thead>
+      <tbody>
+        <tr><td class="t-name">16th–14th (Thin-blood)</td><td class="t-val">0</td><td class="t-val">0</td></tr>
+        <tr><td class="t-name">13th</td><td class="t-val">1</td><td class="t-val">1</td></tr>
+        <tr><td class="t-name">12th–11th</td><td class="t-val">2</td><td class="t-val">1</td></tr>
+        <tr><td class="t-name">10th</td><td class="t-val">3</td><td class="t-val">1</td></tr>
+        <tr><td class="t-name">9th</td><td class="t-val">4</td><td class="t-val">2</td></tr>
+        <tr><td class="t-name">8th</td><td class="t-val">5</td><td class="t-val">3</td></tr>
+        <tr><td class="t-name">7th</td><td class="t-val">6</td><td class="t-val">4</td></tr>
+        <tr><td class="t-name">6th</td><td class="t-val">7</td><td class="t-val">5</td></tr>
+        <tr><td class="t-name">5th</td><td class="t-val">8</td><td class="t-val">6</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- WEAPONS & DEFENSES -->
+  <div class="ref-section">
+    <div class="ref-section-title">Weapons &amp; Defenses</div>
+    <table class="ref-table">
+      <thead><tr><th>Item</th><th>Bonus</th><th>Notes</th></tr></thead>
+      <tbody id="ref-items-table">
+        <!-- populated from items.json once available; static fallback below -->
+        <tr><td class="t-name">Unarmed</td><td class="t-val">—</td><td>Superficial to vampires</td></tr>
+        <tr><td class="t-name">Knife / Stake</td><td class="t-val">+1 die</td><td>Stake through heart: torpor</td></tr>
+        <tr><td class="t-name">Sword / Axe</td><td class="t-val">+2 dice</td><td>—</td></tr>
+        <tr><td class="t-name">Pistol</td><td class="t-val">+2 dice</td><td>Superficial to vampires</td></tr>
+        <tr><td class="t-name">Rifle / Shotgun</td><td class="t-val">+3 dice</td><td>Superficial to vampires</td></tr>
+        <tr><td class="t-name">Light Armor</td><td class="t-val">1 die armor</td><td>Protects vs. physical</td></tr>
+        <tr><td class="t-name">Heavy Armor</td><td class="t-val">2 dice armor</td><td>−1 die to Dex rolls</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- CHARACTER CREATION -->
+  <div class="ref-section">
+    <div class="ref-section-title">Character Creation</div>
+    <p class="ref-note"><strong>Attributes:</strong> Distribute 1/4/3/3 across Physical/Social/Mental (or any priority order). All start at 1.</p>
+    <p class="ref-note"><strong>Skills:</strong> Distribute 8/6/4 across categories. Max 3 at creation (except with Exceptional skill merit).</p>
+    <p class="ref-note"><strong>Specialties:</strong> 3 free specialties. A specialty adds 1 die when the skill applies in that context.</p>
+    <p class="ref-note"><strong>Disciplines:</strong> 3 dots in clan disciplines. 1 dot in an out-of-clan discipline (costs extra XP later).</p>
+    <p class="ref-note"><strong>Advantages:</strong> 7 dots. Flaws grant extra dots (max +2 from Flaws).</p>
+    <p class="ref-note"><strong>Jack of All Trades:</strong> No skill can be left at 0 in more than one category. The lowest skill in the unprioritized category must be at least 1. (Optional; check with your Storyteller.)</p>
+  </div>
+
+  <!-- COMMON DIFFICULTIES -->
+  <div class="ref-section">
+    <div class="ref-section-title">Common Difficulties</div>
+    <table class="ref-table">
+      <thead><tr><th>Difficulty</th><th>Description</th></tr></thead>
+      <tbody>
+        <tr><td class="t-val">1</td><td>Simple task, unfavorable conditions</td></tr>
+        <tr><td class="t-val">2</td><td>Standard task</td></tr>
+        <tr><td class="t-val">3</td><td>Challenging; requires skill or luck</td></tr>
+        <tr><td class="t-val">4</td><td>Difficult; specialists struggle</td></tr>
+        <tr><td class="t-val">5</td><td>Formidable; near the limit of mortal ability</td></tr>
+        <tr><td class="t-val">6+</td><td>Near-impossible without supernatural aid</td></tr>
+      </tbody>
+    </table>
+    <p class="ref-note" style="margin-top:6px;"><strong>Critical Win:</strong> two or more 10s in a roll. Exceptional effect at Storyteller discretion.</p>
+    <p class="ref-note"><strong>Bestial Failure:</strong> no successes and at least one 1. The Beast asserts itself — a compulsion, an outburst, or a slip toward frenzy.</p>
+  </div>
+
+</div><!-- /ref-page -->
+</div>
+</div><!-- /pg-ref -->
+
+
+<!-- ══════════════════════════════════════════════════════════
+     TAB: MANUAL
+══════════════════════════════════════════════════════════ -->
+<div id="pg-manual" class="pg">
+<div class="page">
+<div class="manual-page">
+
+  <div class="manual-section">
+    <div class="manual-section-title">How to Use This Sheet</div>
+
+    <div class="manual-item">
+      <div class="manual-item-title">▾ Switch Character</div>
+      <p class="manual-text">Click the <strong>▾</strong> arrow next to the character name to open the character list. Click any name to switch. The sheet reloads with that character's data.</p>
+    </div>
+
+    <div class="manual-item">
+      <div class="manual-item-title">＋ New Character</div>
+      <p class="manual-text">Click the <strong>＋</strong> next to the character name. A blank sheet will be created. Switch to it using the ▾ dropdown and fill in the fields in Edit mode.</p>
+    </div>
+
+    <div class="manual-item">
+      <div class="manual-item-title">✏ Edit Mode</div>
+      <p class="manual-text">Click <strong>✏ Edit</strong> in the top right to unlock the sheet for editing. All text fields become editable. Numeric values (attributes, skills) show <strong>+</strong> and <strong>−</strong> buttons. Sections like Disciplines and Advantages show <strong>＋</strong> buttons to add new entries, and <strong>×</strong> to delete (a confirmation will appear). Click <strong>✏ Edit</strong> again to exit — changes are saved automatically.</p>
+    </div>
+
+    <div class="manual-item">
+      <div class="manual-item-title">Trackers</div>
+      <p class="manual-text">Tracker boxes are always interactive — no Edit mode needed. Click a box to cycle its state:</p>
+      <div class="visual-aid" style="margin-top:8px;">
+        <span class="va-label">Health / Willpower</span>
+        <div style="display:flex;gap:4px;align-items:center;margin-top:4px;">
+          <div class="box"></div>
+          <span style="color:var(--txt-m);font-size:12px;">→ click →</span>
+          <div class="box superficial"></div>
+          <span style="color:var(--txt-m);font-size:12px;">→ click →</span>
+          <div class="box aggravated"></div>
+          <span style="color:var(--txt-m);font-size:12px;">→ click → empty</span>
+        </div>
+        <div class="va-annotation">Empty → Superficial (╲) → Aggravated (✕) → Empty</div>
+      </div>
+      <div class="visual-aid" style="margin-top:8px;">
+        <span class="va-label">Hunger</span>
+        <div style="display:flex;gap:4px;align-items:center;margin-top:4px;">
+          <div class="box"></div>
+          <span style="color:var(--txt-m);font-size:12px;">→ click →</span>
+          <div class="box hunger-on"></div>
+          <span style="color:var(--txt-m);font-size:12px;">→ click → empty</span>
+        </div>
+        <div class="va-annotation">Empty → Filled (✕) → Empty. Always 5 boxes.</div>
+      </div>
+      <div class="visual-aid" style="margin-top:8px;">
+        <span class="va-label">Humanity</span>
+        <div style="display:flex;gap:4px;align-items:center;margin-top:4px;">
+          <div class="box hum-filled"></div>
+          <div class="box hum-filled"></div>
+          <div class="box hum-filled"></div>
+          <div class="box"></div>
+          <div class="box stain"></div>
+          <div class="box stain"></div>
+        </div>
+        <div class="va-annotation">Red boxes = current Humanity value (left to right). Click empty boxes from the right to add Stains (╲ in orange). Edit mode: use + / − to change the Humanity value.</div>
+      </div>
+    </div>
+
+    <div class="manual-item">
+      <div class="manual-item-title">Export &amp; Import</div>
+      <p class="manual-text"><strong>Export</strong> downloads your character as a <code>.json</code> file — keep it as a backup or send it to the Storyteller. <strong>Import</strong> loads a <code>.json</code> file and adds that character to your sheet. All data is stored in your browser's local storage; if you clear browser data, your characters will be lost — export regularly.</p>
+    </div>
+
+    <div class="manual-item">
+      <div class="manual-item-title">Adding Disciplines</div>
+      <p class="manual-text">In Edit mode, click <strong>＋</strong> next to Disciplines. Search for a discipline by name and confirm. Then click <strong>＋</strong> inside the discipline header to add powers — only powers at or below your current discipline level are available. To remove a power or a full discipline, click <strong>×</strong> and confirm.</p>
+    </div>
+  </div>
+
+  <div class="manual-section">
+    <div class="manual-section-title">Character Creation — Claude Prompt</div>
+    <p class="manual-text" style="margin-bottom:12px;">Copy the prompt below and paste it into a new conversation at <a href="https://claude.ai" target="_blank" style="color:var(--gold);">claude.ai</a>. Claude will guide you through building your character step by step and output a JSON file you can import directly into this sheet.</p>
+    <div class="prompt-block" id="creation-prompt">
+You are a Vampire: The Masquerade 5th Edition character creation guide. Your job is to walk the player through building a new character step by step, then output a complete JSON they can import directly into their character sheet.
+
+## Source books available for this chronicle
+The following books are approved for character options:
+- **V5 Core** (2018) — all base clans, core disciplines, predator types, advantages/flaws
+- **Player's Guide** (2023) — additional predator types (Extortionist, Graverobber, Grim Reaper, Montero, Pursuer, Scene Queen, Trapdoor), expanded disciplines and merits
+- **Companion** (2020) — Ravnos, Salubri, Tzimisce clans with full mechanics
+- **Camarilla** (2018) — Camarilla faction options, loresheets
+- **Anarch** (2018) — Anarch faction options, loresheets
+- **Blood Sigils** (2023) — expanded Blood Sorcery rituals (levels 1–5)
+- **Children of the Blood** (2021) — bloodline loresheets
+- **Forbidden Religions** (2022) — cult/path backgrounds and loresheets
+- **Cults of the Blood Gods** (2021) — religious faction options and loresheets
+
+## How to proceed
+Go through these phases **one at a time**. Present options, ask questions, wait for answers before moving on.
+
+**Phase 1 — Concept:** name, aliases, mortal background, embrace (when/where), sire, current faction.
+**Phase 2 — Clan & Generation:** present clans with disciplines/bane/compulsion; ask choice; generation default 13th.
+**Phase 3 — Predator Type:** list all types (Core + PG) with mechanics; apply automatic bonuses/penalties.
+**Phase 4 — Attributes:** explain 1/4/3/3 priority system; ask priority order and values for each attribute.
+**Phase 5 — Skills:** 8/6/4 priority system; max 3 at creation; ask priority, values, and 3 specialties.
+**Phase 6 — Disciplines:** 3 dots in clan disciplines; optionally 1 dot out-of-clan; list powers and ask choices.
+**Phase 7 — Advantages & Flaws:** 7 dots; flaws give extra dots (max +2); list options, ask picks.
+**Phase 8 — Trackers:** Humanity (7 adjusted by predator type), BP (1 or by generation), Health = Stamina+3, Willpower = Composure+Resolve.
+**Phase 9 — Convictions & Touchstones:** 3 convictions (moral statements); 1–3 touchstones (mortal connections, each linked to a conviction).
+**Phase 10 — Background & Languages:** origin paragraph; languages (1 dot Linguistics per additional language).
+**Phase 11 — Review & JSON:** summarize sheet, ask for corrections, then output the complete JSON as a single code block.
+
+## JSON output format
+Output this exact structure with all 27 skill keys present:
+
+```json
+{
+  "id": "char_REPLACE_WITH_UNIX_TIMESTAMP",
+  "name": "", "aliases": "", "clan": "", "generation": "13th",
+  "predatorType": "", "faction": "", "embrace": "", "sire": "", "languages": "",
+  "xpTotal": "", "xpSpent": "",
+  "attributes": {
+    "strength": 1, "dexterity": 1, "stamina": 1,
+    "charisma": 1, "manipulation": 1, "composure": 1,
+    "intelligence": 1, "wits": 1, "resolve": 1
+  },
+  "skills": {
+    "athletics":{"value":0,"specialty":""},"brawl":{"value":0,"specialty":""},
+    "craft":{"value":0,"specialty":""},"drive":{"value":0,"specialty":""},
+    "firearms":{"value":0,"specialty":""},"larceny":{"value":0,"specialty":""},
+    "melee":{"value":0,"specialty":""},"stealth":{"value":0,"specialty":""},
+    "survival":{"value":0,"specialty":""},
+    "animalKen":{"value":0,"specialty":""},"etiquette":{"value":0,"specialty":""},
+    "insight":{"value":0,"specialty":""},"intimidation":{"value":0,"specialty":""},
+    "leadership":{"value":0,"specialty":""},"performance":{"value":0,"specialty":""},
+    "persuasion":{"value":0,"specialty":""},"streetwise":{"value":0,"specialty":""},
+    "subterfuge":{"value":0,"specialty":""},
+    "academics":{"value":0,"specialty":""},"awareness":{"value":0,"specialty":""},
+    "finance":{"value":0,"specialty":""},"investigation":{"value":0,"specialty":""},
+    "medicine":{"value":0,"specialty":""},"occult":{"value":0,"specialty":""},
+    "politics":{"value":0,"specialty":""},"science":{"value":0,"specialty":""},
+    "technology":{"value":0,"specialty":""}
+  },
+  "advantages": [{"name":"","level":1,"note":""}],
+  "flaws": [{"name":"","level":1,"note":""}],
+  "trackers": {
+    "healthMax": 5, "health": [0,0,0,0,0],
+    "willpowerMax": 5, "willpower": [0,0,0,0,0],
+    "hunger": [0,0,0,0,0],
+    "humanity": 7, "humanityStains": 0, "bp": 1, "resonance": ""
+  },
+  "disciplines": [{"name":"","level":1,"powers":[]}],
+  "inventory": [], "convictions": [],
+  "touchstones": [{"name":"","summary":"","linkedConviction":"","description":""}],
+  "background": ""
+}
+```
+
+**Rules:** id = "char_" + current unix timestamp as integer. health array length = healthMax. willpower array length = willpowerMax. Skill keys are camelCase (animalKen not animal_ken). All 27 skill keys must be present.
+
+Begin now with Phase 1.
+    <button class="prompt-copy-btn" onclick="copyPrompt()">Copy</button>
+    </div>
+  </div>
+
+</div><!-- /manual-page -->
+</div>
+</div><!-- /pg-manual -->
+
+
+<!-- ══════════════════════════════════════════════════════════
+     MODALS
+══════════════════════════════════════════════════════════ -->
+
+<!-- Add Discipline -->
+<div class="modal-overlay" id="modal-add-disc">
+  <div class="modal">
+    <div class="modal-title">Add Discipline</div>
+    <div class="search-dropdown" id="disc-search-wrap">
+      <input type="text" id="disc-search-input" placeholder="Search discipline…">
+      <div class="search-results" id="disc-search-results"></div>
+    </div>
+    <div class="modal-actions">
+      <button class="modal-btn" onclick="closeModal('modal-add-disc')">Cancel</button>
+      <button class="modal-btn primary" id="btn-disc-confirm">Add</button>
+    </div>
+  </div>
+</div>
+
+<!-- Add Power -->
+<div class="modal-overlay" id="modal-add-power">
+  <div class="modal">
+    <div class="modal-title" id="modal-power-title">Add Power</div>
+    <div class="search-dropdown" id="power-search-wrap">
+      <input type="text" id="power-search-input" placeholder="Search power…">
+      <div class="search-results" id="power-search-results"></div>
+    </div>
+    <div class="modal-actions">
+      <button class="modal-btn" onclick="closeModal('modal-add-power')">Cancel</button>
+      <button class="modal-btn primary" id="btn-power-confirm">Add</button>
+    </div>
+  </div>
+</div>
+
+<!-- Add Advantage -->
+<div class="modal-overlay" id="modal-add-adv">
+  <div class="modal">
+    <div class="modal-title" id="modal-adv-title">Add Advantage</div>
+    <div class="search-dropdown">
+      <input type="text" id="adv-search-input" placeholder="Search…">
+      <div class="search-results" id="adv-search-results"></div>
+    </div>
+    <div class="modal-actions">
+      <button class="modal-btn" onclick="closeModal('modal-add-adv')">Cancel</button>
+      <button class="modal-btn primary" id="btn-adv-confirm">Add</button>
+    </div>
+  </div>
+</div>
+
+<!-- Confirm Delete -->
+<div class="confirm-overlay" id="confirm-overlay">
+  <div class="confirm-box">
+    <div class="confirm-msg" id="confirm-msg">Delete this item?</div>
+    <div class="confirm-actions">
+      <button class="modal-btn" id="confirm-cancel">Cancel</button>
+      <button class="modal-btn primary" id="confirm-ok">Delete</button>
+    </div>
+  </div>
+</div>
+
+<script src="assets/js/sheet.js"></script>
+</body>
+</html>
