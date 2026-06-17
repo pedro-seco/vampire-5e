@@ -715,16 +715,21 @@ body.edit-mode .disc-lvl-adj:hover { color: #fff; }
 .conv-text { color: var(--txt-s); font-style: italic; flex: 1; }
 
 .touchstone-item {
-  padding: 8px 0;
+  padding: 8px 0 8px 0;
+  padding-right: 24px; /* room for × button */
   border-bottom: 1px solid var(--brd);
   font-size: 14px;
   position: relative;
+  overflow: hidden;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 .touchstone-item:last-child { border-bottom: none; }
-.ts-name    { color: var(--txt); font-size: 14px; font-weight: 600; }
-.ts-summary { color: var(--txt-m); font-size: 12px; margin-left: 6px; }
-.ts-link    { color: var(--acc); font-size: 13px; font-style: italic; display: block; margin-top: 2px; }
-.ts-desc    { color: var(--txt-s); margin-top: 4px; line-height: 1.6; text-align: justify; }
+.ts-name    { color: var(--txt); font-size: 14px; font-weight: 600; overflow-wrap: break-word; word-break: break-word; }
+.ts-summary { color: var(--txt-m); font-size: 12px; margin-left: 6px; overflow-wrap: break-word; word-break: break-word; }
+.ts-link    { color: var(--acc); font-size: 13px; font-style: italic; display: block; margin-top: 2px; max-width: 100%; }
+.ts-link select { max-width: 100%; box-sizing: border-box; width: 100%; }
+.ts-desc    { color: var(--txt-s); margin-top: 4px; line-height: 1.6; text-align: justify; overflow-wrap: break-word; word-break: break-word; max-width: 100%; }
 .touchstone-item .btn-delete { position: absolute; top: 8px; right: 0; }
 
 /* ── MECH REFERENCE CARDS ───────────────────────────────────── */
