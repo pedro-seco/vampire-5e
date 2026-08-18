@@ -1,84 +1,104 @@
-#vault #sumário
+# Vampiro: A Máscara 5e — Ficha & Vault
 
-# Vampiro: A Máscara 5ª Edição — Vault do Narrador
+Ficha de personagem interativa e referência consolidada de regras para **Vampire: The Masquerade 5th Edition**, desenvolvidas como ferramenta de mesa pessoal.
 
-Referência consolidada para conduzir VTM 5e. Organizada em três camadas: mecânicas do sistema, lore do mundo, e ferramentas de narração.
-
----
-
-## Como navegar
-
-| Pasta | O que tem |
-|-------|-----------|
-| [[Mecânicas/Regras Fundamentais\|Mecânicas/]] | Regras, fichas, disciplinas, clãs, fome, humanidade |
-| [[Lore/Kindred\|Lore/]] | Fações, cidades, cosmologia, história |
-| [[Narração/Guia do Narrador\|Narração/]] | Ferramentas de mesa, coteries, mapas de relacionamento |
-| [[Aventuras/Under the Skin\|Aventuras/]] | Módulos prontos para jogar |
-| [[Personagens/\|Personagens/]] | Fichas dos PCs da mesa |
-| `bibliografia/` | PDFs e TXTs dos livros oficiais incorporados |
+**🔗 Demo ao vivo:** [pedro-seco.github.io/vampire-5e](https://pedro-seco.github.io/vampire-5e/)
 
 ---
 
-## Mecânicas
+## Ficha de Personagem
 
-**Sistema base**
-[[Mecânicas/Regras Fundamentais]] · [[Mecânicas/Regras Avançadas]] · [[Mecânicas/Dificuldade, Contests e Conflitos]] · [[Mecânicas/Dano]] · [[Mecânicas/Entendendo Dados e Ficha]] · [[Mecânicas/Exemplos de Testes]]
+<!-- Adicionar screenshot aqui -->
 
-**Personagem**
-[[Mecânicas/Character]] · [[Mecânicas/Advantages]] · [[Mecânicas/Humanidade]] · [[Mecânicas/Clãs]] · [[Mecânicas/Disciplinas]] · [[Mecânicas/Gerações e Potência]] · [[Mecânicas/Loresheets]] · [[Mecânicas/Skills]] · [[Mecânicas/XP]]
+SPA dark-theme responsiva para PC e mobile. Os dados do personagem ficam salvos no navegador (`localStorage`) — sem servidor, sem login.
 
-**O Sangue**
-[[Mecânicas/Fome]] · [[Mecânicas/Frenzy]] · [[Mecânicas/Hunting and Feeding]] · [[Mecânicas/Predator Type]] · [[Mecânicas/Resonance]] · [[Mecânicas/Dyscrasias]] · [[Mecânicas/Perigos do Sangue]] · [[Mecânicas/Diablerie, Blood Bond, Ghouls]] · [[Mecânicas/Sangue Fraco]]
-
----
-
-## Lore
-
-**Cosmologia**
-[[Lore/Kindred]] · [[Lore/Jyhad]] · [[Lore/Book of Nod]] · [[Lore/Abraço]]
-
-**Fações e Religiões**
-[[Lore/Camarilla]] · [[Lore/Anarquistas]] · [[Lore/Sabbat]] · [[Lore/Segunda Inquisição]] · [[Lore/Cultos Vampíricos]]
-
-**Cidades**
-[[Lore/Chicago]] · [[Lore/Londres]]
+**Funcionalidades:**
+- Quatro seções navegáveis via menu hamburguer: **Mechanics**, **Narrative**, **Ref**, **Manual**
+- Todos os campos editáveis in-place; modo de edição togglável
+- Exportar / importar ficha em JSON
+- Suporte a múltiplos personagens via seletor no nav
+- Layout adapta para telas pequenas (mobile-first)
 
 ---
 
-## Narração
+## Vault de Mecânicas
 
-[[Narração/Guia do Narrador]] · [[Narração/Coteries]] · [[Narração/Mapa de Relacionamentos]]
+<!-- Adicionar screenshot da vault aqui -->
 
----
+Base de conhecimento de regras acessível em [pedro-seco.github.io/vampire-5e/vault](https://pedro-seco.github.io/vampire-5e/vault/) ou localmente via Obsidian.
 
-## Aventuras
+**Conteúdo compilado:**
 
-[[Aventuras/Under the Skin]] — one-shot 3–5h, metusálen Tzimisce, horror de transformação
+| Área | O que tem |
+|------|-----------|
+| **Mecânicas** | Regras fundamentais, atributos, skills, disciplinas (todos os clãs + poderes nível 1–5), fome, frenzy, humanidade, geração, XP, predator types, resonance, dyscrasias |
+| **Clãs** | Perfis completos dos 13 clãs + sangue fraco: compulsões, fraquezas, disciplinas, loresheets associadas |
+| **O Sangue** | Diablerie, blood bond, ghouls, perigos do sangue |
+| **Lore** | Kindred, Jyhad, Book of Nod, Camarilla, Anarquistas, Sabbat, Segunda Inquisição, cultos vampíricos |
+| **Cidades** | Chicago by Night (2020), Fall of London (2020) |
+| **Narração** | Guia do narrador, coteries, mapa de relacionamentos |
+| **Aventuras** | Under the Skin (one-shot, ~3–5h) |
+| **Loresheets** | +30 loresheets de 8 suplementos diferentes |
 
----
+**Fontes incorporadas:**
 
-## Status da vault
-
-### Incorporado (completo)
-- *Vampire: The Masquerade 5th Edition* (core rulebook)
-- *Camarilla* (2018)
-- *Anarch* (2018)
-- *The Black Hand: A Guide to the Sabbat* (2021) — sem loresheets (livro de antagonistas); mecânicas em [[Lore/Sabbat]]
-- *Second Inquisition* (2022)
-- *Chicago by Night* (2020)
-- *Fall of London* (2020)
-- *Storyteller Toolkit* (2022)
-- *Book of Nod Apocrypha* (2023) — 4 loresheets: The Book of Nod, Gehenna Cults, Machinations of Saulot, Servitor of Irad
-- *Under the Skin* (2024)
-- *Companion* (2020) — Tzimisce, Ravnos, Salubri em [[Mecânicas/Clãs]]
-
-### Incorporado (parcial)
-- *Player's Guide* (2023) — 7 predator types PG (Extortionist, Graverobber, Grim Reaper, Montero, Pursuer, Scene Queen, Trapdoor) + loresheets Hecata
-- *Blood Sigils* (2023) — loresheets, rituais Blood Sorcery (Níveis 1–5) em [[Mecânicas/Disciplinas]] e [[Mecânicas/Loresheets]]
-- *Children of the Blood* (2021) — 8 loresheets; cultos em [[Lore/Cultos Vampíricos]]
-- *Forbidden Religions* (2022) — 6 loresheets; 7 cultos/caminhos; Ghost's Passing + Shroud of Silence em [[Mecânicas/Disciplinas]]
-- *Cults of the Blood Gods* (2021) — 3 loresheets; 5 religiões; Mental Maze + 5 rituais em [[Mecânicas/Disciplinas]]
+- *V5 Core Rulebook* · *Camarilla* · *Anarch* · *The Black Hand*
+- *Second Inquisition* · *Chicago by Night* · *Fall of London*
+- *Companion* · *Player's Guide* · *Storyteller Toolkit*
+- *Book of Nod Apocrypha* · *Under the Skin* · *Blood Sigils*
+- *Children of the Blood* · *Forbidden Religions* · *Cults of the Blood Gods*
 
 ---
 
-*Vault mantida com [[SPEC]]. Tarefas abertas em [[PENDENCIAS]].*
+## Como usar (Narrador)
+
+### Ficha online
+Acesse [pedro-seco.github.io/vampire-5e](https://pedro-seco.github.io/vampire-5e/) em qualquer navegador. Clique em **✏ Editar** para habilitar os campos, preencha a ficha e use **⬆ Exportar** para salvar o JSON localmente. Para carregar em outra máquina, use **⬇ Importar**.
+
+### Vault online
+Acesse [pedro-seco.github.io/vampire-5e/vault](https://pedro-seco.github.io/vampire-5e/vault/) e use a barra de busca para filtrar seções por palavra-chave. O menu lateral lista todas as seções; em mobile, abre via ☰.
+
+### Vault local (Obsidian)
+1. Clone o repositório: `git clone https://github.com/pedro-seco/vampire-5e.git`
+2. Abra o Obsidian → *Open folder as vault* → selecione a pasta raiz do projeto
+3. Os wikilinks `[[Arquivo]]` e as seções `[[#Heading]]` funcionam nativamente
+
+---
+
+## Estrutura do repositório
+
+```
+vampire-5e/
+├── docs/                    # GitHub Pages (ficha + vault)
+│   ├── index.html           # Ficha de personagem (SPA)
+│   ├── assets/css/          # sheet.css
+│   ├── assets/js/           # sheet.js
+│   └── vault/               # Vault web
+│       ├── index.html
+│       └── assets/
+│           ├── css/vault.css
+│           ├── js/vault.js
+│           └── data/sections.js   # Conteúdo compilado (gerado)
+├── Mecânicas/               # Markdown source — regras
+├── Lore/                    # Markdown source — lore
+├── Narração/                # Markdown source — ferramentas de mesa
+├── Aventuras/               # Markdown source — módulos
+├── Personagens/             # Fichas dos PCs em MD
+└── bibliografia/            # Referências de fontes
+```
+
+---
+
+## Agradecimentos
+
+Dedico este projeto ao site do Demiplane e sua IMPLEMENTAÇÃO HEDIONDA DO VAMPIRO 5E (Nunca mais vou usar btw), que despertou o sentimento em mim de querer fazer algo a respeito e aprender algo no caminho. (Valeu Zamora que fez a vault original que eu modifiquei).
+
+---
+
+## Disclaimer
+
+Este é um projeto pessoal de fã, criado exclusivamente para uso em mesa privada e fins de portfólio. Não é afiliado, endossado ou licenciado pela **Paradox Interactive AB** ou pela **White Wolf Publishing**.
+
+*Vampire: The Masquerade*, o logotipo da **World of Darkness**, todos os nomes de clãs, disciplinas e demais termos do sistema são marcas registradas de Paradox Interactive AB. Todo o material de regras e lore referenciado neste repositório pertence aos seus respectivos detentores de direito.
+
+Nenhum conteúdo oficial é redistribuído neste repositório — os arquivos compilados constituem resumos, anotações e reescritas para referência rápida de mesa, nos termos de uso justo / fair use para fins não comerciais e educacionais.

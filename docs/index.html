@@ -10,20 +10,41 @@
 <body>
 
 <!-- ══════════════════════════════════════════════════════════
+     TAB DRAWER
+══════════════════════════════════════════════════════════ -->
+<div class="tab-overlay" id="tab-overlay"></div>
+<aside class="tab-drawer" id="tab-drawer">
+  <div class="drawer-head">Seções</div>
+  <button class="drawer-tab active" data-tab="mechanics">Mechanics</button>
+  <button class="drawer-tab" data-tab="narrative">Narrative</button>
+  <button class="drawer-tab" data-tab="ref">Ref</button>
+  <button class="drawer-tab" data-tab="manual">Manual</button>
+</aside>
+
+<!-- ══════════════════════════════════════════════════════════
      NAV BAR
 ══════════════════════════════════════════════════════════ -->
 <nav class="tabnav">
-  <div class="tabs">
-    <button class="tab active" data-tab="mechanics">Mechanics</button>
-    <button class="tab"        data-tab="narrative">Narrative</button>
-    <button class="tab"        data-tab="ref">Ref</button>
-    <button class="tab"        data-tab="manual">Manual</button>
+  <button class="nav-icon-btn" id="btn-menu" title="Seções">☰</button>
+  <div class="nav-tabs">
+    <button class="nav-tab active" data-tab="mechanics">Mechanics</button>
+    <button class="nav-tab" data-tab="narrative">Narrative</button>
+    <button class="nav-tab" data-tab="ref">Ref</button>
+    <button class="nav-tab" data-tab="manual">Manual</button>
   </div>
+  <div class="nav-spacer"></div>
   <div class="nav-actions">
-    <a class="nav-btn" href="vault/index.html" target="_blank">Vault</a>
-    <button class="nav-btn" id="btn-edit">✏ Edit</button>
-    <button class="nav-btn" id="btn-export">Export</button>
-    <button class="nav-btn" id="btn-import">Import</button>
+    <div class="char-switcher">
+      <button class="nav-icon-btn" id="btn-switch" title="Trocar personagem">▾</button>
+      <div class="char-dropdown" id="char-dropdown"></div>
+    </div>
+    <button class="nav-icon-btn" id="btn-new" title="Novo personagem">＋</button>
+    <button class="nav-icon-btn danger" id="btn-delete-char" title="Deletar personagem">🗑</button>
+    <div class="nav-sep"></div>
+    <a class="nav-icon-btn" href="vault/index.html" target="_blank" title="Vault"><svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 3.5C1 2.67 1.67 2 2.5 2H6l1.5 2H13.5C14.33 4 15 4.67 15 5.5V11.5C15 12.33 14.33 13 13.5 13H2.5C1.67 13 1 12.33 1 11.5V3.5Z" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/></svg></a>
+    <button class="nav-icon-btn" id="btn-edit" title="Editar">✏</button>
+    <button class="nav-icon-btn" id="btn-export" title="Exportar">⬆</button>
+    <button class="nav-icon-btn" id="btn-import" title="Importar">⬇</button>
     <input type="file" id="import-input" accept=".json" style="display:none">
   </div>
 </nav>
@@ -39,13 +60,6 @@
     <div class="char-name-row">
       <span class="char-name" id="char-name" contenteditable="false">Khalil Mansour</span>
       <span class="char-aliases" id="char-aliases" contenteditable="false">"O Dragomano" · "Ibn al-Zill" · "Oberon-7"</span>
-      <div class="char-controls">
-        <div class="char-switcher">
-          <button class="char-ctrl-btn" id="btn-switch" title="Switch character">▾</button>
-          <div class="char-dropdown" id="char-dropdown"></div>
-        </div>
-        <button class="char-ctrl-btn" id="btn-new" title="New character">＋</button>
-      </div>
     </div>
     <div class="hdeco"></div>
     <div class="hmeta">
@@ -166,6 +180,48 @@
 
   </div>
 
+  <!-- BOTTOM: notes / inventory / trackers, + disciplines (full width) -->
+  <div class="mech-bottom">
+
+  <!-- NOTES -->
+  <div class="mech-notes-col">
+  <div class="mech-card">
+    <div class="sh">Notes</div>
+    <div id="notes-text" class="notes-content" contenteditable="false" data-placeholder="Anotações livres…"></div>
+  </div>
+  </div><!-- /mech-notes-col -->
+
+  <!-- INVENTORY + POOLS -->
+  <div class="mech-col-left">
+  <div class="inventory">
+    <div class="sh">
+      Inventory
+      <button class="sh-add" id="btn-add-inv" title="Add item">＋</button>
+    </div>
+    <div id="inventory-list"></div>
+  </div>
+
+  <div class="mech-card pools-card">
+    <div class="sh">🎲 Cola para dados <button class="sh-add" id="btn-add-pool">＋</button></div>
+    <div id="pools-list"></div>
+    <div id="pool-add-form" class="pool-add-form" style="display:none;">
+      <input type="text" id="pool-title-input" class="pool-field" placeholder="Título…">
+      <select id="pool-attr" class="pool-field"></select>
+      <select id="pool-skill" class="pool-field"></select>
+      <input type="text" id="pool-specialty" class="pool-field" placeholder="Especialidade (opcional, +1)">
+      <select id="pool-disc" class="pool-field"></select>
+      <div id="pool-preview" class="pool-preview"></div>
+      <div class="pool-form-btns">
+        <button id="btn-pool-save" class="btn-sm">Adicionar</button>
+        <button id="btn-pool-cancel" class="btn-sm">Cancelar</button>
+      </div>
+    </div>
+  </div>
+  </div><!-- /mech-col-left -->
+
+  <!-- RIGHT: Trackers -->
+  <div class="mech-col-right">
+
   <!-- TRACKERS -->
   <div class="trk">
     <div class="trk-grid">
@@ -229,7 +285,9 @@
     </div>
   </div>
 
-  <!-- DISCIPLINES -->
+  </div><!-- /mech-col-right -->
+
+  <!-- DISCIPLINES (full width row, not part of the 3-col split) -->
   <div class="disciplines">
     <div class="sh">
       Disciplines
@@ -238,14 +296,7 @@
     <div id="disciplines-list"></div>
   </div>
 
-  <!-- INVENTORY -->
-  <div class="inventory">
-    <div class="sh">
-      Inventory
-      <button class="sh-add" id="btn-add-inv" title="Add item">＋</button>
-    </div>
-    <div id="inventory-list"></div>
-  </div>
+  </div><!-- /mech-bottom -->
 
 </div>
 </div><!-- /pg-mechanics -->
@@ -459,8 +510,11 @@
 ══════════════════════════════════════════════════════════ -->
 <div id="pg-manual" class="pg">
 <div class="page">
-<div class="manual-page">
+<div class="manual-layout">
 
+  <!-- LEFT: How to use -->
+  <div class="manual-col">
+  <div class="manual-page">
   <div class="manual-section">
     <div class="manual-section-title">How to Use This Sheet</div>
 
@@ -529,6 +583,12 @@
     </div>
   </div>
 
+  </div><!-- /manual-page -->
+  </div><!-- /manual-col -->
+
+  <!-- RIGHT: Claude prompt -->
+  <div class="prompt-col">
+  <div class="manual-page">
   <div class="manual-section">
     <div class="manual-section-title">Character Creation — Claude Prompt</div>
     <p class="manual-text" style="margin-bottom:12px;">Copy the prompt below and paste it into a new conversation at <a href="https://claude.ai" target="_blank" style="color:var(--gold);">claude.ai</a>. Claude will guide you through building your character step by step and output a JSON file you can import directly into this sheet.</p>
@@ -615,7 +675,10 @@ Begin now with Phase 1.
     </div>
   </div>
 
-</div><!-- /manual-page -->
+  </div><!-- /manual-page -->
+  </div><!-- /prompt-col -->
+
+</div><!-- /manual-layout -->
 </div>
 </div><!-- /pg-manual -->
 
@@ -669,6 +732,21 @@ Begin now with Phase 1.
   </div>
 </div>
 
+<!-- Delete Character -->
+<div class="modal-overlay" id="modal-delete-char">
+  <div class="modal">
+    <div class="modal-title">Deletar Personagem</div>
+    <p style="color:var(--txt-m);font-size:15px;margin:0 0 18px;text-align:center;">
+      Tem certeza que quer deletar <strong id="delete-char-name" style="color:var(--txt)"></strong>?<br>
+      <span style="color:#e05;font-size:13px;">Esta ação não pode ser desfeita.</span>
+    </p>
+    <div class="modal-actions">
+      <button class="modal-btn" onclick="closeModal('modal-delete-char')">Cancelar</button>
+      <button class="modal-btn primary" id="btn-delete-char-confirm" style="background:#a00;border-color:#c00;">Deletar</button>
+    </div>
+  </div>
+</div>
+
 <!-- Confirm Delete -->
 <div class="confirm-overlay" id="confirm-overlay">
   <div class="confirm-box">
@@ -677,4 +755,9 @@ Begin now with Phase 1.
       <button class="modal-btn" id="confirm-cancel">Cancel</button>
       <button class="modal-btn primary" id="confirm-ok">Delete</button>
     </div>
-  <
+  </div>
+</div>
+
+<script src="assets/js/sheet.js"></script>
+</body>
+</html>

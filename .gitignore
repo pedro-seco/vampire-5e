@@ -1,4 +1,5 @@
-bibliografia/*.pdf
+bibliografia/**/*.pdf
 documentos/*.pdf
+bibliografia/audio/
 .obsidian/graph.json
 .obsidian/workspace.json

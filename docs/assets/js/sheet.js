@@ -86,6 +86,10 @@ const DEFAULT_CHARACTER = {
     { name: 'Potence',   level: 1, powers: ['Lethal Body'] }
   ],
   inventory: ['Burner phone', 'Lock picks', 'Fake ID (Samir Haddad)'],
+  pools: [
+    { title: 'Golpe (corpo a corpo)', attr: 'strength', skill: 'brawl', specialty: '', disc: 'Potence' },
+    { title: 'Furtividade',           attr: 'dexterity', skill: 'stealth', specialty: 'Infiltration', disc: '' }
+  ],
   convictions: [
     'Never leave a trace.',
     'Dead men fix nothing.',
@@ -177,13 +181,28 @@ function saveChar(c) {
    TABS
 ══════════════════════════════════════════════════════════════ */
 function initTabs() {
-  document.querySelectorAll('.tab').forEach(btn => {
+  const drawer  = document.getElementById('tab-drawer');
+  const overlay = document.getElementById('tab-overlay');
+
+  function closeDrawer() {
+    drawer.classList.remove('open');
+    overlay.classList.remove('open');
+  }
+
+  document.getElementById('btn-menu').addEventListener('click', () => {
+    drawer.classList.toggle('open');
+    overlay.classList.toggle('open');
+  });
+  overlay.addEventListener('click', closeDrawer);
+
+  document.querySelectorAll('.drawer-tab, .nav-tab').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      document.querySelectorAll('.drawer-tab, .nav-tab').forEach(t => t.classList.remove('active'));
       document.querySelectorAll('.pg').forEach(p => p.classList.remove('visible'));
       btn.classList.add('active');
       document.getElementById('pg-' + btn.dataset.tab).classList.add('visible');
       window.scrollTo(0, 0);
+      closeDrawer();
     });
   });
 }
@@ -197,13 +216,17 @@ function setEditMode(on) {
   editMode = on;
   document.body.classList.toggle('edit-mode', on);
   document.getElementById('btn-edit').classList.toggle('active', on);
-  document.getElementById('btn-edit').textContent = on ? '✏ Done' : '✏ Edit';
-  const editable = ['char-name','char-aliases','hv-clan','hv-gen','hv-pred','hv-faction','hv-embrace','hv-sire','hv-lang','background-text'];
+  document.getElementById('btn-edit').title = on ? 'Sair do modo edição' : 'Editar';
+  const editable = ['char-name','char-aliases','hv-clan','hv-gen','hv-pred','hv-faction','hv-embrace','hv-sire','hv-lang','background-text','notes-text'];
   editable.forEach(id => {
     const el = document.getElementById(id);
     if (el) el.contentEditable = on ? 'true' : 'false';
   });
-  if (!on) saveFromDOM();
+  if (!on) {
+    saveFromDOM();
+    const pf = document.getElementById('pool-add-form');
+    if (pf) pf.style.display = 'none';
+  }
 }
 
 document.getElementById('btn-edit').addEventListener('click', () => setEditMode(!editMode));
@@ -251,9 +274,11 @@ function renderAll() {
 
   renderDisciplines();
   renderInventory();
+  renderPools();
   renderConvictions();
   renderTouchstones();
   setText('background-text', char.background);
+  setText('notes-text', char.notes || '');
   renderSwitcher();
 }
 
@@ -535,7 +560,7 @@ function renderHumanity() {
   const tk = char.trackers;
   c.innerHTML = '';
   const wrap = document.createElement('div');
-  wrap.style.cssText = 'display:flex;gap:3px;flex-wrap:wrap;align-items:center;';
+  wrap.className = 'hum-wrap';
   const total = 10;
 
   for (let i = 0; i < total; i++) {
@@ -575,8 +600,8 @@ function renderHumanity() {
     saveChar(char); renderHumanity();
   });
   ec.appendChild(bm); ec.appendChild(bp_);
-  wrap.appendChild(ec);
   c.appendChild(wrap);
+  c.appendChild(ec);
 }
 
 /* Blood Potency */
@@ -643,9 +668,21 @@ function renderDisciplines() {
     const hdr = document.createElement('div');
     hdr.className = 'disc-header';
 
+    // Collapse arrow
+    const arr = document.createElement('span');
+    arr.className = 'disc-arr';
+    arr.textContent = '▾';
+    hdr.appendChild(arr);
+
     const titleSpan = document.createElement('span');
     titleSpan.textContent = disc.name;
     hdr.appendChild(titleSpan);
+
+    // Toggle collapse on header click (not on buttons)
+    hdr.addEventListener('click', e => {
+      if (e.target.closest('button')) return;
+      group.classList.toggle('collapsed');
+    });
 
     // Level controls (−  ●●●  +) — visible only in edit mode via CSS
     const lvlDown = document.createElement('button');
@@ -715,6 +752,12 @@ function renderDisciplines() {
       } else {
         card.innerHTML = '<div class="dp-name">' + powerName + '</div>';
       }
+
+      // Toggle power detail on click
+      card.addEventListener('click', e => {
+        if (e.target.closest('button')) return;
+        card.classList.toggle('collapsed');
+      });
 
       const delPow = document.createElement('button');
       delPow.className = 'btn-delete';
@@ -833,6 +876,158 @@ document.getElementById('btn-add-inv').addEventListener('click', () => {
   saveChar(char); renderInventory();
   const rows = document.querySelectorAll('#inventory-list .inv-name');
   if (rows.length) { rows[rows.length-1].focus(); selectAll(rows[rows.length-1]); }
+});
+
+/* ══════════════════════════════════════════════════════════════
+   DICE POOLS (Cola para dados)
+══════════════════════════════════════════════════════════════ */
+function _poolAttrLabel(k) {
+  return k.charAt(0).toUpperCase() + k.slice(1);
+}
+
+function _poolFormula(p) {
+  const parts = [];
+  let total = 0;
+
+  // Attr (mandatory)
+  if (p.attr && char.attributes[p.attr] !== undefined) {
+    const v = char.attributes[p.attr];
+    parts.push(_poolAttrLabel(p.attr) + ' (' + v + ')');
+    total += v;
+  }
+
+  // Skill (mandatory)
+  if (p.skill && char.skills[p.skill]) {
+    const v = char.skills[p.skill].value;
+    parts.push((SKILL_LABELS[p.skill] || p.skill) + ' (' + v + ')');
+    total += v;
+  }
+
+  // Specialty (optional, +1)
+  if (p.specialty) {
+    parts.push(p.specialty + ' (+1)');
+    total += 1;
+  }
+
+  // Discipline (optional)
+  if (p.disc) {
+    const d = (char.disciplines || []).find(function(dd) { return dd.name === p.disc; });
+    const v = d ? d.level : 0;
+    if (v) { parts.push(p.disc + ' (' + v + ')'); total += v; }
+  }
+
+  if (!parts.length) return '—';
+  return parts.join(' + ') + ' = ' + total;
+}
+
+function renderPools() {
+  const list = document.getElementById('pools-list');
+  if (!list) return;
+  list.innerHTML = '';
+  (char.pools || []).forEach(function(p, i) {
+    const el = document.createElement('div');
+    el.className = 'pool-entry';
+
+    const titleEl = document.createElement('div');
+    titleEl.className = 'pool-entry-title';
+    titleEl.textContent = p.title || 'Pool';
+
+    const fEl = document.createElement('div');
+    fEl.className = 'pool-entry-formula';
+
+    const fText = document.createElement('span');
+    fText.textContent = _poolFormula(p);
+
+    const del = document.createElement('button');
+    del.className = 'pool-del edit-ctrl';
+    del.textContent = '✕';
+    del.title = 'Remover';
+    del.addEventListener('click', function() {
+      char.pools.splice(i, 1);
+      saveChar(char); renderPools();
+    });
+
+    fEl.appendChild(fText);
+    fEl.appendChild(del);
+    el.appendChild(titleEl);
+    el.appendChild(fEl);
+    list.appendChild(el);
+  });
+}
+
+function _poolBuildSelects() {
+  // Attribute options
+  const attrOpts = ['<option value="">— Atributo —</option>'];
+  Object.keys(char.attributes).forEach(function(k) {
+    attrOpts.push('<option value="' + k + '">' + _poolAttrLabel(k) + ' (' + char.attributes[k] + ')</option>');
+  });
+  document.getElementById('pool-attr').innerHTML = attrOpts.join('');
+
+  // Skill options
+  const skillOpts = ['<option value="">— Skill —</option>'];
+  ['physical','social','mental'].forEach(function(grp) {
+    skillOpts.push('<optgroup label="' + grp.charAt(0).toUpperCase() + grp.slice(1) + '">');
+    SKILL_GROUPS[grp].forEach(function(k) {
+      const v = (char.skills[k] || {value:0}).value;
+      skillOpts.push('<option value="' + k + '">' + (SKILL_LABELS[k] || k) + ' (' + v + ')</option>');
+    });
+    skillOpts.push('</optgroup>');
+  });
+  document.getElementById('pool-skill').innerHTML = skillOpts.join('');
+
+  // Discipline options
+  const discOpts = ['<option value="">— Disciplina (opcional) —</option>'];
+  (char.disciplines || []).forEach(function(d) {
+    discOpts.push('<option value="' + d.name + '">' + d.name + ' (' + d.level + ')</option>');
+  });
+  document.getElementById('pool-disc').innerHTML = discOpts.join('');
+}
+
+function _poolUpdatePreview() {
+  const p = {
+    attr:      document.getElementById('pool-attr').value,
+    skill:     document.getElementById('pool-skill').value,
+    specialty: document.getElementById('pool-specialty').value.trim(),
+    disc:      document.getElementById('pool-disc').value
+  };
+  document.getElementById('pool-preview').textContent = _poolFormula(p);
+}
+
+// Wire up pool form events
+document.getElementById('btn-add-pool').addEventListener('click', function() {
+  if (!editMode) return;
+  _poolBuildSelects();
+  document.getElementById('pool-title-input').value = '';
+  document.getElementById('pool-specialty').value = '';
+  document.getElementById('pool-preview').textContent = '';
+  document.getElementById('pool-add-form').style.display = '';
+});
+
+['pool-attr','pool-skill','pool-disc'].forEach(function(id) {
+  document.getElementById(id).addEventListener('change', _poolUpdatePreview);
+});
+document.getElementById('pool-specialty').addEventListener('input', _poolUpdatePreview);
+
+document.getElementById('btn-pool-save').addEventListener('click', function() {
+  const attr  = document.getElementById('pool-attr').value;
+  const skill = document.getElementById('pool-skill').value;
+  if (!attr || !skill) { alert('Atributo e Skill são obrigatórios.'); return; }
+  const p = {
+    title:     document.getElementById('pool-title-input').value.trim() || 'Pool',
+    attr,
+    skill,
+    specialty: document.getElementById('pool-specialty').value.trim(),
+    disc:      document.getElementById('pool-disc').value
+  };
+  if (!char.pools) char.pools = [];
+  char.pools.push(p);
+  saveChar(char);
+  document.getElementById('pool-add-form').style.display = 'none';
+  renderPools();
+});
+
+document.getElementById('btn-pool-cancel').addEventListener('click', function() {
+  document.getElementById('pool-add-form').style.display = 'none';
 });
 
 /* ══════════════════════════════════════════════════════════════
@@ -1004,6 +1199,36 @@ document.getElementById('btn-new').addEventListener('click', () => {
   setEditMode(true);
 });
 
+/* ── Delete character ───────────────────────────────────────── */
+document.getElementById('btn-delete-char').addEventListener('click', () => {
+  if (!char) return;
+  document.getElementById('delete-char-name').textContent = char.name || 'este personagem';
+  openModal('modal-delete-char');
+});
+document.getElementById('btn-delete-char-confirm').addEventListener('click', () => {
+  closeModal('modal-delete-char');
+  if (!char) return;
+  const store = storageGet();
+  const idx   = store.characters.indexOf(char.id);
+  if (idx !== -1) store.characters.splice(idx, 1);
+  delete store[char.id];
+  // Switch to another character or create blank
+  if (store.characters.length > 0) {
+    store.active = store.characters[store.characters.length - 1];
+    char = store[store.active];
+  } else {
+    const id    = 'char_' + Date.now();
+    const newC  = JSON.parse(JSON.stringify(DEFAULT_CHARACTER));
+    newC.id     = id;
+    store.characters.push(id);
+    store.active = id;
+    store[id]   = newC;
+    char = newC;
+  }
+  storageSave(store);
+  renderAll();
+});
+
 /* ══════════════════════════════════════════════════════════════
    EXPORT / IMPORT
 ══════════════════════════════════════════════════════════════ */
@@ -1059,6 +1284,7 @@ function saveFromDOM() {
   char.xpTotal      = document.getElementById('xp-total').value;
   char.xpSpent      = document.getElementById('xp-spent').value;
   char.background   = document.getElementById('background-text').textContent.trim();
+  char.notes        = document.getElementById('notes-text').textContent.trim();
   const na = document.getElementById('narr-aliases');
   if (na) na.textContent = char.aliases;
   const nn = document.getElementById('narr-char-name');
