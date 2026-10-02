@@ -34,7 +34,7 @@ interface SkillWindowProps {
 
 export function SkillWindow({ skill, value, specialty, style, onClose }: SkillWindowProps) {
   const reference = skillReference(skill);
-  const levelText = reference.levels && value > 0 ? reference.levels[value - 1] : '';
+  const levelText = value > 0 ? reference.levels[value - 1] : '';
 
   return (
     <WindowFrame title={SKILL_LABELS[skill]} label="Detalhes da perícia" style={style} onClose={onClose}>

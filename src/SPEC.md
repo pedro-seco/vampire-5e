@@ -60,8 +60,8 @@ retrato, o ícone do clã (game-icons.net, CC BY 3.0).
   seção Estado (trackers), lâmina com atributos | disciplinas, depois perícias, vantagens,
   inventário e cola para dados.
 - **Janelas de detalhe:** clicar numa perícia ou num poder abre uma janela ao lado (no mobile,
-  uma gaveta embaixo) com o texto do Core quando disponível (Stealth p.164 e os poderes do Khalil)
-  ou o resumo da vault / dados da ficha.
+  uma gaveta embaixo) com o texto do Core: todas as perícias (pp. 159–171) e os poderes do Khalil;
+  os demais poderes usam os dados da ficha.
 - **Aparência (modo de edição):** enviar/trocar/remover retrato (salvo como JPEG reduzido no
   personagem, campo `portrait`) e escolher um dos 5 fundos (`backdrop`).
 - Atributos 1–5, skills 0–5 com especialidade, advantages/flaws com nível limitado pelo `maxLevel`

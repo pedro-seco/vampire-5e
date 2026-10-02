@@ -1,12 +1,9 @@
 import disciplinesData from '../data/disciplines.json';
 import type { DisciplinePower, SkillKey } from '../types/character';
+import { CORE_SKILLS } from './coreSkills';
+import type { SkillText } from './coreSkills';
 
-export interface SkillReference {
-  source: string;
-  body: string;
-  levels: string[] | null;
-  specialties: string;
-}
+export type SkillReference = SkillText;
 
 export interface PowerReference {
   title: string;
@@ -17,53 +14,6 @@ export interface PowerReference {
   pool: string;
   system: string;
 }
-
-const VAULT_SOURCE = 'RESUMO DA VAULT';
-
-const SKILL_SUMMARIES: Record<SkillKey, [string, string]> = {
-  athletics: ['Corrida, natação, escalada, acrobacia, saltos. Qualquer esforço físico que não seja combate direto.', 'Corrida, Natação, Escalada, Acrobacia, Parkour, Salto'],
-  brawl: ['Combate desarmado — socos, chutes, grappling, mordidas vampíricas como ataque.', 'Boxe, Grappling, Luta de Rua, Mordida, Defesa'],
-  craft: ['Criação e reparo de objetos físicos — carpintaria, mecânica, armas, arte plástica, culinária, hacking de hardware.', 'Mecânica, Eletrônica, Armas, Carpintaria, Explosivos, Arte Plástica'],
-  drive: ['Operar veículos — carros, motos, barcos, aeronaves leves. Perseguições e manobras evasivas.', 'Carros, Motos, Barcos, Perseguições, Evasão, Aeronaves'],
-  firearms: ['Uso de armas de fogo — pistolas, rifles, escopetas, armas automáticas.', 'Pistola, Rifle, Escopeta, Atirador de Elite, Tiro Rápido, Armas Automáticas'],
-  larceny: ['Arrombamento, pickpocket, safecracking, vigilância furtiva, roubo planejado.', 'Arrombamento, Pickpocket, Cofres, Alarmes, Vigilância'],
-  melee: ['Combate com armas brancas — facas, espadas, bastões, correntes, qualquer objeto contundente ou cortante.', 'Faca, Espada, Bastão, Combate de Dois Pesos, Armas Improvisadas'],
-  stealth: ['Movimento furtivo, camuflagem, seguir alvos sem ser detectado, infiltração.', 'Infiltração, Camuflagem, Seguimento, Ambientes Urbanos, Silêncio'],
-  survival: ['Sobrevivência em ambientes hostis — floresta, deserto, ártico, zonas urbanas destruídas. Rastrear, encontrar abrigo, orientação.', 'Rastreamento, Floresta, Deserto, Caça, Navegação, Zona Urbana'],
-  animalKen: ['Entender, treinar e interagir com animais. Sinergiza com Animalism.', 'Cães, Cavalos, Predadores, Pássaros, Animais Selvagens'],
-  etiquette: ['Protocolo social, maneiras, conhecimento de hierarquias e costumes culturais — tanto mortais quanto Kindred.', 'Alta Sociedade, Elysium Kindred, Protocolo Militar, Negócios, Diplomacia'],
-  insight: ['Leitura de pessoas — motivações, mentiras, emoções ocultas, intenções reais.', 'Detectar Mentiras, Motivações, Emoções, Linguagem Corporal'],
-  intimidation: ['Ameaças, presença física ameaçadora, coerção, terror — tanto físico quanto psicológico.', 'Ameaças Físicas, Coerção Psicológica, Interrogatório, Terror, Chantagem'],
-  leadership: ['Inspirar, coordenar e liderar grupos — seja por carisma, autoridade ou competência.', 'Combate, Política, Crise, Inspiração, Coterie'],
-  performance: ['Atuação, música, dança, oratória, qualquer forma de expressão artística ao vivo.', 'Música, Teatro, Dança, Oratória, Instrumento Específico'],
-  persuasion: ['Convencimento verbal e argumentação — lógica, apelo emocional, negociação, sedução verbal.', 'Sedução, Negociação, Engano, Debate, Discurso Público'],
-  streetwise: ['Conhecimento do submundo, redes criminais, linguagem de rua, como se mover em ambientes urbanos perigosos.', 'Tráfico, Informantes, Gangues, Mercado Negro, Territórios'],
-  subterfuge: ['Engano ativo — mentir, disfarçar intenções, manipular sem que percebam, atuar como outra pessoa.', 'Mentira, Disfarce, Manipulação, Personas, Interrogatório Reverso'],
-  academics: ['Conhecimento formal em humanidades — história, literatura, filosofia, teologia, linguística, direito.', 'História, Filosofia, Teologia, Direito, Literatura, Linguística, Noddismo'],
-  awareness: ['Percepção sensorial ativa — notar o que está fora do lugar, sentir que está sendo seguido, detectar armadilhas ou emboscadas.', 'Emboscadas, Vigilância, Presença Sobrenatural, Seguimento, Detalhes'],
-  finance: ['Finanças, contabilidade, mercados, lavagem de dinheiro, estruturas corporativas.', 'Contabilidade, Mercado de Ações, Lavagem de Dinheiro, Imóveis, Estruturas Corporativas'],
-  investigation: ['Pesquisa, análise de evidências, resolução de quebra-cabeças, interrogatório lógico.', 'Cenas de Crime, Pesquisa em Arquivo, Vigilância, Interrogatório, Ocultismo'],
-  medicine: ['Anatomia, primeiros socorros, diagnóstico, cirurgia, farmacologia — e como o corpo humano funciona para alimentação e dano.', 'Cirurgia, Farmacologia, Anatomia, Primeiros Socorros, Toxicologia, Medicina Vampírica'],
-  occult: ['Conhecimento do oculto, sobrenatural, Kindred, outras criaturas, magia, rituais — tanto folclore quanto realidade.', 'Kindred, Blood Sorcery, Hecata, Outras Criaturas, Noddismo, Folclore Vampírico'],
-  politics: ['Estruturas políticas, jogos de poder, hierarquias formais e informais — tanto mortal quanto Kindred.', 'Política Mortal, Hierarquia Kindred, Elysium, Camarilla, Anarquistas, Sabbat'],
-  science: ['Ciências naturais — física, química, biologia, engenharia. Matemática aplicada.', 'Química, Biologia, Física, Engenharia, Forense, Computação'],
-  technology: ['Computadores, redes, hacking, sistemas eletrônicos, vigilância digital, contramedidas.', 'Hacking, Redes, Vigilância, Contramedidas, Programação, Engenharia Social'],
-};
-
-const OFFICIAL_SKILLS: Partial<Record<SkillKey, SkillReference>> = {
-  stealth: {
-    source: 'CORE · P. 164',
-    body: 'Stealth allows a character to shadow a target, making vampires with this ability superlative hunters. They benefit from the ability to spy, sneak, and blend in with crowds when needed.',
-    levels: [
-      'Spotting you under the cover of darkness or in camouflage proves difficult.',
-      'You can sneak by casual observers and stalk unknowing victims without raising any hackles.',
-      'You evade patrolling guards, moving softly and hiding easily.',
-      'Your subtle, silent passage could make you a worthy ninja — or a worthy foe for ninja.',
-      'The Children of Haqim come to you for advice on stalking and hiding, if they can find you.',
-    ],
-    specialties: 'Ambushes, Crowds, Disguise, Hiding, Shadowing, Silent Movement, Urban, Wilderness',
-  },
-};
 
 const OFFICIAL_POWERS: Record<string, Omit<PowerReference, 'title'>> = {
   'Bond Famulus': {
@@ -120,10 +70,7 @@ const OFFICIAL_POWERS: Record<string, Omit<PowerReference, 'title'>> = {
 const POWERS = disciplinesData as DisciplinePower[];
 
 export function skillReference(skill: SkillKey): SkillReference {
-  const official = OFFICIAL_SKILLS[skill];
-  if (official) return official;
-  const [body, specialties] = SKILL_SUMMARIES[skill];
-  return { source: VAULT_SOURCE, body, levels: null, specialties };
+  return CORE_SKILLS[skill];
 }
 
 export function powerReference(discipline: string, powerName: string): PowerReference {
