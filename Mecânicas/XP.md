@@ -71,11 +71,11 @@ Poderes alternativos do mesmo nível (ex: aprender *Mask of a Thousand Faces* qu
 
 | Avanço | Custo |
 |--------|-------|
-| Aumentar Blood Potency em 1 | Atual × 10 |
+| Aumentar Blood Potency em 1 | Novo nível × 10 |
 
-**Exemplo:** Subir Blood Potency de 2 para 3 custa 2 × 10 = **20 XP**.
+**Exemplo:** Subir Blood Potency de 2 para 3 custa 3 × 10 = **30 XP**.
 
-Blood Potency também aumenta naturalmente com torpor prolongado — cada 25 anos de torpor aumenta em 1 (máximo determinado pela geração). Ver [[Mecânicas/Gerações e Potência]].
+Blood Potency também aumenta naturalmente com a idade — em geral, 1 ponto a cada 100 anos *ativo* (experiências intensas ou Sangue muito potente podem acelerar). Em torpor, o vampiro **perde** 1 nível a cada 50 anos. Nunca abaixo do mínimo nem acima do máximo da geração (Core, p. 215). Ver [[Mecânicas/Gerações e Potência]].
 
 ---
 
@@ -147,7 +147,7 @@ Para referência de criação, ver [[Mecânicas/Character]].
 | Discipline (clã) | Novo rating × 5 |
 | Discipline (fora de clã) | Novo rating × 7 |
 | Poder alternativo (mesmo nível) | 3 fixo |
-| Blood Potency | Atual × 10 |
+| Blood Potency | Novo nível × 10 |
 | Humanidade | Atual × 3 |
 | Advantage/Loresheet | Novo rating × 3 |
 

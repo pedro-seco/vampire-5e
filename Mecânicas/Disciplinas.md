@@ -1389,40 +1389,41 @@ Protean permite ao Kindred transformar seu corpo — olhos de predador, garras l
 
 ### Eyes of the Beast
 
-Os olhos do vampiro transformam-se em orbs vermelhos luminosos, concedendo visão perfeita no escuro absoluto.
+O vampiro faz surgir um brilho vermelho sobrenatural nos olhos, enxergando mesmo na ausência total de luz.
 
 > - **Custo**: Free
-> - **Duração**: Uma cena (desativável a qualquer momento)
-> - **Dice Pools:** Não possui
+> - **Duração**: Enquanto desejar
+> - **Dice Pools:** Não possui (ativação não requer teste)
 >
 > - **System (Regras)**:
->   O vampiro vê perfeitamente em qualquer nível de escuridão, incluindo escuridão sobrenatural (como a criada por Oblivion). Não sofre penalidades por falta de luz.
->   Desvantagem: os olhos brilham visivelmente no escuro — mortais que os vejam devem fazer teste de Composure Dificuldade 2 ou recuar com medo. Ameaça direta à Máscara em ambientes com luz.
+>   Enquanto ativo, o vampiro ignora quaisquer penalidades de visão impostas pela escuridão, inclusive sobrenatural.
+>   A aparência inumana dos olhos concede **+2 dados em testes de Intimidation contra mortais**.
 
 ### Weight of the Feather
 
-O vampiro pode alterar sua densidade corporal, tornando-se leve como pena para fins de movimento — escalar superfícies, cair sem dano, mover-se silenciosamente.
+O vampiro reduz sua massa e densidade efetivas, tornando-se quase sem peso. Isso evita acionar sensores de pressão e sofrer dano grave de quedas, colisões ou arremessos. O poder não serve para saltos mais longos, pois a força do vampiro é reduzida proporcionalmente.
 
 > - **Custo**: Free
-> - **Duração**: Uma cena
-> - **Dice Pools:** Não possui
+> - **Duração**: Enquanto desejar
+> - **Dice Pools:** Wits + Survival (apenas como reação)
 >
 > - **System (Regras)**:
->   O vampiro pode escalar qualquer superfície vertical ou se mover sobre superfícies frágeis (neve, vidro fino, vegetação) sem deixar rastros ou causar dano. Quedas de qualquer altura causam apenas dano superficial (máximo 3). Movimento silencioso: adiciona Protean como bônus a testes de Stealth relacionados a peso ou rastros.
+>   Com tempo para se preparar, não é necessário teste. Como reação (por exemplo, numa queda repentina), ativar o poder exige Wits + Survival Dificuldade 3.
+>   Enquanto ativo, o vampiro é **imune a dano de quedas, colisões e arremessos**. Também evita acionar dispositivos que dependem de pressão, a critério do Narrador.
 
 ## Protean - Poderes Nível 2
 
 ### Feral Weapons
 
-O vampiro manifesta garras animais — longas, negras, capazes de rasgar carne e mesmo causar dano agravado a outros Kindred.
+O vampiro estende suas armas naturais a proporções monstruosas — geralmente unhas que se tornam garras cruéis, mas também presas que se alongam como adagas, como as de uma serpente gigante.
 
-> - **Custo**: Free
-> - **Duração**: Uma cena ou até retração voluntária
-> - **Dice Pools:** Strength + Brawl (ataque)
+> - **Custo**: Um [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check]]
+> - **Duração**: Uma [[Regras Fundamentais#Scene|cena]]
+> - **Dice Pools:** Não requer teste para ativar; ataques usam o pool normal de Brawl
 >
 > - **System (Regras)**:
->   As garras causam dano agravado à Saúde de mortais e **dano superficial** à Saúde de Kindred (diferente de ataques desarmados normais, que causam superficial em ambos). Podem arranhar e danificar superfícies duras normalmente intactas ao toque humano.
->   As garras são visíveis e claramente não-humanas — ameaça à Máscara se observadas. Podem ser retratadas instantaneamente como ação gratuita.
+>   Enquanto ativo, o vampiro recebe **+2 de dano** em ataques de Brawl e causa **dano Agravado** à Saúde de mortais.
+>   O dano Superficial causado pelas Feral Weapons **não é reduzido à metade** (contra Kindred e outros alvos que normalmente dividiriam o dano Superficial).
 
 ## Protean - Poderes Nível 3
 
