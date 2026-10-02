@@ -1,13 +1,3 @@
-/**
- * Build-time conversion of the Obsidian notes in ../vault into the sections the
- * web vault renders. Exposed to the app as the virtual module `virtual:vault-sections`
- * (see vite.config.ts), so editing a .md file updates the site on the next build
- * (and live in `npm run dev`).
- *
- * Obsidian syntax handled: [[Note]], [[Note|alias]], [[Note#Heading|alias]], [[#Heading]],
- * `\|` inside tables, ![[embeds]] (dropped), ```table-of-contents``` (dropped),
- * tag-only lines like `#rules #dice` (dropped), ==highlight== (rendered bold).
- */
 import fs from 'node:fs';
 import path from 'node:path';
 import { Marked } from 'marked';
@@ -18,8 +8,13 @@ export interface VaultSection {
   html: string;
 }
 
-/** Which notes the web vault shows, in order, with their display titles. */
-export const VAULT_NOTES: { file: string; id: string; title: string }[] = [
+interface VaultNote {
+  file: string;
+  id: string;
+  title: string;
+}
+
+export const VAULT_NOTES: VaultNote[] = [
   { file: 'Mecânicas/Regras Fundamentais.md', id: 'regras-fundamentais', title: 'Regras Fundamentais' },
   { file: 'Mecânicas/Entendendo Dados e Ficha.md', id: 'entendendo-dados-e-ficha', title: 'Entendendo Dados e Ficha' },
   { file: 'Mecânicas/Exemplos de Testes.md', id: 'exemplos-de-testes', title: 'Exemplos de Testes' },
@@ -46,8 +41,15 @@ export const VAULT_NOTES: { file: string; id: string; title: string }[] = [
   { file: 'Mecânicas/XP.md', id: 'xp-e-avanco', title: 'XP e Avanço' },
 ];
 
-export function slugify(s: string): string {
-  return s
+const TABLE_OF_CONTENTS_BLOCK = /```table-of-contents[\s\S]*?```/g;
+const EMBED = /!\[\[[^\]]*\]\]/g;
+const TAG_ONLY_LINE = /^\s*(#[^\s#][^\s]*\s*)+$/;
+const HIGHLIGHT = /==([^=\n]+)==/g;
+const WIKILINK = /\[\[([^\]]+?)\]\]/g;
+const MARKDOWN_HEADING = /^#{1,6}\s+(.+)$/gm;
+
+export function slugify(text: string): string {
+  return text
     .normalize('NFD')
     .replace(/[̀-ͯ]/g, '')
     .toLowerCase()
@@ -56,72 +58,90 @@ export function slugify(s: string): string {
     .replace(/^-+|-+$/g, '');
 }
 
-const escapeHtml = (s: string) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+const escapeHtml = (text: string) =>
+  text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
-/** Heading text as written in the .md (minus markdown emphasis), for anchor matching. */
-const headingPlain = (s: string) => s.replace(/[*_`]/g, '').trim();
+const withoutEmphasis = (heading: string) => heading.replace(/[*_`]/g, '').trim();
 
 function readNote(vaultDir: string, file: string): string {
   return fs.readFileSync(path.join(vaultDir, file), 'utf8').replace(/\r\n?/g, '\n');
 }
 
-function cleanObsidian(md: string): string {
-  return md
-    .replace(/```table-of-contents[\s\S]*?```/g, '')
-    .replace(/!\[\[[^\]]*\]\]/g, '')
+function stripObsidianOnlySyntax(markdown: string): string {
+  const withoutBlocks = markdown.replace(TABLE_OF_CONTENTS_BLOCK, '').replace(EMBED, '');
+  const withoutTagLines = withoutBlocks
     .split('\n')
-    .filter((line) => !/^\s*(#[^\s#][^\s]*\s*)+$/.test(line))
-    .join('\n')
-    .replace(/==([^=\n]+)==/g, '**$1**');
+    .filter((line) => !TAG_ONLY_LINE.test(line))
+    .join('\n');
+  return withoutTagLines.replace(HIGHLIGHT, '**$1**');
+}
+
+class LinkResolver {
+  private notesByName = new Map<string, VaultNote>();
+  private headingsByNote = new Map<string, Set<string>>();
+
+  constructor(vaultDir: string) {
+    for (const note of VAULT_NOTES) {
+      this.notesByName.set(path.basename(note.file, '.md').toLowerCase(), note);
+      const headings = new Set<string>();
+      for (const match of readNote(vaultDir, note.file).matchAll(MARKDOWN_HEADING)) {
+        headings.add(slugify(withoutEmphasis(match[1])));
+      }
+      this.headingsByNote.set(note.id, headings);
+    }
+  }
+
+  findNote(name: string): VaultNote | undefined {
+    return this.notesByName.get(name.toLowerCase());
+  }
+
+  anchorFor(note: VaultNote, heading?: string): string {
+    if (!heading) return note.id;
+    const slug = slugify(heading);
+    return this.headingsByNote.get(note.id)?.has(slug) ? note.id + '-' + slug : note.id;
+  }
+}
+
+function renderWikilinks(markdown: string, currentNote: VaultNote, links: LinkResolver): string {
+  return markdown.replace(WIKILINK, (_match, inner: string) => {
+    const [target, alias] = inner.split(/\\?\|/);
+    const [notePart, heading] = target.split('#');
+    const noteName = path.basename(notePart.trim()).replace(/\.md$/i, '');
+    const label = escapeHtml((alias || heading || noteName).trim());
+    const destination = noteName ? links.findNote(noteName) : currentNote;
+
+    if (!destination) return `<span class="wiki-ref">${label}</span>`;
+    return `<a class="wiki-link" href="#${links.anchorFor(destination, heading?.trim())}">${label}</a>`;
+  });
+}
+
+function markdownRenderer(note: VaultNote): Marked {
+  const timesUsed = new Map<string, number>();
+
+  const uniqueHeadingId = (headingText: string) => {
+    const base = note.id + '-' + slugify(withoutEmphasis(headingText));
+    const count = timesUsed.get(base) || 0;
+    timesUsed.set(base, count + 1);
+    return count === 0 ? base : `${base}-${count + 1}`;
+  };
+
+  return new Marked({
+    gfm: true,
+    breaks: true,
+    renderer: {
+      heading({ tokens, depth, text }) {
+        return `<h${depth} id="${uniqueHeadingId(text)}">${this.parser.parseInline(tokens)}</h${depth}>\n`;
+      },
+    },
+  });
 }
 
 export function buildVaultSections(vaultDir: string): VaultSection[] {
-  const byName = new Map<string, (typeof VAULT_NOTES)[number]>();
-  for (const n of VAULT_NOTES) byName.set(path.basename(n.file, '.md').toLowerCase(), n);
-
-  // Heading anchors present in each note, so links can point at a real id or fall back to the section.
-  const headings = new Map<string, Set<string>>();
-  for (const n of VAULT_NOTES) {
-    const set = new Set<string>();
-    for (const m of readNote(vaultDir, n.file).matchAll(/^#{1,6}\s+(.+)$/gm)) set.add(slugify(headingPlain(m[1])));
-    headings.set(n.id, set);
-  }
-
-  const linkTo = (sectionId: string, heading?: string) => {
-    if (!heading) return sectionId;
-    const slug = slugify(heading);
-    return headings.get(sectionId)?.has(slug) ? sectionId + '-' + slug : sectionId;
-  };
+  const links = new LinkResolver(vaultDir);
 
   return VAULT_NOTES.map((note) => {
-    let md = cleanObsidian(readNote(vaultDir, note.file));
-
-    md = md.replace(/\[\[([^\]]+?)\]\]/g, (_, inner: string) => {
-      const [target, alias] = inner.split(/\\?\|/);
-      const [notePart, heading] = target.split('#');
-      const noteName = path.basename(notePart.trim()).replace(/\.md$/i, '');
-      const text = escapeHtml((alias || heading || noteName).trim());
-      const dest = noteName ? byName.get(noteName.toLowerCase()) : note;
-      if (!dest) return `<span class="wiki-ref">${text}</span>`;
-      return `<a class="wiki-link" href="#${linkTo(dest.id, heading?.trim())}">${text}</a>`;
-    });
-
-    const used = new Map<string, number>();
-    const marked = new Marked({
-      gfm: true,
-      breaks: true,
-      renderer: {
-        heading({ tokens, depth, text }) {
-          const inner = this.parser.parseInline(tokens);
-          const base = note.id + '-' + slugify(headingPlain(text));
-          const n = used.get(base) || 0;
-          used.set(base, n + 1);
-          const id = n ? `${base}-${n + 1}` : base;
-          return `<h${depth} id="${id}">${inner}</h${depth}>\n`;
-        },
-      },
-    });
-
-    return { id: note.id, title: note.title, html: marked.parse(md, { async: false }) };
+    const markdown = renderWikilinks(stripObsidianOnlySyntax(readNote(vaultDir, note.file)), note, links);
+    const html = markdownRenderer(note).parse(markdown, { async: false });
+    return { id: note.id, title: note.title, html };
   });
 }

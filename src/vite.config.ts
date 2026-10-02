@@ -5,43 +5,40 @@ import { fileURLToPath } from 'node:url'
 import path from 'node:path'
 import { buildVaultSections } from './scripts/vaultSections.ts'
 
-const root = path.dirname(fileURLToPath(import.meta.url))
-const VAULT_DIR = path.resolve(root, '../vault')
-const VIRTUAL_ID = 'virtual:vault-sections'
-const RESOLVED_ID = '\0' + VIRTUAL_ID
+const projectDir = path.dirname(fileURLToPath(import.meta.url))
+const vaultDir = path.resolve(projectDir, '../vault')
+const VIRTUAL_MODULE = 'virtual:vault-sections'
+const RESOLVED_VIRTUAL_MODULE = '\0' + VIRTUAL_MODULE
 
-/** Serves the .md notes in ../vault, converted to HTML, as `virtual:vault-sections`. */
 function vaultSections(): Plugin {
   return {
     name: 'vault-sections',
-    resolveId: (id) => (id === VIRTUAL_ID ? RESOLVED_ID : undefined),
+    resolveId: (id) => (id === VIRTUAL_MODULE ? RESOLVED_VIRTUAL_MODULE : undefined),
     load(id) {
-      if (id !== RESOLVED_ID) return
-      return 'export default ' + JSON.stringify(buildVaultSections(VAULT_DIR))
+      if (id !== RESOLVED_VIRTUAL_MODULE) return
+      return 'export default ' + JSON.stringify(buildVaultSections(vaultDir))
     },
     configureServer(server) {
-      server.watcher.add(VAULT_DIR)
+      server.watcher.add(vaultDir)
       server.watcher.on('change', (file) => {
-        if (!file.startsWith(VAULT_DIR) || !file.endsWith('.md')) return
-        const mod = server.moduleGraph.getModuleById(RESOLVED_ID)
-        if (mod) server.moduleGraph.invalidateModule(mod)
+        const isVaultNote = file.startsWith(vaultDir) && file.endsWith('.md')
+        if (!isVaultNote) return
+        const sectionsModule = server.moduleGraph.getModuleById(RESOLVED_VIRTUAL_MODULE)
+        if (sectionsModule) server.moduleGraph.invalidateModule(sectionsModule)
         server.ws.send({ type: 'full-reload' })
       })
     },
   }
 }
 
-// https://vite.dev/config/
-// base './' keeps asset paths relative, so the build works under GitHub Pages
-// (/vampire-5e/) as well as opened from any folder.
 export default defineConfig({
   base: './',
   plugins: [react(), vaultSections()],
   build: {
     rollupOptions: {
       input: {
-        ficha: path.resolve(root, 'index.html'),
-        vault: path.resolve(root, 'vault/index.html'),
+        ficha: path.resolve(projectDir, 'index.html'),
+        vault: path.resolve(projectDir, 'vault/index.html'),
       },
     },
   },

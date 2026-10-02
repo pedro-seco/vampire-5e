@@ -8,8 +8,8 @@ O build gera duas páginas:
 
 | Página | Entrada | URL publicada |
 | --- | --- | --- |
-| Ficha de personagem | `index.html` → `src/main.tsx` | `/vampire-5e/` |
-| Vault (regras) | `vault/index.html` → `src/vault/main.tsx` | `/vampire-5e/vault/` |
+| Ficha de personagem | `index.html` → `app/main.tsx` | `/vampire-5e/` |
+| Vault (regras) | `vault/index.html` → `app/vault/main.tsx` | `/vampire-5e/vault/` |
 
 ---
 
@@ -20,14 +20,14 @@ src/
   index.html, vault/index.html      entradas do Vite (multi-page)
   vite.config.ts                    plugin `vault-sections` + entradas
   scripts/vaultSections.ts          conversão .md (Obsidian) → HTML, roda no build
-  src/
+  app/
     App.tsx, main.tsx, sheet.css    ficha
-    components/                     Nav, mechanics/*, modals/*, shared/*
+    components/                     Nav, mechanics/, narrative/, manual/, modals/, shared/
     tabs/                           MechanicsTab, NarrativeTab, RefTab, ManualTab
-    context/                        CharacterContext, ConfirmContext, storage
+    context/                        CharacterContext, characterStore, characterFiles, ConfirmContext, storage
     types/character.ts              schema do personagem
-    data/                           disciplines.json, advantages.json, bp.json, defaultCharacter.ts
-    vault/                          VaultApp.tsx, vault.css
+    data/                           disciplines.json, advantages.json, bp.json, defaultCharacter.ts, creationPrompt.ts
+    vault/                          VaultApp.tsx, highlight.ts, vault.css
 ```
 
 ---

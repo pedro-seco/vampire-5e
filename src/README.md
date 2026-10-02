@@ -12,11 +12,15 @@ npm run lint
 ```
 
 O deploy é automático: todo push na `main` roda `.github/workflows/deploy.yml`, que faz o build
-e publica `dist/` no GitHub Pages.
+e publica `dist/` no GitHub Pages. Configuração única no GitHub: *Settings → Pages → Source:
+GitHub Actions*.
+
+O código não tem comentários nem variáveis de uma letra: explicações ficam neste README, no
+`SPEC.md` ou na mensagem de commit.
 
 ## A ficha
 
-Port da ficha clássica em JS puro, com o mesmo visual: `src/sheet.css` é o CSS original, e o
+Port da ficha clássica em JS puro, com o mesmo visual: `app/sheet.css` é o CSS original, e o
 markup segue o antigo porque o CSS depende de `body.edit-mode`, `[contenteditable="true"]` e
 `:empty`. Os dados ficam em `localStorage['vtm5e']`, no mesmo formato de antes.
 
@@ -31,10 +35,14 @@ Dois bugs da versão antiga não foram reproduzidos:
 
 | Pasta | O que é |
 | --- | --- |
-| `src/context/` | Estado do personagem (`CharacterContext`, persistência em `storage.ts`) e confirmação de exclusão. |
-| `src/types/`, `src/data/` | Schema e dados de referência (disciplinas, vantagens, Blood Potency). |
-| `src/tabs/` | Uma aba por arquivo: Mechanics, Narrative, Ref, Manual. |
-| `src/components/mechanics/` | Blocos da aba Mechanics: cabeçalho, atributos/skills, vantagens, trackers, disciplinas, inventário, pools. |
-| `src/components/shared/` | `Editable` (campo contentEditable), `Modal`, `SearchDropdown`. |
-| `src/vault/` | Página da vault web (`VaultApp`). |
-| `scripts/vaultSections.ts` | Conversão Obsidian → HTML usada pelo plugin `vault-sections` do `vite.config.ts`. |
+| `app/App.tsx`, `app/main.tsx` | Entrada da ficha: navegação e as quatro abas. |
+| `app/tabs/` | Uma aba por arquivo: Mechanics, Narrative, Ref, Manual. |
+| `app/components/mechanics/` | Blocos da aba Mechanics: cabeçalho, atributos/skills, vantagens, trackers, disciplinas, inventário, pools. |
+| `app/components/narrative/` | Convicções, touchstones e cartões de referência. |
+| `app/components/manual/` | Guia de uso e prompt de criação de personagem. |
+| `app/components/modals/` | Modais de adicionar disciplina, poder, vantagem e de deletar personagem. |
+| `app/components/shared/` | Peças reutilizadas: `Editable`, `Modal`, `SearchDropdown`, `PlusMinus` e utilitários. |
+| `app/context/` | Estado do personagem: `CharacterContext` (React), `characterStore` (operações), `characterFiles` (importar/exportar), `storage` (localStorage). |
+| `app/types/`, `app/data/` | Schema do personagem e dados de regras (disciplinas, vantagens, Blood Potency, prompt). |
+| `app/vault/` | Página da vault web: `VaultApp` e a busca com destaque (`highlight.ts`). |
+| `scripts/vaultSections.ts` | Conversão das notas do Obsidian em HTML, usada pelo plugin do `vite.config.ts`. |
