@@ -1,7 +1,7 @@
 import { useLayoutEffect, useRef, useState } from 'react';
 import type { ReactNode } from 'react';
 import { useCharacter } from '../context/CharacterContext';
-import { SKILL_GROUPS } from '../types/character';
+import { ATTRIBUTE_LABELS, SKILL_GROUPS } from '../types/character';
 import type { Attributes } from '../types/character';
 import { AnkhArt } from './AnkhArt';
 import { AppearanceControls } from './AppearanceControls';
@@ -10,7 +10,8 @@ import type { Rect } from './backdrops';
 import { BloodBlock, ResonancePicker } from './BloodBlock';
 import { CLAN_ICON_CREDIT } from './clanIcons';
 import { Frame } from './Frame';
-import { FormWindow, PowerWindow, SkillWindow } from './DetailWindows';
+import { AdvantageWindow, AttributeWindow, FormWindow, PowerWindow, PredatorWindow, SkillWindow } from './DetailWindows';
+import { CORE_PREDATORS } from './corePredators';
 import { PoolForm } from './pools';
 import { AddButton, SectionTitle } from './SectionTitle';
 import {
@@ -18,7 +19,7 @@ import {
   PoolItem, PowerItem, ProfileFieldItem, SkillItem, XpItem,
 } from './SheetItems';
 import { DamageTrackBoxes, HumanityBoxes, HungerBoxes, TrackerLabel } from './Trackers';
-import { isPowerSelected, isSkillSelected, useSheetDialogs } from './useSheetDialogs';
+import { isAdvantageSelected, isAttributeSelected, isPowerSelected, isSkillSelected, useSheetDialogs } from './useSheetDialogs';
 import type { Selection } from './useSheetDialogs';
 
 interface AnkhView {
@@ -157,6 +158,20 @@ export function MobileSheet() {
     detailWindow = <SkillWindow skill={selection.skill} value={entry?.value ?? 0} specialty={entry?.specialty ?? ''} onClose={closeWindow} />;
   } else if (selection?.kind === 'power') {
     detailWindow = <PowerWindow discipline={selection.discipline} power={selection.power} onClose={closeWindow} />;
+  } else if (selection?.kind === 'attribute') {
+    detailWindow = (
+      <AttributeWindow
+        attribute={selection.attribute}
+        label={ATTRIBUTE_LABELS[selection.attribute]}
+        value={character.attributes[selection.attribute]}
+        onClose={closeWindow}
+      />
+    );
+  } else if (selection?.kind === 'predator') {
+    detailWindow = <PredatorWindow name={character.predatorType} onClose={closeWindow} />;
+  } else if (selection?.kind === 'advantage') {
+    const item = (selection.list === 'advantage' ? character.advantages : character.flaws)[selection.index];
+    detailWindow = item ? <AdvantageWindow name={item.name} level={item.level} note={item.note} onClose={closeWindow} /> : null;
   } else if (selection?.kind === 'pool-form') {
     detailWindow = <FormWindow title="Novo pool" onClose={closeWindow}><PoolForm onClose={closeWindow} /></FormWindow>;
   }
@@ -179,7 +194,14 @@ export function MobileSheet() {
 
       <div className="ankh-mobile__profile">
         {PROFILE_FIELDS.map(({ field, label }) => (
-          <div key={field} className="ankh-mobile__field"><ProfileFieldItem field={field} label={label} /></div>
+          <div key={field} className="ankh-mobile__field">
+            <ProfileFieldItem
+              field={field}
+              label={label}
+              selected={field === 'predatorType' && selection?.kind === 'predator'}
+              onSelect={field === 'predatorType' && character.predatorType in CORE_PREDATORS ? () => toggle({ kind: 'predator' }, selection?.kind === 'predator') : undefined}
+            />
+          </div>
         ))}
         <div className="ankh-mobile__field is-wide"><XpItem /></div>
       </div>
@@ -205,7 +227,7 @@ export function MobileSheet() {
               <div key={group.label} className="ankh-mobile__stack">
                 <span className="ankh-group">{group.label}</span>
                 {group.attributes.map(([attribute, label]) => (
-                  <div key={attribute} className="ankh-mobile__item"><AttributeItem attribute={attribute} label={label} side="left" /></div>
+                  <div key={attribute} className="ankh-mobile__item"><AttributeItem attribute={attribute} label={label} side="left" selected={isAttributeSelected(selection, attribute)} onSelect={() => toggle({ kind: 'attribute', attribute }, isAttributeSelected(selection, attribute))} /></div>
                 ))}
               </div>
             ))}
@@ -252,12 +274,16 @@ export function MobileSheet() {
       <MobileSection title="VANTAGENS">
         <MobileGroup label="ADVANTAGES" action={editAction('Adicionar advantage', () => addAdvantage('advantage'))}>
           {character.advantages.map((item, index) => (
-            <div key={item.name + index} className="ankh-mobile__cell"><AdvantageItem kind="advantage" index={index} side="left" /></div>
+            <div key={item.name + index} className="ankh-mobile__cell">
+              <AdvantageItem kind="advantage" index={index} side="left" selected={isAdvantageSelected(selection, 'advantage', index)} onSelect={() => toggle({ kind: 'advantage', list: 'advantage', index }, isAdvantageSelected(selection, 'advantage', index))} />
+            </div>
           ))}
         </MobileGroup>
         <MobileGroup label="FLAWS" action={editAction('Adicionar flaw', () => addAdvantage('flaw'))}>
           {character.flaws.map((item, index) => (
-            <div key={item.name + index} className="ankh-mobile__cell"><AdvantageItem kind="flaw" index={index} side="left" /></div>
+            <div key={item.name + index} className="ankh-mobile__cell">
+              <AdvantageItem kind="flaw" index={index} side="left" selected={isAdvantageSelected(selection, 'flaw', index)} onSelect={() => toggle({ kind: 'advantage', list: 'flaw', index }, isAdvantageSelected(selection, 'flaw', index))} />
+            </div>
           ))}
         </MobileGroup>
       </MobileSection>

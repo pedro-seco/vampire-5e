@@ -1,7 +1,7 @@
 import type { CSSProperties, ReactNode } from 'react';
-import type { SkillKey } from '../types/character';
+import type { Attributes, SkillKey } from '../types/character';
 import { SKILL_LABELS } from '../types/character';
-import { powerReference, skillReference } from './references';
+import { advantageReference, attributeReference, powerReference, predatorReference, skillReference } from './references';
 import { TraitDots } from './TraitDots';
 
 interface WindowFrameProps {
@@ -74,6 +74,70 @@ export function PowerWindow({ discipline, power, style, onClose }: PowerWindowPr
         <p className="ankh-window__line"><span className="ankh-window__key">DICE POOL</span> {reference.pool}</p>
         <p className="ankh-window__line"><span className="ankh-window__key">SYSTEM</span> {reference.system}</p>
       </div>
+    </WindowFrame>
+  );
+}
+
+export function AttributeWindow({ attribute, label, value, style, onClose }: { attribute: keyof Attributes; label: string; value: number; style?: CSSProperties; onClose: () => void }) {
+  const reference = attributeReference(attribute);
+  const levelText = reference.levels[value - 1];
+
+  return (
+    <WindowFrame title={label} label="Detalhes do atributo" style={style} onClose={onClose}>
+      <div className="ankh-window__meta">
+        <TraitDots label={label} value={value} min={1} editable={false} />
+        <span className="ankh-window__source">{reference.source}</span>
+      </div>
+      <p className="ankh-window__body">{reference.body}</p>
+      {levelText && <p className="ankh-window__level">{'●'.repeat(value)} {levelText}</p>}
+    </WindowFrame>
+  );
+}
+
+export function PredatorWindow({ name, style, onClose }: { name: string; style?: CSSProperties; onClose: () => void }) {
+  const reference = predatorReference(name);
+
+  return (
+    <WindowFrame title={name} label="Detalhes do predator type" style={style} onClose={onClose}>
+      <div className="ankh-window__meta">
+        <span className="ankh-window__subtitle">PREDATOR TYPE</span>
+        <span className="ankh-window__source">{reference.source}</span>
+      </div>
+      <p className="ankh-window__body">{reference.body}</p>
+      {reference.details.length > 0 && (
+        <div className="ankh-window__facts">
+          {reference.details.map((detail) => <p key={detail} className="ankh-window__line">{detail}</p>)}
+        </div>
+      )}
+    </WindowFrame>
+  );
+}
+
+interface AdvantageWindowProps {
+  name: string;
+  level: number;
+  note: string;
+  style?: CSSProperties;
+  onClose: () => void;
+}
+
+export function AdvantageWindow({ name, level, note, style, onClose }: AdvantageWindowProps) {
+  const reference = advantageReference(name);
+
+  return (
+    <WindowFrame title={name} label="Detalhes da vantagem" style={style} onClose={onClose}>
+      <div className="ankh-window__meta">
+        <span className="ankh-window__subtitle">{reference.kind}</span>
+        <span className="ankh-window__source">{reference.source}</span>
+      </div>
+      <p className="ankh-window__body">{reference.body}</p>
+      {reference.levels.length > 0 && (
+        <div className="ankh-window__facts">
+          {reference.levels.map((entry) => <p key={entry} className="ankh-window__line">{entry}</p>)}
+        </div>
+      )}
+      {note && <p className="ankh-window__line"><span className="ankh-window__key is-accent">NOTA</span> {note}</p>}
+      <p className="ankh-window__hint">Nível na ficha: {'●'.repeat(level)}</p>
     </WindowFrame>
   );
 }

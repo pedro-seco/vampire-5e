@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import type { ReactNode } from 'react';
 import { useCharacter } from '../context/CharacterContext';
-import { SKILL_GROUPS } from '../types/character';
+import { ATTRIBUTE_LABELS, SKILL_GROUPS } from '../types/character';
 import type { Attributes, SkillKey } from '../types/character';
 import { AnchoredWindow } from './AnchoredWindow';
 import { AnkhArt } from './AnkhArt';
@@ -9,7 +9,8 @@ import { AppearanceControls } from './AppearanceControls';
 import { backdropFor, coverRect } from './backdrops';
 import { BloodBlock, ResonancePicker } from './BloodBlock';
 import { Frame } from './Frame';
-import { FormWindow, PowerWindow, SkillWindow } from './DetailWindows';
+import { AdvantageWindow, AttributeWindow, FormWindow, PowerWindow, PredatorWindow, SkillWindow } from './DetailWindows';
+import { CORE_PREDATORS } from './corePredators';
 import { PoolForm } from './pools';
 import { AddButton, SectionTitle } from './SectionTitle';
 import {
@@ -19,7 +20,7 @@ import {
 import type { Side } from './SheetItems';
 import { leftOffsetBeside, rightOffsetBeside, STAGE_MIN_HEIGHT, STAGE_WIDTH } from './stage';
 import { DamageTrackBoxes, HumanityBoxes, HungerBoxes, TrackerLabel } from './Trackers';
-import { isPowerSelected, isSkillSelected, useSheetDialogs } from './useSheetDialogs';
+import { isAdvantageSelected, isAttributeSelected, isPowerSelected, isSkillSelected, useSheetDialogs } from './useSheetDialogs';
 import type { Selection } from './useSheetDialogs';
 import { CLAN_ICON_CREDIT } from './clanIcons';
 
@@ -90,18 +91,36 @@ export function DesktopSheet({ scale }: { scale: number }) {
   const toggle = (next: Selection, isSelected: boolean) => setSelection(isSelected ? null : next);
   const addInventoryItem = () => update((draft) => { draft.inventory.push('Novo item'); });
 
+  const attributeRowTops: Partial<Record<keyof Attributes, number>> = {};
   const attributes = createColumn('left', UPPER_START);
   attributes.add('title', 'attributes', <SectionTitle>ATRIBUTOS</SectionTitle>);
   for (const group of ATTRIBUTE_GROUPS) {
     attributes.add('group', group.label, <GroupLabel>{group.label}</GroupLabel>);
-    for (const [attribute, label] of group.attributes) attributes.add('attribute', attribute, <AttributeItem attribute={attribute} label={label} side="left" />);
+    for (const [attribute, label] of group.attributes) {
+      attributeRowTops[attribute] = attributes.bottom();
+      const selected = isAttributeSelected(selection, attribute);
+      attributes.add('attribute', attribute, <AttributeItem attribute={attribute} label={label} side="left" selected={selected} onSelect={() => toggle({ kind: 'attribute', attribute }, selected)} />);
+    }
   }
 
+  let predatorRowTop = UPPER_START;
   const profile = createColumn('right', UPPER_START);
   profile.add('title', 'profile', <SectionTitle>DADOS</SectionTitle>);
   profile.add('name', 'name', <CharacterName />);
   profile.add('aliases', 'aliases', <CharacterAliases />);
-  for (const { field, label } of PROFILE_FIELDS) profile.add('field', field, <ProfileFieldItem field={field} label={label} />);
+  const predatorSelected = selection?.kind === 'predator';
+  for (const { field, label } of PROFILE_FIELDS) {
+    if (field === 'predatorType') predatorRowTop = profile.bottom();
+    const isPredator = field === 'predatorType';
+    profile.add('field', field, (
+      <ProfileFieldItem
+        field={field}
+        label={label}
+        selected={isPredator && predatorSelected}
+        onSelect={isPredator && character.predatorType in CORE_PREDATORS ? () => toggle({ kind: 'predator' }, predatorSelected) : undefined}
+      />
+    ));
+  }
 
   const skills = createColumn('left', LOWER_START);
   skills.add('title', 'skills', <SectionTitle>PERÍCIAS</SectionTitle>);
@@ -117,6 +136,7 @@ export function DesktopSheet({ scale }: { scale: number }) {
 
   const traits = createColumn('right', LOWER_START);
   const powerRowTops: Record<string, number> = {};
+  const advantageRowTops: Record<string, number> = {};
   traits.add('title', 'disciplines', <SectionTitle action={editMode ? <AddButton label="Adicionar disciplina" onClick={addDiscipline} /> : undefined}>DISCIPLINAS</SectionTitle>);
   character.disciplines.forEach((discipline, disciplineIndex) => {
     traits.add('skill', 'discipline' + disciplineIndex, <DisciplineItem index={disciplineIndex} side="right" onAddPower={() => addPower(disciplineIndex)} />);
@@ -136,9 +156,14 @@ export function DesktopSheet({ scale }: { scale: number }) {
 
   const editAction = (label: string, onClick: () => void) => (editMode ? <AddButton label={label} onClick={onClick} /> : undefined);
   traits.add('group', 'advantages', <GroupLabel action={editAction('Adicionar advantage', () => addAdvantage('advantage'))}>ADVANTAGES</GroupLabel>);
-  character.advantages.forEach((_item, index) => traits.add('skill', 'advantage' + index, <AdvantageItem kind="advantage" index={index} side="right" />));
-  traits.add('group', 'flaws', <GroupLabel action={editAction('Adicionar flaw', () => addAdvantage('flaw'))}>FLAWS</GroupLabel>);
-  character.flaws.forEach((_item, index) => traits.add('skill', 'flaw' + index, <AdvantageItem kind="flaw" index={index} side="right" />));
+  (['advantage', 'flaw'] as const).forEach((list) => {
+    if (list === 'flaw') traits.add('group', 'flaws', <GroupLabel action={editAction('Adicionar flaw', () => addAdvantage('flaw'))}>FLAWS</GroupLabel>);
+    (list === 'advantage' ? character.advantages : character.flaws).forEach((_item, index) => {
+      advantageRowTops[list + index] = traits.bottom();
+      const selected = isAdvantageSelected(selection, list, index);
+      traits.add('skill', list + index, <AdvantageItem kind={list} index={index} side="right" selected={selected} onSelect={() => toggle({ kind: 'advantage', list, index }, selected)} />);
+    });
+  });
   traits.add('group', 'inventory', <GroupLabel action={editAction('Adicionar item', () => addInventoryItem())}>INVENTÁRIO</GroupLabel>);
   character.inventory.forEach((_item, index) => traits.add('text', 'item' + index, <InventoryItem index={index} />));
   const poolsTop = traits.bottom();
@@ -177,6 +202,24 @@ export function DesktopSheet({ scale }: { scale: number }) {
         onClose={closeWindow}
       />
     );
+  } else if (selection?.kind === 'attribute') {
+    windowAnchor = attributeRowTops[selection.attribute] ?? UPPER_START;
+    windowLeft = SKILL_WINDOW_LEFT;
+    detailWindow = (
+      <AttributeWindow
+        attribute={selection.attribute}
+        label={ATTRIBUTE_LABELS[selection.attribute]}
+        value={character.attributes[selection.attribute]}
+        onClose={closeWindow}
+      />
+    );
+  } else if (selection?.kind === 'predator') {
+    windowAnchor = predatorRowTop;
+    detailWindow = <PredatorWindow name={character.predatorType} onClose={closeWindow} />;
+  } else if (selection?.kind === 'advantage') {
+    const item = (selection.list === 'advantage' ? character.advantages : character.flaws)[selection.index];
+    windowAnchor = advantageRowTops[selection.list + selection.index] ?? LOWER_START;
+    detailWindow = item ? <AdvantageWindow name={item.name} level={item.level} note={item.note} onClose={closeWindow} /> : null;
   } else if (selection?.kind === 'pool-form') {
     windowAnchor = poolsTop;
     detailWindow = (

@@ -27,13 +27,27 @@ function Ordered({ side, dots, children }: { side: Side; dots: ReactNode; childr
   return side === 'left' ? <>{children}{dots}</> : <>{dots}{children}</>;
 }
 
-export function AttributeItem({ attribute, label, side }: { attribute: keyof Attributes; label: string; side: Side }) {
+interface SelectionProps {
+  selected?: boolean;
+  onSelect?: () => void;
+}
+
+function TraitLabel({ className, selected, onSelect, children }: SelectionProps & { className: string; children: ReactNode }) {
+  if (!onSelect) return <span className={className}>{children}</span>;
+  return (
+    <button type="button" className={`${className} ankh-link${selected ? ' is-selected' : ''}`} aria-pressed={selected} onClick={onSelect}>
+      {children}
+    </button>
+  );
+}
+
+export function AttributeItem({ attribute, label, side, selected, onSelect }: { attribute: keyof Attributes; label: string; side: Side } & SelectionProps) {
   const { character, editMode, update } = useCharacter();
   const setValue = (value: number) => update((draft) => { draft.attributes[attribute] = clamp(value, 1, 5); });
 
   return (
     <Ordered side={side} dots={<TraitDots label={label} value={character.attributes[attribute]} min={1} editable={editMode} onChange={setValue} />}>
-      <span className="ankh-trait">{label}</span>
+      <TraitLabel className="ankh-trait" selected={selected} onSelect={onSelect}>{label}</TraitLabel>
     </Ordered>
   );
 }
@@ -95,12 +109,17 @@ export function CharacterAliases() {
   );
 }
 
-export function ProfileFieldItem({ field, label }: { field: ProfileField; label: string }) {
+export function ProfileFieldItem({ field, label, selected, onSelect }: { field: ProfileField; label: string } & SelectionProps) {
   const { character, editMode, update } = useCharacter();
+  const showLink = onSelect && !editMode && character[field];
   return (
     <>
       <span className="ankh-field-label ankh-field-label--fixed">{label}</span>
+      {showLink ? (
+        <TraitLabel className="ankh-field-value" selected={selected} onSelect={onSelect}>{character[field]}</TraitLabel>
+      ) : (
       <Editable className="ankh-field-value" value={character[field]} editable={editMode} maxLength={60} placeholder={editMode ? '—' : undefined} onCommit={(value) => update((draft) => { draft[field] = value; })} />
+      )}
     </>
   );
 }
@@ -177,7 +196,7 @@ export function PowerItem({ disciplineIndex, powerIndex, selected, onSelect }: P
   );
 }
 
-export function AdvantageItem({ kind, index, side }: { kind: 'advantage' | 'flaw'; index: number; side: Side }) {
+export function AdvantageItem({ kind, index, side, selected, onSelect }: { kind: 'advantage' | 'flaw'; index: number; side: Side } & SelectionProps) {
   const { character, editMode, update } = useCharacter();
   const { confirmDelete } = useConfirm();
   const item = listOf(character, kind)[index];
@@ -188,7 +207,7 @@ export function AdvantageItem({ kind, index, side }: { kind: 'advantage' | 'flaw
 
   return (
     <Ordered side={side} dots={<TraitDots label={item.name} value={item.level} max={advantageMax(item.name)} min={1} editable={editMode} onChange={setLevel} />}>
-      <span className={kind === 'flaw' ? 'ankh-trait is-flaw' : 'ankh-trait'}>{item.name}</span>
+      <TraitLabel className={kind === 'flaw' ? 'ankh-trait is-flaw' : 'ankh-trait'} selected={selected} onSelect={onSelect}>{item.name}</TraitLabel>
       {(item.note || editMode) && (
         <Editable className="ankh-note" value={item.note} editable={editMode} placeholder="nota" onCommit={setNote} />
       )}

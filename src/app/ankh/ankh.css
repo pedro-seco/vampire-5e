@@ -520,6 +520,7 @@
 
 .ankh-window__body {
   margin: 0;
+  white-space: pre-line;
   font-size: 19px;
   line-height: 1.45;
 }

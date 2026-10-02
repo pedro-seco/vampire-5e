@@ -90,6 +90,12 @@ export const SKILL_GROUPS: Record<'physical' | 'social' | 'mental', SkillKey[]> 
   mental: ['academics', 'awareness', 'finance', 'investigation', 'medicine', 'occult', 'politics', 'science', 'technology'],
 };
 
+export const ATTRIBUTE_LABELS: Record<keyof Attributes, string> = {
+  strength: 'Strength', dexterity: 'Dexterity', stamina: 'Stamina',
+  charisma: 'Charisma', manipulation: 'Manipulation', composure: 'Composure',
+  intelligence: 'Intelligence', wits: 'Wits', resolve: 'Resolve',
+};
+
 export const SKILL_LABELS: Record<SkillKey, string> = {
   athletics: 'Athletics', brawl: 'Brawl', craft: 'Craft', drive: 'Drive',
   firearms: 'Firearms', larceny: 'Larceny', melee: 'Melee', stealth: 'Stealth', survival: 'Survival',
