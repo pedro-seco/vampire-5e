@@ -8,6 +8,14 @@
 ---
 # Introdução: Disciplinas
 
+> [!info] Poderes de suplementos
+> Esta nota traz os poderes do Core e alguns de suplementos, identificados no texto. Material de suplemento só vale se a crônica permitir. Notas específicas:
+> - [[Poderes do Companion]] e [[Errata do Companion]] (Companion): Obeah, Valeren, Vicissitude, Fleshcrafting, Horrid Form, One with the Land etc.
+> - [[Player's Guide — Poderes de Disciplina]] (Player's Guide): poderes novos de Animalism, Auspex, Celerity, Dominate, Fortitude, Obfuscate, Potence, Presence e Protean.
+> - [[Sabbat — Poderes de Disciplina]] (Sabbat: The Black Hand): Unerring Pursuit, Scent of Prey, Tabula Rasa, Visceral Absorption, Umbrous Clutch, Transitive Bond, Reclamation of Vitae.
+> - [[Player's Guide — Oblivion e Cerimônias]] (Oblivion completa e Cerimônias).
+> - [[Player's Guide — Blood Sorcery e Thin-Blood Alchemy]], [[Blood Sigils - Rituais de Blood Sorcery]] e [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]] (rituais e fórmulas extras).
+
 
 # Sumário
 
@@ -53,7 +61,8 @@
   - [[#Spirit's Touch|Spirit's Touch]]
 - [[#Auspex - Poderes Nível 5|Auspex - Poderes Nível 5]]
   - [[#Telepathy|Telepathy]]
-  - [[#Unburdened by the Conscious Mind|Unburdened by the Conscious Mind]]
+  - [[#Clairvoyance|Clairvoyance]]
+  - [[#Possession|Possession]]
 - [[#Regras Gerais de Presence|Regras Gerais de Presence]]
 - [[#Presence - Poderes Nível 1|Presence - Poderes Nível 1]]
   - [[#Awe|Awe]]
@@ -80,6 +89,12 @@
   - [[#Ghost In The Machine|Ghost In The Machine]]
   - [[#Mask Of A Thousand Faces|Mask Of A Thousand Faces]]
   - [[#Mental Maze *(Obfuscate 3 — Amalgama: Dominate 1)*|Mental Maze (Obfuscate 3 — Amalgama: Dominate 1)]]
+- [[#Obfuscate - Poderes Nível 4|Obfuscate - Poderes Nível 4]]
+  - [[#Conceal|Conceal]]
+  - [[#Vanish|Vanish]]
+- [[#Obfuscate - Poderes Nível 5|Obfuscate - Poderes Nível 5]]
+  - [[#Cloak the Gathering|Cloak the Gathering]]
+  - [[#Impostor's Guise|Impostor's Guise]]
 - [[#Animalism - Poderes Nível 1|Animalism - Poderes Nível 1]]
   - [[#Bond Famulus|Bond Famulus]]
   - [[#Sense the Beast|Sense the Beast]]
@@ -91,16 +106,9 @@
   - [[#Unliving Hive|Unliving Hive]]
 - [[#Animalism - Poderes Nível 4|Animalism - Poderes Nível 4]]
   - [[#Subsume the Spirit|Subsume the Spirit]]
-  - [[#Species Speech|Species Speech]]
 - [[#Animalism - Poderes Nível 5|Animalism - Poderes Nível 5]]
   - [[#Animal Dominion|Animal Dominion]]
   - [[#Drawing Out the Beast|Drawing Out the Beast]]
-- [[#Obfuscate - Poderes Nível 4|Obfuscate - Poderes Nível 4]]
-  - [[#Conceal|Conceal]]
-  - [[#Soul Mask|Soul Mask]]
-- [[#Obfuscate - Poderes Nível 5|Obfuscate - Poderes Nível 5]]
-  - [[#Cloak the Gathering|Cloak the Gathering]]
-  - [[#Vanish|Vanish]]
 - [[#Protean - Poderes Nível 1|Protean - Poderes Nível 1]]
   - [[#Eyes of the Beast|Eyes of the Beast]]
   - [[#Weight of the Feather|Weight of the Feather]]
@@ -111,8 +119,10 @@
   - [[#Shapechange|Shapechange]]
 - [[#Protean - Poderes Nível 4|Protean - Poderes Nível 4]]
   - [[#Metamorphosis|Metamorphosis]]
-- [[#Protean - Poderes Nível 5|Protean - Poderes Nível 5]]
   - [[#Horrid Form|Horrid Form]]
+- [[#Protean - Poderes Nível 5|Protean - Poderes Nível 5]]
+  - [[#Mist Form|Mist Form]]
+  - [[#Unfettered Heart|Unfettered Heart]]
   - [[#One with the Land|One with the Land]]
 - [[#Potence - Poderes Nível 1|Potence - Poderes Nível 1]]
   - [[#Lethal Body|Lethal Body]]
@@ -127,12 +137,13 @@
   - [[#Draught of Might|Draught of Might]]
 - [[#Potence - Poderes Nível 5|Potence - Poderes Nível 5]]
   - [[#Earthshock|Earthshock]]
-  - [[#Savage Fury|Savage Fury]]
+  - [[#Fist of Caine|Fist of Caine]]
 - [[#Fortitude - Poderes Nível 1|Fortitude - Poderes Nível 1]]
   - [[#Resilience|Resilience]]
   - [[#Unswayable Mind|Unswayable Mind]]
 - [[#Fortitude - Poderes Nível 2|Fortitude - Poderes Nível 2]]
   - [[#Toughness|Toughness]]
+  - [[#Enduring Beasts|Enduring Beasts]]
 - [[#Fortitude - Poderes Nível 3|Fortitude - Poderes Nível 3]]
   - [[#Defy Bane|Defy Bane]]
   - [[#Fortify the Inner Facade|Fortify the Inner Facade]]
@@ -141,8 +152,8 @@
 - [[#Fortitude - Poderes Nível 5|Fortitude - Poderes Nível 5]]
   - [[#Flesh of Marble|Flesh of Marble]]
   - [[#Prowess from Pain|Prowess from Pain]]
-  - [[#Suffer the Beast's Rage|Suffer the Beast's Rage]]
 - [[#Regras Gerais de Blood Sorcery|Regras Gerais de Blood Sorcery]]
+- [[#Blood Sorcery - Poderes Level 1|Blood Sorcery - Poderes Level 1]]
   - [[#Corrosive Vitae|Corrosive Vitae]]
   - [[#A Taste for Blood|A Taste for Blood]]
 - [[#Blood Sorcery - Poderes Level 2|Blood Sorcery - Poderes Level 2]]
@@ -177,53 +188,31 @@
 - [[#Ritual Wards (Proteções)|Ritual Wards (Proteções)]]
 - [[#Círculos de Proteção (Warding Circles)|Círculos de Proteção (Warding Circles)]]
 - [[#Rituais Adicionais — Blood Sigils|Rituais Adicionais — Blood Sigils]]
-  - [[#Rituais Nível 1|Rituais Nível 1]]
-  - [[#Rituais Nível 2|Rituais Nível 2]]
-  - [[#Rituais Nível 3|Rituais Nível 3]]
-  - [[#Rituais Nível 5|Rituais Nível 5]]
+- [[#Rituais Adicionais — Forbidden Religions|Rituais Adicionais — Forbidden Religions]]
+  - [[#Shroud of Silence *(Nível 2)*|Shroud of Silence (Nível 2)]]
 - [[#Rituais Adicionais — Cults of the Blood Gods|Rituais Adicionais — Cults of the Blood Gods]]
   - [[#Bahari|Bahari]]
   - [[#Church of Caine|Church of Caine]]
 - [[#Regras Gerais de Oblivion|Regras Gerais de Oblivion]]
-- [[#Oblivion — Poderes Nível 1|Oblivion — Poderes Nível 1]]
-  - [[#Cloak of Shadows *(Lasombra)*|Cloak of Shadows (Lasombra)]]
-  - [[#The Oblivion's Sight|The Oblivion's Sight]]
-- [[#Oblivion — Poderes Nível 2|Oblivion — Poderes Nível 2]]
-  - [[#Shadow Cast *(Lasombra)*|Shadow Cast (Lasombra)]]
-  - [[#Whispers of the Dead *(Hecata)*|Whispers of the Dead (Hecata)]]
-- [[#Oblivion — Poderes Nível 3|Oblivion — Poderes Nível 3]]
-  - [[#Arms of Ahriman *(Lasombra)*|Arms of Ahriman (Lasombra)]]
-  - [[#Aura of Decay *(Hecata)*|Aura of Decay (Hecata)]]
-  - [[#Shadowstep *(Lasombra)*|Shadowstep (Lasombra)]]
-- [[#Oblivion — Poderes Nível 4|Oblivion — Poderes Nível 4]]
-  - [[#Stygian Shroud *(Lasombra)*|Stygian Shroud (Lasombra)]]
-  - [[#Necrotic Plague *(Hecata)*|Necrotic Plague (Hecata)]]
-- [[#Oblivion — Poderes Nível 5|Oblivion — Poderes Nível 5]]
-  - [[#Tenebrous Avatar *(Lasombra)*|Tenebrous Avatar (Lasombra)]]
-  - [[#Skuld Fulfilled *(Hecata)*|Skuld Fulfilled (Hecata)]]
+- [[#Oblivion — Poderes por Nível|Oblivion — Poderes por Nível]]
+- [[#Densidade do Véu|Densidade do Véu]]
+- [[#Cerimônias de Oblivion|Cerimônias de Oblivion]]
 - [[#Regras Gerais de Thin-blood Alchemy|Regras Gerais de Thin-blood Alchemy]]
-- [[#Fórmulas — Nível 1|Fórmulas — Nível 1]]
-  - [[#Calcinatio (Fogo)|Calcinatio (Fogo)]]
-  - [[#Aether (Velocidade)|Aether (Velocidade)]]
-  - [[#Fixatio (Calma)|Fixatio (Calma)]]
-- [[#Fórmulas — Nível 2|Fórmulas — Nível 2]]
-  - [[#Sublimatio (Ilusão)|Sublimatio (Ilusão)]]
-  - [[#Coagulatio (Força)|Coagulatio (Força)]]
-- [[#Fórmulas — Nível 3|Fórmulas — Nível 3]]
-  - [[#Transformatio (Forma)|Transformatio (Forma)]]
-  - [[#Caelum (Percepção)|Caelum (Percepção)]]
-- [[#Thin-blood Alchemy - Nível 4|Thin-blood Alchemy - Nível 4]]
-  - [[#Defixio|Defixio]]
-  - [[#Perpetuus|Perpetuus]]
-- [[#Thin-blood Alchemy - Nível 5|Thin-blood Alchemy - Nível 5]]
-  - [[#Insanguination|Insanguination]]
+- [[#Métodos de Destilação|Métodos de Destilação]]
+- [[#Fórmulas do Core — Nível 1|Fórmulas do Core — Nível 1]]
+  - [[#Far Reach|Far Reach]]
+  - [[#Haze|Haze]]
+  - [[#Profane Hieros Gamos|Profane Hieros Gamos]]
+- [[#Fórmulas do Core — Nível 2|Fórmulas do Core — Nível 2]]
+  - [[#Envelop|Envelop]]
+- [[#Fórmulas do Core — Nível 3|Fórmulas do Core — Nível 3]]
+  - [[#Defractionate|Defractionate]]
+- [[#Fórmulas do Core — Nível 4|Fórmulas do Core — Nível 4]]
+  - [[#Airborne Momentum|Airborne Momentum]]
+- [[#Fórmulas do Core — Nível 5|Fórmulas do Core — Nível 5]]
+  - [[#Awaken the Sleeper|Awaken the Sleeper]]
 - [[#Thin-blood Alchemy como Economia|Thin-blood Alchemy como Economia]]
-- [[#Formulae Adicionais — Blood Sigils|Formulae Adicionais — Blood Sigils]]
-  - [[#Nível 1|Nível 1]]
-  - [[#Nível 2|Nível 2]]
-  - [[#Nível 3|Nível 3]]
-  - [[#Nível 4|Nível 4]]
-  - [[#Nível 5|Nível 5]]
+- [[#Fórmulas de Suplementos|Fórmulas de Suplementos]]
   - [[#Formulae Ashfinder (Cults of the Blood Gods)|Formulae Ashfinder (Cults of the Blood Gods)]]
 
 ---
@@ -791,17 +780,33 @@ No mais alto nível de Auspex, o vampiro literalmente lê mentes e projeta os pr
 >   O usuário **não precisa rolar** para projetar seus pensamentos em outro (vampiro ou mortal), mas precisa de linha de visão. Para ler a mente de um mortal em linha de visão, role Resolve + Auspex vs. Wits + Subterfuge olhando em seus olhos (sem rolagem se o mortal consentir). Uma vitória revela pensamentos superficiais como um fluxo de imagens, e uma margem maior permite sondar memórias mais distantes ou enterradas. Uma vitória crítica dá um quadro coerente dos pensamentos e intenções atuais do alvo.
 >   Para ler a mente de um **vampiro que não consente**, gaste um ponto de Willpower antes de rolar.
 
-### Unburdened by the Conscious Mind
+### Clairvoyance
 
-O vampiro suprime completamente o filtro consciente, percebendo padrões, conexões e verdades que a mente analítica ignoraria — intuição sobrenatural de nível absoluto.
+Fechando os olhos e entrando em transe leve, o vampiro torna-se senhor de seus arredores. Em poucos minutos reúne informações de uma área do tamanho de um quarteirão (mais se ao ar livre ou pouco povoada) que normalmente exigiriam muitas horas, talvez dias, de investigação. Uma vez conectado assim ao ambiente, o vampiro também recebe informações sobre qualquer coisa fora do comum que esteja acontecendo na área. *(Core p. 251)*
 
 > - **Custo**: One Rouse Check
-> - **Duração**: Uma cena
-> - **Dice Pools:** Intelligence + Auspex (percepção de padrões)
+> - **Duração**: Alguns minutos para coletar informações; até uma noite para vigilância
+> - **Dice Pools:** Intelligence + Auspex
 >
 > - **System (Regras)**:
->   O vampiro pode fazer uma pergunta sobre qualquer situação, pessoa ou local que tenha observado — o Narrador fornece uma resposta verdadeira, sem ambiguidade, baseada em evidências que o vampiro percebeu mas não processou conscientemente. Não é profecia — é síntese de dados já disponíveis.
->   Adicionalmente, o vampiro não pode ser surpreendido enquanto este poder estiver ativo: percepção extrassensorial cobre ângulos mortos, ameaças ocultas, e Obfuscate de nível inferior a 5.
+>   Role Intelligence + Auspex contra uma Difficulty baseada na segurança e no nível de atividade da área: usar Clairvoyance na própria mansão é **Difficulty 3**; um quarteirão desconhecido nos cortiços de uma grande cidade chega a **7 ou mais**. O usuário soma ao pool o rating base de **Haven** em dados extras ao usar o poder no próprio haven.
+>   O Narrador responde às perguntas do vampiro sobre idas e vindas na área, o que as pessoas viram e ouviram, fofocas locais, choques ou impressões recentes etc. O jogador pode fazer cerca de **uma pergunta por ponto de margem**; respostas sobre informação deliberadamente oculta podem consumir mais de um ponto. Uma vitória crítica revela algo importante, independentemente das perguntas, se houver algo a revelar.
+>   O vampiro também pode monitorar eventos em andamento, mas precisa permanecer na área enquanto o efeito durar.
+
+### Possession
+
+Com este poder o vampiro arranca a vontade de um mortal e possui seu corpo por completo, usando-o como seu. A mente do sujeito permanece oculta ao vampiro, mas ele pode fazer e ir a qualquer lugar que o sujeito faria enquanto o poder durar. Assim pode até sentir a luz do sol, a comida e a sexualidade física há muito negadas, e o hospedeiro paga o preço de qualquer abuso que o vampiro cometa. *(Core p. 251)*
+
+> - **Amálgama**: Dominate 3 (requer 3 pontos em Dominate para obter este poder)
+> - **Custo**: Two Rouse Checks
+> - **Duração**: Até ser encerrado, voluntária ou involuntariamente
+> - **Dice Pools:** Resolve + Auspex vs. Resolve + Intelligence
+>
+> - **System (Regras)**:
+>   Só pode ser usado em **mortais**. Se o mortal for um ghoul, precisa antes estar sob Blood Bond com o usuário. Antes da possessão, o vampiro precisa de **contato visual** com a vítima (ver Dominate, Core p. 254). Então se engaja em um conflito de Resolve + Auspex vs. Resolve + Intelligence; numa **falha total**, a vítima fica imune a novas tentativas de Possession durante a história.
+>   Enquanto habita o corpo da vítima, o corpo do vampiro cai num transe semelhante ao torpor, alheio ao ambiente e ao próprio estado físico, exceto por dano **Agravado**, que quebra o transe e encerra o poder. O vampiro pode usar Auspex, Presence e Dominate através do possuído. Para estender a possessão pelo dia, precisa passar no teste para ficar acordado (Core p. 219); a falha encerra o poder.
+>   Dano Agravado ao sujeito também ameaça a possessão: o usuário precisa passar em Resolve + Auspex (**Difficulty 2 + dano sofrido**) para manter o controle. Se o sujeito morrer durante a Possession, o trauma espiritual causa ao usuário **três níveis de dano Agravado de Willpower**.
+>   O poder não dá ao usuário a capacidade de ler a mente, usar as Skills ou imitar os modos da vítima; qualquer Skill usa o rating do vampiro. Para imitar maneirismos e expressões, role Manipulation + Performance vs. Wits + Insight. Possession viola a vítima ainda mais profundamente que um Blood Bond: o Narrador deve considerar conceder **Stains**.
 
 
 # Presence
@@ -1188,17 +1193,16 @@ O vampiro pode conferir uma medida de sutileza aos animais sob sua influência, 
 ---
 ### Mental Maze *(Obfuscate 3 — Amalgama: Dominate 1)*
 
-Os seguidores da Igreja de Set mantêm que Obfuscate é menos sobre ilusão e mais sobre percepção. Mental Maze é a capacidade de remover todo senso de direção e localização de uma vítima, tornando-a prisioneira no ambiente atual — uma casa, uma boate, ou o porão de um vampiro.
+*(Player's Guide, pp. 77-78; também em Cults of the Blood Gods, p. 85. Material de suplemento; só vale se a crônica permitir.)* Mental Maze remove todo o senso de direção e localização de uma vítima, tornando-a prisioneira do ambiente em que está: uma casa, uma boate ou o porão de um vampiro. A vítima sente o lugar se dobrando sobre si mesmo, alterando sutilmente sua percepção dos cômodos já visitados, convencendo-a de que uma saída de verdade só leva mais fundo no labirinto e, por fim, levando-a a um estado de pânico e fragilidade.
 
-> - **Custo**: Um Rouse Check
-> - **Duração**: Uma cena ou até a condição ser quebrada
-> - **Dice Pool**: Wits + Subterfuge vs. Composure + Wits da vítima
-
-**Sistema:** Com um sucesso, a vítima não consegue encontrar a saída do local onde está. O local parece dobrar sobre si mesmo: cômodos já visitados se alteram sutilmente em sua percepção, convencendo-a de que cada saída leva de volta ao início. A condição termina se alguém guiar a vítima para fora pelo menos 3 turnos sem oposição, ou se a vítima tiver um sucesso crítico em um teste de Resolve + Composure (Dificuldade 4).
-
-*Fonte: Cults of the Blood Gods*
-
-
+> - **Amálgama**: Dominate 1 (requer 1 ponto em Dominate para obter este poder)
+> - **Custo**: One Rouse Check para um prédio; Three Rouse Checks (dois adicionais) para um único cômodo ou um ambiente externo densamente ocupado (canteiro de obras, floresta)
+> - **Duração**: Uma noite
+> - **Dice Pools:** Charisma + Obfuscate vs. Wits + Resolve
+>
+> - **System (Regras)**:
+>   O vampiro faz contato visual com a vítima e rola Charisma + Obfuscate vs. Wits + Resolve; vampiros de geração mais baixa podem negar a rolagem com um ponto de Willpower, como nas características de Dominate (Core p. 255). Em vitória, a vítima tem dificuldade em achar a saída do prédio em que está.
+>   **Mortais** não conseguem escapar; **sobrenaturais** podem fazer um teste de Resolve + Awareness por cena, usando os sucessos iniciais do vampiro como Difficulty, e sofrem **1 ponto de dano Superficial de Willpower por sucesso faltante** se falharem. Esse teste **não recebe Teamwork**, pois a orientação dada não bate com o que a vítima vê. O poder termina se o ambiente se tornar perigoso (por exemplo, o prédio pega fogo), a menos que o vampiro tenha Terminal Decree (Core p. 257).
 
 ---
 ## Obfuscate - Poderes Nível 4
@@ -1251,16 +1255,17 @@ O vampiro estende seu poder de Obfuscate a um grupo, aplicando o mesmo efeito a 
 
 ---
 
-### Unseen Storm
+### Impostor's Guise
 
-O vampiro pode agir com violência — atacar, se mover em combate, usar outras Disciplinas físicas — mantendo o Obfuscate ativo durante o processo. Criaturas sem meios sobrenaturais percebem os efeitos mas não a causa.
+Com alguma preparação, o vampiro pode se fazer passar por um indivíduo específico, de qualquer compleição e sexo. O usuário precisa estudar o sujeito com cuidado; caso contrário, a farsa falha diante de qualquer um com mais que familiaridade casual com a pessoa imitada. *(Core p. 263)*
 
-> - **Custo**: 1 Rouse Check por turno de combate em que o vampiro age fisicamente
-> - **Duração**: Cena ou até o vampiro optar por desativar
-> - **Dice Pools:** Dexterity + Obfuscate vs. Wits + Awareness do alvo
+> - **Pré-requisito**: Mask of a Thousand Faces
+> - **Custo**: One Rouse Check
+> - **Duração**: Uma cena
+> - **Dice Pools:** Wits + Obfuscate; Manipulation + Performance
 >
 > - **System (Regras)**:
->   O vampiro pode atacar, se mover, usar Celerity, Potence ou Fortitude enquanto permanece oculto. Alvos atingidos percebem que foram atacados mas não veem o atacante. Alvos com Auspex ativo ou usando Sense the Unseen têm direito a um teste de Wits + Auspex (Dificuldade = Composure + Obfuscate do vampiro) para localizar o atacante. Em caso de sucesso, enxergam uma silhueta vaga, não uma figura clara. O Obfuscate quebra automaticamente se o vampiro sofrer dano agravado durante a cena.
+>   O usuário precisa estudar o rosto a copiar por pelo menos **cinco minutos**, de ângulos diferentes, e mais **dez minutos** de observação para imitar voz e maneirismos. Só é possível copiar aparência humana, não forma animal. O Narrador faz um teste oculto de Wits + Obfuscate (**Difficulty 4**). Falha: a semelhança é pouco convincente e quem é próximo da pessoa copiada nota algo errado automaticamente. Vitória: ilusão convincente, mas o usuário precisa rolar Manipulation + Performance para imitar fala e maneirismos. Vitória crítica: ilusão perfeita, sem nova rolagem. Sense the Unseen (Auspex 1) pode furar a máscara, conforme as regras gerais.
 
 
 # Animalism
@@ -1358,17 +1363,6 @@ O vampiro transfere totalmente a mente para o corpo de um animal. Controla o ani
 > - **System (Regras)**:
 >   Faça um teste de Manipulation + Animalism com **Difficulty 4**. Em uma vitória, o vampiro habita o corpo do animal por uma cena; em uma vitória crítica, indefinidamente. Estender a possessão pelas horas do dia exige que o vampiro permaneça acordado (Core p. 219); ver o sol exige um teste de frenesi de medo, embora a luz não danifique o animal cavalgado.
 >   O usuário fica alheio ao próprio corpo; dano a ele o tira do transe e libera o animal. A morte do animal possuído também encerra o transe, e o vampiro sofre **1 ponto de dano Agravado de Willpower** pelo choque.
-
-### Species Speech
-
-O vampiro pode se comunicar com *qualquer* espécie animal simultaneamente, sem limite de espécie, transmitindo mensagens simples para todos os animais em uma área.
-
-> - **Custo**: One Rouse Check
-> - **Duração**: Uma cena
-> - **Dice Pools:** Charisma + Animalism vs. Difficulty 2
->
-> - **System (Regras)**:
->   Expande Feral Whispers para comunicação em área: todos os animais dentro de Animalism × 50 metros recebem a mensagem do vampiro simultaneamente. Pode ser usado para chamar reforços, criar diversão em massa (todos os pombos de um beco levantam voo de repente) ou obter informações coletivas sobre movimentos na área.
 
 ## Animalism - Poderes Nível 5
 
@@ -1481,36 +1475,62 @@ Este poder concede ao usuário uma forma animal adicional, que desta vez também
 > - **System (Regras)**:
 >   Igual a Shapechange.
 
-## Protean - Poderes Nível 5
-
 ### Horrid Form
 
-O vampiro assume uma forma monstruosa — um predador sobrenatural que combina o pior da Besta com poder físico máximo.
+*(Companion — material de suplemento; só vale se a crônica permitir. Ver [[Poderes do Companion#Horrid Form (Protean 4)|Horrid Form]].)* Com um domínio do corpo tão completo que supera os limites naturais, o vampiro assume uma forma verdadeiramente monstruosa, com garras cruéis, presas projetadas, feições marcadas e músculos tensos como cordas. Os traços exatos variam, mas a forma costuma ter uma aparência individual e específica a cada uso, a Besta do usuário feita carne.
 
-> - **Custo**: Two Rouse Checks
-> - **Duração**: Uma cena
-> - **Dice Pools:** Não requer teste para ativar
+> - **Amálgama**: Dominate 2 (requer 2 pontos em Dominate para obter este poder)
+> - **Pré-requisito**: Vicissitude
+> - **Custo**: One Rouse Check
+> - **Duração**: Uma cena, a menos que encerrada voluntariamente antes
+> - **Dice Pools:** Não possui
 >
 > - **System (Regras)**:
->   A forma monstruosa concede:
->   - Strength +3
->   - Stamina +2
->   - Garras e mordida causam dano agravado a Kindred
->   - Aparência claramente não-humana (destruição automática da Máscara se observada)
->   - Intimidação sobrenatural: mortais que vejam a forma devem passar em teste de Composure Dificuldade 4 ou fujam em pânico
->   O vampiro pode ainda usar todas as Disciplines normalmente nesta forma. A forma não é disfarçável por Obfuscate de nível inferior a 3.
+>   Leva **um turno inteiro** para ativar, durante o qual o vampiro só pode se **defender**, usando as pools de antes da Horrid Form. Concede então um número de mudanças de Vicissitude **gratuitas** (nenhum dot de Attribute é perdido) igual à classificação em **Protean**, que podem ser gastas em **Redistribution, Weapons e Armor**. Narradores generosos podem considerar outras mudanças (membranas para planar, membros alongados para alcance ou outros usos criativos, mas justos).
+>   Contrapartidas: com a Besta tão perto da superfície, **qualquer crítico rolado é messy critical** e **qualquer teste de Frenzy tem +2 de Difficulty**. O vampiro assume uma aparência inconfundivelmente inumana e só consegue se comunicar com grunhidos, sibilos e rugidos.
+>
+> *(Companion, Discipline Powers; Player's Guide, Protean)*
+
+## Protean - Poderes Nível 5
+
+### Mist Form
+
+O vampiro ganha o lendário poder de virar uma nuvem de névoa, visível mas intocável por qualquer coisa exceto fogo, luz do sol e agressão sobrenatural. Passa por canos, frestas e rachaduras. Ventos fortes podem sacudi-lo, mas nenhuma força natural dispersa a nuvem. *(Core p. 271)*
+
+> - **Custo**: One to three Rouse Checks
+> - **Duração**: Uma cena, a menos que encerrada voluntariamente antes
+> - **Dice Pools:** Não possui
+>
+> - **System (Regras)**:
+>   Nenhum teste é necessário. A transformação leva **três turnos**, mas pode ser acelerada com Rouse Checks adicionais, na proporção de um para um. Em névoa, o vampiro se move em ritmo de caminhada e percebe o ambiente por meios místicos como se estivesse lá normalmente. Não pode fazer contato visual nem falar, e só usa Disciplinas que não exijam forma ou presença física, a critério do Narrador. Em forma de névoa só pode ser ferido por luz do sol, fogo e ataques sobrenaturais imateriais (como alguns Rituais).
+
+### Unfettered Heart
+
+Tendo dominado Protean, o interior do usuário se torna maleável, quase viscoso. O coração, sede da vitae e da não-vida do vampiro, se solta e se move livremente, embora devagar, dentro do peito. Isso torna o vampiro extremamente difícil de estacar, pois a posição do coração muda a cada noite, e pode até permitir que ele se liberte da paralisia. *(Core p. 271)*
+
+> - **Custo**: Free
+> - **Duração**: Passiva
+> - **Dice Pools:** Strength + Resolve (para expulsar a estaca)
+>
+> - **System (Regras)**:
+>   Aumenta em **três** a Difficulty de qualquer teste não relacionado a combate para estacar o vampiro. Em combate Melee, a estaca só penetra o coração se quem a empunha rolar uma vitória crítica. Mesmo estacado, o usuário pode fazer um Rouse Check e rolar Strength + Resolve (**Difficulty 5**) uma vez por hora; uma vitória o liberta da paralisia enquanto a estaca é empurrada para fora. Não pode tentar expulsar a estaca com Hunger 5.
 
 ### One with the Land
 
-O vampiro funde-se com o ambiente natural em escala ampla — pode perceber tudo que acontece em sua área como se cada planta, animal e pedra fosse extensão de seus sentidos.
+*(Companion — material de suplemento; só vale se a crônica permitir. Ver [[Poderes do Companion#One with the Land (Protean 5)|One with the Land]].)* O vampiro domina tanto a própria forma que a estende ao seu domínio. Pode afundar na terra e mantém uma consciência sobrenatural dos eventos que ocorrem em seus arredores.
 
+> - **Amálgama**: Animalism 2 (requer 2 pontos em Animalism para obter este poder)
+> - **Pré-requisito**: Earth Meld
 > - **Custo**: Two Rouse Checks
-> - **Duração**: Uma noite
-> - **Dice Pools:** Resolve + Protean Dificuldade 2
+> - **Duração**: Um dia ou mais, ou até ser perturbado fisicamente
+> - **Dice Pools:** Wits + Animalism (apenas para eventos discretos ou ocultos); Resolve + Protean (para se levantar cedo)
 >
 > - **System (Regras)**:
->   O vampiro entra em transe leve e expande sua consciência pelo ambiente natural ao redor (raio de Protean × 100 metros). Percebe qualquer movimento, som ou presença na área — criaturas vivas, Kindred, mortais. Não pode ser surpreendido enquanto ativo.
->   Limitação: ambientes urbanos reduzem o raio pela metade e a qualidade da percepção (concreto e metal interferem). O vampiro pode agir normalmente enquanto ativo, mas testes que requerem concentração sofrem −1 dado.
+>   Como Earth Meld (Core p. 270), exceto que o vampiro **não é limitado pela composição da superfície** onde repousa: alguns se infundem nas paredes de suas mansões, outros se escondem sob assoalhos empenados ou sob uma poça rasa de "água morta".
+>   Além disso, num raio de **1 milha** (cerca de 1 km) em qualquer direção de onde o corpo se fundiu à terra, o vampiro pode escolher experimentar qualquer estímulo sensorial da área (ouvir uma conversa, sentir um encontro de amantes, sentir o cheiro de uma fogueira), **através da presença de animais**, por menores que sejam, perto dos eventos. Se os eventos forem discretos ou intencionalmente ocultos, exige-se um teste de **Wits + Animalism** contra a pool oposta relevante.
+>   Levantar-se desse estado antes do anoitecer do dia seguinte ao da entrada exige um teste de **Resolve + Protean, Difficulty 4**, e mesmo assim pode levar até uma hora para reemergir por completo. Uma vitória crítica permite levantar instantaneamente.
+>
+> *(Companion, Discipline Powers; Player's Guide, Protean)*
 
 ---
 
@@ -1673,18 +1693,16 @@ Com força de elemento da natureza, o vampiro bate o punho ou o pé no chão e c
 >   Nenhum teste adicional é necessário para criar a onda de choque. Qualquer um em um raio de **5 metros** do usuário faz um teste de Dexterity + Athletics (Difficulty 3), com os resultados: **Vitória crítica**: nenhum efeito. **Vitória**: perde o equilíbrio e perde a ação atual. **Falha**: cai prostrado, perde a ação atual e precisa gastar um turno para se levantar. Quem estava preparado (como os companheiros do usuário) pode subir seu resultado um degrau.
 >   O poder causa dano colateral significativo: no chão, a terra racha; em ambientes fechados, móveis quebram e espelhos estilhaçam; em andares acima do térreo o piso pode se despedaçar, fazendo todos no raio despencarem. Só pode ser usado **uma vez por cena**.
 
-### Savage Fury
+### Fist of Caine
 
-O vampiro desencadeia uma rajada de golpes devastadora — não apenas rápida, mas de força que pode mover objetos pesados, arrombar veículos ou derrubar estruturas.
+As mãos nuas do vampiro infligem ferimentos terríveis, letais tanto a mortais quanto a outros vampiros. Ele pode desmembrar, perfurar, empalar, decapitar e até arrancar um coração do peito. *(Core p. 266)*
 
-> - **Custo**: Two Rouse Checks
-> - **Duração**: Um turno
-> - **Dice Pools:** Strength + Brawl ou Melee
+> - **Custo**: One Rouse Check
+> - **Duração**: Uma cena
+> - **Dice Pools:** Não possui
 >
 > - **System (Regras)**:
->   O vampiro realiza um ataque único mas de potência descomunal. Dano causado é dobrado antes de aplicar resistência (Stamina do alvo). Objetos inanimados — portas reforçadas, carros, paredes de alvenaria — são destruídos ou arrombados automaticamente se o dano exceder sua resistência estrutural.
->   Contra Kindred ou criaturas sobrenaturais com Stamina alta, o excesso de dano converte 1 ponto de superficial em agravado por 2 pontos de excesso.
-
+>   Por uma cena, o usuário pode infligir dano **Agravado** de Health a mortais e sobrenaturais por igual ao lutar com Brawl, rasgando carne e arrancando membros dos oponentes com as próprias mãos.
 
 # Fortitude
 
@@ -1741,6 +1759,18 @@ Todo vampiro com este poder tem uma capacidade inata de ignorar dano que de outr
 >
 > - **System (Regras)**:
 >   Subtraia o Fortitude do defensor de todo dano **Superficial** sofrido. Isso ocorre antes de reduzir o dano pela metade e não pode reduzi-lo abaixo de um.
+
+### Enduring Beasts
+
+O usuário compartilha uma pequena parte de sua resistência sobrenatural com os animais que influencia. Enxames e grandes feras exibem uma resistência a ferimentos passageiros quase igual à do próprio vampiro. *(Core p. 258)*
+
+> - **Amálgama**: Animalism 1 (requer 1 ponto em Animalism para obter este poder)
+> - **Custo**: Free (no famulus); One Rouse Check (em outros animais)
+> - **Duração**: Uma cena
+> - **Dice Pools:** Stamina + Animalism (para animais que não sejam o famulus)
+>
+> - **System (Regras)**:
+>   O vampiro pode estender alguns de seus poderes de Fortitude a animais afetados por seu Animalism. Cada animal assim imbuído ganha níveis de Health adicionais iguais aos dots de Fortitude do vampiro. Usar o poder no famulus é gratuito e automático. Para outros animais, o usuário faz um Rouse Check e rola Stamina + Animalism (**Difficulty 3**), podendo fortalecer **um animal por ponto de margem**. Quando o efeito termina, remove-se primeiro a Health sem marcas, o que pode matar o animal.
 
 ## Fortitude - Poderes Nível 3
 
@@ -1805,19 +1835,6 @@ Ferimentos e incapacitações agora só alimentam os poderes do vampiro, que fic
 > - **System (Regras)**:
 >   Ao ativar o poder, o vampiro deixa de sofrer penalidades de dados por dano de Health, como o Impairment físico. Além disso, pode aumentar em um ponto um Atributo Físico (os valores derivados não mudam) **para cada nível de dano na trilha de Health**, Agravado ou Superficial. Os Atributos do usuário não podem passar de **Blood Surge + 6** por este poder.
 >   *Exemplo (Core):* Darin tem Blood Potency 3, com Blood Surge 2. Ele não pode elevar seus Atributos Físicos acima de 8 com Prowess from Pain.
-
-### Suffer the Beast's Rage
-
-O vampiro pode entrar em frenesi voluntário e controlado, usando a Besta como ferramenta de combate sem perder a consciência.
-
-> - **Custo**: One Rouse Check
-> - **Duração**: Uma cena
-> - **Dice Pools:** Resolve + Fortitude Dificuldade 3 para manter controle por cena adicional
->
-> - **System (Regras)**:
->   O vampiro entra em frenesi de fúria deliberadamente mas mantém sua consciência e memória. Ganha todos os benefícios do frenesi (força aumentada, insensibilidade a dor, velocidade) sem as penalidades de perda de controle.
->   Ao final de cada cena em frenesi controlado, role Resolve + Fortitude Dificuldade 3. Falha: a Besta toma o controle completamente e o vampiro entra em frenesi real (sem controle). Sucesso: mantém controle por mais uma cena.
->   Ao sair do frenesi controlado voluntariamente, o vampiro recebe 1 Stain — usar a Besta como arma tem custo moral.
 
 
 # Blood Sorcery
@@ -2003,6 +2020,9 @@ Este poder macabro faz o sangue da vítima ferver nas próprias veias, causando 
 >
 > - **System (Regras)**:
 >   O usuário paga o custo e toca a vítima (Dexterity + Athletics em combate ou situações parecidas), rolando um contest de Resolve + Blood Sorcery vs. Composure + Occult (vampiros com Fortitude podem resistir com Composure + Fortitude). Em uma vitória, cada ponto de margem causa um ponto de dano **Agravado** na vítima. Mortais que sofram ao menos um ponto de dano morrem gritando. Vítimas vampiras ganham **1 Hunger por ponto de dano causado**, até Hunger 5.
+
+> [!info] Blood Sorcery em suplementos
+> Poderes extras: Scour Secrets e Blood Aegis em [[Player's Guide — Blood Sorcery e Thin-Blood Alchemy]]; Transitive Bond e Reclamation of Vitae em [[Sabbat — Poderes de Disciplina]]; Koldunic Sorcery em [[Blood Sigils - Rituais de Blood Sorcery]]. Rituais extras: ver as mesmas notas e [[Sabbat — Rituais, Cerimônias e Alquimia]].
 
 # Rituals (Blood Sorcery)
 
@@ -2440,356 +2460,289 @@ Os Círculos de Proteção funcionam de forma semelhante às Proteções regular
 
 ## Rituais Adicionais — Blood Sigils
 
-*Rituais da tradição do Blood Sigil / Koldunic Sorcery e fontes expandidas. Fonte: Blood Sigils.*
+*Material de suplemento (Blood Sigils, pp. 59-73); só vale se a crônica permitir. O texto completo, com ingredientes, processo e sistema, está em [[Blood Sigils - Rituais de Blood Sorcery]]. A lista anterior desta seção não correspondia ao livro e foi substituída por este índice.*
 
-### Rituais Nível 1
+| Nível | Rituais |
+| --- | --- |
+| Poder 1 | Koldunic Sorcery (exclusivo dos Tzimisce; pré-requisito de vários rituais) |
+| 1 | Astromancy, Bind the Accusing Tongue |
+| 2 | Craftmaster, Depths of Nightmare, Elemental Grasp (Koldunic Sorcery), Le Sang de l'Amour, Silentia Mortis, Tiamat Glistens, Viscera Garden |
+| 3 | Blood Sigil, Elemental Shelter (Koldunic Sorcery), Nepenthe, Seeing with the Sky's Eyes, Seeking Tiamat, Soul of the Hemonculus, Stone of the True Form, Trespass, Viral Haruspex |
+| 4 | Compel the Inanimate, Egregore Consultation, Land's Sustenance, Riding the Earth's Veins |
+| 5 | Elemental Attack (Koldunic Sorcery), Fisher King |
 
-**Astromancy** — Leitura divinatória do céu noturno usando vitae. Permite obter presságios sobre eventos futuros próximos (uma noite); resultado interpretado pelo Narrador.
+Rituais de outros suplementos: [[Player's Guide — Blood Sorcery e Thin-Blood Alchemy]] (Player's Guide) e [[Sabbat — Rituais, Cerimônias e Alquimia]] (Sabbat: The Black Hand).
 
-**Koldunic Sorcery: Elemental Perception** *(Exclusivo Tzimisce)* — Permite ao vampiro sentir perturbações nos elementos (terra, água, fogo, ar) dentro de sua área de influência territorial.
+## Rituais Adicionais — Forbidden Religions
 
-### Rituais Nível 2
+### Shroud of Silence *(Nível 2)*
 
-**Craftmaster** — Permite ao vampiro imbuir uma obra artística ou artesanal com qualidade sobrenatural; a obra ganha um dado extra em testes de avaliação e impressiona mesmo observadores com Auspex.
+Usado pelos Shepherds of Ur-Shulgi. Cria uma área interior da qual nenhum som escapa, permitindo assassinatos sem gritos, arrombamento de cofres sem o zumbido da broca e detonações sem o estrondo. *(Forbidden Religions)*
 
-**Depths of Nightmare** — Mergulha uma vítima adormecida em pesadelos específicos moldados pelo caster; pode ser usado para interrogação indireta ou como arma psicológica.
-
-**Elemental Grasp** — O vampiro pode manipular um único elemento (pedra, água, chama) em pequena escala (cubo de 1m). Versão ritualística mais controlada que as técnicas Tzimisce.
-
-**Silentia Mortis** — Cria uma bolha de silêncio sobrenatural ao redor do caster por uma cena; sons gerados dentro não saem, sons externos entram normalmente.
-
-**Tiamat Glistens** — Ritual de oferenda ao princípio de Tiamat; quando bem-sucedido, concede +2 dados em todos os rituais de Blood Sorcery pelo restante da noite.
-
-**Shroud of Silence** *(também usada pelos Shepherds of Ur-Shulgi)* — Cria uma área interior da qual nenhum som pode escapar — útil para assassinatos silenciosos, abertura de cofres, ou detonações discretas. Ingredientes: tecido trançado (geralmente seda) e um anel dourado; o tecido é passado pelo anel, embebido em vitae, e afixado a uma maçaneta.
-
-### Rituais Nível 3
-
-**Blood Sigil** — O ritual que dá nome ao livro. Marca um alvo com um sigil de sangue invisível que dura até ser dissolvido; o caster pode rastrear o alvo e perceber sua localização geral.
-
-**Elemental Shelter** — Cria um abrigo temporário feito de elemento natural (pedra, madeira, gelo) que dura até o nascer do sol; protege de fogo e luz solar indireta.
-
-**Nepenthe** — Faz a vítima esquecer um período de tempo específico (máx. uma noite). Mais suave que Cloud Memory (Dominate) — sem a resistência de Wits, mas também sem a precisão.
-
-**Seeing with the Sky's Eyes** — Permite ao caster ver através dos olhos de pássaros noturnos em sua área; mais difuso que Share the Senses (Auspex) mas sem exigir contato.
-
-**Seeking Tiamat** — Ritual de bússola que aponta para a presença vampírica mais poderosa (maior Blood Potency) dentro de 10km.
-
-**Soul of the Hemonculus** — Cria um homúnculo de sangue que pode executar tarefas simples por uma noite; sem capacidade de combate, mas excelente para espionagem ou entrega de mensagens.
-
-**Stone of the True Form** — Reverte magicamente qualquer transformação de forma (Protean, Vicissitude, Obfuscate) num alvo; contestado pelo caster da transformação original.
-
-**Trespass** — Marca um local como território do caster; qualquer Kindred que entre sem permissão deve fazer um Resolve + Composure (Dificuldade 3) ou sentir desconforto crescente forçando-o a sair.
-
-**Viral Haruspex** — Leitura divinatória através do sangue de uma vítima infectada; revela a saúde, humores e intenções recentes da vítima.
-
-**Egregore Consultation** — Permite ao caster consultar o "egregore" (mente coletiva) de uma organização mortal ou vampírica à qual pertence; resposta chega como visão simbólica.
-
-**Land's Sustenance** — O vampiro pode alimentar-se da energia vital da terra em vez de sangue; sacia 1 ponto de fome por hora de meditação em solo não-urbanizado.
-
-**Riding the Earth's Veins** — Versão ritualística de Earth Meld aprimorada; permite viajar através do solo até 1km em vez de apenas se ocultar.
-
-### Rituais Nível 5
-
-**Elemental Attack** — Canaliza um elemento escolhido em um ataque devastador; dano equivalente a arma de fogo de alto calibre com propriedades elementais adicionais (fogo ignora Fortitude contra chamas, etc.).
-
----
+> - **Ingredientes**: um comprimento de tecido trançado, em geral seda, e um anel de ouro pelo qual o tecido possa passar
+> - **Processo**: o conjurador passa o tecido pelo anel, unta cada ponta com vitae e o prende à maçaneta de uma porta ou o passa pelo buraco da fechadura
+> - **System (Regras)**: se o ritual funcionar, cria uma mortalha de silêncio impenetrável centrada inteiramente no cômodo ao qual a porta serve de entrada ou saída. Dura uma cena. Qualquer pessoa a dispersa instantaneamente removendo o tecido do lugar.
 
 ## Rituais Adicionais — Cults of the Blood Gods
 
-### Bahari
-**Coax the Garden** *(Nível 1)* — Despertar plantas próximas (raízes, grama, galhos) para agir em defesa do caster. Raramente letais, mas capazes de imobilizar e alarmar vítimas. Ingredientes: sangue humano e sementes de papoula.
+*Rituais com as rolagens do Core (Ritual roll de Blood Sorcery). Fonte: Cults of the Blood Gods.*
 
-**Eden's Bounty** *(Nível 5)* — Controle massivo de vegetação em área ampla; detalhes em *Cults of the Blood Gods* p. 56.
+### Bahari
+**Coax the Garden** *(Nível 1)* — Faz plantas próximas (raízes, grama, galhos) agirem em defesa do conjurador, numa área de 5 jardas/metros de diâmetro. Raramente letais, mas capazes de imobilizar e alarmar vítimas. Ingredientes: sangue humano e sementes de papoula. Sistema: em vitória, quem estiver na área sofre **−2 dados** em pools Físicas, pois as plantas os derrubam e agarram. *(p. 55)*
+
+**Eden's Bounty** *(Nível 5)* — Ritual em que o corpo é fundido às raízes e ao tronco de uma árvore, e o sangue de mortais **a até 1 milha/quilômetro** é drenado para a terra e sai por uma maçã podre na boca do vampiro, saciando a Hunger. Em vitória, a Hunger do vampiro cai para 1, apesar de penalidades de Blood Potency; em vitória crítica, cai para 0 sem matar; em falha total, o vampiro entra em hunger frenzy. Stains podem se acumular conforme os mortais na área (por exemplo, Prey Exclusion). Para o resto do capítulo, os mortais na área sofrem **−1 dado em todas as pools Físicas** e 1 de dano Agravado de Health. *(p. 56; o trecho de ingredientes e processo não foi extraído legivelmente do .txt)*
 
 ### Church of Caine
-**Dampen the Fear** *(Nível 1)* — Concede +2 dados em resistência a Rötschreck de fogo (sucesso crítico: imunidade total pelo restante da cena). Ingredientes: um objeto sagrado que é queimado antes do contato com o fogo.
+**Dampen the Fear** *(Nível 1)* — Concede **+2 dados** em todas as rolagens para resistir a Rötschreck (vitória crítica: nenhum teste de terror frenzy na cena). Ingredientes: um objeto sagrado (crucifixo, Bíblia, Alcorão), queimado antes de o vampiro andar entre as chamas. O poder acaba ao fim da cena. *(p. 67)*
 
-**Fire in the Blood** *(Nível 3)* — Invoca a agonia do fogo no sangue de uma vítima; o alvo sofre dano superficial crescente por queimadura interna.
+**Fire in the Blood** *(Nível 3)* — Invoca a agonia do fogo no sangue de uma vítima, à distância, mais para incapacitar que para matar (diferente de Cauldron of Blood). Ingredientes: amostra do sangue do alvo, representação visual do alvo (foto, pintura, vídeo) e uma vela de cera vermelha ou isqueiro de ferro. Sistema: Ritual roll vs. Resolve + Occult do alvo (ou Resolve + Fortitude, se tiver a Disciplina). Cada ponto de margem vira dano **Superficial de Health** e a dor impõe **−2 dados** em pools Físicas pelo resto da cena (−3 em vitória crítica). Um alvo Kindred faz um Rouse Check pelo dano à vitae. *(p. 67)*
 
-**Creatio Ignis** *(Nível 5)* — Criação e controle de fogo sobrenatural; ver *Cults of the Blood Gods* p. 67.
+**Creatio Ignis** *(Nível 5)* — O conjurador desvia a chama de sua carne usando um revestimento de vitae como amortecedor e incendeia objetos e pessoas. Violação gravíssima da Máscara. Ingredientes: vitae suficiente (de qualquer vampiro) para cobrir os braços até o cotovelo e uma fonte de chama. Sistema: com Hunger 4+, faz-se um teste de hunger frenzy (Difficulty 3) para não beber os ingredientes. Em vitória no Ritual roll, as mãos e braços pegam fogo, provocando terror frenzy (Difficulty 2) em vampiros próximos, exceto o conjurador; tocar alguém (Dexterity + Brawl) causa **2 de dano Agravado** e, num grapple, incendeia as roupas (Composure + Survival, Difficulty 3, para apagar). O conjurador só é resistente ao fogo nos braços. *(p. 67)*
 
 ---
 
 # Oblivion
 
-Oblivion é a disciplina das trevas e da morte — não das sombras como ausência de luz, mas das sombras como substância, presença, e portal para o submundo. É a disciplina primária dos [[Clãs#Lasombra|Lasombra]] e dos [[Clãs#Hecata|Hecata]], e representa duas tradições distintas de usar o mesmo poder fundamental.
+> [!warning] Material de suplemento
+> Oblivion **não está no Core Rulebook**. Os poderes e Cerimônias abaixo vêm do *Players Guide* (pp. 84-98) e só valem se a crônica permitir. O texto completo de cada poder está em [[Player's Guide — Oblivion e Cerimônias]].
 
-Para os Lasombra, Oblivion é predação: manipular sombras como extensões físicas, sufocar oponentes, viajar através da escuridão.  
-Para os Hecata, Oblivion é necromancia: comunicação com mortos, invocação de espíritos, compreensão dos mecanismos da morte.
+- **Nicknames**: Obtenebration, Necromancy, Shadowboxing, Abyssal Mastery, Tenebrae Imperiosae, Mortis, the Dark Arts, Black Magic, Entropy
+- **Tipo**: Mental
+- **Ameaça à Máscara**: Média-Alta. *As sombras abissais raramente aparecem bem em câmeras, mas são obviamente antinaturais ao vivo.*
+- [[Resonance]]: psicopatas e emocionalmente desligados; sangue vazio de Resonance.
+
+Poucos Kindred fora dos [[Clãs#Lasombra|Lasombra]] e dos [[Clãs#Hecata|Hecata]] conhecem Oblivion. Os Lasombra preferem o poder bruto da Disciplina; os Hecata, mais inclinados à necromancia, exploram seus usos rituais (as Cerimônias). Os poderes de Oblivion são comuns aos dois clãs: o livro não divide a lista entre Lasombra e Hecata.
 
 ## Regras Gerais de Oblivion
 
-Oblivion exige escuridão ou presença de morte próxima para funcionar em plena capacidade. Em ambiente completamente iluminado (luz solar direta, iluminação artificial intensa), muitos poderes sofrem +1 Dificuldade.
+- **Manifestação:** aparece como sombras bidimensionais na superfície de objetos comuns, sozinhas ou como distorções de sombras já presentes. Por isso são **impossíveis de atacar com a maioria dos meios físicos**: o golpe só atinge a superfície.
+- **Dano:** projeções e espíritos de Oblivion sofrem dano de fogo e luz solar **como vampiros com Blood Potency 1**, levam **1 nível de dano Agravado por rodada** de luz forte e direta e podem sofrer dano (Superficial ou Agravado) de armas e artefatos **abençoados**, conforme a força da bênção e a True Faith do portador.
+- **Luz:** os poderes são **ineficazes em áreas bem iluminadas**. Luz do dia e salas sem sombras **impedem** o funcionamento; luz ultravioleta e infravermelha não restringem. Salas moderadamente iluminadas aplicam **−1 dado** à rolagem de Disciplina.
+- **Rouse Check de Oblivion e Stains:** ao fazer um [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check]] para um poder de Oblivion, um resultado **1 ou 10** causa **uma Stain**, além de qualquer Hunger ganha. Se a Blood Potency permitir re-rolar o Rouse Check, o jogador escolhe qualquer um dos dois resultados. Muitos poderes causam Stains também pelo texto: o vazio de Oblivion penetra o usuário. Ver [[Humanidade]].
 
-**Amalgamas:** Alguns poderes de Oblivion requerem níveis em outras Disciplinas como pré-requisito (Amalgamas). Indicado em cada poder.
+*(Player's Guide, pp. 84-85)*
 
----
+## Oblivion — Poderes por Nível
 
-## Oblivion — Poderes Nível 1
+Custo é o número de Rouse Checks. Para as regras completas (sistema, duração, amálgamas) ver [[Player's Guide — Oblivion e Cerimônias]]. *(Player's Guide, pp. 85-91)*
 
-### Cloak of Shadows *(Lasombra)*
-**Pool:** Wits + Stealth | **Custo:** Free | **Duração:** Cena
+| Nível | Poder | Amálgama | Custo | Pool | Efeito resumido |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Ashes to Ashes | - | 1 | Stamina + Oblivion vs. Stamina + Medicine ou Fortitude | Desintegra um cadáver com vitae (3 turnos se não animado) |
+| 1 | The Binding Fetter | - | Free | Wits + Oblivion | Percebe fetters que prendem fantasmas; −2 em Dexterity e Wits enquanto ativo |
+| 1 | Oblivion's Sight | - | Free | - | Ignora penalidades de pouca luz; vê fantasmas; −2 dados em interações sociais com mortais |
+| 1 | Shadow Cloak | - | Free | - | +2 dados em Stealth e Intimidation contra mortais (passivo) |
+| 2 | Arms of Ahriman | Potence 2 | 1 | Wits + Oblivion | Tentáculos de sombra (bludgeoning e grapple, dano Superficial), alcance 2 × Oblivion |
+| 2 | Fatal Prediction | Auspex 2 | 1 | Resolve + Oblivion vs. Wits + Occult | 1 dano Agravado por ponto de margem num mortal em 24 horas |
+| 2 | Shadow Cast | - | 1 | - | Projeta uma sombra sobrenatural, base para outros poderes |
+| 2 | Where the Veil Thins | - | 1 | Intelligence + Oblivion (Difficulty 3) | Determina a densidade do véu na área |
+| 3 | Aura of Decay | - | 1 | Stamina + Oblivion vs. Stamina + Medicine ou Fortitude | Apodrece matéria e adoece seres vivos num raio de 5 jardas/metros |
+| 3 | Passion Feast | Fortitude 2 | Free | Resolve + Oblivion vs. Resolve + Composure | Alimenta-se das paixões de wraiths (reduz Hunger em 1) |
+| 3 | Shadow Perspective | - | 1 | - | Projeta os sentidos para qualquer sombra à vista |
+| 3 | Shadow Servant | Auspex 1 | 1 | - | Dá vida independente a parte da sombra, para espionar ou assustar |
+| 3 | Touch of Oblivion | - | 1 | Strength + Brawl (se resistido) | Envelhece catastroficamente uma parte do corpo: 2 de dano Agravado e lesão incapacitante |
+| 4 | Necrotic Plague | - | 1 | Intelligence + Oblivion vs. Stamina + Stamina (ou Fortitude) | Doença sobrenatural em um mortal, 1 dano Agravado por cena |
+| 4 | Stygian Shroud | - | 1 | - | Escuridão de raio 2 × Oblivion: −3 dados a todos na área; mortais sofrem 1 Superficial por turno |
+| 5 | Shadow Step | - | 1 | - | Entra numa sombra e reaparece em outra à vista, um turno depois |
+| 5 | Skuld Fulfilled | - | 2 | Stamina + Oblivion vs. Stamina × 2 | Reintroduz condições passadas da vítima; pode matar numa vitória crítica |
+| 5 | Tenebrous Avatar | - | 2 | - | Corpo vira sombra bidimensional; vulnerável a fogo e sol |
 
-Permite ao vampiro se fundir com sombras existentes, tornando-se difícil de perceber. Não é invisibilidade — requer sombras reais. Em luz forte, o poder falha.
+## Densidade do Véu
 
-> O vampiro some de vista enquanto permanecer imóvel em área de sombra. Movimento cancela o efeito. Observadores devem vencer teste contestado de Wits + Awareness vs. Wits + Stealth do vampiro para notar.
+Os efeitos das Cerimônias dependem da densidade do véu entre o mundo dos vivos e o dos mortos. *(Player's Guide, p. 88)*
 
-### The Oblivion's Sight
-**Pool:** — | **Custo:** Free | **Duração:** Passiva
+| Densidade | Causa possível | Efeito |
+| --- | --- | --- |
+| Impenetrable | Nenhuma morte ocorreu aqui; terreno sagrado | Wraiths não cruzam o véu aqui |
+| Thick | Uma morte ocorreu há muito tempo; local de alegria | Sem efeito |
+| Thin | Uma morte recente; mortais melancólicos costumam passar | −1 Difficulty em rolagens de Oblivion Ceremony |
+| Frayed | Série de mortes; Cerimônias são realizadas aqui | −2 Difficulty em rolagens de Oblivion Ceremony |
+| Absent | Split the Veil foi usado; wraiths passam regularmente | −2 Difficulty em Cerimônias; wraiths passam livremente de/para as terras dos mortos; mortais sofrem 2 de dano Superficial de Health na área, que não cura até saírem |
 
-O vampiro pode ver em escuridão absoluta como se houvesse luz suficiente. Além disso, consegue perceber espíritos e fantasmas que estejam na área, mesmo que invisíveis.
+## Cerimônias de Oblivion
 
-> Passiva sempre ativa. Não requer ativação. Fantasmas percebidos com teste de Wits + Awareness (Dificuldade 2).
+As Cerimônias são o equivalente de Oblivion aos Rituais de Blood Sorcery. Salvo indicação contrária, exigem **um Rouse Check**, **5 minutos por nível** para lançar e uma rolagem vencedora de **Resolve + Oblivion (Difficulty = nível da Cerimônia + 1)**. Costumam exigir ingredientes ou sacrifícios misturados à vitae do conjurador; Cerimônias benéficas só podem ser feitas em si mesmo, salvo indicação. Ghouls de praticantes de Oblivion e thin-bloods podem ter acesso temporário a poderes de Oblivion, **mas não a Cerimônias**. *(Player's Guide, pp. 91-92)*
 
----
+- Cada Cerimônia tem um **poder de Oblivion como pré-requisito**.
+- Na criação do personagem, o jogador pode escolher **uma Cerimônia de Nível 1** se tiver ao menos um poder de Oblivion que seja seu pré-requisito.
+- Novas Cerimônias custam **nível × 3 XP** (e o pré-requisito). Aprender em jogo exige XP, tempo e um professor; espere **pelo menos o quadrado do nível em semanas**.
 
-## Oblivion — Poderes Nível 2
+| Nível | Cerimônia | Poder pré-requisito |
+| --- | --- | --- |
+| 1 | The Gift of False Life | Ashes to Ashes |
+| 1 | Summon Spirit | The Binding Fetter |
+| 2 | Awaken the Homuncular Servant | Where the Veil Thins |
+| 2 | Compel Spirit | Where the Veil Thins |
+| 3 | Host Spirit | Aura of Decay |
+| 3 | Shambling Hordes | Aura of Decay |
+| 4 | Bind the Spirit | Necrotic Plague |
+| 4 | Split the Veil | Necrotic Plague |
+| 5 | Lazarene Blessing | Skuld Fulfilled |
 
-### Shadow Cast *(Lasombra)*
-**Pool:** Strength + Oblivion | **Custo:** 1 Rouse Check | **Duração:** Cena
-
-O vampiro manipula sombras existentes como extensões físicas — alongando-as, direcionando-as, usando-as para cobrir objetos ou revelar o que estava oculto.
-
-> Uso ofensivo: sombra pode ser dirigida para cobrir olhos de oponente (−2 dados em testes visuais). Uso utilitário: pode obscurecer objetos ou criar distração.
-
-### Whispers of the Dead *(Hecata)*
-**Pool:** Intelligence + Oblivion | **Custo:** 1 Rouse Check | **Duração:** Cena
-
-O vampiro pode ouvir ecos de eventos passados ligados a mortes ocorridas no local. Não é comunicação com fantasmas específicos — é leitura do registro de morte do ambiente.
-
-> Cada sucesso revela um fragmento de como alguém morreu naquele local (ou em local adjacente). Pode revelar nome, circunstâncias, ou emoção dominante no momento da morte.
-
----
-
-## Oblivion — Poderes Nível 3
-
-### Arms of Ahriman *(Lasombra)*
-**Pool:** Strength + Oblivion vs. Dexterity + Athletics | **Custo:** 1 Rouse Check | **Duração:** Cena
-
-Tentáculos de sombra emergem do vampiro ou de qualquer ponto de sombra na cena. Podem agarrar, imobilizar, ou causar dano físico.
-
-> **Dano:** Strength + Oblivion (Superficial). **Grapple:** Alvo imobilizado perde ações a menos que vença teste de Strength + Athletics vs. Strength + Oblivion do vampiro. Máximo de 3 tentáculos simultâneos.
-
-### Aura of Decay *(Hecata)*
-**Pool:** Stamina + Oblivion | **Custo:** 1 Rouse Check | **Duração:** Cena
-
-O vampiro irradia presença de morte. Plantas murcham, alimentos apodrecem, feridas abertas infectam mais rápido. Mortais sentem desconforto inexplicável e mal-estar.
-
-> Mortais na presença recebem −1 dado em todos os testes de Composure. Plantas morrem em horas. Feridas abertas em alvo mortal pioram — cura demora o dobro sem tratamento. Em combate, −1 dado nos ataques de mortais contra o vampiro.
-
-### Shadowstep *(Lasombra)*
-**Pool:** Wits + Oblivion | **Custo:** 1 Rouse Check | **Duração:** Instantâneo
-
-O vampiro entra em uma sombra e emerge de outra sombra dentro da cena (ou em cena adjacente com sucesso excepcional). Requer sombras de tamanho suficiente nos dois pontos.
-
-> Movimento instantâneo. Falha crítica: vampiro fica preso entre as sombras por uma rodada, vulnerável. Não funciona em luz solar direta.
-
----
-
-## Oblivion — Poderes Nível 4
-
-### Stygian Shroud *(Lasombra)*
-**Pool:** Resolve + Oblivion | **Custo:** 1 Rouse Check | **Duração:** Cena
-
-O vampiro gera uma esfera de escuridão absoluta ao redor de si mesmo — não apenas ausência de luz, mas trevas com substância. Dentro da esfera, apenas o vampiro e quem ele escolher podem ver.
-
-> Raio: Bane Severity em metros. Qualquer um dentro (exceto o vampiro) fica efetivamente cego. Armas de fogo tornam-se ineficazes. Câmeras não funcionam. O vampiro pode mover a esfera com ele.
-
-### Necrotic Plague *(Hecata)*
-**Pool:** Stamina + Oblivion vs. Stamina + Resolve | **Custo:** 1 Rouse Check | **Duração:** Noites (Bane Severity)
-
-O vampiro toca um alvo e implanta uma maldição de decadência física. O alvo começa a definhar — perda de cabelo, unhas, pele ressecando. Não é doença identificável por medicina moderna.
-
-> Por noite que a maldição persiste: alvo perde 1 ponto de Stamina cumulativamente (recupera quando maldição termina). Em nível alto de Bane Severity, pode causar dano Agravado em Saúde.
-
----
-
-## Oblivion — Poderes Nível 5
-
-### Tenebrous Avatar *(Lasombra)*
-**Pool:** — | **Custo:** 2 Rouse Checks | **Duração:** Cena
-
-O vampiro dissolve o próprio corpo em sombra pura. Torna-se imaterial — não pode ser atingido por armas físicas, atravessa paredes desde que haja alguma sombra do outro lado, e pode se mover em velocidade sobrenatural.
-
-> Imune a dano físico. Vulnerável a fogo, luz solar, e poderes sobrenaturais. Não pode interagir fisicamente com o mundo exceto através de Arms of Ahriman (que ainda funciona). Duração: até o vampiro escolher retornar.
-
-### Skuld Fulfilled *(Hecata)*
-**Pool:** Intelligence + Oblivion vs. Resolve + Composure | **Custo:** 2 Rouse Checks | **Duração:** Instantâneo
-
-O vampiro força um mortal a encarar a visão de sua própria morte — não metafórica, mas literal: como, quando, e onde vai morrer. A visão é verdadeira.
-
-> Sucesso: o alvo entra em choque (incapaz de agir por cena). Sucesso excepcional: a visão é tão traumática que o alvo perde Sanidade (redução permanente de Composure em 1 por decisão do Narrador). O vampiro também vê a morte — pode ser perturbador.
+Ingredientes, sistemas e fichas das criaturas animadas estão em [[Player's Guide — Oblivion e Cerimônias#Cerimônias de Oblivion|Player's Guide — Oblivion e Cerimônias]].
 
 ---
 
 # Thin-blood Alchemy
 
-Thin-blood Alchemy é a habilidade característica dos [[Clãs#Thin-Bloods (Duskborn)|Thin-Bloods]] — a capacidade de usar vitae diluída como reagente alquímico para criar fórmulas que imitam efeitos de Disciplinas.
+- **Nicknames**: Cooking, Home Brew, the Craft, Mashup
+- **Masquerade Threat**: Varia tanto quanto os poderes imitados e o método usado.
+- **Blood Resonance**: Exigida em cada fórmula e varia conforme a fórmula.
 
-Não é magia intuitiva como Disciplinas de vampiros de sangue puro. É um processo: coleta de ingredientes, preparação cuidadosa, infusão de vitae. O resultado são poções, unguentos ou vapores que, quando consumidos ou aplicados, produzem efeito sobrenatural temporário.
+O sangue ralo das gerações mais recentes quase não tem poder próprio, mas certos [[Sangue Fraco|thin-bloods]] aprenderam a usá-lo como catalisador, despertando o poder latente em tudo, de trauma humano a gasolina. Misturando sangue humano de forte [[Resonance]] (e às vezes outras substâncias) com a própria vitae, os alquimistas **imitam** uma ampla gama de poderes de outras Disciplinas e alguns poderes próprios. Alquimia pode imitar alguns poderes de Blood Sorcery (os que afetam o sangue do conjurador), mas **não Rituais**. O Narrador pode vetar qualquer outro poder se tiver receio quanto ao equilíbrio do jogo ou à plausibilidade da ficção. *(Core pp. 282-283)*
+
+Para o material de suplementos, ver [[Player's Guide — Blood Sorcery e Thin-Blood Alchemy]] e [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]].
 
 ## Regras Gerais de Thin-blood Alchemy
 
-**Preparação:** Cada fórmula requer Craft + Intelligence (Dificuldade variável por fórmula) e ingredientes específicos. O tempo de preparação varia de minutos a horas.
+*(Core pp. 282-284)*
 
-**Uso:** Fórmulas podem ser usadas pelo próprio thin-blood ou administradas a outros — incluindo vampiros de sangue puro, o que as torna comercialmente valiosas.
+- **Ingredientes:** toda fórmula exige **vitae do alquimista** e, quase sempre, **sangue humano da Resonance correta**. A quantidade depende do grau da Resonance do doador e do Narrador. A lista de ingredientes de cada fórmula é **sugestão**: cada alquimista desenvolve fórmulas próprias. Ingredientes não precisam ser físicos: uma emoção capturada no sangue vale tanto quanto um reagente raro.
+  - O Narrador modifica a pool em um ou dois dados pela qualidade dos ingredientes: +1 dado para ingredientes muito raros ou caros, ou muito potentes/mágicos (chifre de unicórnio, sangue de lobisomem, sangue humano com Dyscrasia, vitae com Blood Potency dois níveis acima do nível da fórmula) e para criatividade do jogador; −1 dado para substitutos baratos ou "magia falsa" (sangue de bolsa médica, velas derretidas de loja New Age).
+- **"Nível de poder":** nas regras de Alchemy, sempre se refere ao nível de Alchemy envolvido, **não** ao nível do poder imitado.
+- **Custo:** toda fórmula tem um custo de **destilação** e um custo de **ativação**. A destilação reflete a vitae do alquimista na mistura: **um Rouse Check**. O custo de ativação é o mesmo de usar o poder normalmente: grátis ou alguns Rouse Checks adicionais. (Não existe regra de "1 Hunger ao preparar".)
+- **Destilação:** uma vez ativada a fórmula, o alquimista faz um **distillation roll**, cuja pool depende do método. Quanto mais sucessos, mais eficaz a mistura:
 
-**Custo de vitae:** Cada fórmula consome 1 nível de Hunger ao ser preparada (Rouse Check para vampiros de sangue puro que as usam).
+| Sucessos | Efeito da mistura |
+| --- | --- |
+| 2 | Poder fraco, instável ou tardio |
+| 4 | Poder funciona como pretendido |
+| 6 | Poder aumentado em efeito |
 
-**Duração:** Geralmente uma cena, salvo indicação contrária.
+- **Rolagens do poder:** quando o poder exige as próprias rolagens, o alquimista as faz substituindo o rating da Disciplina pelo seu **rating em Thin-Blood Alchemy**.
+- **Aprender:** o personagem recebe **uma fórmula grátis por dot** em Thin-Blood Alchemy e pode comprar outras com XP e experimentação. Aprender exige tempo de pesquisa (bibliotecas, meditação, degustação, laboratório).
+- **Níveis das fórmulas:** do nível 2 em diante, uma fórmula de Alchemy nível *n* imita poderes de nível *n − 1* de outras Disciplinas. Nível 2: pelo menos uma semana de pesquisa. Nível 3: pelo menos uma noite para destilar e um mês de pesquisa. Nível 4: três noites para destilar e três meses de pesquisa; exige também **uma gota de vitae de um vampiro do clã correspondente** ou que já possua a Disciplina imitada (o poder está no Sangue, não no vampiro doador), geralmente obtida como Boon. Nível 5: um mês para destilar e pelo menos três anos de pesquisa.
 
-**Nível de Thin-blood Alchemy:** Cada ponto representa acesso a fórmulas mais poderosas e maior confiabilidade na preparação.
+## Métodos de Destilação
 
----
+Ao ganhar o primeiro dot, o alquimista escolhe o método. Aprender outro método é recomeçar do zero (conta como outra Disciplina, e cada fórmula precisa ser aprendida de novo para cada método). *(Core pp. 283-284)*
 
-## Fórmulas — Nível 1
+> - **Athanor Corporis**: o alquimista usa o próprio corpo como athanor (forno alquímico). Bebe os tipos de sangue ressonante exigidos e a destilação ocorre em suas veias, com um **Rouse Check** e um distillation roll de **Stamina + Alchemy**. Só um poder pode estar ativo por vez, e um novo precisa ser destilado antes de ser ativado, o que costuma levar **pelo menos três turnos** de concentração, sem outra ação.
+>
+> - **Calcinatio**: o alquimista usa o corpo de um humano como athanor, ajustando seu estado biofísico por pressão emocional e palavras (alguns usam drogas). Alimenta o humano com seu sangue, paga o custo de destilação e rola **Manipulation + Alchemy**. Para usar o poder, bebe o sangue do humano (Hunger saciada exigida = nível do poder − 1). Só se destila um poder por vítima, e ela mantém a fórmula enquanto permanecer no mesmo estado emocional.
+>
+> - **Fixatio**: usa um athanor convencional (forno, fornalha, panela de metanfetamina, botijão reaproveitado). O alquimista despeja seu sangue e ingredientes inertes, em geral raros, paga o custo e destila com **Intelligence + Alchemy**. As fórmulas resultantes são **fixas**: podem ser carregadas e ingeridas para ativar o poder (o distillation roll é feito **ao consumir**, não ao produzir). Sem laboratório, só se pode "cozinhar" no improviso uma fórmula fraca (nível 3 ou menos), com −2 dados na pool. Carrega-se um número de fórmulas fixas igual a Wits ou Dexterity, e armazena-se o dobro da soma de Alchemy mais dots de Haven. Pode ativar **um poder por turno**.
 
-### Calcinatio (Fogo)
-**Ingredientes:** Enxofre, álcool de alta graduação, cinzas  
-**Efeito:** O consumidor fica imune a dano superficial de fogo por uma cena. Dano agravado de fogo é reduzido em 1.
+## Fórmulas do Core — Nível 1
 
-### Aether (Velocidade)
-**Ingredientes:** Mercúrio, cafeína concentrada, pena de ave  
-**Efeito:** Imita Celerity 1 — adiciona 1 dado extra em testes de Dexterity e permite uma ação adicional por rodada.
+*(Core pp. 284-285)* Fórmulas de nível 1 são poderes próprios da Alchemy, não imitações.
 
-### Fixatio (Calma)
-**Ingredientes:** Lavanda, raiz de valeriana, água benta  
-**Efeito:** Reduz Hunger em 1 ponto temporariamente (1 hora). Não substitui alimentação real — apenas suprime a sensação.
+### Far Reach
 
----
+O alquimista usa a mente para agarrar, segurar e empurrar objetos ou pessoas sem tocá-los.
 
-## Fórmulas — Nível 2
-
-### Sublimatio (Ilusão)
-**Ingredientes:** Espelho quebrado, tinta de lula, flor noturna  
-**Efeito:** Imita Obfuscate 2 (Unseen Passage) por uma cena. O consumidor pode se mover sem ser notado.
-
-### Coagulatio (Força)
-**Ingredientes:** Ferro, bile, dente de animal predador  
-**Efeito:** Imita Potence 2 — adiciona Bane Severity em dados de dano físico por uma cena.
-
----
-
-## Fórmulas — Nível 3
-
-### Transformatio (Forma)
-**Ingredientes:** Pele de cobra, cera lunar, sangue de múltiplas espécies  
-**Efeito:** Imita Protean 2 (Shape of the Beast) — permite transformação parcial em forma animal por uma cena. Mais instável que o poder real: requer Resolve + Craft para manter forma em situações de estresse.
-
-### Caelum (Percepção)
-**Ingredientes:** Olho de pássaro, cristal de rocha, chuva coletada à meia-noite  
-**Efeito:** Imita Auspex 3 (Scry the Soul) — o consumidor pode ler a aura de uma pessoa por cena, revelando emoções dominantes e mentiras óbvias.
-
----
-
-## Thin-blood Alchemy - Nível 4
-
-### Defixio
-
-Fórmula de maldição — o alquimista cria um composto que implanta uma compulsão ou punição sobrenatural em quem o consumir.
-
-> - **Custo**: One Rouse Check (criação) + material do alvo (cabelo, sangue, objeto pessoal)
-> - **Duração**: Até a condição ser cumprida ou dispelada
-> - **Dice Pools:** Intelligence + Alchemy vs. Composure + Resolve do alvo (quando consumido)
+> - **Ingredientes**: sangue do alquimista, sangue humano colérico (choleric), fibras de nylon derretidas, ímã de geladeira ralado ou nootrópicos estranhos
+> - **Custo de ativação**: One Rouse Check
+> - **Dice Pools:** Resolve + Alchemy vs. Strength + Athletics
+> - **Duração**: Um turno, a menos que mantida
 >
 > - **System (Regras)**:
->   O alquimista cria uma fórmula vinculada a uma condição definida: "sofre −2 dados em testes de Stealth" ou "entra em pânico ao ver chamas" ou "não consegue cruzar água corrente". O composto pode ser administrado em bebida, comida, ou inalado.
->   A maldição dura até o alquimista desfazê-la, até o alvo gastar uma Willpower completa para resistir em cena de tentação direta, ou até o próximo amanhecer (para efeitos menores).
+>   O alquimista levanta, empurra ou puxa um objeto ou pessoa de **menos de 100 kg**, à vista e a **menos de 10 metros**. O objeto se move rápido, mas não o bastante para ferir com o golpe; pode quebrar se for frágil. Exceção: facas e pequenas ferramentas de metal podem ser empunhadas com Resolve + Alchemy com −2 dados, causando apenas 1 ponto de dano extra.
+>   Mover alguém que resiste exige o contest Resolve + Alchemy vs. Strength + Athletics. Em vitória, o alquimista puxa a vítima ao alcance de agarrar ou arranhar, ou a arremessa **1 metro por ponto de margem**, causando dano Superficial igual; ela cai prostrada. Manter algo ou alguém flutuando exige Resolve + Alchemy (**Difficulty 3**) a cada turno. Manipulação fina (como puxar o pino de uma granada) exige Wits + Alchemy numa Difficulty definida pelo Narrador.
 
-### Perpetuus
+### Haze
 
-Fórmula de preservação — o alquimista cria compostos que preservam objetos, tecidos, ou até mortais em estado suspenso.
+Cria um campo de névoa que segue o usuário, dificultando que seja alvo de armas à distância e escondendo sua identidade.
 
-> - **Custo**: One Rouse Check
-> - **Duração**: Dias (objetos) a horas (seres vivos)
-> - **Dice Pools:** Intelligence + Alchemy Dificuldade 2 (objetos) / 3 (seres vivos)
+> - **Ingredientes**: sangue do alquimista, sangue humano fleumático (phlegmatic), gelo seco, fumaça de charuto ou escapamento de carro
+> - **Custo de ativação**: One Rouse Check
+> - **Duração**: Uma cena ou até ser encerrada voluntariamente
 >
 > - **System (Regras)**:
->   Objetos tratados com Perpetuus não se deterioram por Alchemy × dias — útil para preservar evidências, disfarces, e equipamento. Para seres vivos: um mortal tratado entra em estado de animação suspensa por Alchemy horas — sem necessidade de ar, não envelhece, não morre de ferimentos normais enquanto suspenso (ferimentos agravados persistem). Usado por Thin-Bloods para esconder aliados mortais ou fingir mortes.
+>   Na ativação, uma nuvem de vapor envolve o alquimista, mascarando seus traços e silhueta. Quem tentar identificá-lo ou acertá-lo com armas à distância sofre **−2 dados**. O usuário pode estender a nuvem a um grupo de até **cinco pessoas** com outro Rouse Check.
 
-## Thin-blood Alchemy - Nível 5
+### Profane Hieros Gamos
 
-### Insanguination
+Os textos alquímicos falam do Grande Hermafrodita, a união dos contrastes. Quem domina o aspecto mundano do Hieros Gamos usa a natureza fluida de sua condição para mudar de gênero. É um processo confuso, que exige dedicação e convicção, e uma ótima forma de mudar de identidade ou adotar uma nova máscara.
 
-A fórmula mais avançada: o alquimista cria uma versão sintética de Vitae Kindred genuína, completa com efeitos de Blood Bond e potencial de Abraço.
-
-> - **Custo**: Three Rouse Checks + Vitae de um Kindred específico (base)
-> - **Duração**: Varia (ver abaixo)
-> - **Dice Pools:** Intelligence + Alchemy Dificuldade 4
+> - **Ingredientes**: sangue do alquimista e sangue de cinco recipientes que se identifiquem plenamente com o gênero desejado
+> - **Duração**: Permanente, até ser realizada de novo
 >
 > - **System (Regras)**:
->   O alquimista processa Vitae de um Kindred doador em uma fórmula estável. O resultado pode:
->   - **Criar Blood Bond parcial**: mortal que beber desenvolve Vínculo como se bebesse do Kindred doador (até 3 doses = Vínculo completo)
->   - **Simular Abraço**: com 3 sucessos ou mais, a fórmula pode tentar Abraçar um mortal drenado — resulta em Thin-Blood de qualquer forma (nunca Kindred genuíno)
->   - **Fornecer Vitae**: outro Thin-Blood pode consumir como se fosse Vitae humana normal (reduz Fome 1)
->
->   Limitação crítica: a fórmula é instável — dura apenas Alchemy horas após criação. Além disso, o Kindred doador pode sentir (Auspex 2+) que seu sangue foi "usado" dessa forma.
+>   Após preparar a fórmula, o alquimista realiza autocastração e/ou mastectomia antes de cair no sono diurno. Ao despertar, encontra-se como um espécime perfeitamente formado do gênero desejado, como se tivesse nascido assim. Um procedimento modificado pode criar qualquer configuração de gênero ou ausência de gênero.
 
+## Fórmulas do Core — Nível 2
+
+*(Core pp. 285-286)*
+
+### Envelop
+
+Cria uma névoa que se agarra à vítima, cegando-a e, em mortais, causando sufocamento.
+
+> - **Ingredientes**: sangue do alquimista, sangue humano melancólico (melancholic) e fleumático, clorato de potássio, fumaça (smog) ou gás halon
+> - **Custo de ativação**: One Rouse Check
+> - **Dice Pools:** Wits + Alchemy vs. Stamina + Survival
+> - **Duração**: Até o fim da cena ou até o alquimista encerrar
+>
+> - **System (Regras)**:
+>   O alquimista escolhe um alvo à vista. Uma névoa turbilhonante o envolve e impõe **−3 dados** em toda pool de detecção visual e de ataque à distância. Além disso, o alquimista pode sufocar um mortal em contest Wits + Alchemy vs. Stamina + Survival: em vitória, o alvo só consegue tossir e engasgar; em vitória crítica, perde a consciência. Só afeta alvos individuais, um por vez.
+
+## Fórmulas do Core — Nível 3
+
+*(Core p. 286)*
+
+### Defractionate
+
+Um elixir homeopático que, adicionado a sangue fracionado de suprimento médico, o devolve à frescura, permitindo que vampiros **sem o Merit Iron Gullet** se nutram dele.
+
+> - **Ingredientes**: sangue do alquimista, sangue humano sanguíneo (sanguine) e melancólico, poucos ml de sangue humano O-negativo, espinafre mofado, café preto quente, octanoato de sódio
+>
+> - **System (Regras)**:
+>   O alquimista extrai o elixir do vaso (Calcinatio) ou da própria veia (Athanor Corporis), se não usar Fixatio. Cada sucesso no distillation roll rende elixir suficiente para transformar **uma bolsa de sangue** (sacia 1 Hunger) de fracionada em não fracionada, e qualquer vampiro pode consumi-la e saciar Hunger.
+>   **Athanor Corporis:** pode abrir a própria veia uma vez por noite para este elixir até a próxima alimentação ou Hunger 5, sem pagar a destilação de novo. **Calcinatio:** se o vaso sobreviver, pode ser tirado de novo em uma semana, sem nova destilação, mas o vaso paga **3 de dano Agravado** a cada vez.
+
+## Fórmulas do Core — Nível 4
+
+*(Core pp. 286-287)*
+
+### Airborne Momentum
+
+Permite ao alquimista se erguer do chão, alcançando voo veloz ou flutuação, em qualquer direção, com capacidade de carga limitada.
+
+> - **Ingredientes**: sangue do alquimista, sangue humano colérico e sanguíneo, champanhe, sangue de ave, hélio, extrato de escopolamina ou beladona
+> - **Custo de ativação**: One Rouse Check
+> - **Dice Pools:** Strength + Alchemy vs. Strength + Athletics (se resistido)
+> - **Duração**: Uma cena
+>
+> - **System (Regras)**:
+>   Só o alquimista voa ou flutua, aproximadamente em **velocidade de corrida**. Pode carregar massa de tamanho humano, mas a velocidade cai para ritmo de caminhada. Agarrar e carregar um sujeito que não quer, ou puxar o voador ao chão, exige um contest de Strength + Alchemy do alquimista vs. Strength + Athletics do outro.
+
+## Fórmulas do Core — Nível 5
+
+*(Core pp. 286-287)*
+
+### Awaken the Sleeper
+
+Um elixir que, adicionado a sangue humano, pode despertar um vampiro do torpor.
+
+> - **Ingredientes**: sangue do alquimista, sangue humano colérico ou sanguíneo, adrenalina, carbonato de amônio, hartshorn, cafeína ou benzedrina, melatonina
+>
+> - **System (Regras)**:
+>   O alquimista extrai o elixir do vaso (Calcinatio) ou da própria veia (Athanor Corporis), se não usar Fixatio, e o mistura a sangue humano. Para cada sucesso **acima de 2** no distillation roll, o elixir pode acordar um vampiro com aquela Blood Potency. *Exemplo (Core):* 5 sucessos acordam um vampiro torporoso de Blood Potency 3 ou menos (5 − 3 = 2).
+>   **Athanor Corporis:** uma vez por noite até a próxima alimentação ou Hunger 5, sem pagar a destilação de novo. **Calcinatio:** se o vaso sobreviver, nova extração em uma semana, sem nova destilação, ao custo de **5 de dano Agravado** ao vaso a cada vez. O alquimista também pode dar o sangue do vaso diretamente ao adormecido.
 
 ## Thin-blood Alchemy como Economia
 
-Uma das consequências mais interessantes da Thin-blood Alchemy é que thin-bloods podem vender fórmulas para vampiros de sangue puro. Um frasco de Fixatio vale muito para um vampiro que está prestes a entrar em situação de alto stress com Hunger 4. Um frasco de Sublimatio pode salvar uma operação de infiltração.
+Thin-bloods podem vender fórmulas, em especial as fixas (Fixatio), a vampiros de sangue puro: um frasco de Haze pode salvar uma operação de infiltração, e Defractionate vale muito para quem não tem o Merit Iron Gullet. Isso dá aos thin-bloods, normalmente os membros mais marginalizados da sociedade Kindred, uma fonte de relevância e poder econômico, embora não o bastante para compensar o tratamento que recebem. (Interpretação de mesa, não regra do livro.)
 
-Isso dá aos thin-bloods, normalmente os membros mais marginalizados da sociedade Kindred, uma fonte de poder econômico e relevância que outros não têm. Não é suficiente para compensar o tratamento que recebem — mas é suficiente para mantê-los vivos e úteis.
+## Fórmulas de Suplementos
 
+Material de suplemento; só vale se a crônica permitir. Resumo por nota (as regras completas estão nas notas ligadas).
 
----
-
-## Formulae Adicionais — Blood Sigils
-
-*Novas fórmulas de Thin-Blood Alchemy expandidas. Fonte: Blood Sigils.*
-
-### Nível 1
-**Body Paint** — A pele do thin-blood se torna uma superfície de exibição; pode exibir padrões ou cores vibrantes à vontade. Uso principal: sinalização, distração, ou expressão artística.
-
-**Checkout Time** — O thin-blood pode entrar em torpor voluntário extremamente leve por um período programado, acordando na hora desejada sem Rouse Check.
-
-**Elevate** — Aumenta temporariamente a velocidade de coagulação do vitae; cicatrização de dano superficial é duas vezes mais rápida por uma cena.
-
-**Food Stain** — O thin-blood pode mascarar o cheiro de sangue em seus fluidos corporais; vítimas de feeding e outros vampiros com Sense the Beast têm Dificuldade +1 para detectar.
-
-**Speak From the Heart** — O thin-blood pode transmitir emoções genuínas através de palavras simples; ouvintes mortais sentem que estão sendo completamente compreendidos (não é controle).
-
-### Nível 2
-**Advanced Torpor** — Ao entrar em torpor, o thin-blood pode se programar para acordar automaticamente sob uma condição específica (ex.: "quando alguém me tocar").
-
-**Blacklight Surprise** — O thin-blood pode emitir breve pulso de luz ultravioleta a partir de suas mãos; humanos e vampiros com olhos sensíveis fazem Stamina + Composure (Dificuldade 3) ou ficam cegos por um turno.
-
-**Blue State** — Induz relaxamento profundo em um alvo por contato; mortal ou Kindred toca o thin-blood e sente seus músculos se relaxarem. Não é Dominate — é química vampírica. Bônus situacional em negociações.
-
-### Nível 3
-**Diamond Skin** — Enrijece a pele temporariamente; reduz dano superficial de fontes físicas em 1 por uma cena (não se acumula com Fortitude).
-
-**Fireskin** — O thin-blood se torna imune a dano superficial de fogo por uma cena; dano agravado ainda se aplica normalmente.
-
-**Hospital Chains** — O thin-blood produz um sedativo vampírico que, quando ingerido ou injetado em um mortal, o mantém inconsciente por horas sem efeitos prejudiciais.
-
-**Martian Purity** — Purifica o sangue do thin-blood de quaisquer rastreadores, drogas, ou venenos vampíricos; também remove laços de sangue fracos (não laços completos).
-
-**Mask Off** — Revela a verdadeira forma vampírica de qualquer Kindred que use Obfuscate ou Mask of a Thousand Faces em cena; contestado por Wits + Stealth do alvo.
-
-**Troll the Pious** — Imita o efeito do Aura vampírica de forma controlável; o thin-blood pode aparecer como mortal, como vampiro de clã específico, ou como humano assustado à vontade por Auspex de outros.
-
-### Nível 4
-**Copycat** — Combina com Concoct Ashe para permitir copiar uma Disciplina observada recentemente com precisão técnica adicional.
-
-**Half-Living Conductor** — O thin-blood pode conduzir eletricidade sobrenatural através de seu corpo e redirecionar para outro alvo; funciona como Spark of Rage (Potence 3) por uma cena.
-
-**Red State** — Induz raiva e agressividade extremas em um alvo humano; mortal em Red State age como se em frenesi por uma cena (sem self-control, violento).
-
-**Vitae MSG** — Torna o sangue do thin-blood irresistivelmente delicioso; qualquer vampiro que o beba deve fazer Resolve + Composure (Dificuldade 3) para parar de beber voluntariamente.
-
-### Nível 5
-**Saturn's Flux** — Permite ao thin-blood manipular o tempo de envelhecimento de matéria orgânica; pode acelerar ou retardar decomposição/envelhecimento em objetos ou tecidos.
-
-**Distillation** — Extrai e concentra a essência de qualquer fórmula TBA; cria uma dose concentrada de potência dobrada.
-
-**Regurgitation** — Ao ser ferido, o thin-blood pode expelir vitae imbuído com fórmulas TBA ativas; funciona como uma grenade química vampírica com raio de 2m.
+| Fonte | Fórmulas | Nota |
+| --- | --- | --- |
+| Player's Guide | Nível 1: Mercurian Tongue, Plug-In. Nível 2: Friends List. Nível 3: Mandagloire, Rumor, Tank. Nível 4: Short Circuit, Toxic Personality. Nível 5: Flowering Amaranth, Moment of Clarity | [[Player's Guide — Blood Sorcery e Thin-Blood Alchemy]] |
+| Blood Sigils | Nível 1: Body Paint, Checkout Time, Elevate, Food Stain, Speak From the Heart. Nível 2: Advanced Torpor, Blacklight Surprise, Blue State. Nível 3: Diamond Skin, Fireskin, Hospital Chains, Martian Purity, Mask Off, TLC, Troll the Pious. Nível 4: Copycat, Half-Living Conductor, Red State, Vitae MSG. Nível 5: Saturn's Flux | [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]] |
+| Sabbat: The Black Hand | Nível 1: Portable Shade. Nível 3: On-Demand Sunburn | [[Sabbat — Rituais, Cerimônias e Alquimia]] |
 
 ### Formulae Ashfinder (Cults of the Blood Gods)
-**Concoct Ashe** *(Nível 3)* — Imbuir os restos de um vampiro destruído com memórias ou poderes; ao ser consumido como Ashe, o usuário entra em Memoriam do morto-vivo (Willpower vs. Dificuldade = 1 + Blood Potency do destruído).
 
-**Discipline Channeling** *(Nível 4, Pré-requisito: Concoct Ashe)* — Imbue restos com habilidades Discipline do vampiro destruído. Ao consumir, o usuário pode usar qualquer poder de Disciplina do morto-vivo mesmo acima de seu nível normal; custo de ativação igual ao poder canalizado.
+Os thin-bloods do culto Ashfinder usam a Alchemy para ingerir **Ashe** (restos de um vampiro destruído) e recuperar memórias e poderes. Concoct Ashe exige Thin-Blood Alchemy do método **Fixatio**; cada fórmula aplicada tem seu custo de destilação, e o tempo de destilação usa o maior nível entre as fórmulas modificadoras. Qualquer thin-blood pode usar Ashe, que concede benefícios ao ser ingerida, injetada ou exposta a um Rouse Check de vitae de Duskborn no corpo. *(Cults of the Blood Gods, pp. 44-46)*
+
+**Concoct Ashe** *(Nível 3)* — Imbui os restos com as **memórias** do vampiro que formavam. Ao ser consumida, a Ashe provoca um teste de Willpower com Difficulty **1 + Blood Potency do vampiro destruído**. Em vitória, o usuário entra imediatamente em uma Memoriam (Core p. 311), revivendo uma memória importante do passado do vampiro destruído; a cena é resolvida com as stats do próprio usuário, e meditar num lugar calmo ao consumir dá +1 dado em todas as pools durante a Memoriam.
+
+**Discipline Channeling** *(Nível 4, pré-requisito: Concoct Ashe)* — Imbui os restos com as **habilidades** do vampiro destruído. Ingrediente: folhas esmagadas de índigo. Custo de ativação e dice pools: os mesmos do poder canalizado. Ao ser consumida, a Ashe provoca um teste de Willpower com Difficulty igual à **maior classificação em Disciplina** do vampiro destruído. Em vitória, o thin-blood ganha o uso de **um poder de Disciplina** que o destruído possuía, **até o fim do capítulo**, usando o rating de Disciplina do destruído quando necessário; em vitória crítica, ganha **dois poderes**. O Narrador pode listar as Disciplinas e poderes do morto, e tem a palavra final.
+
 ---
 
-*Ver também:* [[Mecânicas/Clãs]] · [[Mecânicas/Gerações e Potência]] · [[Mecânicas/Character]] · [[Mecânicas/Fome]] · [[Mecânicas/XP]]
+*Ver também:* [[Clãs]] · [[Gerações e Potência]] · [[Character]] · [[Fome]] · [[XP]] · [[Sangue Fraco]] · [[Resonance]] · [[Player's Guide — Blood Sorcery e Thin-Blood Alchemy]] · [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]] · [[Blood Sigils - Rituais de Blood Sorcery]] · [[Poderes do Companion]] · [[Errata do Companion]] · [[Player's Guide — Poderes de Disciplina]] · [[Sabbat — Poderes de Disciplina]] · [[Player's Guide — Oblivion e Cerimônias]]

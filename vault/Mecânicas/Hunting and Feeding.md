@@ -12,6 +12,7 @@
 - [[#Predator Pools|Predator Pools]]
 - [[#Hunting Grounds|Hunting Grounds]]
   - [[#Possíveis Modificadores que influenciam na Dificuldade da caça|Possíveis Modificadores que influenciam na Dificuldade da caça]]
+- [[#Suplementos (opcional)|Suplementos (opcional)]]
 
 ---
 # Introdução: Hunting and Feeding 
@@ -129,4 +130,14 @@ Dependendo da área e circunstância, vampiros talvez precisem caçar em grupo o
 Da mesma forma, Narradores **podem aumentar as dificuldades de caça para vampiros particularmente desumanos** (como Nosferatu, alguns Gangrel ou aqueles com níveis de Humanidade 4 ou abaixo), já estes monstros têm dificuldade em se misturar com uma multidão.
 ---
 
-*Ver também:* [[Mecânicas/Fome]] · [[Mecânicas/Resonance]] · [[Mecânicas/Dyscrasias]] · [[Mecânicas/Predator Type]] · [[Mecânicas/Sangue Fraco]]
+## Suplementos (opcional)
+
+Material de suplemento, só vale se a crônica permitir:
+
+- **Alimentar-se de animais:** a fórmula **TLC** (Thin-Blood Alchemy, Blood Sigils) faz o sangue de animais vivos servir como sangue mortal. Ver [[Blood Sigils - Fórmulas de Thin-Blood Alchemy#TLC|TLC]].
+- **Ler a Resonance sem provar o sangue:** o poder **Reveal Temperament** (Auspex 2, Player's Guide) revela a Resonance e as Dyscrasias de um mortal. Ver [[Player's Guide — Poderes de Disciplina#Reveal Temperament (Nível 2)|Reveal Temperament]].
+- **Resonance como recurso:** o **Gorgon's Scales** (Fortitude 4, Player's Guide) consome a Resonance do sangue mais recente. Ver [[Player's Guide — Poderes de Disciplina#Gorgon's Scales (Nível 4)|Gorgon's Scales]].
+
+---
+
+*Ver também:* [[Mecânicas/Fome]] · [[Mecânicas/Resonance]] · [[Mecânicas/Dyscrasias]] · [[Mecânicas/Predator Type]] · [[Mecânicas/Sangue Fraco]] · [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]] · [[Player's Guide — Poderes de Disciplina]]

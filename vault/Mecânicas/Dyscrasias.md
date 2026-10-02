@@ -8,6 +8,7 @@
 - [[#Intensificando Resonance|Intensificando Resonance]]
   - [[#Criando Dyscrasias|Criando Dyscrasias]]
 - [[#Características e Uso de Dyscrasias|Características e Uso de Dyscrasias]]
+- [[#Suplementos (opcional)|Suplementos (opcional)]]
 
 ---
 # Dyscrasias: Exploração e Manipulação
@@ -52,3 +53,15 @@ Algumas Dyscrasias podem durar anos ou até a vida inteira do mortal, enquanto o
 ***Cabe ao Narrador determinar se a Dyscrasia pode ser explorada mais de uma vez ou se desaparece após o primeiro uso.***
 
 Para uma lista completa dos tipos de Dyscrasias e seus efeitos específicos, consulte a **página 230** do [[Vampire the Masquerade.pdf|livro base]].
+
+---
+## Suplementos (opcional)
+
+Material de suplemento, só vale se a crônica permitir:
+
+- A fórmula **Red State** (Thin-Blood Alchemy, Blood Sigils, nível 4) dura até o alvo ingerir uma **Dyscrasia choleric**. Ver [[Blood Sigils - Fórmulas de Thin-Blood Alchemy#Red State|Red State]].
+- **Reveal Temperament** (Auspex 2, Player's Guide) revela as Dyscrasias de um mortal. Ver [[Player's Guide — Poderes de Disciplina#Reveal Temperament (Nível 2)|Reveal Temperament]].
+
+---
+
+*Ver também:* [[Mecânicas/Resonance]] · [[Mecânicas/Hunting and Feeding]] · [[Mecânicas/Fome]] · [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]] · [[Player's Guide — Poderes de Disciplina]]

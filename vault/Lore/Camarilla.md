@@ -122,6 +122,9 @@ A Camarilla no Rio em 2019 é um campo fértil para explorar intrigas políticas
 ### A Torre de Marfim Redefinida
 
 A Camarilla do VTM 5e �
+
+Regras do suplemento *Camarilla* na vault (só valem se a crônica permitir): [[Camarilla - Loresheets]] (Loresheets da seita) e [[Camarilla - Banu Haqim]] (Bane, Compulsão e rituais do clã Banu Haqim na Camarilla).
+
 ---
 
-*Ver também:* [[Lore/Kindred]] · [[Lore/Anarquistas]] · [[Lore/Sabbat]] · [[Lore/Segunda Inquisição]] · [[Mecânicas/Clãs]] · [[Lore/Chicago]] · [[Lore/Londres]]
+*Ver também:* [[Lore/Kindred]] · [[Lore/Anarquistas]] · [[Lore/Sabbat]] · [[Lore/Segunda Inquisição]] · [[Mecânicas/Clãs]] · [[Lore/Chicago]] · [[Lore/Londres]] · [[Camarilla - Loresheets]] · [[Camarilla - Banu Haqim]]

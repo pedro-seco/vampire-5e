@@ -15,6 +15,7 @@
   - [[#Como Funciona|Como Funciona]]
   - [[#Nível de Thin-Blood Alchemy|Nível de Thin-Blood Alchemy]]
   - [[#Exemplos de Formulae|Exemplos de Formulae]]
+- [[#Regras Relacionadas|Regras Relacionadas]]
 - [[#Vantagens e Desvantagens Exclusivas|Vantagens e Desvantagens Exclusivas]]
   - [[#Merits|Merits]]
   - [[#Flaws|Flaws]]
@@ -43,76 +44,99 @@ Thin-Bloods emergem de [[Lore/Abraço|Abraços]] acidentais, descuidados, ou de 
 
 ## Como Diferem dos Kindred Normais
 
+Fonte das regras desta seção: Core, pp. 109–112 (thin-bloods) e p. 215 (Blood Potency 0).
+
 ### O Que Têm em Comum
-- Bebem sangue e precisam de Vitae
-- Dormem durante o dia (embora menos profundamente)
-- Podem ser destruídos por estaca, fogo, luz solar
-- Estão sujeitos à [[Mecânicas/Fome|Fome]] — mas com intensidade reduzida
-- Não envelhecem após o Abraço
+- Bebem sangue e precisam de Vitae; sofrem de [[Mecânicas/Fome|Fome]] como qualquer vampiro (Core, p. 112)
+- Curam-se como vampiros depois de feridos
+- Sofrem dano da luz do sol (de forma reduzida, ver abaixo) e podem ir a torpor
 
 ### O Que é Diferente
 
 | Traço | Kindred Normal | Thin-Blood |
 |-------|---------------|------------|
-| Blood Potency | 1–10 | 0 (fixo) |
-| Disciplinas de clã | Sim | Não — sem clã definido |
-| Bane de clã | Sim | Reduzido ou ausente |
-| Compulsão | Sim | Reduzida ou ausente |
-| Resistência ao sol | Padrão | Variável — alguns toleram luz solar indireta |
+| Blood Potency | 1–10 | 0 (só sobe se cometer diablerie até a 13ª geração ou menor) |
+| Clã | Sim | Sempre sem clã |
+| Disciplinas | Escolhidas na criação | Nenhum dot inicial; ganha uma Disciplina temporária conforme a Resonance do sangue bebido (ver abaixo) |
+| Bane e Compulsão de clã | Sim | Nenhum (Bane Severity 0), a não ser pelo Flaw Clan Curse |
+| Frenesi | Normal | Só por meios sobrenaturais (ex.: Animalism), a não ser pelo Flaw Bestial Temper |
+| Dano | Como vampiro | Sofre dano como mortal, mas se cura como vampiro: dano Agravado também de armas cortantes e perfurantes; estaca não paralisa, causa trauma massivo |
+| Sol | Dano Agravado igual à Bane Severity por turno | 1 nível de dano Superficial por turno sob luz direta; menos frequente sob luz indireta, nuvens ou proteção |
+| Aparência | Cadavérica | Conta como se tivesse usado Blush of Life (efeito depende da Humanity) |
+| Blood Bond / Abraço / ghouls | Sim | Não cria Blood Bonds, não realiza o Abraço com certeza nem cria ghouls (a não ser pelo Merit Catenating Blood) |
 | Alimentação | Vitae humana | Vitae humana + Thin-Blood Alchemy |
-| Reprodução | Não pode | Pode, raramente, gerar crianças mortais |
 
-A **Blood Potency 0** é a definição mecânica do Thin-Blood. Não importa quanto Vitae eles consumam: não sobe. O sangue não tem força para sustentar o padrão normal de poder Kindred.
+A **Blood Potency 0** é a definição mecânica do Thin-Blood. Ela também impõe: sofre dano como mortal, cura Superficial mortal com um ponto por Rouse Check, só entra em frenesi por meios sobrenaturais e leva apenas um ponto de dano Superficial por turno ao sol (Core, p. 215).
+
+**Disciplinas temporárias.** Sempre que um thin-blood se alimenta, ganha 1 dot em uma Disciplina associada à [[Resonance]] do sangue consumido, mais um poder de nível 1 dela. Se a Resonance for Intense ou mais forte, ganha um dot adicional e um segundo poder. Não é possível obter outros poderes assim nem aumentar esse rating com XP, e a Disciplina dura até a Hunger chegar a 5 ou a próxima alimentação (Core, p. 112).
 
 ---
 
 ## Thin-Blood Alchemy
 
-A única Disciplina exclusiva dos Duskborn. Em vez de manifestar poderes sobrenaturais do próprio sangue, o Thin-Blood aprende a **manipular o sangue de outros** — criando elixires, reagentes e compostos com efeitos que imitam ou subvertem Disciplinas comuns.
+A Disciplina dos Duskborn (Core, pp. 282–284). Misturando sangue humano de forte **Resonance** (e às vezes outras substâncias) com a própria vitae, o alquimista **falsifica poderes de outras Disciplines**, além de alguns poderes próprios. Pode imitar poderes de Blood Sorcery que afetam o sangue do conjurador, mas **não Rituais**. O Narrador pode vetar qualquer poder por equilíbrio ou plausibilidade.
 
 ### Como Funciona
-O alquimista extrai Vitae de si mesmo ou de outro vampiro, a processa (aquecendo, combinando com reagentes, expondo a condições específicas), e cria uma poção consumível. Qualquer pessoa — mortal, Kindred, ou Thin-Blood — pode beber o resultado.
+- Toda fórmula exige a **vitae do alquimista** e sangue humano da **Resonance** correta; o **custo de destilar** é 1 Rouse Check, e o **custo de ativar** é o do poder imitado.
+- Depois de ativada, o alquimista faz uma **distillation roll**: 2 sucessos = poder fraco, falho ou tardio; 4 = funciona como pretendido; 6 = efeito ampliado. A pool depende do método.
+- Cada dot em Thin-Blood Alchemy dá **uma fórmula gratuita**; fórmulas extras são compradas com XP (nível da fórmula × 3, ver [[XP]]).
+- O Narrador ajusta a pool em 1 ou 2 dados conforme a qualidade e a originalidade dos ingredientes.
 
-### Nível de Thin-Blood Alchemy
+### Métodos de destilação
+O alquimista escolhe **um método** ao receber o primeiro dot; aprender outro é recomeçar do zero, e cada fórmula precisa ser aprendida por método.
 
-| Nível | Acesso |
-|-------|--------|
-| ● | Formulae de Resonance Sanguine/Choleric simples |
-| ●● | Formulae equivalentes a poderes de nível 1–2 |
-| ●●● | Formulae complexas, efeitos persistentes, combinações |
-| ●●●● | Simulação de poderes de Disciplinas de nível 3–4 |
-| ●●●●● | Formulae raras, efeitos únicos, possivelmente permanentes |
+| Método | Pool de distillation | Resumo |
+|--------|---------------------|--------|
+| Athanor Corporis | Stamina + Alchemy, com Rouse Check | O próprio corpo é o forno; só um poder ativo por vez, e destilar leva ao menos 3 turnos |
+| Calcinatio | Manipulation + Alchemy | Um humano é o athanor; o alquimista bebe o sangue dele para usar o poder |
+| Fixatio | Intelligence + Alchemy | Elixires fixos feitos em laboratório e carregados em frascos |
 
-### Exemplos de Formulae
-- **Aerosolize** — converte a fórmula em névoa inalável; afeta todos em área
-- **Envelop** — aplica o efeito por contato de pele
-- **Lure of Flames** — imita efeitos de velocidade via Choleric Resonance
-- **Scorpion's Touch** — paralisia via Melancholic Resonance
-- **Calming Drought** — suprime Frenesi temporariamente via Phlegmatic Resonance
+### Fórmulas
+O Core traz fórmulas de nível 1 a 5 (por exemplo Far Reach e Haze no nível 1); a lista completa está no Core, a partir da p. 284. As fórmulas e regras extras do Blood Sigils estão em [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]] e [[Blood Sigils - Criação de Rituais, Fórmulas e Efeitos Colaterais]]. Ver também [[Mecânicas/Advantages#Thin-Blood Alchemy|Thin-Blood Alchemy em Advantages]] e [[Player's Guide — Blood Sorcery e Thin-Blood Alchemy]].
 
-Ver [[Mecânicas/Advantages#Thin-Blood Alchemy|Thin-Blood Alchemy em Advantages]] para regras completas.
+> Esta nota listava antes "Aerosolize", "Lure of Flames", "Scorpion's Touch" e "Calming Drought" como fórmulas, e uma tabela de acesso por nível ("Resonance Sanguine/Choleric simples", "efeitos permanentes") que não consta no Core nem foi encontrada nos suplementos consultados, por isso foram removidas.
+
+---
+
+## Regras Relacionadas
+
+Material de suplemento (só vale se a crônica permitir):
+- [[Player's Guide — Castoffs]]: Merits e Flaws extras de thin-blood (Abhorrent Blood, Heliophobia, Plague Bearer etc.), Alchemy ao custo in-clan para qualquer thin-blood, organizações e relação com as seitas.
+- [[Player's Guide — Criação Rápida e Referências de Personagem]]: idade, geração e XP na criação.
+- [[Anarch - Ministry e Cura de Thin-Bloods]]: conselhos do Anarch sobre "curas" de thin-blood.
+- [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]]: 20 fórmulas novas.
+- [[Errata do Companion]]: regras opcionais de Blood Surge +1 e Bane Severity +1, que também alteram o Blood Potency 0 (ver [[Gerações e Potência]]).
+- [[Player's Guide — Blood Sorcery e Thin-Blood Alchemy]] e [[Sabbat — Rituais, Cerimônias e Alquimia]]: mais regras de Alchemy.
 
 ---
 
 ## Vantagens e Desvantagens Exclusivas
 
+Segundo o Core (pp. 182–184), Merits e Flaws de thin-blood **não têm valor em dots**: cada Flaw equilibra um Merit e vice-versa, e **não contam** no máximo de dots de Advantages e Flaws. Na criação, o thin-blood escolhe **de um a três Merits e o mesmo número de Flaws** antes das Advantages comuns.
+
 ### Merits
 
-**Daywalker (●● a ●●●●●)** — O mais cobiçado. Alguns Thin-Bloods toleram luz solar parcial (●●) ou plena (●●●●●). Reduz o dano por exposição. Raro e perigoso de revelar — todo Ancião com um plano precisando de agente diurno vai querer esse Thin-Blood.
-
-**Lifelike (● a ●●●)** — Pulso detectável, temperatura quase normal. Facilita interação mortal e a Máscara.
-
-**Fangs (●)** — Alguns Thin-Bloods não desenvolvem presas automaticamente. Este Merit concede o par funcional.
-
-**Mortals' Frailty (●●)** — O Thin-Blood ainda sangra e cicatriza lentamente. Parece mortal. Útil para a Máscara.
+- **Anarch Comrades** — Amigos de uma coterie Anarch que o tolera; agem como um Anarch Mawla de um dot enquanto você seguir a linha do grupo.
+- **Camarilla Contact** — Um recrutador da Camarilla promete admissão; age como um Camarilla Mawla de um dot que o trata mal, em troca de relatórios e tarefas.
+- **Catenating Blood** — Pode criar Blood Bonds e realizar o Abraço como um vampiro comum (o criado será thin-blood).
+- **Day Drinker** — O sol reduz a Health à metade (arredondado para cima) e remove os poderes vampíricos, mas não causa outro dano.
+- **Discipline Affinity** — Um dot permanente em uma Disciplina escolhida; pode aprender mais com XP ao custo de Disciplina fora de clã.
+- **Lifelike** — Tem batimento cardíaco, come e tem relações como um mortal; só inspeções médicas muito avançadas, à noite, notam algo.
+- **Thin-blood Alchemist** — Um dot e uma fórmula de Thin-Blood Alchemy.
+- **Vampiric Resilience** — Sofre dano como vampiro comum (perfurante e cortante como Superficial).
 
 ### Flaws
 
-**Clan Curse (● a ●●●)** — O Thin-Blood manifesta o Bane de um clã sem as Disciplinas correspondentes.
+- **Baby Teeth** — Sem presas úteis; precisa cortar a vítima ou usar seringa.
+- **Bestial Temper** — Besta como a de um vampiro pleno; testa frenesi normalmente.
+- **Branded by the Camarilla** — Marca que não cicatriza; a Camarilla fica de olho em você.
+- **Clan Curse** — Escolha um Bane de clã, com Bane Severity 1 (Brujah e Gangrel só com Bestial Temper; Tremere só com Catenating Blood).
+- **Dead Flesh** — Carne em putrefação; qualquer inspeção médica o identifica como morto e há penalidade de 1 dado em testes sociais cara a cara com mortais. Incompatível com Lifelike.
+- **Mortal Frailty** — Não pode Rousear o Sangue para se curar; cura como mortal. Incompatível com Vampiric Resilience.
+- **Shunned by the Anarchs** — Os Anarchs da região o rejeitam. Incompatível com Anarch Comrades.
+- **Vitae Dependency** — Sem sangue vampírico suficiente para saciar 1 Hunger por semana, perde as Disciplinas (inclusive Alchemy) até saciar de novo.
 
-**Dead Flesh (●●)** — O corpo não parece vivo. −2 dados em interações com mortais que possam notar.
-
-**Vitae Dependency (●●)** — Sangue armazenado não funciona; precisa de Vitae fresca.
+> As entradas anteriores desta nota (Daywalker, Fangs, Mortals' Frailty, "Dead Flesh −2 dados", "Vitae Dependency: sangue armazenado não funciona") não correspondem ao Core e foram substituídas pelo texto acima. Fonte: Core, pp. 182–184.
 
 ---
 
@@ -144,6 +168,9 @@ Como **elemento de cenário**: cada Thin-Blood é um sinal. Sua proliferação i
 
 ## Loresheet: Duskborn
 
+> [!warning] Não confirmada
+> Esta Loresheet não foi encontrada no Core nem nos suplementos de `vault/bibliografia/`. Trate como material da casa, a ser aprovado pelo Narrador.
+
 | Nível | Benefício |
 |-------|-----------|
 | ● | Rede de aviso informal. Uma vez por história: receba alerta sobre caçada a Kindred na cidade. |
@@ -156,4 +183,4 @@ Como **elemento de cenário**: cada Thin-Blood é um sinal. Sua proliferação i
 
 ## Ver Também
 
-[[Lore/Kindred]] · [[Mecânicas/Gerações e Potência]] · [[Lore/Abraço]] · [[Lore/Beckoning]] · [[Lore/Book of Nod#Gehenna os Sinais|Gehenna]] · [[Lore/Anarquistas]] · [[Lore/Camarilla]]
+[[Lore/Kindred]] · [[Clãs]] · [[XP]] · [[Predator Type]] · [[Player's Guide — Castoffs]] · [[Anarch - Ministry e Cura de Thin-Bloods]] · [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]] · [[Mecânicas/Gerações e Potência]] · [[Lore/Abraço]] · [[Lore/Beckoning]] · [[Lore/Book of Nod#Gehenna os Sinais|Gehenna]] · [[Lore/Anarquistas]] · [[Lore/Camarilla]]

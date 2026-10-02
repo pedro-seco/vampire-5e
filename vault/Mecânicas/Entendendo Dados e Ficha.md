@@ -256,6 +256,7 @@ Um **Messy Critical** ocorre quando um [[#Sucesso Críticos|sucesso crítico (pa
 Nesse caso, é como se a **Besta** tivesse alcançado o crítico, e não o próprio personagem.
 
 - **Consequência**: As consequências de um Messy Critical dependem de vários fatores, como por exemplo **[[Fome#A Besta Messy Critical|as circunstâncias em que ele ocorre]].**
+- **Regra opcional (Companion):** o Companion permite que um Messy Critical também gere uma **Compulsion**, como já ocorre nos Bestial Failures. Ver [[Errata do Companion#Compulsões a partir de Messy Criticals|Errata do Companion]] (só vale se a crônica usar o Companion).
 
 > **Para constituir um Messy Critical, o teste deve ser um *sucesso***
 > - Logo(o número de sucessos deve ser suficiente para superar a Dificuldade determinada, ou superar o oponente). 
@@ -345,4 +346,4 @@ Uma mecânica FUNDAMENTAL do Vampiro é utilizar seu [[Character#Willpower|Willp
 4. Clique em Roll, e reze.
 ---
 
-*Ver também:* [[Mecânicas/Regras Fundamentais]] · [[Mecânicas/Character]] · [[Mecânicas/Skills]] · [[Mecânicas/Exemplos de Testes]]
+*Ver também:* [[Mecânicas/Regras Fundamentais]] · [[Mecânicas/Character]] · [[Mecânicas/Skills]] · [[Mecânicas/Exemplos de Testes]] · [[Errata do Companion]]

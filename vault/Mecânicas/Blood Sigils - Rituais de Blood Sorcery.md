@@ -106,7 +106,7 @@ Ritual koldunico: o elemento retarda ou atrapalha um alvo (lama pegajosa, desliz
 
 ### Silentia Mortis
 Desenvolvido pelos Banu Haqim para assassinos sem Silence of Death (Obfuscate 1). Encanta um talismã (em geral a pata de um gato ou outro predador silencioso do deserto) que cria um "ruído branco" que silencia sons dentro do raio. Sons de fora ainda entram, abafados.
-- **Ingredientes:** pata de gato/predador silencioso do deserto; sangue do conjurador (e do portador, se diferente); vela de cera de cadáver (ver [[Blood Sigils - Artefatos, Tomos e Mistérios#Corpse-Wax Candles|Corpse-Wax Candles]]); uma rosa branca.
+- **Ingredientes:** pata de gato/predador silencioso do deserto; sangue do conjurador (e do portador, se diferente); vela de cera de cadáver (ver Corpse-Wax Candles); uma rosa branca.
 - **Processo:** sussurra as palavras, corta a palma, aperta a pata no punho encharcando-a com um Rouse Check de sangue. Se o portador for outro, ele também corta a palma, segura a pata, faz o **próprio Rouse Check** e permanece em silêncio total. Queima a rosa na vela e apaga a chama com a pata ensanguentada.
 - **Sistema:** em *win*, cria **6 metros de raio** de silêncio mágico em torno do portador quando ele ativa o talismã com um **segundo Rouse Check**. O talismã precisa tocar a carne do portador. Acaba quando ele perde o talismã ou após **1 hora**, e o talismã se desfaz. *Critical win:* raio de **12 metros**.
 
@@ -116,7 +116,7 @@ Desenvolvido pelos Banu Haqim para assassinos sem Silence of Death (Obfuscate 1)
 Prepara um **lugar de poder** (como um furcus), aumenta seu potencial e o **sintoniza (attunes)** ao vampiro. Componente comum em muitos Chained Rituals. Ninguém achou meio de sintonizar um lugar *permanentemente*.
 - **Ingredientes:** um lugar de poder (ex.: furcus); pó de metal precioso (qual depende da valência mágica do local).
 - **Processo:** mistura um Rouse Check de sangue ao pó de metal; no local, grita louvores a Tiamat espalhando a mistura no ar e no chão por **pelo menos 15 minutos**.
-- **Sistema:** em *win*, "prepara" o lugar de poder para rituais realizados ali por um número de **noites igual aos sucessos** do teste. *(Texto cortado: o benefício exato por ritual foi extraído só parcialmente.)* Sintonizar é o que **libera o bônus de dados do furcus** (ver [[Blood Sigils - A Cena Blood Craft#Furcae (lugares de poder)|Furcae]]).
+- **Sistema:** em *win*, "prepara" o lugar de poder para rituais realizados ali por um número de **noites igual aos sucessos** do teste. *(Texto cortado: o benefício exato por ritual foi extraído só parcialmente.)* Sintonizar é o que **libera o bônus de dados do furcus** (ver Furcae).
 - **Regra opcional "Open Veins, Rich Magic" (p. 162):** em crônicas de magia mais rica, os conjuradores recebem o bônus do furcus **sem** sintonia; nesse caso Tiamat Glistens dá **1 sucesso automático** em Ritual rolls em *win* e **2 sucessos automáticos** em *critical win*.
 
 *Fonte: Blood Sigils, pp. 64-65 (arquivo:linhas 921-923; 2159, 2168).*
@@ -169,7 +169,7 @@ Harmoniza o Blood do sorcerer com o de Tiamat para achar as veins of the earth.
 *Fonte: Blood Sigils, p. 68.*
 
 ### Soul of the Hemonculus
-Forma uma versão encolhida, comprometida e de um quarto do peso do conjurador mortal (ver [[Blood Sigils - Antagonistas e Criaturas#Hemonculus|Hemonculus]]). Obedece a qualquer comando do criador; não é ferido pelo sol.
+Forma uma versão encolhida, comprometida e de um quarto do peso do conjurador mortal (ver Hemonculus). Obedece a qualquer comando do criador; não é ferido pelo sol.
 - **Ingredientes:** garrafa de vidro soprada na noite antes da lua nova; sêmen; giz; terra de cemitério; Blood do conjurador; polegar de um morto; um porco morto.
 - **Processo:** põe o Blood e os ingredientes na garrafa, veda com o polegar, agita, deixa no escuro total até a lua cheia; banha a garrafa na luz da lua recitando um cântico; costura-a no estômago do porco; enterra o porco em solo consagrado a **pelo menos 3 pés (≈90 cm)**; faz o Ritual roll. Na lua nova seguinte desenterra o porco, que parece uma versão em miniatura do conjurador.
 - **Sistema:** o Ritual roll é contra **o maior entre 3 e a Stamina do usuário** (a carne resiste). Em *win*, o hemonculus desperta e nasce em **um mês**. Tem Atributos e Skills mortais do criador **um ponto a menos cada (mínimo 1)**, **metade da Health** do criador e **1 ponto de Willpower**. Não pode virar ghoul, ser Abraçado ou receber Blood Bond; quem se alimenta dele não recebe nutrição e acha repulsivo.
@@ -245,7 +245,7 @@ Rituais que, encadeados, geram um efeito maior do que um ritual de Nível 5 comu
 - Uma cadeia tem **pelo menos três Rituais de qualquer nível**, com **um ritual de Nível 5 como linchpin** (peça central). Cada componente, inclusive o linchpin, tem seu efeito individual.
 - Quando os conjuradores lançam **todos** os rituais da cadeia a até **10 metros** um do outro, o **efeito encadeado do linchpin** é ativado **no lugar** dos efeitos individuais.
 - **Todos os rituais precisam ter sucesso**: uma única falha quebra a cadeia.
-- Um **mystic** (ver [[Blood Sigils - Antagonistas e Criaturas#Mystic|Mystic]]) com Blood Sorcery 2+ dá **+1** ao teste de casting de quem lança o Chained Ritual com ele (+3 se o mystic conhece o ritual); uma vez por cena, sem acumular com outros mystics.
+- Um **mystic** (ver Mystic) com Blood Sorcery 2+ dá **+1** ao teste de casting de quem lança o Chained Ritual com ele (+3 se o mystic conhece o ritual); uma vez por cena, sem acumular com outros mystics.
 - Exemplo: o efeito em cadeia do linchpin **Fisher King** (ver abaixo).
 
 *Fonte: Blood Sigils, p. 71.*
@@ -280,7 +280,7 @@ O .txt perdeu páginas inteiras destes rituais (aparecem só no índice): **Bind
 - [[Disciplinas#Blood Sorcery|Disciplinas — Blood Sorcery]] (poderes e rituais do Core)
 - [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]]
 - [[Blood Sigils - Criação de Rituais, Fórmulas e Efeitos Colaterais]]
-- [[Blood Sigils - A Cena Blood Craft]] (furcae, veins of the earth)
-- [[Blood Sigils - Artefatos, Tomos e Mistérios]]
-- [[Blood Sigils - Antagonistas e Criaturas]]
+- Blood Sigils - A Cena Blood Craft (furcae, veins of the earth)
+- Blood Sigils - Artefatos, Tomos e Mistérios
+- Blood Sigils - Antagonistas e Criaturas
 - [[Fome]] · [[Humanidade]] · [[Frenzy]] · [[Resonance]] · [[XP]] · [[Loresheets]]

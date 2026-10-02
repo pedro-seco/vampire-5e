@@ -83,4 +83,4 @@ A declaração de princípios do Estado Livre Anarquista — ver [[Lore/Book of 
 
 ## Ver Também
 
-[[Lore/Camarilla]] · [[Lore/Sabbat]] · [[Lore/Kindred]] · [[Lore/Segunda Inquisição]] · [[Lore/Beckoning]] · [[Mecânicas/Humanidade]] · [[Narração/Coteries]]
+[[Lore/Camarilla]] · [[Lore/Sabbat]] · [[Lore/Kindred]] · [[Lore/Segunda Inquisição]] · [[Lore/Beckoning]] · [[Mecânicas/Humanidade]] · [[Narração/Coteries]] · [[Anarch - Loresheets]] · [[Anarch - Ministry e Cura de Thin-Bloods]]

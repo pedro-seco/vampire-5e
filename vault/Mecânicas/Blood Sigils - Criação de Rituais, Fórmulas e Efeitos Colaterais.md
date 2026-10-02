@@ -64,7 +64,7 @@ Processo de **quatro passos**: objetivo, ingredientes e processo, sistema, valor
 - **Duração:** a maioria dura **uma cena**; mais que isso exige ritual muito poderoso ou **âncora física**.
 - **Outras Disciplines:** o ritual pode **reduzir** o efeito de um poder, mas **nunca anular/desligar** o poder.
 
-**Passo 4 — Dot Value.** Define o custo em XP e o valor de mercado (ver [[Blood Sigils - A Cena Blood Craft#Valor e Moeda|Valor e Moeda]]). Use o critério mais relevante ao objetivo; os critérios são gerais, não universais (um ritual de Nível 5 pode e deve ser sutil, mas um "tornado de sangue verde brilhante" provavelmente é Nível 5). *(p. 84)*
+**Passo 4 — Dot Value.** Define o custo em XP e o valor de mercado (ver Valor e Moeda). Use o critério mais relevante ao objetivo; os critérios são gerais, não universais (um ritual de Nível 5 pode e deve ser sutil, mas um "tornado de sangue verde brilhante" provavelmente é Nível 5). *(p. 84)*
 
 ### Tabela de Dot Value de Rituais
 

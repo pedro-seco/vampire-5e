@@ -24,6 +24,8 @@ No entanto, ainda existem alguns meios que infligem danos genuínos a um vampiro
 
 A luz do sol queima os mortos-vivos, incinerando seu Sangue e carne profanos sob o olhar dos céus. Um vampiro exposto à luz solar direta sofre **Dano Agravado à Saúde** à taxa de sua **Bane Severity** em pontos por turno.
 
+>**Suplemento (Blood Sigils):** a fórmula de Thin-Blood Alchemy **Blacklight Surprise** dá a uma fonte de luz UV o efeito do sol: 1 ponto de dano Agravado por turno de exposição e frenesi de medo como a luz solar. Só vale se a crônica permitir. Ver [[Blood Sigils - Fórmulas de Thin-Blood Alchemy#Blacklight Surprise|Blacklight Surprise]].
+
 
 ---
 ## Fogo
@@ -188,4 +190,4 @@ Mecanicamente, [[Dano#Regras Gerais de Aplicação de Dano|toda a barra de Saúd
 Qualquer [[Dano#Aggravated Damage|dano Agravado]] adicional de fogo ou luz solar sofrido neste estado causa a Morte Final, assim como a decapitação ou destruição total de seu corpo.
 ---
 
-*Ver também:* [[Mecânicas/Fome]] · [[Mecânicas/Hunting and Feeding]] · [[Lore/Segunda Inquisição]] · [[Mecânicas/Sangue Fraco]] · [[Mecânicas/Diablerie, Blood Bond, Ghouls]]
+*Ver também:* [[Mecânicas/Fome]] · [[Mecânicas/Hunting and Feeding]] · [[Lore/Segunda Inquisição]] · [[Mecânicas/Sangue Fraco]] · [[Mecânicas/Diablerie, Blood Bond, Ghouls]] · [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]]

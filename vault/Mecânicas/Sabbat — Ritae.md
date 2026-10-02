@@ -129,7 +129,7 @@ Complete a partir do PDF antes de usar como referência definitiva.
 
 - [[Sabbat — Paths of Enlightenment]]
 - [[Sabbat — Rituais, Cerimônias e Alquimia]] — rituais com Ritual roll
-- [[Sabbat — Antagonistas]]
+- Sabbat — Antagonistas
 - [[Diablerie, Blood Bond, Ghouls]] — Monomacy e Wild Hunt terminam em diablerie
 - [[Predator Type]] · [[Hunting and Feeding]] — Hunting Ritae
 - [[Lore/Sabbat]]

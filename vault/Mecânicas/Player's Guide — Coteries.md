@@ -240,4 +240,4 @@ Fonte: Player's Guide, pp. 192–193 (Coterie Sheet, p. 239).
 - [[Player's Guide — Backgrounds, Merits e Flaws]]
 - [[Advantages]]
 - [[Regras Fundamentais]]
-- [[Coteries]]
+- Coteries

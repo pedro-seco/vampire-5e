@@ -89,6 +89,7 @@ O Narrador pode "pegar metade" (take half) nas rolagens de NPC's durante disputa
 
 - **Pegar metade**: Conte o número de dados na pool do oponente do SPC (normalmente o player), divida pela metade (arredondando para baixo), e esse será o número de sucessos obtidos. 
   Faça agora o player rolar a dice pool.
+- **Regra opcional (Companion):** o Companion amplia o Take Half para os jogadores (contar metade da pool como sucessos em vez de rolar, evitando complicações de Hunger) e sugere manter as Difficulties em segredo. Ver [[Errata do Companion#Take Half ampliado|Errata do Companion]] (só vale se a crônica usar o Companion).
 
 ---
 
@@ -296,4 +297,4 @@ Alterar o contexto do conflito pode revitalizar a cena:
 - Essas mudanças devem apresentar **novas opções** para ambos os lados, criando novas oportunidades narrativas.
 ---
 
-*Ver também:* [[Mecânicas/Regras Fundamentais]] · [[Mecânicas/Regras Avançadas]] · [[Mecânicas/Dano]] · [[Mecânicas/Exemplos de Testes]]
+*Ver também:* [[Mecânicas/Regras Fundamentais]] · [[Mecânicas/Regras Avançadas]] · [[Mecânicas/Dano]] · [[Mecânicas/Exemplos de Testes]] · [[Errata do Companion]]

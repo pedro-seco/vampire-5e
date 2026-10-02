@@ -21,16 +21,9 @@ Este _modus predationis_ é como você geralmente caça. Seu tipo de Predador mo
 - [Sandman](#Sandman)
 - [Scene-Queen](#Scene-Queen)
 - [Siren](#Siren)
-- [Alleycat](#Alleycat)
-- [Bagger](#Bagger)
-- [Cleaver](#Cleaver)
-- [Consensualist](#Consensualist)
-- [Farmer](#Farmer)
-- [Osiris](#Osiris)
-- [Headhunter/Blood Leech](#Headhunter/Blood%20Leech)
-- [Sandman](#Sandman)
-- [Scene-Queen](#Scene-Queen)
-- [Siren](#Siren)
+- [Tipos Adicionais — Player's Guide](#Tipos%20Adicionais%20—%20Player's%20Guide)
+    - Extortionist, Graverobber, Grim Reaper, Montero, Pursuer, Trapdoor
+- [Regras e Notas do Player's Guide](#Regras%20e%20Notas%20do%20Player's%20Guide)
 
 ---
 # Alleycat
@@ -52,7 +45,7 @@ Você rouba, compra ou de outra forma adquire sangue frio, em vez de caçar, dep
 **Nota:** Ventrues não podem escolher este Predator Type.
 
 - **Adicione uma especialidade:** Larceny (Lockpicking) or Streetwise (Black Market).
-- **Ganhe um ponto em:** Gain one dot of [[Disciplinas#Blood Sorcery|Blood Sorcery]] (Tremere only) or [[Disciplinas#Obsfucate||Obsfucate]].
+- **Ganhe um ponto em:** [[Disciplinas#Blood Sorcery|Blood Sorcery]] (apenas Tremere) ou [[Disciplinas#Obsfucate||Obsfucate]]. O Player's Guide também permite Blood Sorcery a **Banu Haqim** (ver [[#Regras e Notas do Player's Guide]]).
 - **[[Advantages|Mérito]]:** Ganhe o [[Advantages||Mérito]] Iron Gullet (•••)
 - **[[Advantages|Defeito]]:** Ganhe o Defeito _Enemy (••)_: Alguém acredita que você deve algo ou há outro motivo que o mantém fora das ruas.
 ---
@@ -100,7 +93,7 @@ Você é uma celebridade entre os mortais ou lidera um culto, uma igreja ou algo
 Em vida, você pode ter sido um DJ, escritor, cultista, pregador ou organizador de LARP.
 
 - **Adicione uma especialidade:** Occult (specific tradition) ou Performance (specific entertainment field).
-- **Ganhe um ponto em:** [[Disciplinas#Blood Sorcery|Feitiçaria de Sangue]] (apenas Tremere) ou [[Disciplinas#Presence|Presença]]. 
+- **Ganhe um ponto em:** [[Disciplinas#Blood Sorcery|Feitiçaria de Sangue]] (apenas Tremere) ou [[Disciplinas#Presence|Presença]]. O Player's Guide também permite Blood Sorcery a **Banu Haqim** (ver [[#Regras e Notas do Player's Guide]]).
 - **Gaste três pontos entre os [[Advantages#Backgrounds|Antecedentes]]:** Fama (*Fame*) e Rebanho (*Herd*). 
 - **Gaste dois pontos entre os [[Advantages|Defeitos]]:** Inimigos (*Enemies*) e Lenda Mítica (*Mythic*).
 ---
@@ -150,103 +143,99 @@ Talvez em vida você fosse um artista da sedução, produtor de cinema, autor, u
 - **Ganhe o [[Advantages|Defeito]]:** *Inimigo (Enemy)* (•) - Um amante rejeitado ou parceiro ciumento.
 
 
-Predator Type é um dos features do seu personagem, e é uma coisa que você escolhe no momento da criação. Suas preferências de caça alimentam seu Sangue, e seu Sangue molda quais Habilidades e até [[Disciplinas]] que você desenvolve como vampiro.
+---
 
-Este _modus predationis_ é como você geralmente caça. Seu tipo de Predador mostra seu reflexo ou hábito; 
+# Tipos Adicionais — Player's Guide
 
-**Nota Importante:** Predator Type não dita seu comportamento no jogo. Você pode caçar de outras formas durante uma sessão, já que pode ser necessário cooperar com outros tipos de Predador e aproveitar oportunidades de alimentação que surjam durante a história. Para mais informações, veja como funcionam as [[Hunting and Feeding||mecânicas de alimentação]].
-
+> [!warning] Material de suplemento
+> Os seis tipos abaixo foram publicados no *Player's Guide* (lista na p. 62 e descrições no capítulo de personagens, em torno das pp. 106-107), e só valem se a crônica permitir. Os demais tipos do livro (Alleycat, Bagger, Blood Leech, Cleaver, Consensualist, Farmer, Osiris, Sandman, Scene Queen e Siren) são do **Core** (pp. 175-178) e já estão acima. Esta seção também traz as "Predator Pools" do Player's Guide.
 
 ---
 
-## Tipos Adicionais — Player's Guide
+## Extortionist
 
-Os seis tipos abaixo foram publicados no *Player's Guide* (2023).
+Você força suas vítimas a sangrar por você. Em tese, o sangue vem em troca de serviços como segurança ou vigilância, mas, tantas vezes quanto a necessidade de proteção é real, ela é igualmente uma ficção criada para tornar o acordo aceitável para a vítima.
 
----
-
-### Extortionist
-Você força suas vítimas a sangrar por você — ostensivamente em troca de proteção ou vigilância, mas a necessidade de proteção é frequentemente uma ficção criada para tornar o acordo aceitável.
-
-- **Ganhe uma espe
-
-### Graverobber
-
-Você se alimenta de cadáveres frescos e de enlutados em cemitérios, hospitais e morgues. O Ressonance Melancólico no sangue de visitantes e doentes terminais é sua especialidade. Você frequentemente mantém conexões com mortuários ou hospitais para ter acesso regular.
-
-- **Adicione uma especialidade:** Occult (Grave Rituals) ou Medicine (Cadavers)
-- **Ganhe 1 ponto em:** Fortitude ou Oblivion
-- **Ganhe o Merit de Feeding:** Iron Gullet •••
-- **Ganhe 1 ponto em:** Haven
-- **Receba o Flaw:** Herd (••) Obvious Predator — sua frieza sobrenatural deixa as pessoas profundamente desconfortáveis na sua presença ao caçar
-- **Predator Pool:** Resolve + Medicine (vasculhando os mortos frescos); Manipulation + Insight (abordando mortais vulneráveis nos corredores dos hospitais). Um cadáver frio sacia até 3 Hunger, mas sofre as mesmas penalidades de sangue ensacado.
+- **Adicione uma especialidade:** Intimidation (Coercion) ou Larceny (Security).
+- **Ganhe um ponto em:** Dominate ou Potence.
+- **Distribua três pontos entre os Backgrounds:** Contacts e Resources.
+- **Ganhe o Defeito:** Enemy (••), a polícia ou uma vítima que escapou da sua extorsão e quer vingança.
+- **Predator Pool:** Strength ou Manipulation + Intimidation; você se alimenta por coerção, sutil ou dolorosamente óbvia.
 
 ---
 
-### Grim Reaper
+## Graverobber
 
-Você só se alimenta de quem está prestes a morrer. Abrigos, casas de cuidados paliativos e clínicas de longa permanência são seu terreno de caça. Isso significa movimento constante em busca de novas vítimas terminais — e uma dificuldade genuína em se estabelecer em qualquer lugar.
+Costuma se alimentar de cadáveres frescos, mas também de enlutados em cemitérios e de visitantes e pacientes em hospitais. A Resonance Melancholic no sangue da vítima atrai mais do que qualquer outro humor. Este tipo costuma exigir um Haven numa igreja, hospital ou necrotério, ou conexões com eles.
 
-- **Adicione uma especialidade:** Awareness (Death) ou Larceny (Forgery)
-- **Ganhe 1 ponto em:** Auspex ou Oblivion
-- **Ganhe 1 ponto em:** Allies ou Influence (comunidade médica)
-- **Ganhe 1 ponto de Humanity**
-- **Receba o Flaw de Feeding:** (•) Prey Exclusion: Healthy Mortals
-- **Predator Pool:** Intelligence + Awareness ou Medicine. Você pode identificar doenças específicas pelo sabor do sangue.
-
----
-
-### Montero
-
-Desde a Idade Média, a montería espanhola usava batidas para conduzir a caça ao montero. Você continua essa tradição com sequências modernas — um longo golpe, um flash mob, uma perseguição de gangue cuidadosamente orquestrada, ou um labirinto burocrático infinito. Sua refeição chega até você; você não caça, você espera.
-
-- **Adicione uma especialidade:** Leadership (Hunting Pack) ou Stealth (Stakeout)
-- **Ganhe 1 ponto em:** Dominate ou Obfuscate
-- **Ganhe 2 pontos em:** Retainers
-- **Perca 1 ponto de Humanity**
-- **Predator Pool:** Intelligence + Stealth (com uma equipe experiente, a caça se resume ao planejamento); Resolve + Stealth (com um plano bem ensaiado, espera paciente pelo momento certo).
+- **Adicione uma especialidade:** Occult (Grave Rituals) ou Medicine (Cadavers).
+- **Ganhe um ponto em:** Fortitude ou Oblivion.
+- **Ganhe o Mérito de Alimentação:** Iron Gullet (•••).
+- **Ganhe um ponto no Background:** Haven.
+- **Ganhe o Defeito:** Herd (••) Obvious Predator, pois sua frieza sobrenatural faz você agir de modo profundamente perturbador ao caçar.
+- **Predator Pool:** Resolve + Medicine, vasculhando os mortos quietos atrás de um corpo com sangue rançoso; Manipulation + Insight, circulando entre mortais infelizes por uma mordida vulnerável. Um cadáver frio sacia até 3 Hunger, mas com as mesmas penalidades do sangue ensacado; um corpo já bebido por outro vampiro, drenado depois ou com partes faltando sacia menos.
 
 ---
 
-### Pursuer
+## Grim Reaper
 
-Algumas pessoas nunca serão acreditadas, outras nunca serão procuradas. Você estuda sua vítima — rotina, relações, vulnerabilidades — e a persegue pela noite até que sua sensibilidade e sua Fome atinjam o ponto mais delicioso.
+Também chamado de plague rat, você só se alimenta de quem está prestes a morrer. Procura casas de cuidados paliativos, asilos e abrigos, o que significa estar sempre em movimento atrás de novas vítimas no fim da vida, com dificuldade de se estabelecer.
 
-- **Adicione uma especialidade:** Investigation (Profiling) ou Stealth (Shadowing)
-- **Ganhe 1 ponto em:** Animalism ou Auspex
-- **Ganhe o Merit:** Bloodhound •
-- **Ganhe 1 ponto em:** Contacts (entre os habitantes da noite do seu terreno de caça: porteiros de clube, catadores, vendedores noturnos, informantes)
-- **Perca 1 ponto de Humanity**
-- **Predator Pool:** Intelligence + Investigation para encontrar uma vítima que não será procurada; Stamina + Stealth para perseguições longas de presas urbanas sem suspeita.
-
----
-
-### Scene Queen
-
-Você se alimenta de seu grupo social exclusivo — subculturas, fandoms, ambientes corporativos, círculos de celebridade. Seus seguidores devotos ou membros do grupo te conhecem, te admiram, ou simplesmente te frequentam. Você nunca precisa caçar fora da sua cena — mas dentro dela, seu rosto é conhecido.
-
-- **Adicione uma especialidade:** Performance (estilo específico) ou Etiquette (subcultura específica)
-- **Ganhe 1 ponto em:** Dominate ou Potence
-- **Ganhe 2 pontos em:** Status (dentro da sua cena/subcultura)
-- **Ganhe 1 ponto em:** Herd (seus fãs ou frequentadores regulares)
-- **Receba o Flaw:** Known Face (•) — seu rosto é reconhecível; alimentar-se disfarçado fora da sua cena tem dificuldade +1
-- **Predator Pool:** Charisma + Performance para se alimentar dos seus admiradores; Manipulation + Subterfuge para identificar e abordar alvos no meio da cena.
-- *Nota: Conteúdo desta entrada reconstruído — texto da seção não preservado no TXT de extração.*
+- **Adicione uma especialidade:** Awareness (Death) ou Larceny (Forgery).
+- **Ganhe um ponto em:** Auspex ou Oblivion.
+- **Ganhe um ponto no Background:** Allies ou Influence, na comunidade médica.
+- **Ganhe um ponto de:** Humanidade.
+- **Ganhe o Defeito de Alimentação:** Prey Exclusion (•): Healthy Mortals.
+- **Predator Pool:** Intelligence + Awareness ou Medicine. Você pode desenvolver gosto por doenças específicas e identificá-las pelo sabor.
 
 ---
 
-### Trapdoor
+## Montero
 
-Como a aranha trapdoor, você constrói seu ninho e atrai as presas até ele. Pode ser um parque de diversões, um sauna, uma casa assombrada, ou um clube de luta — mas suas vítimas vêm ao seu domínio. Lá você pode brincar com o terror delas, aprisioná-las e drenar devagar, ou simplesmente beber fundo e deixar partir.
+Desde a Idade Média, aristocratas espanhóis fazem a *montería*: uma caçada em que equipes de batedores empurram a caça para as lanças (depois, armas de fogo) do *montero*. Você continua a tradição usando retainers para conduzir as vítimas até você. Sua montería moderna pode ser um golpe longo, um flash mob, um cerco de protesto, um labirinto burocrático interminável ou uma perseguição de gangue aparentemente sem sentido.
 
-- **Adicione uma especialidade:** Persuasion (Marketing) ou Stealth (Ambushes ou Traps)
-- **Ganhe 1 ponto em:** Protean ou Obfuscate
-- **Ganhe 1 ponto em:** Haven
-- **Ganhe 1 ponto em:** Retainers (seu major-domo, etc.) ou Herd (visitantes regulares) — ou um segundo ponto em Haven
-- **Receba um Haven Flaw:** Creepy (•) ou Haunted (•)
-- **Predator Pool:** Charisma + Stealth se as vítimas entram no seu domínio esperando uma noite divertida; Dexterity + Stealth para exploradores urbanos e intrusos. Navegar pelo labirinto dentro do seu refúgio usa Wits + Awareness (+seus pontos de Haven em dados).
-
+- **Adicione uma especialidade:** Leadership (Hunting Pack) ou Stealth (Stakeout).
+- **Ganhe um ponto em:** Dominate ou Obfuscate.
+- **Ganhe dois pontos no Background:** Retainers.
+- **Perca um ponto de:** Humanidade.
+- **Predator Pool:** com uma equipe experiente, a caça se resume ao planejamento: Intelligence + Stealth. Com um plano bem ensaiado, resume-se a esperar com paciência a chegada da presa: Resolve + Stealth.
 
 ---
 
-*Ver também:* [[Mecânicas/Fome]] · [[Mecânicas/Hunting and Feeding]] · [[Mecânicas/Character]] · [[Mecânicas/Advantages]] · [[Mecânicas/Resonance]]
+## Pursuer
+
+Algumas pessoas nunca serão acreditadas; outras nunca serão procuradas. Você estuda a vítima, aprende a rotina e se ela pode desaparecer sem alarde. Depois a persegue pela noite, atacando só quando sua sensibilidade e sua Fome chegam ao ponto mais delicioso.
+
+- **Adicione uma especialidade:** Investigation (Profiling) ou Stealth (Shadowing).
+- **Ganhe um ponto em:** Animalism ou Auspex.
+- **Ganhe o Mérito:** Bloodhound (•).
+- **Ganhe um ponto de Contacts** entre os habitués moralmente flexíveis do seu terreno de caça: porteiros de clube, vigias sem-teto, vendedores noturnos, traficantes de rua; alguém que responde quando você pergunta "para onde ela foi?".
+- **Perca um ponto de:** Humanidade.
+
+---
+
+## Trapdoor
+
+Como a aranha trapdoor, você constrói o ninho e atrai as presas até ele. Pode espreitar num trem-fantasma de parque de diversões ou numa casa de banhos turca, assombrar uma casa ou gerir um clube de luta, mas as vítimas vêm ao seu local de poder. Lá você pode brincar com elas em terror, aprisioná-las e drená-las devagar, ou beber fundo e deixá-las ir.
+
+- **Adicione uma especialidade:** Persuasion (Marketing) ou Stealth (Ambushes ou Traps).
+- **Ganhe um ponto em:** Protean ou Obfuscate.
+- **Ganhe um ponto no Background:** Haven.
+- **Ganhe um ponto em** Retainers (seu roper, major-domo etc.) **ou** Herd (visitantes constantes), **ou** um segundo ponto de Haven.
+- **Ganhe um Defeito de Haven:** Creepy (•) ou Haunted (•).
+- **Predator Pool:** Charisma + Stealth se as vítimas entram no seu território esperando uma noite divertida; Dexterity + Stealth se você se alimenta de invasores, exploradores urbanos e outros passantes. Navegar o labirinto do covil usa Wits + Awareness (some seus dots de Haven aos dados, pois você o conhece bem).
+
+---
+
+# Regras e Notas do Player's Guide
+
+> [!warning] Material de suplemento
+> Fonte: *Player's Guide*, p. 107. Só vale se a crônica permitir. Lista dos tipos e dots grátis: [[Player's Guide — Criação Rápida e Referências de Personagem]].
+
+- **Coterie pool para tipos inconvenientes (regra opcional).** Os Predator Types nem sempre combinam com toda crônica ou grupo. Se isso for um problema, **adicione 1 ponto ao coterie pool para cada membro** com um estilo de caça "sub-poderoso" ou "inconveniente", definido como o grupo quiser: pelo valor total em XP do pacote do tipo, pelo número líquido de dots de Advantages, ou pela métrica que "desequilibre" o jogo. Um estilo de caça menos vistoso ou menos trabalhoso significa mais tempo e recursos para o grupo. Ver [[Player's Guide — Coteries]].
+- **Disciplina fora do clã.** O Predator Type pode dar um dot de Disciplina **fora do clã**; "a Fome pode ser mais forte que a linhagem".
+- **Banu Haqim.** Personagens do clã **Banu Haqim** podem tomar **Blood Sorcery** com os tipos **Bagger** ou **Osiris** (no Core, a opção de Blood Sorcery é só para Tremere). Ver [[Clãs do Player's Guide — Banes e Compulsões]] e [[Camarilla - Banu Haqim]].
+- **Scene Queen** não é um tipo novo do Player's Guide: é do Core (p. 178), descrito acima. O texto que esta nota trazia como "reconstruído" (Status, Known Face, pools) não consta nos livros e foi removido.
+- Para tipos de caça e Resonance, ver [[Hunting and Feeding]] e [[Resonance]]. Para Thin-bloods e Caitiff, ver [[Player's Guide — Castoffs]] e [[Sangue Fraco]].
+
+*Ver também:* [[Mecânicas/Fome]] · [[Mecânicas/Hunting and Feeding]] · [[Mecânicas/Character]] · [[Mecânicas/Advantages]] · [[Mecânicas/Resonance]] · [[Player's Guide — Criação Rápida e Referências de Personagem]] · [[Player's Guide — Coteries]] · [[Clãs]] · [[XP]]

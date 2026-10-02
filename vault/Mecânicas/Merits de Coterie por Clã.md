@@ -146,6 +146,6 @@ Fonte: `VTM 5e - Companion.txt:200-220`.
 - [[Advantages]]
 - [[Clãs]]
 - [[Loresheets]]
-- [[Coteries]]
+- Coteries
 - [[Clãs do Companion]]
 - [[Predator Type]]

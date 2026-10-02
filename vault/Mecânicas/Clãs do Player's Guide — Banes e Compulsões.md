@@ -114,7 +114,7 @@ Fonte: Player's Guide, p. 54.
 **Compulsão — Covetousness.** O Tzimisce fica obcecado em possuir algo na cena (objeto, propriedade ou pessoa). **Toda ação que não vise isso sofre penalidade de 2 dados.** Persiste até a posse ser estabelecida (o Narrador decide o que é "posse" se não for um objeto) ou o objeto de desejo se tornar inalcançável.
 Fonte: Player's Guide, p. 54.
 
-**Vicissitude e criaturas Tzimisce.** O texto remete a Vicissitude (p. 81 do Player's Guide) e às estatísticas dos servidores szlachta e vozhd em "Consolidated Antagonists" (p. 241). Ver [[Player's Guide — Poderes de Disciplina]] e [[Player's Guide — Antagonistas Consolidados]].
+**Vicissitude e criaturas Tzimisce.** O texto remete a Vicissitude (p. 81 do Player's Guide) e às estatísticas dos servidores szlachta e vozhd em "Consolidated Antagonists" (p. 241). Ver [[Player's Guide — Poderes de Disciplina]] e Player's Guide — Antagonistas Consolidados.
 
 ---
 

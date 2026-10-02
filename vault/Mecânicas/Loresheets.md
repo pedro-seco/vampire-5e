@@ -35,6 +35,7 @@ Loresheets são um tipo de **Background** que representa a conexão do personage
 - Cada nível custa 3 XP após a criação do personagem
 - Loresheets com restrição de clã (`Somente X`) não podem ser adquiridas por outros clãs
 - A aquisição de níveis altos frequentemente implica complicações narrativas — Flaws, dívidas, ou atenção indesejada
+- **Multi-Level Lorekeeping** (Merit de coterie •• dos Tremere; Companion e Player's Guide, p. 188): uma vez por sessão, um Kindred da coterie pode usar uma Advantage de Loresheet (ou uma de menor nível da mesma loresheet) que outro membro possua, inclusive de clã, a critério do Narrador; dura só a sessão e limites como "uma vez por história" continuam valendo. Veja [[Merits de Coterie por Clã#Tremere: Multi-Level Lorekeeping|Merits de Coterie por Clã]]
 
 ---
 
@@ -67,11 +68,14 @@ As loresheets abaixo estão organizadas por livro fonte. Loresheets do livro bas
 
 | Loresheet | Restrição | Tema |
 |-----------|-----------|------|
-| **Carmelita Neillson** | Toreador (preferencial) | Arqueóloga Kindred, bibliotecas secretas de lore |
+| **Carmelita Neillson** | — | Arqueóloga Toreador, bibliotecas secretas de lore |
 | **Fatima al-Faqadi** | — | Assassina Banu Haqim, rede do Web of Knives |
-| **Fiorenza Savona** | Ventrue | Corretora de poder político global |
-| **Pure Ventrue Lineage** | Ventrue | Linhagem pura até um metusálen de 4ª geração |
-| **The Cult of Mithras** | Ventrue (preferencial) | Culto do deus-vampiro Mithras, ex-Príncipe de Londres |
+| **Fiorenza Savona** | — | Corretora de poder político global (Ventrue) |
+| **Pure Ventrue Lineage** | Somente Ventrue | Linhagem pura até um metusálen de 4ª geração |
+| **The Cult of Mithras** | — | Culto do deus-vampiro Mithras, ex-Príncipe de Londres |
+| **Victoria Ash** | — | Toreador, anfitriã e artista; Vermilion Wedding, rede social e turnês |
+
+*Segundo o livro Camarilla, só Pure Ventrue Lineage tem restrição de clã impressa (Camarilla, pp. 184–190). As Advantages por nível das seis estão em [[Camarilla - Loresheets]] (suplemento; só vale se a crônica permitir).*
 
 **Destaques:**
 - **Cult of Mithras ●●●●●** — *Name the Antediluvian*: pronunciar o verdadeiro nome do Antediluviano Ventrue para um *status check* sobrenatural
@@ -90,6 +94,11 @@ As loresheets abaixo estão organizadas por livro fonte. Loresheets do livro bas
 | **Descendant of Tyler** | Brujah | Linhagem de Tyler, a mãe da Revolta |
 | **Descendant of Xaviar** | Gangrel | Linhagem de Xaviar, o Gangrel que encontrou seu Antediluviano |
 | **Ruins of Carthage** | Brujah / Banu Haqim (preferencial) | Herança de Cartago vampírica, ódio à tirania |
+| **Salvador Garcia** | — | Ideólogo-chefe dos Free States da Califórnia; incita o proletariado Anarch |
+| **Agata Starek** | — | Anarch niilista e diablerista, "sempre bate para cima" |
+| **Hesha Ruhadze** | — | Arqueólogo núbio do Ministry, herald de Sutekh; museu de história vampírica |
+
+*São 9 loresheets no livro Anarch. As Advantages por nível de cada uma estão em [[Anarch - Loresheets]] (suplemento; só vale se a crônica permitir).*
 
 **Destaques:**
 - **Descendant of Tyler ●●●●●** — *Permanent Revolution*: exércitos de Anarquistas obedecem seu comando incondicional enquanto você lutar
@@ -151,10 +160,12 @@ As loresheets abaixo estão organizadas por livro fonte. Loresheets do livro bas
 | **Nasyon San An** | Samedi | Vodou, necromância do Atlântico Negro |
 
 **Destaques:**
-- **Flesh-Eaters ●●●●●** — *Monstrous Bite*: dentes como adagas, sem penalidade de called shot, +1 dano
+- **Flesh-Eaters ●●●●●** — *Monstrous Bite*: dentes como adagas; ao atacar com a mordida, sem penalidade de called shot, +1 sucesso em rolagens de Intimidation e dano da mordida aumentado para 3 (Player's Guide, p. 225)
 - **Harbingers of Ashur ●●●●●** — *The Lazarene Mask*: sem Stains por matar qualquer Hecata ou servo da Hecata
 - **La Famiglia Giovanni ●●●●●** — *Aspiring Anziano*: 5 pontos de Status Hecata + audiência privada com o Capuchin
 - **Nasyon San An ●●●●●** — *The Silk Hat*: suceder ao misterioso "Bloody Doctor", poder ou ruína
+
+Os níveis completos de cada loresheet do Player's Guide estão em [[Player's Guide — Loresheets e Bloodlines Hecata]] (suplemento; só vale se a crônica permitir).
 
 ---
 
@@ -162,12 +173,18 @@ As loresheets abaixo estão organizadas por livro fonte. Loresheets do livro bas
 
 | Loresheet | Restrição | Tema |
 |-----------|-----------|------|
-| **Descendant of Al-Ashrad** | Banu Haqim | Linhagem do Amr; Blood Sorcery pré-Ur-Shulgi |
-| **Student of Kirin Taunk** | Thin-blood (TBA) | Mentoria de alquimista self-taught; formulae avançadas |
+| **Descendant of Al-Ashrad** | Somente Banu Haqim | Linhagem de Al-Ashrad, Amr dos sorcerers do clã; Blood Sorcery contra o cisma de Ur-Shulgi |
+| **Student of Kirin Taunk** | Somente Thin-Blood Alchemists | Legado da alquimista Kirin Taunk; destilação mais rápida, fórmula Taunk, Status nas duas seitas |
+| **Veins of the Earth** | — | Furcae e venae terrae; ligação com o Blood Serpent (Tiamat) |
+| **Vienna Zero** | Somente usuários de Blood Sorcery | Saque das ruínas do Prime Chantry Tremere de Viena |
 
-**Descendant of Al-Ashrad:** Al-Ashrad liderou os Banu Haqim antes do despertar de Ur-Shulgi. Seus descendentes têm acesso a rituais de Blood Sorcery que precedem (e resistem a) a versão pré-islâmica exigida por Ur-Shulgi. ●●●●● garante acesso ao grimório pessoal de Al-Ashrad e o dever de protegê-lo.
+**Descendant of Al-Ashrad (Blood Sigils, p. 177):** Al-Ashrad foi o Amr dos sorcerers do clã e levou parte dos Lawmen para a Camarilla quando Ur-Shulgi exigiu o retorno aos velhos costumes. Os benefícios são: bônus em Leadership, Sense the Unseen (Auspex) uma vez por sessão, bônus em Blood Sorcery para ferir vampiros, Blood Sorcery que afeta criaturas incorpóreas e, em ●●●●●, ser o sucessor de Al-Ashrad como Amr (Status Banu Haqim, um Ritual grátis e um Adversary).
 
-**Student of Kirin Taunk:** Taunk desenvolveu TBA de forma independente, sem tutela Kindred. Seus estudantes ganham acesso às formulae de Blood Sigils. ●●●●● significa tutoria direta — com todas as expectativas que isso implica.
+**Student of Kirin Taunk (Blood Sigils, pp. 178-179):** Kirin Taunk foi uma das alquimistas celebradas dos anos 1990 (Final Death em 1998). Os benefícios são: tempos de destilação pela metade, uma fórmula Taunk sem custo de XP, Status nas duas seitas (Camarilla e Anarch) e, em ●●●●●, um Mawla patrono que envia ingredientes raros.
+
+**Veins of the Earth (Blood Sigils, p. 179):** Declarar um local como furcus, Herd de kine atraídas pelas venae terrae, localizar um Kindred meditando num furcus, +1 dado em pool de Discipline e, em ●●●●●, 3 sucessos automáticos mediante oferenda ao furcus.
+
+**Vienna Zero (Blood Sigils, p. 180):** Bônus em Occult (blood craft) e Politics (Tremere), Contact no site, um Artefato, rituais Tremere aprendidos sem professor em metade do tempo e, em ●●●●●, acesso a artefatos do site com um Enemy da Coalition.
 
 ---
 
@@ -258,4 +275,4 @@ As loresheets abaixo estão organizadas por livro fonte. Loresheets do livro bas
 
 ---
 
-*Ver também:* [[Mecânicas/Advantages]] · [[Mecânicas/Clãs]] · [[Mecânicas/XP]] · [[Lore/Jyhad]] · [[Lore/Camarilla]] · [[Lore/Anarquistas]] · [[Lore/Cultos Vampíricos]]
+*Ver também:* [[Camarilla - Loresheets]] · [[Anarch - Loresheets]] · [[Player's Guide — Loresheets e Bloodlines Hecata]] · [[Mecânicas/Advantages]] · [[Mecânicas/Clãs]] · [[Mecânicas/XP]] · [[Lore/Jyhad]] · [[Lore/Camarilla]] · [[Lore/Anarquistas]] · [[Lore/Cultos Vampíricos]]

@@ -157,7 +157,7 @@ Fonte: p. 31 (arquivo: linhas 304–313).
 # Ver Também
 
 - [[Sabbat — Ritae]] — ritae por Path (Ignoblis Ritae)
-- [[Sabbat — Antagonistas]] — fichas de exemplo por Path
+- Sabbat — Antagonistas — fichas de exemplo por Path
 - [[Sabbat — Poderes de Disciplina]] · [[Sabbat — Rituais, Cerimônias e Alquimia]]
 - [[Humanidade]] — o sistema que o Path substitui
 - [[Frenzy]] · [[Sangue Fraco]] · [[Diablerie, Blood Bond, Ghouls]]

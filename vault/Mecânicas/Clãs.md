@@ -41,6 +41,9 @@ Esta página não procura explicar aas especificidades de cada Clã; isto é dev
 >Para uma melhor compreensão da lore, leia [[Gerações e Potência]].
 >Para entender sobre compulsões, leia [[Fome]].
 
+> [!info] Material de suplemento (só vale se a crônica permitir)
+> Os sete clãs que o Core não detalha (Banu Haqim, Hecata, Lasombra, Ministry, Ravnos, Salubri e Tzimisce) têm Banes e Compulsões completos no *Player's Guide*: ver [[Clãs do Player's Guide — Banes e Compulsões]], que também traz **Banes alternativos** para os 13 clãs. O *Companion* traz Ravnos, Salubri e Tzimisce em [[Clãs do Companion]]; os Merits de coterie por clã estão em [[Merits de Coterie por Clã]] (e em [[Player's Guide — Domínio e Merits de Clã de Coterie]]). Notas por clã: [[Camarilla - Banu Haqim]] e [[Anarch - Ministry e Cura de Thin-Bloods]]. Caitiff e thin-bloods: [[Player's Guide — Castoffs]], [[Sangue Fraco]] e [[Player's Guide — Criação Rápida e Referências de Personagem]].
+
 
 ---
 
@@ -225,7 +228,7 @@ Os sete clãs abaixo são os pilares da Torre de Marfim. Cada perfil inclui seit
 **Seita:** Anarquistas (maioria) · Camarilla (minoria crescente)  
 **Arquétipo:** Rebeldes, Ativistas, Guerreiros-Filósofos  
 **Disciplinas:** Celerity, Potence, Presence  
-**Maldição:** Iracundia — a Besta está próxima da superfície. Qualquer teste para resistir ao Frenesi tem a dificuldade aumentada em pontos iguais ao Bane Severity. Brujah com Bane Severity 3 têm dificuldade em controlar reações violentas mesmo fora do Frenesi formal.
+**Maldição:** Violent Temper — a Besta está próxima da superfície. Subtraia dados iguais à Bane Severity de qualquer rolagem para resistir a frenesi de fúria (nunca abaixo de 1 dado). Ver [[#Maldição dos Brujah]].
 
 Os Brujah foram filósofos-guerreiros na Antiguidade — construtores de civilizações, protetores de cidades-estado, debates e espadas com igual fluência. A lenda diz que o verdadeiro Brujah Antediluviano, o Idealista, foi diablerizado por seu próprio childe Troile, que era mais guerreiro do que filósofo. O que resta é o clã de Troile: apaixonado, impulsivo, e furioso com um mundo que prometeu justiça e entregou hierarquia.
 
@@ -240,7 +243,7 @@ Na 5ª edição, a maioria dos Brujah abandonou a Camarilla junto com os Anarqui
 **Seita:** Independente (maioria) · Camarilla (poucos) · Anarquistas (alguns)  
 **Arquétipo:** Predadores, Nômades, Sobreviventes  
 **Disciplinas:** Animalism, Fortitude, Protean  
-**Maldição:** Traços Animais — após cada Frenesi, o Gangrel manifesta traços animais permanentes (olhos de gato, pelos, presas aberrantes, etc.) até o próximo descanso diurno. Com Bane Severity alta, traços acumulados podem tornar-se difíceis de ocultar mesmo com Obfuscate.
+**Maldição:** Bestial Features — durante um frenesi, o Gangrel desenvolve características animais (um traço físico, um cheiro, um tique), que duram mais uma noite depois do frenesi. O número de características é igual à Bane Severity, e cada uma reduz um Atributo em 1. Ver [[#Maldição dos Gangrel]].
 
 Os Gangrel são os mais próximos da natureza entre os Kindred — e os mais honestos sobre o que são. A Besta não é inimiga a ser suprimida; é parceira, professora, o instinto que sobreviveu quando a razão falhou. O Gangrel que luta contra sua natureza animal eventualmente perde. O que aprende a ouvir a Besta sem se perder nela é o que dura séculos.
 
@@ -255,7 +258,7 @@ Historicamente independentes, os Gangrel passaram pela Camarilla, a deixaram for
 **Seita:** Camarilla (maioria)  
 **Arquétipo:** Oráculos, Visionários, Lunáticos  
 **Disciplinas:** Auspex, Dominate, Obfuscate  
-**Maldição:** Perturbação Mental Permanente — todo Malkavian tem ao menos um transtorno mental que não pode ser removido. Não é apenas roleplay: é mecânica. O transtorno específico é definido na criação do personagem e tem efeitos concretos sobre testes sociais e mentais. Com Bane Severity alta, o transtorno se aprofunda ou novos se manifestam.
+**Maldição:** Fractured Perspective — todo Malkavian tem ao menos um tipo de distúrbio mental. Ao sofrer um Bestial Failure ou uma Compulsão, a maldição se manifesta: penalidade igual à Bane Severity em uma categoria de dice pools (Físico, Social ou Mental) por toda a cena, somada às penalidades da Compulsão. O jogador e o Narrador definem o tipo na criação. Ver [[#Maldição dos Malkavian]].
 
 Os Malkavians são a prova de que a loucura e a visão não são opostos. Seu fundador Malkav — seja destruído, seja dissolvido no sangue do clã — infundiu nos descendentes não só a loucura mas algo além: a capacidade de perceber padrões que outros não veem, conexões causais invisíveis a mentes sãs, verdades que chegam na forma de delírio.
 
@@ -270,7 +273,7 @@ A Rede da Loucura (Madness Network / Cobweb) é uma consciência coletiva latent
 **Seita:** Camarilla (maioria)  
 **Arquétipo:** Espiões, Corretores de Informação, Redes Subterrâneas  
 **Disciplinas:** Animalism, Obfuscate, Potence  
-**Maldição:** Aparência Monstruosa — todos os Nosferatu têm Looks: Monstrous e não podem melhorá-lo. A maldição de Absimiliard desfigurou o clã inteiro: corpos retorcidos, pele como couro, faces que aterrorizam mortais. Qualquer teste social que dependa de aparência física sofre penalidades automáticas. Obfuscate não remove o Bane — esconde, não conserta.
+**Maldição:** Repulsiveness — todos os Nosferatu contam como tendo o Defeito Repulsive (-2) e nunca aumentam o Mérito Looks. A maldição de Absimiliard desfigurou o clã inteiro: corpos retorcidos, pele como couro, faces que aterrorizam mortais. Além disso, qualquer tentativa de se passar por humano sofre penalidade igual à Bane Severity, inclusive com os poderes de Obfuscate Mask of a Thousand Faces e Impostor's Guise. Ver [[#Maldição dos Nosferatu]].
 
 Absimiliard, o Antediluviano fundador, odeia seus descendentes. A teoria dominante é que a maldição foi deliberada — uma punição por algo perdido na Primeira Cidade, ou simplesmente a expressão do ódio de um ser antigo que não queria filhos. Os Nosferatu existem apesar disso: adaptaram-se ao subterrâneo, à invisibilidade, à rede de informação que nenhum Elísio glamoroso consegue igualar.
 
@@ -285,7 +288,7 @@ O clã tem uma cultura de solidariedade incomum entre os Kindred. A feiura compa
 **Seita:** Camarilla (maioria)  
 **Arquétipo:** Artistas, Socialites, Árbitros do Gosto  
 **Disciplinas:** Auspex, Celerity, Presence  
-**Maldição:** Paralisia Estética — quando o Toreador encontra algo de beleza excepcional (uma obra de arte, uma performance, uma pessoa extraordinariamente bela), deve fazer um teste de Compostura ou ficar paralisado, incapaz de agir até que a fonte de beleza desapareça ou o Bane Severity determine o fim. Em combate, isso é perigoso. Em Elísio, é constrangedor.
+**Maldição:** Aesthetic Fixation — o Toreador deseja a beleza tão intensamente que sofre em sua ausência. Em ambientes que não são belos, perde dados iguais à Bane Severity nas dice pools para usar Disciplinas; o Narrador decide como a beleza ou feiura do ambiente (roupas e blood dolls inclusos) penaliza o personagem. Um Bestial Failure costuma resultar em transe diante da beleza (ver a Compulsão). Ver [[#Maldição dos Toreador]].
 
 Arikel — ou Ishtar, os nomes se confundem — criou um clã de amantes da beleza que eventualmente tornou-se o clã de criadores da beleza. Os Toreador são os guardiões do Elísio, juízes do que é arte e o que é lixo, patrocinadores de artistas mortais, colecionadores de experiências. Na fachada, são os vampiros mais humanos da Camarilla. Na realidade, são predadores que transformaram a cultura em território.
 
@@ -300,7 +303,7 @@ A dicotomia interna do clã é entre os *artistas* (aqueles que genuinamente cri
 **Seita:** Camarilla (pilar central)  
 **Arquétipo:** Feiticeiros, Acadêmicos, Espiões Internos  
 **Disciplinas:** Auspex, Dominate, Blood Sorcery  
-**Maldição:** Vínculo Interno do Clã — todos os Tremere recém-abraçados recebem automaticamente um Blood Bond de nível 1 com o Conselho Interno, sem possibilidade de remoção. Em termos de jogo: qualquer Tremere tem lealdade residual ao clã embutida no sangue. Traição ao clã tem consequências além do político.
+**Maldição:** Deficient Blood — a vitae dos Tremere não forma mais Blood Bonds com outros Kindred (embora eles possam ser vinculados por Kindred de outros clãs). Para vincular mortais e ghouls, a vitae precisa ser bebida um número adicional de vezes igual à Bane Severity. Ver [[#Maldição dos Tremere]].
 
 Tremere não era um vampiro: era um mago humano que roubou a imortalidade. No século XII, ele e seu círculo de magos capturaram e diablerizaram Saulot, um Antediluviano Salubri, e usaram rituais para transformar os membros do círculo em vampiros de uma nova linhagem. A Camarilla aceitou os Tremere a contragosto — seus poderes eram úteis demais para ignorar, seu histórico suspeito demais para confiar completamente.
 
@@ -315,7 +318,7 @@ Nas Noites Modernas, o Conselho Interno foi parcialmente destruído durante a Re
 **Seita:** Camarilla (fundadores, pilares)  
 **Arquétipo:** Líderes, Nobres, Executivos, Reis  
 **Disciplinas:** Dominate, Fortitude, Presence  
-**Maldição:** Restrição Alimentar — cada Ventrue pode se alimentar apenas de um tipo específico de mortal, determinado na criação do personagem (ex: trabalhadores manuais, pessoas com medo intenso, homens com cabelo ruivo). Sangue de outros mortais tem gosto de cinza e não sacia a Fome. Com Bane Severity alta, a restrição se estreita ainda mais.
+**Maldição:** Rarefied Tastes — o Ventrue tem uma preferência de vítima (ex.: soldados, pessoas com TEPT, usuários de metanfetamina). Beber de qualquer mortal fora da preferência exige um esforço profundo de vontade, ou o sangue volta como vômito escarlate; para alimentar-se de outra vítima, o jogador gasta Willpower igual à Bane Severity. Ver [[#Maldição dos Ventrue]].
 
 Os Ventrue são o clã que decidiu que merecia governar. Desde a Roma Antiga até as corporações das Noites Modernas, eles ocuparam o topo das estruturas de poder — reis, banqueiros, generais, CEOs. Não por acidente: o clã seleciona seus childer entre aqueles que já demonstraram capacidade de comando em vida. Um Ventrue abraçado era quase sempre alguém importante antes do Abraço.
 
@@ -336,29 +339,31 @@ Os sete clãs acima são os pilares da Camarilla. Os clãs abaixo têm alinhamen
 
 **Seita:** Camarilla (entrada formal recente) · **Arquétipo:** Assassinos, Juízes, Guardiões da Lei  
 **Disciplinas:** Celerity, Obfuscate, Blood Sorcery  
-**Fraqueza:** Compulsão por sangue de Kindred — os Banu Haqim sentem atração irresistível pelo vitae de outros vampiros, com risco de Diablerie involuntária.
+**Fraqueza:** Blood Addiction — saciar Hunger com vitae vampírica pode levar o Banu Haqim a se empanturrar de sangue Kindred, com risco de diablerie.
 
 Antes chamados de Assamitas, os Banu Haqim são uma linhagem de origem árabe com história longa de assassinos e juízes sobrenaturais. Por séculos operaram como mercenários independentes — matavam vampiros por contrato e bebiam seu sangue como pagamento e como ritual.
 
 Na 5ª edição, uma facção significativa dos Banu Haqim ingressou na Camarilla após negociações tensas. A entrada não foi bem recebida por todos — dentro e fora do clã. Os que ficaram fora continuam operando como independentes ou dentro dos Anarquistas.
 
-**Bane — Compulsão Sangue (Diablerie):** Quando um Banu Haqim vê ou cheira o sangue de outro Kindred, deve fazer um teste de Composure + Resolve (Dificuldade = Bane Severity) ou ser compelido a beber. Cada ponto de Bane Severity adiciona 1 dado aos testes para resistir à atração por sangue Kindred.
+**Bane — Blood Addiction:** Saciar pelo menos **um nível de Hunger** com vitae vampírica provoca um **teste de hunger frenzy** (Core, p. 220) com **Dificuldade 2 + Bane Severity**. Se falhar, o Banu Haqim tenta se empanturrar de sangue vampírico, às vezes até cometer diablerie na vítima Kindred. *(Player's Guide, p. 18)*
 
-**Compulsão de Clã — Julgamento:** O vampiro identifica uma transgressão moral real ou percebida na cena e deve punir o transgressor. Enquanto não o fizer, sofre −2 dados em todos os testes não relacionados à punição.
+**Compulsão de Clã — Judgment:** O vampiro é compelido a punir quem transgrida um código pessoal. Por uma cena, deve saciar pelo menos um nível de Hunger de qualquer um, amigo ou inimigo, que aja contra uma **Conviction** dele. Se não fizer isso, sofre **penalidade de 3 dados em todas as rolagens** até satisfazer a Compulsão ou a cena acabar. Se a vítima for vampiro, vale o teste de hunger frenzy do Bane. *(Player's Guide, p. 18)*
+
+Detalhes, Banes alternativos (Noxious Blood) e notas: [[Clãs do Player's Guide — Banes e Compulsões]] e [[Camarilla - Banu Haqim]]. Merit de coterie: [[Merits de Coterie por Clã]]. Banu Haqim podem tomar Blood Sorcery com os Predator Types Bagger ou Osiris ([[Predator Type]]).
 
 ---
 
 ## Caitiff
 
 **Seita:** Qualquer · **Arquétipo:** Sem clã, sem herança, sem rede de proteção  
-**Disciplinas:** Quaisquer três (determinadas na criação)  
-**Fraqueza:** Sem Bane de clã — mas sem Compulsão de clã também. E sem Status de linhagem.
+**Disciplinas:** Quaisquer, nenhuma "de clã" para custo (escolhidas na criação)
+**Fraqueza:** Sem Bane de clã (Bane Severity 0) e sem Compulsão de clã, mas começam com o Defeito Suspect (•) e sem Status positivo na criação.
 
 Caitiff não são um clã — são a ausência de um. Vampiros abraçados cujo Sangue não carrega marca de linhagem identificável, ou cujo sire não os reconhece. Na hierarquia Kindred, são o degrau mais baixo: sem herança, sem proteção de clã, sem acesso a tradições de linhagem.
 
 A ausência de Bane é apresentada como vantagem, mas o custo social é alto. Na Camarilla, Caitiff são tratados com suspeita. Entre os Anarquistas, encontram mais aceitação — o movimento valoriza indivíduos sobre linhagem. No Sabbat, são frequentemente recrutados como carne de canhão.
 
-**Mecânica:** Caitiff não têm Bane de clã. Em compensação, sofrem penalidade de −1 Status automaticamente em qualquer ambiente Kindred formal. Suas Disciplinas custam mais XP para avançar além do nível 2 sem um tutor de linhagem.
+**Mecânica (Core, p. 107):** os Caitiff não compartilham nenhum Bane. Começam com o Defeito **Suspect (•)** e não podem comprar Status positivo na criação; o Narrador pode impor uma penalidade de **1 ou 2 dados** em testes sociais contra Kindred que saibam que são Caitiff, independentemente do Status. Têm acesso a três Disciplinas à escolha, que não contam como "de clã" para o custo de XP, e **melhorar qualquer uma custa nível × 6** (ver [[XP]]); podem aprender qualquer Disciplina pelo mesmo preço, desde que provem o Sangue de alguém que a domine pelo menos uma vez. Merits e Flaws específicos (e a regra de melhoria lenta de Disciplina) estão em [[Player's Guide — Castoffs]] (suplemento).
 
 ---
 
@@ -366,15 +371,17 @@ A ausência de Bane é apresentada como vantagem, mas o custo social é alto. Na
 
 **Seita:** Independente · **Arquétipo:** Necromantes, Estudiosos da Morte, Mercenários Espirituais  
 **Disciplinas:** Auspex, Fortitude, Oblivion  
-**Fraqueza:** Dupla maldição — hipersensibilidade a dor e necessidade de ritual na alimentação.
+**Fraqueza:** Painful Kiss — a mordida do Hecata é agonizante; ao beber diretamente de uma vítima, só pode fazer harmful drinks.
 
 Os Hecata são uma confederação de linhagens necromânticas que se uniram por necessidade após décadas de perseguição. Incluem os Giovanni (mercadores venetianos da morte), os Samedi (linhagem de aparência cadavérica), os Harbingers of Skulls, e outras linhagens menores.
 
 Todos compartilham afinidade com a morte, o mundo espiritual, e o trato com fantasmas. Não são Sabbat, não são Camarilla — são um bloco independente que vende seus serviços (especialmente comunicação com mortos) para quem pagar.
 
-**Bane:** Os Hecata sofrem dano duplo de qualquer fonte que cause dor. Além disso, precisam de um breve ritual ao se alimentar — um toque específico, uma palavra, um gesto. Se não puderem realizar o ritual, a alimentação falha automaticamente.
+**Bane — Painful Kiss:** Ao beber diretamente de uma vítima, o Hecata só pode fazer **harmful drinks** (perda de sangue, Core, p. 212). Mortais não contidos tentam fugir; mesmo os coagidos ou voluntários precisam passar em **Stamina + Resolve contra Dificuldade 2 + Bane Severity** para não se debaterem de dor. Vítimas vampiras coagidas ou voluntárias fazem um teste de Frenzy contra **Dificuldade 3** para evitar terror frenzy. *(Player's Guide, pp. 23-24)*
 
-**Compulsão de Clã — Morbidez:** O vampiro se torna obcecado com a morte de alguém na cena (pode ser um NPC). Deve descobrir detalhes do óbito ou planejar como a pessoa vai morrer. −2 dados em tudo não relacionado a isso enquanto durar.
+**Compulsão de Clã — Morbidity:** O vampiro precisa mover algo da vida para a morte, ou vice-versa (um objeto, uma ideia, uma conversa; não precisa ser uma pessoa). **Qualquer ação que não vise encerrar ou ressuscitar algo sofre penalidade de 2 dados.** Dura até o vampiro conseguir matar ou devolver à vida algo, figurada ou literalmente. *(Player's Guide, p. 24)*
+
+Detalhes e Banes alternativos (Decay): [[Clãs do Player's Guide — Banes e Compulsões]]. Loresheets e bloodlines: [[Player's Guide — Loresheets e Bloodlines Hecata]].
 
 **Para o Narrador:** Hecata são o recurso de morte da mesa — comunicação com mortos, identificação de causas de óbito, rastreamento de fantasmas hostis. O seu serviço de necromancia é vendido, não dado, e o preço é geralmente favor político ou informação. A confederação interna é instável — diferentes linhagens têm agendas diferentes. Use isso: um Giovanni e um Samedi podem ter visões completamente opostas sobre como a informação dos PCs deve ser usada.
 
@@ -385,17 +392,19 @@ Todos compartilham afinidade com a morte, o mundo espiritual, e o trato com fant
 **Seita:** Em transição — parte na Camarilla, parte no Sabbat  
 **Arquétipo:** Manipuladores, Predadores das Sombras, Políticos do Abismo  
 **Disciplinas:** Dominate, Oblivion, Potence  
-**Fraqueza:** Não refletem em espelhos (nem em câmeras, água, qualquer superfície reflexiva). Tecnologia de reconhecimento facial não os detecta.
+**Fraqueza:** Distorted Image — o reflexo e as gravações de um Lasombra aparecem distorcidos, e a tecnologia moderna reage mal a eles.
 
 Os Lasombra são aristocratas medievais que fundaram o Sabbat e o lideraram por séculos. Na 5ª edição, uma facção significativa decidiu negociar entrada na Camarilla — pagando um preço: entregar um Lasombra de alto escalão para Final Death como "taxa de entrada". A escolha de quem seria sacrificado criou cicatrizes que não fecharam.
 
 Os Lasombra que ficaram no Sabbat são os mais radicais e fanatizados. Os que entraram na Camarilla trazem consigo um estilo de predação diferente — mais aberto, mais disposto a mostrar os dentes.
 
-**Bane:** Sem reflexo em qualquer superfície. Câmeras não os capturam. Isso impede uso de muita tecnologia moderna e torna a Máscara mais difícil em ambientes vigiados. Bane Severity afeta o quão notável é a ausência — em nível alto, até sombras se comportam de forma estranha ao redor deles.
+**Bane — Distorted Image:** O reflexo ou a gravação (ao vivo ou não) de um Lasombra é reconhecido por quem sabe o que procurar; quem não sabe percebe que há algo errado, mas atribui a defeitos do meio. Isso **não esconde a identidade** do vampiro: ele não é menos filmável que outros. Além disso, tecnologia de comunicação moderna (até uma simples chamada) exige um **teste de Technology com Dificuldade 2 + Bane Severity**, pois microfones reagem à voz do Lasombra como câmeras à imagem. Para evitar sistemas eletrônicos de detecção de vampiros, ele sofre **penalidade igual à Bane Severity**. Tecnologia que depende de toque ou interação direta (comando de voz, touch screen, stylus) tende a falhar com eles, e muitos recrutam mortais ou ghouls como atendentes. *(Player's Guide, pp. 29-30)*
 
-**Compulsão de Clã — Dominância:** O vampiro deve demonstrar superioridade sobre alguém presente. Qualquer ação que não estabeleça dominância recebe −2 dados. Dura até submissão visível de outro ser na cena.
+**Compulsão de Clã — Ruthlessness:** O Lasombra escala para métodos cada vez mais implacáveis. Na **próxima vez que falhar em qualquer ação**, recebe **penalidade de 2 dados em todas as rolagens** até uma tentativa futura da mesma ação ter sucesso ou a cena acabar. A penalidade vale também para novas tentativas da própria ação que a disparou. *(Player's Guide, p. 30)*
 
-**Para o Narrador:** Lasombra são os melhores aliados perigosos — sempre têm uma agenda, mas as agendas convergem com a dos PCs com frequência suficiente para construir relações duráveis. Use o reflexo ausente para cenas de tensão (câmera de segurança, foto de grupo, selfie que alguém vai revisar mais tarde). Internamente, os Lasombra que entraram na Camarilla carregam o peso de quem eles sacrificaram para entrar — excelente material para histórias pessoais.
+Detalhes e Banes alternativos (Callousness): [[Clãs do Player's Guide — Banes e Compulsões]].
+
+**Para o Narrador:** Lasombra são os melhores aliados perigosos — sempre têm uma agenda, mas as agendas convergem com a dos PCs com frequência suficiente para construir relações duráveis. Use o reflexo e as gravações distorcidos, e o atrito com a tecnologia, para cenas de tensão (câmera de segurança, foto de grupo, selfie que alguém vai revisar mais tarde, uma ligação que não completa). Internamente, os Lasombra que entraram na Camarilla carregam o peso de quem eles sacrificaram para entrar — excelente material para histórias pessoais.
 
 ---
 
@@ -403,15 +412,17 @@ Os Lasombra que ficaram no Sabbat são os mais radicais e fanatizados. Os que en
 
 **Seita:** Anarquista (majoritariamente) · **Arquétipo:** Tentadores, Agentes do Caos, Cultistas  
 **Disciplinas:** Obfuscate, Presence, Protean  
-**Fraqueza:** Vulnerabilidade extrema a luz solar — sofrem dano agravado adicional equivalente ao Bane Severity em qualquer exposição.
+**Fraqueza:** Abhors the Light — luz brilhante direta penaliza todas as suas dice pools, e a luz do sol causa mais dano Agravado.
 
 Antes conhecidos como Followers of Set, o Ministry é um culto vampírico organizado em torno da adoração a Set — divindade egípcia do caos, deserto e subversão. Na 5ª edição, o clã se reorganizou com nome mais neutro e ênfase em recrutamento: eles se apresentam como "libertadores", oferecendo exatamente o que cada pessoa mais deseja — e cobrando depois.
 
 Operam frequentemente como facilitadores de vícios, corrupção e tentação. Não impõem — seduzem. Um membro do Ministry raramente precisa de coerção quando tem tempo para trabalhar.
 
-**Bane:** Dano agravado adicional de luz solar (Bane Severity em dados extras). Mesmo luz artificial intensa em quantidade suficiente pode ser problema em níveis altos.
+**Bane — Abhors the Light:** Ao ser exposto a iluminação direta, natural ou artificial, o Minister recebe **penalidade igual à Bane Severity em todas as dice pools** quando a luz brilhante é dirigida diretamente a ele. Além disso, **soma a Bane Severity ao dano Agravado** recebido da luz do sol. *(Player's Guide, p. 36; Anarch, The Ministry. O Core não traz o Ministry: confirmado nesses dois suplementos.)*
 
-**Compulsão de Clã — Tentação:** O vampiro deve oferecer algo que a pessoa mais deseja — informação proibida, substância, conexão, prazer. Qualquer ação que não envolva tentar ou seduzir alguém presente recebe −2 dados.
+**Compulsão de Clã — Transgression:** O vampiro recebe **penalidade de 2 dados em todas as dice pools que não visem seduzir alguém (inclusive ele mesmo)** a quebrar um **Chronicle Tenet** ou uma **Conviction** pessoal. Causar **ao menos uma Stain** encerra a Compulsão. *(Player's Guide, p. 36)*
+
+Detalhes e Banes alternativos (Cold-Blooded): [[Clãs do Player's Guide — Banes e Compulsões]] e [[Anarch - Ministry e Cura de Thin-Bloods]].
 
 **Para o Narrador:** Ministry são operadores de informação e facilitadores — sabem o que cada um quer e vendem acesso ao impossível. Como NPCs, aparecem quando os PCs precisam de algo que ninguém mais pode fornecer, e o preço sempre envolve uma transação moral incômoda. Como aliados de longo prazo, o problema é que eles nunca deixam de trabalhar — qualquer relacionamento com um Ministry é ao mesmo tempo genuíno e transacional. Não use como vilões simples; use como tentações com rosto.
 
@@ -421,17 +432,21 @@ Operam frequentemente como facilitadores de vícios, corrupção e tentação. N
 
 **Seita:** Independente · **Arquétipo:** Ilusionistas, Viajantes, Sobreviventes  
 **Disciplinas:** Animalism, Obfuscate, Presence  
-**Fraqueza:** Compulsão constante — cada Ravnos tem um vício ou comportamento compulsivo específico que não consegue suprimir.
+**Fraqueza:** Doomed — o fogo do sol que incinerou o fundador do clã queima no Sangue de quem se estabelece por muito tempo no mesmo lugar.
 
 Os Ravnos são nômades — historicamente ligados a comunidades Roma e a tradições de ilusionismo e engano. Na 5ª edição, o clã foi quase destruído durante a "Semana de Pesadelos" — uma catástrofe em que seu Antediluviano despertou brevemente e causou carnificina entre seus próprios descendentes antes de ser morto por uma coalizão de forças mortais e sobrenaturais.
 
 Os sobreviventes são raros, paranóicos, e extraordinariamente adaptáveis. Muitos são Caitiff funcionais — sem acesso a tutor de linhagem, aprendem Disciplinas como podem.
 
-**Bane — Condenados pelo Fogo Solar:** O sangue dos Ravnos carrega a marca do despertar catastrófico de seu Antediluviano. Se um Ravnos dormir no mesmo refúgio mais de uma vez em 7 noites consecutivas, ao despertar deve rolar um número de dados igual ao seu Bane Severity; cada resultado 10 inflige 1 ponto de Dano Agravado de Saúde. Os sobreviventes são quase todos nômades compulsivos por necessidade tanto quanto por natureza.
+**Bane — Doomed:** Se o Ravnos dormir (daysleep) no mesmo lugar **mais de uma vez em sete noites**, rola uma quantidade de dados igual à **Bane Severity** e sofre **dano Agravado** igual ao número de **10s (critical results)**. Isso ocorre a cada vez que passa o dia num local onde dormiu há menos de uma semana, e também vale se estiver em **torpor**. O que conta como "local" depende da escala da crônica; salvo indicação, dois locais de descanso precisam estar a **pelo menos uma milha** de distância. Um **refúgio móvel** (ex.: caminhão de mudança) é seguro desde que o ponto onde está estacionado fique a pelo menos uma milha do último local. **Ravnos não podem escolher o Defeito No Haven na criação.** *(Player's Guide, p. 42; Companion, Ravnos)*
 
-**Compulsão de Clã — Destino Tentador:** Quando a Compulsão se manifesta, o vampiro identifica a solução mais arriscada e dramática possível para qualquer problema presente — e deve agir por ela. Qualquer abordagem mais cautelosa ou segura recebe −2 dados até que o Ravnos ou tente a abordagem perigosa ou a situação seja resolvida.
+**Compulsão de Clã — Tempting Fate:** Na próxima vez que enfrentar um problema, qualquer tentativa de solução **que não seja a mais ousada ou perigosa** sofre **penalidade de 2 dados**; tentativas suficientemente chamativas e arriscadas podem até merecer **dados de bônus** (a critério do Narrador). Persiste até o problema ser resolvido ou novas tentativas se tornarem impossíveis. *(Player's Guide, p. 42)*
 
-**Para o Narrador:** Ravnos são excelentes como contatos de fora da cidade que chegam com informação (e problemas). O Bane cria pressão natural de movimento — um PC Ravnos não pode sentar-se numa cidade por muito tempo. Bom para campanhas itinerantes ou como motivo para o grupo mudar de cenário. A Compulsão "Destino Tentador" é um motor narrativo: use-a para forçar decisões dramáticas em momentos de tensão.
+**Animalism:** a critério do Narrador, reduza em 1 a Dificuldade de testes de Animalism com **corvos, raposas, coiotes, aranhas e macacos**, e aumente-a para os demais animais. *(Player's Guide, p. 41)*
+
+Detalhes e Banes alternativos (Unbirth Name): [[Clãs do Player's Guide — Banes e Compulsões]] e [[Clãs do Companion]]. Merit de coterie: [[Merits de Coterie por Clã]].
+
+**Para o Narrador:** Ravnos são excelentes como contatos de fora da cidade que chegam com informação (e problemas). O Bane cria pressão natural de movimento: o Ravnos precisa mudar de local de repouso a cada noite (ou manter um refúgio móvel), a pelo menos uma milha do anterior. Bom para campanhas itinerantes ou como motivo para o grupo mudar de cenário. A Compulsão Tempting Fate é um motor narrativo: use-a para forçar decisões dramáticas em momentos de tensão.
 
 ---
 
@@ -439,17 +454,19 @@ Os sobreviventes são raros, paranóicos, e extraordinariamente adaptáveis. Mui
 
 **Seita:** Independente (raros) · **Arquétipo:** Curandeiros, Monges, Caçados  
 **Disciplinas:** Auspex, Dominate, Fortitude  
-**Fraqueza:** Terceiro olho literal — um olho extra na testa abre quando usam Disciplinas. Impossível de esconder.
+**Fraqueza:** Hunted — o terceiro olho é sempre presente e chora vitae quando usam Disciplinas, e o Sangue Salubri provoca hunger frenzy em outros Kindred.
 
 Os Salubri são quase uma lenda. Acreditava-se que o clã havia sido destruído pelos Tremere, que os caçaram sistematicamente para roubar seu poder e legitimidade. Na 5ª edição, alguns sobrevivem — em números pequenos, vivendo em segredo, frequentemente como monges ou curandeiros que oferecem seus serviços em troca de proteção.
 
 Sua reputação é duplamente distorcida: os Tremere os descreveram por séculos como manipuladores perigosos para justificar a caça. A verdade é mais complexa — os Salubri têm código de ética rígido e tendem a ajudar mortais e Kindred feridos, o que os torna alvos fáceis.
 
-**Bane — O Terceiro Olho:** Toda vez que o Salubri ativa uma Disciplina, o terceiro olho na testa se abre. Kindred de geração mais alta, qualquer vampiro com Auspex 3+ ou usando Sense the Unseen, e qualquer mortal que veja diretamente perceberão o olho. Em público, qualquer uso de Disciplina é uma possível quebra automática da Máscara. O olho não pode ser coberto ou fechado por meios mundanos. Bane Severity aplica-se como penalidade adicional em testes sociais com Tremere e qualquer Kindred que saiba identificar o clã.
+**Bane — Hunted:** Duas partes. (1) Quando um **não-Salubri** bebe sangue de Salubri e sacia ao menos um nível de Hunger, precisa de um **teste de hunger frenzy** (Core, p. 220) com **Dificuldade 2 + Bane Severity do Salubri** (**3 + Bane Severity para Banu Haqim**); se falhar, continua bebendo, a ponto de ter de ser afastado à força. (2) O **terceiro olho** é sempre presente: pode ser coberto fisicamente (lenço, capuz), mas nenhum poder sobrenatural o esconde, exceto os que escondem o Salubri inteiro. Sempre que o Salubri **ativa um poder de Disciplina**, o olho **chora vitae**, com intensidade proporcional ao nível da Disciplina, e o fluxo provoca um **teste de hunger frenzy** em vampiros próximos com **Hunger 4 ou mais**. *(Player's Guide, p. 47)*
 
-**Compulsão de Clã — Empatia Afetiva:** Quando a Compulsão se manifesta, a dor ou sofrimento de outro — mortal ou Kindred — na cena torna-se insuportável para o vampiro. Deve endereçar esse sofrimento diretamente; se impossível, deve ao menos tentar. Qualquer ação não direcionada a ajudar quem sofre recebe −2 dados.
+**Compulsão de Clã — Affective Empathy:** O Salubri fica tomado de empatia por um problema pessoal de alguém na cena (a escala não importa) e busca resolvê-lo. **Toda ação que não vise mitigar essa tragédia sofre penalidade de 2 dados.** Persiste até o fardo do sofredor ser aliviado, uma crise mais imediata se sobrepor ou a cena acabar. *(Player's Guide, pp. 47-48)*
 
-**Para o Narrador:** Salubri são melhores como personagens raros e perturbadores — um curador que cobra um preço que você não esperava, um fugitivo que os PCs precisam proteger de um Tremere implacável, ou um mentor que desaparece no momento errado. O terceiro olho cria tensão mecânica constante: toda cura ou uso de Disciplina em combate é uma decisão arriscada. Como PC, requerem um narrador disposto a criar situações onde a Compulsão seja interessante, não apenas punitiva.
+> O Companion não traz o Bane nem a Compulsão Salubri no texto extraído; as regras acima vêm do Player's Guide. Detalhes e Banes alternativos (Asceticism): [[Clãs do Player's Guide — Banes e Compulsões]] e [[Clãs do Companion]].
+
+**Para o Narrador:** Salubri são melhores como personagens raros e perturbadores — um curador que cobra um preço que você não esperava, um fugitivo que os PCs precisam proteger de um Tremere implacável, ou um mentor que desaparece no momento errado. O terceiro olho que chora vitae cria tensão mecânica constante: todo uso de Disciplina em público é arriscado, e o sangue do Salubri é um perigo para quem o prova. Como PC, requerem um narrador disposto a criar situações onde a Compulsão seja interessante, não apenas punitiva.
 
 ---
 
@@ -459,17 +476,17 @@ Sua reputação é duplamente distorcida: os Tremere os descreveram por séculos
 **Seita:** Nenhuma formal · **Arquétipo:** Sobreviventes à margem, Alquimistas, Catalisadores  
 **Disciplinas:** Variável, fracas · **Vantagem única:** Thin-blood Alchemy
 
-Thin-Bloods são vampiros de geração muito alta (14ª, 15ª) cujo Sangue é tão diluído que mal conta como vitae. São mais humanos do que vampiros em muitos aspectos: alguns conseguem comer comida, alguns sentem batimento cardíaco fraco, alguns toleram luz solar com desconforto mas sem dano imediato.
+Thin-Bloods são vampiros de geração muito alta (14ª a 16ª) cujo Sangue é tão diluído que mal conta como vitae. São mais humanos do que vampiros em muitos aspectos: sofrem dano como mortais, só entram em frenesi por meios sobrenaturais e sofrem apenas um ponto de dano Superficial por turno sob sol direto (Core, pp. 109-112 e 215).
 
 Na hierarquia Kindred, são o degrau mais baixo — abaixo dos Caitiff. A maioria das facções os trata como mortais com problema ou como sintoma do fim dos tempos (profecia diz que o surgimento em massa de thin-bloods precede a Gehenna).
 
-**Mecânicas:**
-- Não podem Abraçar de forma confiável — tentativas frequentemente resultam em morte do alvo ou criação de outro thin-blood
-- Disciplinas aprendidas são instáveis — cada uso pode requerer rouse check adicional
-- Alimentação é menos eficiente — hunger sobe mais rápido
-- Podem ter *thin-blood merits* específicos: resistência solar, digestão de comida, aparência mais mortal
+**Mecânicas (Core):**
+- Blood Potency 0, sem clã, sem Bane nem Compulsão de clã (a não ser pelo Flaw Clan Curse)
+- Não criam Blood Bonds, não realizam o Abraço com certeza e não criam ghouls (a não ser pelo Merit Catenating Blood)
+- Não têm Disciplinas iniciais: ganham uma Disciplina temporária conforme a Resonance do sangue bebido
+- Têm Merits e Flaws próprios (sem custo em dots), de um a três de cada na criação
 
-**Thin-blood Alchemy:** A habilidade característica. Usando seu vitae diluído como base, thin-bloods podem preparar fórmulas alquímicas que imitam efeitos de Disciplinas. Lento, requer ingredientes, mas contorna a limitação de sangue fraco. Ver [[Mecânicas/Disciplinas#Thin-blood Alchemy|Thin-blood Alchemy]].
+**Thin-blood Alchemy:** A habilidade característica. Misturando a própria vitae com sangue humano de Resonance forte, thin-bloods preparam fórmulas que imitam poderes de Disciplinas. Ver [[Sangue Fraco]], [[Mecânicas/Disciplinas#Thin-blood Alchemy|Thin-blood Alchemy]], [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]] e [[Player's Guide — Castoffs]] (suplemento).
 
 ---
 
@@ -477,17 +494,19 @@ Na hierarquia Kindred, são o degrau mais baixo — abaixo dos Caitiff. A maiori
 
 **Seita:** Sabbat (majoritariamente) · **Arquétipo:** Transformistas, Territoriais, Aristocratas do Horror  
 **Disciplinas:** Animalism, Dominate, Protean  
-**Fraqueza:** Territorialismo extremo — devem dormir rodeados por aquilo que consideram "sua carga" (domínio físico, grupo, organização).
+**Fraqueza:** Grounded — devem passar o daysleep cercados por aquilo que consideram sua "charge" (domínio físico, grupo, organização).
 
-Os Tzimisce são o coração filosófico e estético mais extremo do Sabbat. Mestres da Vicissitude — a capacidade de remodelar carne e osso como argila — constroem sua identidade inteira em torno da ideia de que o corpo é uma obra inacabada. Alguns esculpem a si mesmos em formas de beleza impossível. Outros em monstros funcionais.
+Os Tzimisce são o coração filosófico e estético mais extremo do Sabbat. Mestres da Vicissitude (suplementos) — a capacidade de remodelar carne e osso como argila — constroem sua identidade inteira em torno da ideia de que o corpo é uma obra inacabada. Alguns esculpem a si mesmos em formas de beleza impossível. Outros em monstros funcionais.
 
 São profundamente territoriais e alienígenas em sua psicologia. Um Tzimisce estabelece um domínio e o defende com ferocidade irracional. Convidados são tratados com hospitalidade elaborada — e punidos com extrema crueldade se a violarem.
 
-**Bane — Senhor do Domínio:** O Tzimisce deve dormir rodeado fisicamente pelo que define como sua "carga" — o objeto de sua posse obsessiva. Isso pode ser um domínio geográfico (o castelo e suas redondezas), um grupo (uma coterie, uma gangue, um culto), ou uma organização. Se despertar sem ter dormido rodeado por isso, sofre Dano Agravado de Willpower igual ao Bane Severity. Em níveis altos, o Tzimisce precisa que sua "carga" esteja literalmente presente no quarto — não apenas por perto.
+**Bane — Grounded:** Cada Tzimisce escolhe uma **"charge"** específica, clara e delimitada: um domínio físico (o castelo e suas redondezas), um grupo de pessoas (uma coterie, uma gangue, um culto), uma organização, ou algo mais esotérico. Deve **passar o daysleep cercado por ela**; historicamente isso significou dormir no solo da própria terra, mas também pode ser cercar-se de um tipo de gente, de um prédio ligado à obsessão ou de uma facção contracultural. Se não o fizer, sofre **dano Agravado de Willpower igual à Bane Severity** ao acordar na noite seguinte. *(Player's Guide, p. 54; Companion, Tzimisce)*
 
-**Compulsão de Clã — Cobiça:** Quando a Compulsão se manifesta, o vampiro identifica algo na cena que deseja possuir — objeto, pessoa, informação, vantagem. Deve agir para adquirir ou controlar isso. Qualquer ação não direcionada a essa posse recebe −2 dados.
+**Compulsão de Clã — Covetousness:** O Tzimisce fica obcecado em possuir algo na cena (objeto, propriedade ou pessoa). **Toda ação que não vise isso sofre penalidade de 2 dados.** Persiste até a posse ser estabelecida (o Narrador decide o que é "posse" se não for um objeto) ou o objeto de desejo se tornar inalcançável. *(Player's Guide, p. 54)*
 
-**Para o Narrador:** Tzimisce são excelentes antagonistas — o senhor do castelo que convida os PCs para jantar e pune qualquer violação da hospitalidade com violência disproportional. Como aliados são perturbadores: a lealdade é real, mas possessiva. Um PC Tzimisce precisa definir sua "carga" na criação — é uma ótima fonte de ganchos de história. Protean no lugar de Vicissitude é mecânico; narrativamente, os Tzimisce continuam sendo os maiores mestres de modelagem de carne do Mundo das Trevas.
+Detalhes e Banes alternativos (Cursed Courtesy): [[Clãs do Player's Guide — Banes e Compulsões]] e [[Clãs do Companion]]. Poderes de Vicissitude: [[Poderes do Companion]] e [[Player's Guide — Poderes de Disciplina]].
+
+**Para o Narrador:** Tzimisce são excelentes antagonistas — o senhor do castelo que convida os PCs para jantar e pune qualquer violação da hospitalidade com violência disproportional. Como aliados são perturbadores: a lealdade é real, mas possessiva. Um PC Tzimisce precisa definir sua "charge" na criação — é uma ótima fonte de ganchos de história. O Core lista Protean entre as Disciplinas do clã; os suplementos (Companion e Player's Guide) trazem regras de **Vicissitude**, a modelagem de carne e osso pela qual os Tzimisce são conhecidos.
 
 ---
 
@@ -495,22 +514,22 @@ São profundamente territoriais e alienígenas em sua psicologia. Um Tzimisce es
 
 | Clã | Seita Principal | Disciplinas | Bane (resumo) |
 |-----|----------------|-------------|---------------|
-| Banu Haqim | Camarilla | Celerity, Obfuscate, Blood Sorcery | Atração por sangue Kindred |
-| Brujah | Anarquista | Celerity, Potence, Presence | Frenesi mais fácil |
-| Caitiff | Qualquer | 3 variáveis | Sem clã = sem proteção |
-| Gangrel | Independente | Animalism, Fortitude, Protean | Traços animais após frenesi |
-| Hecata | Independente | Auspex, Fortitude, Oblivion | Dor dupla + ritual de alimentação |
-| Lasombra | Camarilla/Sabbat | Dominate, Oblivion, Potence | Sem reflexo |
-| Malkavian | Camarilla | Auspex, Dominate, Obfuscate | Transtorno mental permanente |
-| Ministry | Anarquista | Obfuscate, Presence, Protean | Luz solar extra-letal |
-| Nosferatu | Camarilla | Animalism, Obfuscate, Potence | Aparência monstruosa |
-| Ravnos | Independente | Animalism, Obfuscate, Presence | Nômade compulsório; fogo solar no sangue |
-| Salubri | Independente | Auspex, Dominate, Fortitude | Terceiro olho abre ao usar Disciplinas |
-| Thin-Blood | — | Fraca/variável | Sangue diluído — múltiplas limitações |
-| Toreador | Camarilla | Auspex, Celerity, Presence | Paralisia por beleza |
-| Tremere | Camarilla | Auspex, Dominate, Blood Sorcery | Vínculo interno do clã |
-| Tzimisce | Sabbat | Animalism, Dominate, Protean | Necessita dormir rodeado de "sua carga" |rmir |
-| Ventrue | Camarilla | Dominate, Fortitude, Presence | Alimentação restrita a tipo específico |
+| Banu Haqim | Camarilla | Celerity, Obfuscate, Blood Sorcery | Blood Addiction: hunger frenzy ao saciar Hunger com vitae vampírica |
+| Brujah | Anarquista | Celerity, Potence, Presence | Violent Temper: -Bane Severity dados para resistir a frenesi de fúria |
+| Caitiff | Qualquer | Quaisquer (custo ×6) | Sem Bane; Defeito Suspect e sem Status positivo |
+| Gangrel | Independente | Animalism, Fortitude, Protean | Bestial Features: traços animais após frenesi |
+| Hecata | Independente | Auspex, Fortitude, Oblivion | Painful Kiss: só harmful drinks |
+| Lasombra | Camarilla/Sabbat | Dominate, Oblivion, Potence | Distorted Image: reflexo distorcido e teste de Technology |
+| Malkavian | Camarilla | Auspex, Dominate, Obfuscate | Fractured Perspective: penalidade por categoria de pool |
+| Ministry | Anarquista | Obfuscate, Presence, Protean | Abhors the Light: penalidade sob luz direta e mais dano de sol |
+| Nosferatu | Camarilla | Animalism, Obfuscate, Potence | Repulsiveness: Repulsive (-2) e disfarce penalizado |
+| Ravnos | Independente | Animalism, Obfuscate, Presence | Doomed: dano Agravado ao repousar duas vezes em 7 noites (regra de 1 milha) |
+| Salubri | Independente | Auspex, Dominate, Fortitude | Hunted: sangue provoca hunger frenzy; terceiro olho chora vitae |
+| Thin-Blood | — | Temporárias (Resonance) | Sem clã; Blood Potency 0; Merits e Flaws próprios |
+| Toreador | Camarilla | Auspex, Celerity, Presence | Aesthetic Fixation: -Bane Severity dados em Disciplinas em ambientes feios |
+| Tremere | Camarilla | Auspex, Dominate, Blood Sorcery | Deficient Blood: não vincula Kindred |
+| Tzimisce | Sabbat | Animalism, Dominate, Protean | Grounded: dormir cercado por sua "charge" |
+| Ventrue | Camarilla | Dominate, Fortitude, Presence | Rarefied Tastes: só se alimenta da preferência |
 ---
 
-*Ver também:* [[Mecânicas/Disciplinas]] · [[Mecânicas/Gerações e Potência]] · [[Mecânicas/Advantages]] · [[Lore/Kindred]] · [[Mecânicas/Character]]
+*Ver também:* [[Clãs do Player's Guide — Banes e Compulsões]] · [[Clãs do Companion]] · [[Merits de Coterie por Clã]] · [[Camarilla - Banu Haqim]] · [[Anarch - Ministry e Cura de Thin-Bloods]] · [[Player's Guide — Castoffs]] · [[Sangue Fraco]] · [[Mecânicas/Disciplinas]] · [[Mecânicas/Gerações e Potência]] · [[Mecânicas/Advantages]] · [[Lore/Kindred]] · [[Mecânicas/Character]]

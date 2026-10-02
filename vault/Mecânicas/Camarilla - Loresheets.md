@@ -110,6 +110,6 @@ Toreador de grande influência, escolhida para selar o Vermilion Wedding. Sem re
 - [[Advantages]]
 - [[Frenzy]]
 - [[Diablerie, Blood Bond, Ghouls]]
-- [[Camarilla - Conflito Institucional]]
+- Camarilla - Conflito Institucional
 - [[Camarilla - Banu Haqim]]
 - [[Lore/Camarilla]]

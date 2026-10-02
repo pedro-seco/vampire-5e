@@ -182,7 +182,14 @@ Como também é possível **Perder Potência de Sangue:**
 - A Potência do Sangue de um vampiro nunca pode cair abaixo do mínimo para sua geração, nem ser aumentada além do máximo. 
 - **Thin-bloods** nunca podem aumentar sua Potência do Sangue, a menos que realizem [[Diablerie, Blood Bond, Ghouls|diablerie]] para atingir a 13ª geração ou superior.
 
-Abaixo, você pode ver os efeitos em cada nível de ***Blood Potency***.
+Abaixo, você pode ver os efeitos em cada nível de ***Blood Potency***. Os valores são os do Core (pp. 215–216).
+
+> [!note] Regras opcionais do Companion (Blood Surge +1 e Bane Severity +1)
+> O *Companion* (Parte IV, "Errata and Rules Update") traz duas **regras opcionais** que alteram a tabela abaixo, e só valem se a crônica permitir:
+> - **Blood Surge +1:** soma 1 ao dado de Blood Surge em todos os níveis de Blood Potency (a faixa passa de 0-5 para 1-6 dados); com isso, thin-bloods também ganham o Blood Surge, com 1 dado.
+> - **Bane Severity +1:** soma 1 à Bane Severity em todos os níveis (a faixa passa de 0-5 para 1-6). Os thin-bloods também ganham Bane Severity, mas costumam ignorá-la, exceto com o Flaw Clan Curse.
+>
+> As demais colunas da tabela (dano curado por Rouse Check, bônus de poder de Disciplina, re-roll de Rouse Check, feeding penalty) não mudam. Tabela revisada, comentários do designer e dúvidas sobre a leitura do texto: [[Errata do Companion]].
 
 ---
 ### Blood Potency 0
@@ -304,4 +311,4 @@ Você está à beira de se tornar um [[#Elders|elder]], a apenas um passo tentad
 - Estão incluídos na tabela de Potência do Sangue apenas para **propósitos narrativos do Storyteller**, como vilões ou figuras lendárias.
 ---
 
-*Ver também:* [[Mecânicas/Clãs]] · [[Mecânicas/Disciplinas]] · [[Mecânicas/Diablerie, Blood Bond, Ghouls]] · [[Lore/Antediluvianos]] · [[Lore/Jyhad]]
+*Ver também:* [[Errata do Companion]] · [[Sangue Fraco]] · [[Player's Guide — Criação Rápida e Referências de Personagem]] · [[Player's Guide — Castoffs]] · [[XP#Blood Potency|XP (custo de Blood Potency)]] · [[Mecânicas/Clãs]] · [[Mecânicas/Disciplinas]] · [[Mecânicas/Diablerie, Blood Bond, Ghouls]] · [[Lore/Antediluvianos]] · [[Lore/Jyhad]]

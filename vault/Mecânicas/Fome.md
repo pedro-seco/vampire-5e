@@ -99,6 +99,8 @@ Entrementes, o livro oferece algumas outras opções:
 ---
 # Compulsões
 Compulsões ocorrem em Bestial Failures.
+
+> **Regra opcional (Companion):** o Companion permite que Compulsões também surjam de **Messy Criticals**, não só de Bestial Failures (previsto para futuras impressões do Core). Só vale se a crônica adotar o Companion. Ver [[Errata do Companion#Compulsões a partir de Messy Criticals|Errata do Companion]].
 Quando a **Fome** sutilmente o conduz a ações ditadas por seu sangue ele pode ser forçado a enfrentar uma **Compulsão**. Essas compulsões podem refletir traços associados ao fundador do clã, mas também podem variar para evitar estereótipos.
 
 ![[Pasted image 20241126193058.png]]
@@ -252,4 +254,4 @@ Infelizmente, para a comunidade vampírica, a maior parte do sangue de supriment
 No entanto, Tremere e alquimistas de [[Sangue Fraco]] às vezes conseguem usar sangue em bolsa e derivados sanguíneos em seus **Rituais** e **Fórmulas**. O ato de realizar um **Ritual de Feitiçaria de Sangue** ou destilação desperta a [[Resonance|Ressonância]] latente, mas a consome instantaneamente.
 ---
 
-*Ver também:* [[Mecânicas/Hunting and Feeding]] · [[Mecânicas/Frenzy]] · [[Mecânicas/Resonance]] · [[Mecânicas/Predator Type]] · [[Mecânicas/Perigos do Sangue]]
+*Ver também:* [[Mecânicas/Hunting and Feeding]] · [[Mecânicas/Frenzy]] · [[Mecânicas/Resonance]] · [[Mecânicas/Predator Type]] · [[Mecânicas/Perigos do Sangue]] · [[Errata do Companion]]

@@ -54,7 +54,9 @@ Advantages e Flaws representam recursos, conexões e circunstâncias que definem
 
 **Regra geral:** cada ponto em um Advantage custa 1 ponto de background na criação. Flaws concedem pontos extras, mas o Narrador tem veto sobre quais são apropriados para a campanha.
 
-**Ver também:** [[Kindred]] · [[Coteries]] · [[Humanidade]] · [[Lore/Camarilla]] · [[Lore/Anarquistas]]
+**Material de suplemento (só vale se a crônica permitir):** [[Player's Guide — Backgrounds, Merits e Flaws]] · [[Player's Guide — Castoffs]] · [[Advantages de Ghoul e Mortal]] · [[Camarilla - Loresheets]]
+
+**Ver também:** [[Kindred]] · Coteries · [[Humanidade]] · [[Lore/Camarilla]] · [[Lore/Anarquistas]]
 
 ---
 
@@ -174,7 +176,7 @@ Línguas além da nativa. Cada ponto concede fluência em um idioma (escrita e f
 ---
 
 ### Loresheets ●–●●●●●
-Vínculos com linhagens históricas específicas, facções ou conhecimento proibido. Os efeitos dependem da Loresheet escolhida (ver capítulo correspondente no livro). Concedem habilidades únicas ou informações ligadas a essa história particular.
+Vínculos com linhagens históricas específicas, facções ou conhecimento proibido. Os efeitos dependem da Loresheet escolhida (ver capítulo correspondente no livro). Concedem habilidades únicas ou informações ligadas a essa história particular. Veja a lista em [[Loresheets]]; as loresheets da Camarilla, com as Advantages por nível, estão em [[Camarilla - Loresheets]] (suplemento; só vale se a crônica permitir).
 
 ---
 

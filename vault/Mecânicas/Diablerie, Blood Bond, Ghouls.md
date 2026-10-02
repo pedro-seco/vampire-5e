@@ -170,6 +170,7 @@ Este processo ocorre da seguinte forma:
 
 1. **Perda de Humanidade:**
     - O diablerista perde 1 ponto de [[Humanidade]] imediatamente.
+    - *Exceção (Anarch, suplemento):* o 5º nível da loresheet Agata Starek (*The Joy of Transgression*) elimina essa perda automática ao diablerizar alguém com mais Sect status que o diablerista; a perda decorrente da rolagem dos efeitos da diablerie continua valendo. Veja [[Anarch - Loresheets#Agata Starek]]. Só vale se a crônica permitir.
 
 2. **Conflito Espiritual:**
     - O diablerista realiza um teste de ***(Humanity + sua própria [[Gerações e Potência#Blood Potency|Blood Potency]]***) vs o ***(Resolve + Blood Potency)*** da vítima.
@@ -188,4 +189,4 @@ Este processo ocorre da seguinte forma:
 	Elas persistem por um ano ou, caso a geração do diablerista fosse inferior à de sua presa, permanecem por um número de anos igual à diferença original de gerações.
 ---
 
-*Ver também:* [[Mecânicas/Humanidade]] · [[Mecânicas/Fome]] · [[Mecânicas/Gerações e Potência]] · [[Lore/Jyhad]] · [[Mecânicas/Perigos do Sangue]]
+*Ver também:* [[Mortais e Ghouls Jogáveis]] · [[Advantages de Ghoul e Mortal]] · [[Anarch - Loresheets#Agata Starek]] · [[Mecânicas/Humanidade]] · [[Mecânicas/Fome]] · [[Mecânicas/Gerações e Potência]] · [[Lore/Jyhad]] · [[Mecânicas/Perigos do Sangue]]

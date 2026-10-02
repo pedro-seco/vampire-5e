@@ -13,6 +13,7 @@ O tipo sanguínio é expresso como Resonance. A não ser que esteja buscando sob
     - [[#Por que isso é importante?|Por que isso é importante?]]
 - [[#Resonance: Aplicação e Regras In-Game|Resonance: Aplicação e Regras In-Game]]
     - [[#Disciplinas e Resonance|Disciplinas e Resonance]]
+- [[#Suplementos (opcional)|Suplementos (opcional)]]
 
 ---
 
@@ -69,6 +70,14 @@ Beber o sangue de uma vítima com [[Hunting and Feeding#Determinando Resonance d
 > *bonus lasts until the vampire’s next drink of blood dilutes*
 > *it, or until the vampire’s system empties of blood when their Hunger reaches 5.*" 
 > pg. 228
+## Suplementos (opcional)
+
+Material de suplemento, só vale se a crônica permitir:
+
+- **Reveal Temperament** (Auspex 2, Player's Guide) sente a Resonance e as Dyscrasias de um mortal. Ver [[Player's Guide — Poderes de Disciplina#Reveal Temperament (Nível 2)|Reveal Temperament]].
+- **Gorgon's Scales** (Fortitude 4, Player's Guide) dá resistências conforme a Resonance do sangue mais recente (Choleric, Melancholy, Phlegmatic, Sanguine) e a consome. Ver [[Player's Guide — Poderes de Disciplina#Gorgon's Scales (Nível 4)|Gorgon's Scales]].
+- **Fórmulas de Thin-Blood Alchemy** de Blood Sigils pedem sangue mortal de humores específicos como ingrediente. Ver [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]].
+
 ---
 
-*Ver também:* [[Mecânicas/Hunting and Feeding]] · [[Mecânicas/Fome]] · [[Mecânicas/Dyscrasias]] · [[Mecânicas/Disciplinas]]
+*Ver também:* [[Mecânicas/Hunting and Feeding]] · [[Mecânicas/Fome]] · [[Mecânicas/Dyscrasias]] · [[Mecânicas/Disciplinas]] · [[Player's Guide — Poderes de Disciplina]] · [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]]

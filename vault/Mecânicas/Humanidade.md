@@ -178,6 +178,8 @@ As regras para esse nível de _Humanidade_ funcionam da mesma forma que o nível
 
 - Você não consegue mais realizar ou até mesmo fingir a relação sexual, nem mesmo com [[Kindred#Blush of Life|Blush of Life]].
 
+>**Mortais (Player's Guide e Companion):** mortais jogáveis com **Humanity 3 ou menos** ganham uma Compulsion que surge em todo total failure e que não pode ser evitada com Willpower. Só vale se a crônica permitir mortais jogáveis. Ver [[Mortais e Ghouls Jogáveis#Humanity|Mortais e Ghouls Jogáveis]].
+
 ---
 ### Humanidade Nível 2
 
@@ -494,4 +496,4 @@ Assim, um bom **Desejo** deve se conectar de alguma forma com o mundo externo.
 >**Para O Narrador**: O Narrador deve avaliar se Desejos que envolvem personagens de outros jogadores se enquadram no espírito de incentivar interações significativas ou apenas na tentativa preguiçosa de obter Força de Vontade gratuitamente.
 ---
 
-*Ver também:* [[Mecânicas/Frenzy]] · [[Mecânicas/Fome]] · [[Mecânicas/Diablerie, Blood Bond, Ghouls]] · [[Mecânicas/Character]] · [[Mecânicas/XP]]
+*Ver também:* [[Mecânicas/Frenzy]] · [[Mecânicas/Fome]] · [[Mecânicas/Diablerie, Blood Bond, Ghouls]] · [[Mecânicas/Character]] · [[Mecânicas/XP]] · [[Mecânicas/Mortais e Ghouls Jogáveis]]

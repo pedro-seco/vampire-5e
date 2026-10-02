@@ -2,7 +2,7 @@
 
 # Player's Guide — Oblivion e Cerimônias
 
-> A Disciplina **Oblivion** completa do *Players Guide* (regras gerais, 19 poderes de Nível 1 a 5, tabela de densidade do véu) e as **Oblivion Ceremonies**, o equivalente dos Rituais de Blood Sorcery.
+> A Disciplina **Oblivion** completa do *Players Guide* (regras gerais, 18 poderes de Nível 1 a 5, tabela de densidade do véu) e as **Oblivion Ceremonies**, o equivalente dos Rituais de Blood Sorcery.
 
 > [!warning] Material de suplemento
 > Conteúdo do *Vampire: The Masquerade — Players Guide*. Só vale se a crônica permitir. **Atenção:** a seção Oblivion de [[Disciplinas]] não bate com este livro (ver "Divergências com a vault" no fim); o livro prevalece.

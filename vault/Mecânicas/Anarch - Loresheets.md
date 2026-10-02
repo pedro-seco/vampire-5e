@@ -178,5 +178,5 @@ Ligação com os eventos da Revolta Anarch dos séculos XIV-XV. *(Fonte: Anarch,
 - [[Humanidade]] — Stains, Convictions e Tenets
 - [[Frenzy]] · [[Clãs]]
 - [[Anarch - Ministry e Cura de Thin-Bloods]]
-- [[Anarch - Response Algorithm]]
+- Anarch - Response Algorithm
 - [[Lore/Anarquistas]]

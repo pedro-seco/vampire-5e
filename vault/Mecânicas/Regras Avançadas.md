@@ -7,6 +7,8 @@ pág. 289
 
 # Extended Tests
 
+>**Projects (Player's Guide):** para objetivos de longo prazo (Projects), o Player's Guide traz um sistema simplificado com milestones e tentativas, incluindo Projects colaborativos e opostos. Só vale se a crônica permitir. Ver [[Player's Guide — Memoriam, Projects e Touchstones#Projects|Projects]].
+
 # Sumário
 
 - [[#Mecânicas Adicionais de Conflitos|Mecânicas Adicionais de Conflitos]]
@@ -464,4 +466,4 @@ O vencedor do combate social alcança os **objetivos previamente acordados** no 
 O Narrador pode impor penalidades adicionais ao perdedor em interações futuras com o vencedor, pelo menos até que a memória do confronto se dissipe.
 ---
 
-*Ver também:* [[Mecânicas/Regras Fundamentais]] · [[Mecânicas/Dificuldade, Contests e Conflitos]] · [[Mecânicas/Dano]] · [[Mecânicas/Frenzy]]
+*Ver também:* [[Mecânicas/Regras Fundamentais]] · [[Mecânicas/Dificuldade, Contests e Conflitos]] · [[Mecânicas/Dano]] · [[Mecânicas/Frenzy]] · [[Player's Guide — Memoriam, Projects e Touchstones]]

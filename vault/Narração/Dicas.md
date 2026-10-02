@@ -66,6 +66,8 @@ Perguntas para cada NPC importante:
 
 NPCs que só reagem aos PJs são planos. NPCs que *agem* criam a ilusão de um mundo vivo.
 
+Para fichas prontas (suplementos, só valem se a crônica permitir): [[Player's Guide — Antagonistas Consolidados]], [[Sabbat — Antagonistas]] e [[Blood Sigils - Antagonistas e Criaturas]]. Para a reação das autoridades a uma célula Anarch, [[Anarch - Response Algorithm]]; para disputas entre instituições humanas, [[Camarilla - Conflito Institucional]].
+
 ---
 
 ## Coteries e Tensão Interna
@@ -106,9 +108,10 @@ Cada arco deve ter pelo menos um segredo que os jogadores podem descobrir se inv
 - Estabeleça pistas antes de precisar delas. Se o Príncipe tem um segredo, plante dois sinais dele antes de qualquer cena de confronto.
 - Revelações funcionam melhor quando vêm dos jogadores, não do Narrador. Deixe-os concluir, mesmo que concluam errado.
 - Segredos sobre NPCs que os jogadores já conhecem e gostam são mais impactantes do que segredos sobre estranhos.
+- Para crônicas com sangue, alquimia e feitiçaria como pano de fundo, [[Blood Sigils - Artefatos, Tomos e Mistérios]] traz artefatos, tomos e mistérios prontos; [[Blood Sigils - A Cena Blood Craft]] e [[Blood Sigils - Crônica, Tenets e Loresheets]] ajudam a montar a crônica (suplemento Blood Sigils, só vale se a crônica permitir).
 
 ---
 
 ## Ver Também
 
-[[Narração/Guia do Narrador]] · [[Narração/Mapa de Relacionamentos]] · [[Narração/Coteries]] · [[Mecânicas/Humanidade]] · [[Mecânicas/Fome]] · [[Mecânicas/Frenzy]] · [[Lore/Segunda Inquisição]]
+[[Narração/Guia do Narrador]] · [[Narração/Mapa de Relacionamentos]] · [[Narração/Coteries]] · [[Mecânicas/Humanidade]] · [[Mecânicas/Fome]] · [[Mecânicas/Frenzy]] · [[Lore/Segunda Inquisição]] · [[Anarch - Response Algorithm]] · [[Camarilla - Conflito Institucional]] · [[Player's Guide — Antagonistas Consolidados]] · [[Sabbat — Antagonistas]] · [[Blood Sigils - Antagonistas e Criaturas]] · [[Blood Sigils - A Cena Blood Craft]] · [[Blood Sigils - Artefatos, Tomos e Mistérios]] · [[Blood Sigils - Crônica, Tenets e Loresheets]]

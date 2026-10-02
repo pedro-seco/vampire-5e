@@ -58,5 +58,5 @@ Em [[Clãs#Ministry (The Ministry of Set)|Clãs]] o Bane do Ministry aparece ape
 - [[Humanidade]] — Humanity 10, Convictions e Touchstones
 - [[Diablerie, Blood Bond, Ghouls]]
 - [[Anarch - Loresheets]] — Hesha Ruhadze e Church of Set (Ministry)
-- [[Anarch - Response Algorithm]]
+- Anarch - Response Algorithm
 - [[Lore/Anarquistas]] · [[Lore/Cultos Vampíricos]]

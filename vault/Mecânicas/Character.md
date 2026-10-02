@@ -322,4 +322,4 @@ Resolve sustenta vigílias durante toda a noite e ajuda a ignorar distrações.
 ### Especialidades
 ---
 
-*Ver também:* [[Mecânicas/Clãs]] · [[Mecânicas/Advantages]] · [[Mecânicas/Skills]] · [[Mecânicas/Disciplinas]] · [[Mecânicas/Predator Type]] · [[Mecânicas/XP]] · [[Mecânicas/Loresheets]]
+*Ver também:* [[Mortais e Ghouls Jogáveis]] · [[Player's Guide — Criação Rápida e Referências de Personagem]] (suplementos; só valem se a crônica permitir) · [[Mecânicas/Clãs]] · [[Mecânicas/Advantages]] · [[Mecânicas/Skills]] · [[Mecânicas/Disciplinas]] · [[Mecânicas/Predator Type]] · [[Mecânicas/XP]] · [[Mecânicas/Loresheets]]

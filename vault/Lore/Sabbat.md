@@ -81,16 +81,20 @@ O Vaulderie cria lealdade coletiva e torna o controle mental de vampiros externo
 O Sabbat rejeita a Humanidade como escala moral. Em vez disso, seus membros seguem *Paths* — filosofias de vida que substituem a consciência mortal por códigos vampíricos próprios.
 
 Alguns exemplos:
-- **Path of Night** — a existência vampírica como obra de trevas, servindo à destruição como força cósmica
-- **Path of Caine** — devoção ao estudo e emulação do Pai de todos os vampiros
-- **Path of Power and the Inner Voice** — poder como virtude suprema, a Besta como aliada
+- **Path of Cathari** — dar ouvidos à Besta e se regozijar no que são; o Path mais numeroso do Sabbat (a menção a um "Path of Night" no livro é de uma variante do Cathari)
+- **Path of Caine** — cultivar o poder do Sangue e imitar Caine, o Primeiro Vampiro, que dominou a Besta sem negá-la
+- **Path of Power and the Inner Voice** — poder para impor a vontade ao mundo, a Besta como ferramenta
+
+Os demais Paths, com Ethics e Disciplinas, estão em [[Sabbat — Paths of Enlightenment]] (material do suplemento *Sabbat: The Black Hand*, só vale se a crônica permitir).
 
 Seguir um Path exige comprometimento total. Um vampiro em um Path e um vampiro em Humanidade têm sistemas de moral completamente diferentes.
 
 ### Ritae
 O Sabbat mantém um sistema elaborado de rituais — os *Ritae* — que reforçam a identidade coletiva, marcam ocasiões importantes, e servem como testes de lealdade.
 
-Alguns são benignos (ou relativamente). Outros são brutais — *Fire Dance* (saltar sobre fogo), *Monomacy* (duelo formal à morte), *Creation Rites* (o processo extremamente violento de abraçar e despertar novos membros).
+Alguns são benignos (ou relativamente). Outros são brutais — *Fire Dance* (saltar sobre fogo), *Monomacy* (duelo em que o vencedor comete diablerie sobre o perdedor), *Creation Rites* (o processo extremamente violento de abraçar e despertar novos membros).
+
+Os ritae com regras (Auctoritas, Ignoblis e por Path) estão em [[Sabbat — Ritae]]; rituais de Blood Sorcery, cerimônias de Oblivion e fórmulas de alquimia do Sabbat, em [[Sabbat — Rituais, Cerimônias e Alquimia]]; poderes de Disciplina exclusivos, em [[Sabbat — Poderes de Disciplina]]. Todos são material de suplemento (*Sabbat: The Black Hand*).
 
 ---
 
@@ -150,4 +154,4 @@ Esta dupla pressão — guerra aos Antediluvianos de um lado, Segunda Inquisiç�
 | **Hot War** | Combate aberto contra servos 
 ---
 
-*Ver também:* [[Lore/Camarilla]] · [[Lore/Jyhad]] · [[Lore/Kindred]] · [[Mecânicas/Clãs]] · [[Lore/Antediluvianos]]
+*Ver também:* [[Lore/Camarilla]] · [[Lore/Jyhad]] · [[Lore/Kindred]] · [[Mecânicas/Clãs]] · [[Lore/Antediluvianos]] · [[Sabbat — Ritae]] · [[Sabbat — Paths of Enlightenment]] · [[Sabbat — Poderes de Disciplina]] · [[Sabbat — Rituais, Cerimônias e Alquimia]]

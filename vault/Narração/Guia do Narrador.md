@@ -7,13 +7,14 @@
   - [[#Imersão sensorial|Imersão sensorial]]
   - [[#Props e documentos|Props e documentos]]
   - [[#LARP|LARP]]
+- [[#Material de Suplemento para o Narrador|Material de Suplemento para o Narrador]]
 - [[#100 Vítimas|100 Vítimas]]
 
 ---
 
 Referência de ferramentas práticas para o Storyteller conduzir sessões de VTM 5e. Baseado no *Storyteller Toolkit* (2022).
 
-**Ver também:** [[Humanidade]] · [[Mecânicas/Fome]] · [[Mecânicas/Frenzy]] · [[Mecânicas/Hunting and Feeding]] · [[Mecânicas/Resonance]] · [[Mecânicas/Disciplinas]] · [[Segunda Inquisição]]
+**Ver também:** [[Humanidade]] · [[Mecânicas/Fome]] · [[Mecânicas/Frenzy]] · [[Mecânicas/Hunting and Feeding]] · [[Mecânicas/Resonance]] · [[Mecânicas/Disciplinas]] · [[Segunda Inquisição]] · [[Narração/Coteries]]
 
 ---
 
@@ -35,6 +36,26 @@ Objetos físicos aumentam a imersão. Se um personagem recebe uma carta, escreva
 ### LARP
 
 VTM tem longa tradição de LARP (*Mind's Eye Theatre*). Ao criar cenários, considere o quanto podem ser adaptados para play presencial com movimento físico.
+
+---
+
+## Material de Suplemento para o Narrador
+
+Notas da vault com ferramentas de condução e antagonistas vindas de suplementos. Só valem se a crônica permitir.
+
+**Antagonistas**
+- [[Player's Guide — Antagonistas Consolidados]] — szlachta, vozhd e revenants (Player's Guide)
+- [[Sabbat — Antagonistas]] — 17 fichas de *Sabbat: The Black Hand*
+- [[Blood Sigils - Antagonistas e Criaturas]] — compradores, vendedores, Breakers e criaturas da cena Blood Craft (Blood Sigils)
+
+**Conflito e perseguição**
+- [[Anarch - Response Algorithm]] — escalada da resposta das autoridades a uma célula Anarch (Anarch)
+- [[Camarilla - Conflito Institucional]] — disputas entre instituições humanas (Camarilla)
+
+**Crônica e mistérios**
+- [[Blood Sigils - A Cena Blood Craft]] — locais, valor, Haggling e Kettle Battle (Blood Sigils)
+- [[Blood Sigils - Crônica, Tenets e Loresheets]] — Chronicle Tenets, papéis e crônica de exemplo (Blood Sigils)
+- [[Blood Sigils - Artefatos, Tomos e Mistérios]] — artefatos, tomos e mistérios (Blood Sigils)
 
 ---
 

@@ -117,7 +117,7 @@ Tonifica a pele para absorver golpes; menos confiável que **Tank** (Player's Gu
 
 ### Fireskin
 Criada para superaquecer o Athanor Corporis com segurança; permite "mergulhar no fogo".
-- **Ingredientes:** Blood do alquimista; osso de **salamander elemental** em pó (ver [[Blood Sigils - Antagonistas e Criaturas#Salamander|Salamander]]); tabaco; enxofre.
+- **Ingredientes:** Blood do alquimista; osso de **salamander elemental** em pó (ver Salamander); tabaco; enxofre.
 - **Sistema:** pele fria ao toque do usuário, com chamas lambendo o corpo; o fogo não se espalha, mas o corpo fica superaquecido. Ataques com o corpo causam **+1 de dano de fogo** (só o adicional conta como fogo), **+2** ao agarrar alguém. **O fogo não causa dano ao usuário**; o **dano de frio é dobrado**.
 - **Duração:** uma cena.
 
@@ -220,5 +220,5 @@ Droga que **quebra Blood Bonds**. Alguns domínios autoritários executam por me
 - [[Sangue Fraco]] · [[Resonance]] · [[Dyscrasias]] · [[Fome]] · [[Frenzy]]
 - [[Blood Sigils - Criação de Rituais, Fórmulas e Efeitos Colaterais]]
 - [[Blood Sigils - Rituais de Blood Sorcery]]
-- [[Blood Sigils - Artefatos, Tomos e Mistérios]] (equipamento de laboratório, formulários)
+- Blood Sigils - Artefatos, Tomos e Mistérios (equipamento de laboratório, formulários)
 - [[Loresheets]]

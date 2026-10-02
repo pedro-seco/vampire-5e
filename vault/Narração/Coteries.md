@@ -94,6 +94,8 @@ Isso define o valor da colaboração. Pode ser:
 
 A 5ª edição apresenta tipos de coterie como estrutura narrativa — cada tipo implica um papel na política da cidade e um conjunto de problemas característicos.
 
+>**Suplementos (só valem se a crônica permitir):** os tipos abaixo são arquétipos de condução desta nota, não uma lista oficial. O Player's Guide traz 21 tipos de coterie com pré-requisitos, Resonances preferidas e Advantages comuns em [[Player's Guide — Coteries]]; os Domain Merits e os Clan Coterie Merits do Player's Guide estão em [[Player's Guide — Domínio e Merits de Clã de Coterie]]; os Clan Coterie Merits do Companion, em [[Merits de Coterie por Clã]]; e os tipos de coterie para crônicas de Blood Craft, em [[Blood Sigils - Crônica, Tenets e Loresheets#Tipos de Coterie|Blood Sigils - Crônica, Tenets e Loresheets]].
+
 ### Freehold (Território Livre)
 **Foco:** Segurar um pedaço de território contra todos os outros  
 **Recurso típico:** Haven compartilhado de alta qualidade  
@@ -237,6 +239,9 @@ Uma coterie que durou três arcos e se dissolveu de forma dramática é uma cote
 - [[Lore/Camarilla]] — Estrutura política onde coteries operam
 - [[Lore/Anarquistas]] — Coteries Anarquistas têm dinâmica diferente de Status
 - [[Character]] — Atributos e habilidades que definem o papel de cada membro
+- [[Player's Guide — Coteries]] — 21 tipos de coterie do Player's Guide (suplemento)
+- [[Player's Guide — Domínio e Merits de Clã de Coterie]] — Domain Merits e Clan Coterie Merits do Player's Guide (suplemento)
+- [[Merits de Coterie por Clã]] — Clan Coterie Merits do Companion (suplemento)
 ---
 
-*Ver também:* [[Narração/Guia do Narrador]] · [[Mecânicas/Character]] · [[Mecânicas/Advantages]] · [[Lore/Camarilla]] · [[Lore/Anarquistas]]
+*Ver também:* [[Narração/Guia do Narrador]] · [[Mecânicas/Character]] · [[Mecânicas/Advantages]] · [[Lore/Camarilla]] · [[Lore/Anarquistas]] · [[Player's Guide — Coteries]] · [[Player's Guide — Domínio e Merits de Clã de Coterie]] · [[Merits de Coterie por Clã]]
