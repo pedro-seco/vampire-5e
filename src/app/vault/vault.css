@@ -258,3 +258,13 @@ mark {
 .vault-tab:hover { color: var(--txt); background: var(--bg3); }
 .vault-tab.active { color: var(--gold); border-color: var(--acc); background: var(--bg3); }
 .vault-tab:focus-visible { outline: 1px solid var(--gold); outline-offset: 1px; }
+
+.vn-part {
+  padding: 14px 16px 6px;
+  font-family: var(--font-ui);
+  font-size: 9px; letter-spacing: 2.5px; text-transform: uppercase;
+  color: var(--txt3);
+  border-top: 1px solid var(--brd);
+  margin-top: 8px;
+}
+.vault-tabs + .vn-part { border-top: none; margin-top: 0; padding-top: 4px; }

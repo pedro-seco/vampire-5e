@@ -1,4 +1,4 @@
-import { memo, useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react';
+import { Fragment, memo, useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react';
 import sections from 'virtual:vault-sections';
 import { containsMatch, highlightMatches, removeHighlights, searchPattern } from './highlight';
 
@@ -23,6 +23,8 @@ type Tab = 'jogador' | 'narrador';
 
 const TAB_STORAGE_KEY = 'vault-tab';
 const TAB_LABELS: Record<Tab, string> = { jogador: 'Jogador', narrador: 'Narrador' };
+
+const PART_LABELS = { base: 'Livro base', extras: 'Livros extras' } as const;
 
 const isNarratorOnly = (section: (typeof sections)[number]) => section.audience === 'narrador';
 
@@ -241,13 +243,19 @@ export function VaultApp() {
               </button>
             ))}
           </div>
-          {sidebarEntries.map((entry) => {
-            if (entry.kind === 'link') return renderLink(entry.section, false);
+          {sidebarEntries.map((entry, index) => {
+            const part = entry.kind === 'link' ? entry.section.part : entry.children[0].part;
+            const previous = sidebarEntries[index - 1];
+            const previousPart = previous && (previous.kind === 'link' ? previous.section.part : previous.children[0].part);
+            const partHeading = part !== previousPart && <div className="vn-part">{PART_LABELS[part]}</div>;
+            if (entry.kind === 'link') return <Fragment key={entry.section.id}>{partHeading}{renderLink(entry.section, false)}</Fragment>;
             const allHidden = entry.children.every((child) => hiddenIds.has(child.id));
             const isOpen = openGroups.has(entry.name) || Boolean(search);
             const hasActive = entry.children.some((child) => child.id === activeId);
             return (
-              <div key={entry.name} className={'vn-group' + (allHidden ? ' hidden' : '')}>
+              <Fragment key={entry.name}>
+              {partHeading}
+              <div className={'vn-group' + (allHidden ? ' hidden' : '')}>
                 <button
                   type="button"
                   className={'vn-group-head' + (hasActive ? ' has-active' : '')}
@@ -259,6 +267,7 @@ export function VaultApp() {
                 </button>
                 {isOpen && entry.children.map((child) => renderLink(child, true))}
               </div>
+              </Fragment>
             );
           })}
         </nav>

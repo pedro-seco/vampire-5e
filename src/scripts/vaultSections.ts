@@ -9,6 +9,7 @@ export interface VaultSection {
   group?: string;
   label?: string;
   audience: 'jogador' | 'narrador';
+  part: 'base' | 'extras';
 }
 
 interface VaultNote {
@@ -282,18 +283,25 @@ const NARRATOR_TITLES = new Set([
 
 const audienceOf = (title: string): 'jogador' | 'narrador' => (NARRATOR_TITLES.has(title) ? 'narrador' : 'jogador');
 
+const BASE_GROUPS = new Set(['Core']);
+
 const GROUP_PREFIX = /^(.+?) [—-] (.+)$/;
 
 function groupOf(title: string): { group?: string; label?: string } {
   const override = GROUP_OVERRIDES[title];
   if (override) return override;
   const prefixed = GROUP_PREFIX.exec(title);
-  return prefixed ? { group: prefixed[1], label: prefixed[2] } : {};
+  if (!prefixed) return {};
+  if (BASE_GROUPS.has(prefixed[1])) return { label: prefixed[2] };
+  return { group: prefixed[1], label: prefixed[2] };
 }
+
+const partOf = (group?: string): 'base' | 'extras' => (group ? 'extras' : 'base');
 
 const sortKey = (text: string) => text.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 
 function compareSections(first: VaultSection, second: VaultSection): number {
+  if (first.part !== second.part) return first.part === 'base' ? -1 : 1;
   const firstTop = sortKey(first.group ?? first.title);
   const secondTop = sortKey(second.group ?? second.title);
   if (firstTop !== secondTop) return firstTop < secondTop ? -1 : 1;
@@ -306,6 +314,7 @@ export function buildVaultSections(vaultDir: string): VaultSection[] {
   return VAULT_NOTES.map((note) => {
     const markdown = renderWikilinks(stripObsidianOnlySyntax(readNote(vaultDir, note.file)), note, links);
     const html = markdownRenderer(note).parse(markdown, { async: false });
-    return { id: note.id, title: note.title, html, audience: audienceOf(note.title), ...groupOf(note.title) };
+    const grouping = groupOf(note.title);
+    return { id: note.id, title: note.title, html, audience: audienceOf(note.title), part: partOf(grouping.group), ...grouping };
   }).sort(compareSections);
 }
