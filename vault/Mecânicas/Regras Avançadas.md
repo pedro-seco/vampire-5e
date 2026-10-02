@@ -7,10 +7,20 @@ pág. 289
 
 # Extended Tests
 
+Quando não dá para ajustar a escala de tempo à tarefa (várias coisas dramáticas acontecendo ao mesmo tempo), pode-se usar mais de uma rolagem para cumprir a tarefa (Core p. 293).
+
+- **Standard extended test:** o Narrador define uma Dificuldade muito alta (10+) e você acumula sucessos a cada rolagem, num total corrente, até igualar ou superar a Dificuldade.
+- **Series test:** o Narrador define uma Dificuldade comum para uma série de tarefas, exigindo um número de vitórias para ter sucesso (ex.: três vitórias para vencer o alarme do telhado, a claraboia e o campo de lasers).
+- **Hard extended test:** combina os dois e conta apenas a **margem** de cada tarefa rumo à Dificuldade final. Serve para rolagens feitas uma ou duas vezes por sessão, rumo a um objetivo de longo prazo com pouca ou nenhuma oposição ativa.
+- **Cascading test:** versão do series test em que a **margem** de cada tarefa vira dados extras na próxima; um fracasso encerra o teste.
+- **Extended contest:** dois personagens correm para completar uma ação estendida. Na versão mais simples, cada um rola uma vez por incremento e vence quem acumular primeiro sucessos suficientes para a Dificuldade (empate no mesmo incremento: vence quem acumulou mais). Se puderem interferir um no outro, rolam um contest básico por incremento; o vencedor soma ao total a diferença, e o perdedor não soma nada.
+- **Casos especiais:** *Teamwork* costuma valer em testes estendidos. *Total failure* apaga todos os sucessos e vitórias; recomeça-se do zero (o Narrador pode decidir que nem isso é possível).
+
 >**Projects (Player's Guide):** para objetivos de longo prazo (Projects), o Player's Guide traz um sistema simplificado com milestones e tentativas, incluindo Projects colaborativos e opostos. Só vale se a crônica permitir. Ver [[Player's Guide — Memoriam, Projects e Touchstones#Projects|Projects]].
 
 # Sumário
 
+- [[#Extended Tests|Extended Tests]]
 - [[#Mecânicas Adicionais de Conflitos|Mecânicas Adicionais de Conflitos]]
   - [[#Manobra|Manobra]]
   - [[#Block|Block]]
@@ -18,6 +28,7 @@ pág. 289
   - [[#All-Out Defenses|All-Out Defenses]]
   - [[#Minor Actions|Minor Actions]]
 - [[#Movimentando-se em Conflitos|Movimentando-se em Conflitos]]
+- [[#Conflitos de Rolagem Única (One-Roll)|Conflitos de Rolagem Única (One-Roll)]]
 - [[#Iniciativa: Quem Vai Primeiro?|Iniciativa: Quem Vai Primeiro?]]
 - [[#Ataques-Surpresa:|Ataques-Surpresa:]]
 - [[#Close Combat|Close Combat]]
@@ -38,7 +49,7 @@ pág. 289
 
 ---
 
-pág 293
+pág. 295
 
 
 
@@ -132,6 +143,18 @@ O movimento em _Vampiro_ é frequentemente abstraído, mas ainda assim pode ser 
 - **Movimento além do imediato**: Movimento além do imediato é tratado como uma [[#Minor Actions|Minor Action]].
 - **Movimento significativamente contestado**: Pode ser tratado como uma [[#Manobra]].
 
+
+---
+## Conflitos de Rolagem Única (One-Roll)
+
+Resolve o conflito de forma "afastada", sem uma série de trocas, quando ele tem menos potencial dramático, envolve poucos jogadores ou atores demais (Core p. 298).
+
+- O Narrador define uma Dificuldade para a oposição conforme o poder dela. Cada jogador envolvido faz **uma** rolagem de conflict pool, **sem re-roll de Willpower nem Blood Surge**, contra essa Dificuldade. A oposição não rola.
+- Quanto mais PCs vencerem, melhores os resultados. Se a maioria vencer, a oposição pode, por exemplo, recuar, cair ferida, ir embora irritada ou se render.
+- **Dificuldades sugeridas:** oposição bem mais fraca ou objetivo simples: **2**; partes equilibradas ou objetivo bem desafiador: **4**; oposição bem mais forte ou objetivo extremamente difícil: **6**.
+- Ajuste a Dificuldade em 1 para o lado com vantagem em Disciplinas ou poder sobrenatural equivalente, e em 1 para o lado com vantagem de posição, preparação ou surpresa.
+- **Dano:** cada PC sofre dano igual à diferença entre seus sucessos e **o dobro da Dificuldade**. Armadura e poderes como Fortitude não reduzem esse dano; o tipo depende da oposição (a Second Inquisition costuma causar Agravado) e o dano Superficial **não é dividido pela metade**. Opcional: o jogador pode trocar níveis de dano por níveis de Stains.
+- **Quando usar após três rodadas:** se o conflito não terminou, defina a Dificuldade pelo andamento: PCs ganharam as três rodadas ou a maior parte: **3**; equilibrado ou PCs ganharam duas de três: **4**; PCs levaram a pior ou ganharam só uma: **5**; PCs tiveram sorte de sobreviver ou perderam as três: **6** (Core p. 296).
 
 ---
 # Conflitos Avançados: Combate 
@@ -425,6 +448,16 @@ Você pode decidir resolver conflitos sociais usando as mesmas mecânicas de com
 
 ![[Pasted image 20241127184600.png]]
 
+| Audiência ou testemunhas | Dano extra de Willpower |
+| --- | --- |
+| Somente os oponentes | +0 |
+| Sua coterie | +1 |
+| Kindred cuja opinião você valoriza por si só (mentor, amante) | +2 |
+| Primogen, Harpies ou outras figuras socialmente importantes; outro rival sério além do atual | +3 |
+| O Prince, Baron ou outra figura poderosa | +4 |
+
+*(Core p. 305.)*
+
 O dano à [[Character#Willpower|Willpower]] é mais impactante quando os outros presenciam sua fraqueza.
 - Adicione um **modificador de dano** dependendo da **audiência presente**, desde que ela esteja interessada no desfecho.
 - A simples presença da audiência não basta; é necessário que ela se importe com o resultado do conflito.
@@ -455,7 +488,7 @@ Para conflitos sociais prolongados, simplifique o rastreamento de dano:
 ---
 ## Vencendo Combates Sociais
 
-O combate social termina quando uma das partes concede a derrota, geralmente ao estar [[Dano#Impairment (Incapacitação)|Impairewd]], mas em alguns casos, o oponente pode chegar a um **colapso mental total** se seu rastreador de [[Character#Willpower|Willpower]] for preenchido com [[Dano#Aggravated Damage|dano Agravado]].
+O combate social termina quando uma das partes concede a derrota, geralmente ao estar [[Dano#Impairment (Incapacitação)|Impaired]], mas em alguns casos, o oponente pode chegar a um **colapso mental total** se seu rastreador de [[Character#Willpower|Willpower]] for preenchido com [[Dano#Aggravated Damage|dano Agravado]].
 
 #### **Recompensa do Vencedor**
 

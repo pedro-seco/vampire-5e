@@ -244,6 +244,15 @@ Confira as regras abaixo:
 >- **Número de Poderes Ativos**:
 >	Não há limite para a quantidade de poderes de Disciplinas que um vampiro pode ter ativos simultaneamente.
 >
+>- **Bônus de Blood Potency**:
+>	Vampiros somam à dice pool, para usar ou resistir a Disciplinas, dados iguais à **metade da Blood Potency (arredondado para baixo)**. *(Core p. 244)*
+>
+>- **Aprendendo e Escolhendo Poderes**:
+>	Disciplinas vão de 1 a 5 dots, como outros traços, e se ganham na criação ou com XP. Para gastar XP em uma Disciplina, o personagem normalmente precisa se alimentar da Resonance correspondente; para aprender uma Disciplina nova que não seja de clã, também precisa provar o Sangue de alguém que a domine. A cada dot ganho, escolhe-se **um poder** do nível novo ou de um nível abaixo; normalmente o personagem tem tantos poderes quanto dots na Disciplina, nem mais, nem menos. *(Core p. 244)*
+>
+>- **Poderes Amalgam**:
+>	Alguns poderes raros exigem também certo número de dots em outra Disciplina (indicado em **Amálgama**) e contam como pertencentes às duas Disciplinas. *(Core p. 244)*
+>
 >- **Regra da Maior Potência de Sangue**:
 >	- Em níveis mais altos de [[Gerações e Potência#Blood Potency|Blood Potency]], o jogador pode rolar *dois dados para cada [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check]]* necessário para ativar certos poderes de Disciplinas, mantendo o maior resultado.
 >		- Conforme indicado na tabela, quanto maior a [[Gerações e Potência#Blood Potency|Blood Potency]] maiores são os níveis de poder que o vampiro pode ativar dessa forma.
@@ -521,9 +530,6 @@ Enquanto alguns vampiros a utilizam para cortar e esfaquear inimigos sem medo de
 > 
 > 	 - **Regra das Minor Actions:**
 > 	 Pode realizar uma [[Regras Avançadas#Minor Actions|Minor Action]] que valha até dois dados por [[Regras Fundamentais#Turno|turno]], como preparar ou recarregar uma arma, gratuitamente.
-> 
-> 	- **Chance de Reação**:
-> 	   É possível também dar uma chance de reação para usuários desta disciplina em situações de [[Regras Avançadas#Ataques-Surpresa|Ataques-Surpresa]].
 
 
 ---
@@ -649,7 +655,7 @@ Os sentidos do vampiro se aguçam a um grau sobrenatural, dando-lhes a capacidad
 >- **Dice Pools:** (Wits + Resolve)
 >   
 > - **System (Regras)**: 
->   O usuário adiciona sua pontuação em Auspícios a todas as rolagens de percepção. 
+>   O usuário adiciona seu rating de Auspex a todas as rolagens de percepção. 
 >   - **Sensações Extremas:**
 >     Se exposto a sensações extremas, como explosões altas, flashes de luz intensa ou cheiros opressivos enquanto o poder está ativo, o usuário deve realizar uma rolagem de (Wits + Resolve) de (Dificuldade 3 ou mais) para atenuar seus sentidos a tempo.
 >     
@@ -753,13 +759,12 @@ Ao alcançar com sua mente, o vampiro pode acessar os sentidos de outro mortal o
 
 Ao tocar um objeto inanimado ou o solo em um local, o vampiro pode perceber o resíduo emocional deixado por aqueles que manusearam o objeto ou visitaram o local no passado. O usuário obtém insights não apenas sobre essas pessoas, mas também sobre o que foi feito e em quais circunstâncias. Embora raramente sejam totalmente claros, essas informações frequentemente oferecem pistas impossíveis de obter com investigações forenses e deduções regulares.
 
->- **Custo**: Um [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check]]. 
->- **Duração**: Uma [[Regras Fundamentais#Scene|cena]].
->  
->- **Dice Pools:** (Intelligence + Auspex)
->  Potencialmente contest de (Wits + Resolve) vs (Wits + Resolve) - Ler System
->   
->- **System (Regras)**: 
+>- **Custo**: Um [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check]].
+>- **Duração**: Um [[Regras Fundamentais#Turno|turno]].
+>
+>- **Dice Pools:** (Intelligence + Auspex) - contra uma Dificuldade (ler System)
+>
+>- **System (Regras)**:
 >	Faça um teste de (Intelligence + Auspex) contra uma Dificuldade que depende das informações buscadas. Perceber o estado emocional de quem usou uma arma de assassinato há poucos dias tem Dificuldade 3, mas sentir o ambiente onde uma carta de 300 anos foi escrita pode ter Dificuldade 6 ou superior. 
 >	- **Regra da Margem**: 
 >	  Cada ponto de margem no teste permite ao usuário perceber aproximadamente um manipulador anterior adicional e as circunstâncias relacionadas, retrocedendo a partir do mais recente.
@@ -966,7 +971,7 @@ Eficaz tanto como isca quanto como defesa, vampiros com Presence desfrutam de um
 >	  O vampiro pode renovar esse efeito indefinidamente, mas uma falha encerra o efeito e torna o alvo imune ao poder pelo resto da noite. 
 >  
 >	- **Limitação do Poder:**
->	  Pedidos que resultem em dano óbvio ao alvo ou aos seus entes queridos, ou que contradigam as [[Humanidade#Convictions|Convicções]] do alvo, falham automaticamente e exigem um [[Dificuldade, Contests e Conflitos#Contests|teste Contestado]] imediato, como acima, ou o Entrancement (Encantamento) falha imediatamente.
+>	  Pedidos que resultem em dano óbvio ao alvo ou aos seus entes queridos, ou que contradigam os Tenets do alvo, falham automaticamente e exigem um [[Dificuldade, Contests e Conflitos#Contests|teste Contestado]] imediato, como acima, ou o Entrancement (Encantamento) falha imediatamente.
 
 ---
 ## Presence - Poderes Nível 4
@@ -1023,15 +1028,14 @@ Qualquer pessoa Invocada sente uma atração pelo convocador e tenta alcançá-l
 
 ### Majesty
 
-O vampiro irradia uma presença absolutamente avassaladora — mortais e Kindred são paralisados por reverência, medo ou adoração.
+No ápice da Disciplina, o vampiro amplifica seu semblante a níveis sobrenaturais: de uma beleza de partir o coração, monstruosamente aterrorizante ou com comando absoluto, todos que o veem ficam marcados por sua imagem, incapazes de agir ou até de falar contra ele. Experimentar Majesty é estar na presença do divino, ou do infernal. *(Core p. 268)*
 
 > - **Custo**: Two Rouse Checks
 > - **Duração**: Uma cena
-> - **Dice Pools:** Charisma + Presence vs. Composure + Resolve de cada alvo
+> - **Dice Pools:** Charisma + Presence vs. Composure + Resolve de quem quiser agir contra o vampiro
 >
 > - **System (Regras)**:
->   O vampiro ativa Majesty como ação. Todos os alvos conscientes dentro de Presence × 5 metros devem fazer contest imediatamente. Aqueles que falharem não conseguem agir contra o vampiro de forma alguma — não podem atacar, contradizer, ou sequer se mover para longe dele sem superar a paralisia. Podem apenas observar.
->   Alvos que vençam o contest ficam imunes por essa cena. Atacar um alvo paralalisado por Majesty requer uma Stain — é considerado abuso de uma vantagem sobrenatural sobre uma vítima indefesa (a critério do Narrador e da Convicção do personagem).
+>   Quem está na presença do usuário só consegue encarar boquiaberto ou desviar os olhos com medo ou submissão. Quem quiser agir de qualquer modo em oposição ao usuário, exceto por autopreservação, precisa vencer um contest de Composure + Resolve vs. Charisma + Presence do vampiro. Uma vitória permite **um turno** de liberdade, mais **um por ponto de margem**; só uma vitória crítica resiste ao efeito pela cena inteira.
 
 ### Star Magnetism
 
@@ -1103,7 +1107,7 @@ Popular entre os Banu Haqim, este poder silencia completamente o usuário, anula
 >- **Dice Pools:** Não possui (veja [[#Regras Gerais de Obfuscate]] para possíveis testes de detecção contra você)
 >   
 >- **System (Regras)**: 
->	O usuário silencia seus passos, roupas, pequenas colisões e outros sons de sua pessoa, tornando-se indetectável para observadores que poderiam percebê-lo apenas pelo som (como alguém em um andar diferente de uma [[Regras Fundamentais#Scene|cena]]).
+>	O usuário silencia seus passos, roupas, pequenas colisões e outros sons de sua pessoa, tornando-se indetectável para observadores que poderiam percebê-lo apenas pelo som (como alguém em um andar diferente de uma casa).
 >
 >	- **Trade-Off**:
 >	  Diferentemente da Ofuscação em geral, este poder afeta apenas o sentido da audição, mas, em troca, opera de forma mais robusta. Um vampiro precisaria fazer muito barulho para quebrar esse silêncio.
@@ -1158,7 +1162,7 @@ O vampiro pode conferir uma medida de sutileza aos animais sob sua influência, 
 ### Ghost In The Machine
 
 >- **Custo**: Sem custo adicional
->- **Duração**: Uma [[Regras Fundamentais#Scene|cena]] ou até ser detectado.
+>- **Duração**: Conforme o poder usado
 >- **Dice Pools:** Não possui (veja [[#Regras Gerais de Obfuscate]] para possíveis testes de detecção contra você)
 >   
 >- **System (Regras)**: 
@@ -1270,7 +1274,13 @@ Com alguma preparação, o vampiro pode se fazer passar por um indivíduo espec�
 
 # Animalism
 
-Animalism é a Disciplina que conecta o Kindred à sua Besta interior e ao mundo animal. Usada por Gangrel, Nosferatu, Tzimisce, Ravnos e Banu Haqim (parcialmente). O usuário não apenas controla animais — ele *é* parcialmente animal.
+Animalism é a Disciplina da afinidade e do controle sobrenatural sobre animais (apelidos no Core: Doolittling, Taming, Bestiae Sermo). É Disciplina de clã dos Gangrel e dos Nosferatu no Core, e dos Ravnos e Tzimisce nos suplementos. *(Core pp. 244-245)*
+
+> **Características (Core p. 245)**:
+> - **Tipo**: Mental
+> - **Ameaça à Masquerade**: Baixa a média
+> - **Resonance**: sangue animal, de preferência selvagem
+> - **Limite padrão**: poderes de Animalism que envolvem animais só funcionam em **vertebrados**; qualquer uso sobre **herbívoros** soma 1 à Difficulty dos testes de Skill envolvidos.
 
 ## Animalism - Poderes Nível 1
 
@@ -1394,7 +1404,13 @@ O vampiro projeta sua Besta no momento de um frenesi de terror ou fúria, transf
 
 # Protean
 
-Protean permite ao Kindred transformar seu corpo — olhos de predador, garras letais, dissolução em névoa, fusão com a terra. É a Disciplina da adaptação e da forma instável. Usada por Gangrel primariamente; Tzimisce tem acesso a variantes únicas.
+Protean permite ao Kindred transformar seu corpo — olhos de predador, garras letais, dissolução em névoa, fusão com a terra (apelidos no Core: Morphing, Shapeshifting, Mutatio). É Disciplina de clã dos Gangrel no Core, e dos Ministry e Tzimisce nos suplementos. *(Core pp. 269-271)*
+
+> **Características (Core p. 269)**:
+> - **Tipo**: Físico
+> - **Ameaça à Masquerade**: Alta (quase todos os poderes de Protean violam a Masquerade por si só)
+> - **Resonance**: sangue animal, sobretudo de animais que correspondam às formas assumidas; sangue de lobisomens, changelings e outras quimeras sobrenaturais de homem e fera
+> - **Roupas e itens**: poderes que mudam a forma do corpo afetam também roupas, itens engolidos e outros pequenos itens vestíveis (menos de alguns gramas); itens maiores carregados (mochilas, bolsas) não são afetados.
 
 ## Protean - Poderes Nível 1
 
@@ -1858,8 +1874,8 @@ Ao contrário de outras Disciplinas, que avançam organicamente conforme os alvo
 > 	Na criação do personagem, o jogador escolhe um Ritual de Nível 1, caso tenha pelo menos um ponto em Blood Sorcery. 
 > 
 > - **Regra do Aprendizado (Rituais)**:
->   Cada Ritual leva pelo menos o número de pontos em semanas para aprender.
-> 	  *Exemplo:* Aprender um ritual nível 4 demora 4 semanas.
+>   Cada Ritual novo custa **nível × 3 XP** e, durante o jogo, exige também tempo: espere pelo menos o **quadrado do nível** em semanas para aprendê-lo. *(Core p. 272)*
+> 	  *Exemplo:* Aprender um ritual nível 4 custa 12 XP e demora pelo menos 16 semanas (4 × 4), a critério do Narrador.
 
 ---
 ## Blood Sorcery - Poderes Level 1
@@ -1914,7 +1930,7 @@ O usuário pode, intencionalmente, remover as propriedades que sustentam a não-
 >- **System (Regras)**:
 >O alvo deverá estar em sua linha de visão, e o você precisará conseguir ser capaz de se concentrar por um [[Regras Fundamentais#Turno|turno]], enquanto faz gestos sutis. Com isso, role um teste contestado de ([[Character#Intelligence|Intelligence]] + Blood Sorcery) contra ([[Character#Stamina|Stamina]] + Composure) do vampiro-alvo. 
 >	- Uma vitória, você aumenta a [[Fome]] do alvo em 1. Uma vitória crítica aumenta a fome do alvo em 2.
->	- A vítima pode tentar identificar quem está causando o efeito caso consiga ver o usuário, realizando um ([[Character#Intelligence|Intelligence]] + Occultism) vs ([[Character#Wits|Wits]] + Subterfuge) do feiticeiro.
+>	- A vítima pode tentar identificar quem está causando o efeito caso consiga ver o usuário, realizando um ([[Character#Intelligence|Intelligence]] + Occult) vs ([[Character#Wits|Wits]] + Subterfuge) do feiticeiro.
 
 ---
 ## Blood Sorcery - Poderes Level 3
@@ -1940,7 +1956,7 @@ O vampiro pode concentrar seu Sangue, aumentando temporariamente sua potência.
 O vampiro pode transmutar parte de seu próprio Sangue em um veneno paralisante, capaz de afetar tanto mortais quanto vampiros. Esse icor pode ser usado para revestir armas cortantes ou até mesmo ser cuspido em um alvo. O Sangue Escorpiónico incapacita mortais afetados e prejudica vampiros, embora nem sempre os torne completamente indefesos. Exercícios específicos de respiração e *biofeedback* praticados por algumas sociedades secretas constituem a melhor defesa contra esse Sangue, além do uso da [[Disciplinas#Fortitude|Fortitude]].
 
 >- **Custo**: Um ou mais [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check's]].
->- **Duração**: O veneno permanece potente for uma [[Regras Fundamentais#Scene|cena]].
+>- **Duração**: O veneno permanece potente por uma [[Regras Fundamentais#Scene|cena]].
 >- **Dice Pools:** (Strength + Blood Sorcery) vs (Stamina + Occult ou Fortitude) - [[Dificuldade, Contests e Conflitos#Contests|Contest Roll]]
 >  
 >- **System (Regras)**:
@@ -1951,7 +1967,7 @@ O vampiro pode transmutar parte de seu próprio Sangue em um veneno paralisante,
 >    
 >  2. **Atacando com o Veneno**:
 >     - **Cuspir**: Realiza-se um teste de ([[Character#Dexterity|Dexterity]] + Athletics) para atingir o alvo, que pode [[Dificuldade, Contests e Conflitos#Dodge|esquivar]] como contra qualquer [[Regras Avançadas#Defendendo-se Contra Ataques à Distância|ataque à distância]].
->     - **Contato Direto**: O veneno pode ser transferido por contato físico, como um beijo. (Alvos estáticos a Dificuldade é 1)
+>     - **Contato Direto**: O veneno também pode ser passado por contato físico; há vampiros que o transferem com um beijo de língua na vítima.
 >     - **Transmissão pela Veia**: Beber Sangue contaminado garante o efeito automaticamente. Muitos usuários desse poder o utilizam para se defender de [[Diablerie, Blood Bond, Ghouls#Diablerie|diableristas]].
 >   
 >  3. **Restrições**: 
@@ -2033,8 +2049,8 @@ A realização de rituais de Feitiçaria de Sangue segue um processo específico
 ## Regras Gerais dos Rituais
 
 >  - **Regra do Aprendizado (Rituais)**:
->   Cada Ritual leva pelo menos o número de pontos em semanas para aprender.
-> 	  *Exemplo:* Aprender um ritual nível 4 demora 4 semanas.
+>   Cada Ritual novo custa **nível × 3 XP** e, durante o jogo, exige também tempo: espere pelo menos o **quadrado do nível** em semanas para aprendê-lo. *(Core p. 272)*
+> 	  *Exemplo:* Aprender um ritual nível 4 custa 12 XP e demora pelo menos 16 semanas (4 × 4), a critério do Narrador.
 > 
 > - **Rouse Ceck:** 
 >   A menos que indicado de outra forma, performar um Ritual exige um [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check]].

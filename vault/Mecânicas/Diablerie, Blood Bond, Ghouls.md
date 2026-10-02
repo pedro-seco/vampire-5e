@@ -82,15 +82,11 @@ Este processo reflete a luta constante e intensa que o thrall enfrenta para recu
 - **Condições para Quebrar o Laço:**  
     O thrall deve reduzir a **Força do Laço** a **0 (zero)**, evitando completamente seu regente por um longo período.
 
-- **Teste de Resistência:**  
-    Para cada sessão (ou mais frequentemente, se o **Narrador** julgar necessário, como quando o regente é trazido à mente do thrall), o thrall deve realizar um **teste de resistência** para evitar a influência do Laço.
-
-- **Dificuldade de Resistência:**
-    - Realizar um **teste de desobediência** repetidamente é desafiador, especialmente se o regente estiver ativamente procurando o thrall.
-    - Se o regente se aproximar ou criar situações que o lembrem, a dificuldade de resistir aumenta.
+- **Teste de Desobediência:**  
+    O thrall precisa ser bem-sucedido em um teste de desobediência **uma vez por sessão** (ou mais vezes, se o **Narrador** julgar que algo lembrou o regente ao thrall) enquanto evita o regente (Core, p. 234).
 
 - **Poucos Conseguem Resistir:**  
-    A ligação emocional e psicológica criada pelo Laço torna raro que um thrall tenha força de vontade suficiente para resistir por tempo suficiente para quebrá-lo, especialmente com o regente tentando mantê-lo sob controle.
+    A ligação emocional e psicológica criada pelo Laço torna raro que um thrall tenha força de vontade suficiente para resistir por tempo suficiente para quebrá-lo, especialmente se o regente vier ativamente procurá-lo.
 
 
 ---
@@ -107,13 +103,13 @@ Um mortal que consome o **Sangue** de um vampiro se torna algo entre humano e in
 
 #### Uso pelos Vampiros
 
->***Dica***: Confira a quantidade de pontos que você é capaz de gastar no mérito Retainer no momento da criação do personagem; esse será seu limite de Ghouls.
-
 - **Retentores (Retainers):**  
     Os vampiros frequentemente utilizam ghouls como **servos leais** e companheiros úteis, especialmente quando a **lealdade** supera a necessidade de manter a [[Camarilla#1ª Tradição A Máscara *(The Masquerade)*|Máscara]].
 
 - **Vínculo de Sangue:**  
     Um único vampiro pode vincular pelo **Laço de Sangue** tantos ghouls quanto for capaz de administrar, consolidando sua autoridade sobre eles.
+
+- **Vitae armazenada:** ao contrário do Abraço e do Blood Bond, o sangue vampírico mantém por alguns dias a propriedade de sustentar ghouls se guardado em recipiente hermético, longe do sol. Vampiros costumam fornecer vitae assim só depois de estabelecer um Blood Bond com o ghoul (Core, p. 234).
 
 ### Benefícios de Vitae para Mortais
 

@@ -8,51 +8,44 @@
 
 # Sumário
 
+- [[#Merits|Merits]]
 - [[#Backgrounds (Advantages)|Backgrounds (Advantages)]]
   - [[#Allies ●–●●●●●●|Allies ●–●●●●●●]]
   - [[#Contacts ●–●●●|Contacts ●–●●●]]
   - [[#Fame ●–●●●●●|Fame ●–●●●●●]]
-  - [[#Feeding Grounds ●–●●●|Feeding Grounds ●–●●●]]
   - [[#Haven ●–●●●|Haven ●–●●●]]
   - [[#Herd ●–●●●●●|Herd ●–●●●●●]]
   - [[#Influence ●–●●●●●|Influence ●–●●●●●]]
-  - [[#Linguistics ●–●●●●●|Linguistics ●–●●●●●]]
   - [[#Loresheets ●–●●●●●|Loresheets ●–●●●●●]]
   - [[#Mask ●–●●|Mask ●–●●]]
   - [[#Mawla ●–●●●●●|Mawla ●–●●●●●]]
   - [[#Resources ●–●●●●●|Resources ●–●●●●●]]
   - [[#Retainer ●–●●●|Retainer ●–●●●]]
   - [[#Status ●–●●●●●|Status ●–●●●●●]]
-  - [[#Thin-blood Alchemy ●–●●●●●|Thin-blood Alchemy ●–●●●●●]]
+  - [[#Domain (Chasse, Lien, Portillon)|Domain (Chasse, Lien, Portillon)]]
+  - [[#Thin-blood Alchemy|Thin-blood Alchemy]]
 - [[#Flaws|Flaws]]
   - [[#Addiction ●–●●|Addiction ●–●●]]
   - [[#Adversary ●–●●●●●|Adversary ●–●●●●●]]
   - [[#Archaic ●–●●|Archaic ●–●●]]
-  - [[#Bestial ●–●●|Bestial ●–●●]]
-  - [[#Blind ●●●●●|Blind ●●●●●]]
-  - [[#Clan Enmity ●–●●|Clan Enmity ●–●●]]
   - [[#Dark Secret ●|Dark Secret ●]]
-  - [[#Deficient ●–●●|Deficient ●–●●]]
   - [[#Despised ●●|Despised ●●]]
   - [[#Enemy ●–●●|Enemy ●–●●]]
   - [[#Folkloric Bane ●|Folkloric Bane ●]]
   - [[#Haunted ●|Haunted ●]]
-  - [[#Hunted ●–●●●●|Hunted ●–●●●●]]
   - [[#Infamous ●–●●|Infamous ●–●●]]
   - [[#Obvious Predator ●●|Obvious Predator ●●]]
-  - [[#Probationary Member ●–●●|Probationary Member ●–●●]]
   - [[#Repulsive ●●|Repulsive ●●]]
   - [[#Stalkers ●|Stalkers ●]]
   - [[#Suspect ●|Suspect ●]]
-  - [[#Terminal Decree ●–●●●●●|Terminal Decree ●–●●●●●]]
-  - [[#Thin Blood ●–●●●●●|Thin Blood ●–●●●●●]]
+  - [[#Outros Flaws do Core|Outros Flaws do Core]]
 - [[#Notas de Jogo|Notas de Jogo]]
 
 ---
 
 Advantages e Flaws representam recursos, conexões e circunstâncias que definem o lugar do personagem no mundo — tanto o que ele tem quanto o que pesa sobre ele. São comprados com pontos durante a criação e podem ser ganhos ou perdidos durante o jogo a critério do Narrador.
 
-**Regra geral:** cada ponto em um Advantage custa 1 ponto de background na criação. Flaws concedem pontos extras, mas o Narrador tem veto sobre quais são apropriados para a campanha.
+**Regra geral (Core pp. 149-150):** na criação, o personagem escolhe até **sete dots** de Advantages (Merits e Backgrounds) e precisa ter **pelo menos dois pontos de Flaws** ao final da criação. As Advantages devem ser relevantes para a existência como vampiro (um padre da paróquia como Ally exige esconder sua natureza ou uma razão para a amizade sobreviver). O Narrador pode restringir Advantages, tornar alguns Backgrounds obrigatórios (por exemplo, um haven da coterie) e dar um ou dois dots extras para isso. O Narrador sempre decide quais Loresheets estão disponíveis.
 
 **Material de suplemento (só vale se a crônica permitir):** [[Player's Guide — Backgrounds, Merits e Flaws]] · [[Player's Guide — Castoffs]] · [[Advantages de Ghoul e Mortal]] · [[Camarilla - Loresheets]]
 
@@ -60,9 +53,32 @@ Advantages e Flaws representam recursos, conexões e circunstâncias que definem
 
 ---
 
+## Merits
+
+Merits descrevem vantagens e dons inerentes ao personagem (Físicos, Mentais e Sociais) e tendem a permanecer constantes ao longo da história. Poucas rolagens envolvem Advantages diretamente, embora o Narrador possa pedir, por exemplo, Intelligence + Linguistics para decifrar um papiro ou Subterfuge + Contacts para plantar um rumor. *(Core p. 179)*
+
+| Merit | Dots | Efeito |
+|-------|------|--------|
+| **Linguistics** | ● por idioma | Todo PC já fala, lê e escreve com fluência o idioma nativo e o idioma dominante do cenário da crônica. Cada dot permite um idioma adicional (falar, escrever e ler). Narradores generosos podem permitir um segundo idioma extra a quem tem o idioma nativo igual ao do cenário. Mudanças de idioma ao longo dos séculos são ignoradas, mas ler documentos antigos ou entoar um dialeto estranho pode somar Difficulty a testes de Academics ou Occult. *(p. 179)* |
+| **Beautiful** | ●● | +1 dado em pools Sociais apropriadas. Os modificadores de aparência só valem quando você pode ser visto; o Narrador decide, conflito a conflito, se valem em combates Sociais. *(p. 179)* |
+| **Stunning** | ●●●● | +2 dados em pools Sociais apropriadas. *(p. 179)* |
+| **High-Functioning Addict** | ● | +1 dado em uma categoria de pool (escolhida ao definir a substância) quando a última pessoa de quem se alimentou estava sob a droga. *(p. 180)* |
+| **Bond Resistance** | ● (até 3) | +1 dado por nível nas pools para resistir a um Blood Bond. *(p. 181)* |
+| **Short Bond** | ●● | Blood Bonds sobre você perdem força mais rápido: -2 por mês (na lua cheia e na nova) se não reforçados. *(p. 181)* |
+| **Unbondable** | ●●●●● | Você não pode sofrer Blood Bond. *(p. 181)* |
+| **Bloodhound** | ● | Sente a Resonance do sangue de um humano pelo cheiro, sem provar: Resolve + Awareness, Difficulty 3 (mais para perfume ou distância, menos para contato íntimo). *(p. 182)* |
+| **Iron Gullet** | ●●● | Pode se alimentar de sangue frio, rançoso e plasma fracionado (sem Resonance). Ventrue não podem tomar este Merit. *(p. 182)* |
+| **Eat Food** | ●● | Come sem esforço e pode até gostar, mas sem nutrição; precisa expelir a comida antes do descanso diurno. *(p. 182)* |
+
+Merits de Haven (Hidden Armory, Cell, Watchmen, Laboratory, Library, Location, Luxury, Postern, Security System, Surgery, Warding) estão na nota de [[#Haven ●–●●●|Haven]]; Merits e Flaws exclusivos de thin-bloods, em [[Sangue Fraco]].
+
+---
+
 ## Backgrounds (Advantages)
 
-Backgrounds são recursos externos — pessoas, propriedades, dinheiro, influência. Eles existem no mundo e podem ser destruídos, roubados ou corrompidos. O Narrador pode removê-los temporária ou permanentemente como consequência de ações e escolhas.
+Backgrounds descrevem vantagens de relacionamento, circunstância e oportunidade: posses materiais, redes sociais e semelhantes. São traços **externos**, não internos, e o jogador deve sempre justificar como o personagem os obteve. São traços **discretos**, não progressivos: o mesmo Background pode ser adquirido mais de uma vez (por exemplo, um Ally ● e outro Ally ●●●, dois aliados diferentes). Existem no mundo e podem ser destruídos, roubados ou corrompidos; o Narrador pode removê-los temporária ou permanentemente como consequência de ações e escolhas. *(Core p. 184)*
+
+Parte dos Backgrounds pode ser compartilhada com a coterie (ver [[#Domain (Chasse, Lien, Portillon)|Domain]]).
 
 ---
 
@@ -112,18 +128,9 @@ O Narrador pode permitir usar Fame na pool de um teste Social no lugar de outro 
 | ●●●● | Todos que ligam vagamente para tendências sociais ou sua área sabem algo sobre você |
 | ●●●●● | Fama de massa nacional ou global: grande estrela de cinema, banda de estádio, ex-presidente |
 
+Por padrão a Fame vale entre mortais, mas pode ser comprada entre Kindred pelo mesmo custo; vampiros podem admirar um Kindred que foi famoso (ou infame) em vida. *(Core p. 187)*
+
 > **Atenção:** Fame é uma faca de dois gumes. Reconhecimento facilita interações mas dificulta o anonimato. [[Lore/Camarilla#1ª Tradição A Máscara|Máscara]] comprometida é mais difícil de manter.
----
-
-### Feeding Grounds ●–●●●
-Um território reconhecido pelos Kindred locais como sua área exclusiva de caça. Alimentar-se aqui não exige rolagem de competição.
-
-| Nível | Território |
-|-------|-----------|
-| ● | Um quarteirão ou estabelecimento |
-| ●● | Um bairro |
-| ●●● | Um distrito inteiro |
-
 ---
 
 ### Haven ●–●●●
@@ -168,15 +175,8 @@ Por padrão, a Influence vale mais dentro de um grupo ou região (crime organiza
 | ●●●●● | Dominant: figuras menores tentam adivinhar o que você quer e fazer antes |
 ---
 
-### Linguistics ●–●●●●●
-Línguas além da nativa. Cada ponto concede fluência em um idioma (escrita e fala).
-
-> *Exemplo — Khalil Mansour:* Árabe (nativo), Francês, Turco, Inglês = Linguistics 3.
-
----
-
 ### Loresheets ●–●●●●●
-Vínculos com linhagens históricas específicas, facções ou conhecimento proibido. Os efeitos dependem da Loresheet escolhida (ver capítulo correspondente no livro). Concedem habilidades únicas ou informações ligadas a essa história particular. Veja a lista em [[Loresheets]]; as loresheets da Camarilla, com as Advantages por nível, estão em [[Camarilla - Loresheets]] (suplemento; só vale se a crônica permitir).
+Integra à linhagem e às conexões do personagem a história de uma Loresheet (Core p. 382). Cada nível é autocontido e comprado separadamente: ele **não** concede automaticamente os níveis "inferiores". Algumas (as "Descendant of …") exigem que o personagem seja de um clã específico. Cada jogador pode escolher uma Loresheet na criação, e o Narrador decide quais estão disponíveis. *(Core pp. 150, 190)* Veja a lista em [[Loresheets]]; as loresheets da Camarilla, com as Advantages por nível, estão em [[Camarilla - Loresheets]] (suplemento; só vale se a crônica permitir).
 
 ---
 
@@ -244,8 +244,23 @@ O Narrador pode pedir que você some Status a uma pool com um Trait Social, sobr
 > Thin-bloods não podem comprar Status na criação.
 ---
 
-### Thin-blood Alchemy ●–●●●●●
-*(Apenas [[Sangue Fraco|Thin-Bloods]])* A capacidade de preparar fórmulas alquímicas usando vitae diluída. Cada ponto desbloqueia fórmulas mais poderosas e confiáveis. Requer ingredientes e tempo de preparação. Ver [[Mecânicas/Disciplinas#Thin-blood Alchemy|Thin-blood Alchemy nas Disciplinas]].
+### Domain (Chasse, Lien, Portillon)
+
+O Domain é o território da coterie e é comprado com dots do **coterie pool** (um dot grátis por PC; em grupos pequenos o Narrador pode dar dois). Cada dot de um traço de Domain custa um dot do pool; use-os como abstrações, não como restrições. *(Core pp. 195-196)*
+
+- **Chasse**: quão bem abastecido, vulnerável e rico é o domínio como terreno de caça. Um dot dá à coterie uma Difficulty de caça padrão de **6** dentro do domínio, e cada dot adicional reduz a Difficulty em 1. Também indica, de forma geral, o tamanho (●: um quarteirão ou condomínio fechado; ●●: dois a quatro quarteirões, um parque ou um local pequeno; ●●●: oito quarteirões ao longo de uma via principal ou um local médio; ●●●●: um bairro ou distrito, cerca de um quilômetro quadrado; ●●●●●: três bairros). Um domínio pequeno em área rica pode ter Chasse maior que um grande em área vazia.
+- **Lien**: integração da coterie ao domínio. Cada dot soma **um dado** à pool de um membro ao interagir pacificamente com mortais locais, achar algo ou alguém no domínio, ouvir "o que se fala na rua" ou investigar algo ali. Nunca modifica rolagens de caça.
+- **Portillon**: segurança contra intrusão ou perturbação (outros vampiros, polícia, Segunda Inquisição). Cada dot **subtrai um dado** da pool de um adversário que tente entrar, investigar ou vigiar o domínio sem o conhecimento da coterie. Age principalmente como traço de resistência e não se aplica a Havens.
+
+Uma coterie sem Domain ou caça de forma clandestina (arriscando a ira de quem detém o território) ou porta uma carta de passagem de seu Príncipe ou outro oficial; o Narrador pode usar os valores da p. 308 para a Difficulty padrão de caça.
+
+**Backgrounds de coterie:** Adversary, Ally, Contacts, Enemy, Haven, Herd, Influence, Mask, Mawla, Resources, Retainers e Status (e seus Flaws) podem ser comprados em comum com dots do pool. Cada membro usa o Background como seu, mas ele pertence à coterie: se ela se dissolver ou o personagem for expulso, ele não o leva consigo. O Background não se multiplica (um Herd ●● de coterie tem os mesmos vessels e a mesma Resonance de um Herd ●● individual) e continua vulnerável a eventos da história. *(Core p. 196)*
+
+---
+
+### Thin-blood Alchemy
+
+*(Apenas [[Sangue Fraco|Thin-Bloods]])* Não é um Background com dots próprios: é a Discipline característica dos thin-bloods. Eles a obtêm pelo Merit de thin-blood **Thin-blood Alchemist**, que dá um dot e uma fórmula (Merits e Flaws de thin-blood não custam dots), e podem comprar dots e fórmulas adicionais com XP. *(Core p. 183)* Ver [[Mecânicas/Disciplinas#Thin-blood Alchemy|Thin-blood Alchemy nas Disciplinas]].
 
 ---
 
@@ -284,41 +299,11 @@ Só ancillae ou vampiros mais velhos podem tomar estes Flaws. *(Core p. 180)*
 | Nível | Flaw |
 |-------|------|
 | ●● | **Archaic:** não conseguiu se adaptar ao presente, ou ficou muito tempo em torpor. Não usa computadores nem celulares e seu Technology é permanentemente 0. O Narrador pode penalizar em um dado outras pools com tecnologia muito moderna |
-| ● | **Living in the Past:** não assimilou a mentalidade moderna. Tem uma ou mais Convictions seriamente ultrapassadas (ex.: "A palavra do Papa é lei", "Mulheres são flores delicadas"), que mantêm a Humanity mas desagradam a muitos; perde um dado em pools de testes Sociais envolvendo quem as desaprova |
----
-
-### Bestial ●–●●
-A Besta está particularmente perto da superfície. Os limiares de [[Mecânicas/Frenzy|Frenesi]] são mais baixos.
-
-| Nível | Penalidade |
-|-------|-----------|
-| ● | +1 Dificuldade para resistir ao Frenesi |
-| ●● | +2 Dificuldade para resistir ao Frenesi |
-
----
-
-### Blind ●●●●●
-Não consegue ver. Todas as ações baseadas em visão falham automaticamente sem compensação sobrenatural. Auspex pode compensar parcialmente.
-
----
-
-### Clan Enmity ●–●●
-Outro clã tem rancor coletivo ou hostilidade institucional. −2 dados em rolagens sociais com membros daquele clã.
-
+| ● | **Living in the Past:** não assimilou a mentalidade moderna. Tem uma ou mais Convictions seriamente ultrapassadas (ex.: "A palavra do Papa é lei", "Mulheres são flores delicadas", "As classes baixas existem só para servir"), que mantêm a Humanity mas desagradam a muitos; perde um dado em pools de testes Sociais que envolvam essas crenças, exceto com vampiros da sua idade ou mais velhos, que podem admirar sua virtude firme |
 ---
 
 ### Dark Secret ●
 Versão mais branda de Infamy: dá um ponto a menos que o Infamy equivalente, pois seus atos continuam desconhecidos a todos menos você e talvez um ou dois inimigos muito motivados. O Infamy de um ponto também dá um ponto como Dark Secret, por ser mais fácil de descobrir que um segredo realmente letal. *(Core p. 187)*
----
-
-### Deficient ●–●●
-Uma das Disciplinas está bloqueada ou limitada por uma falha no Sangue.
-
-| Nível | Restrição |
-|-------|----------|
-| ● | Não pode exceder nível 2 em uma Disciplina específica |
-| ●● | Não pode aprender uma Disciplina específica |
-
 ---
 
 ### Despised ●●
@@ -343,11 +328,6 @@ Você sofre dano Agravado de um bane folclórico. Os banes possíveis incluem: l
 Flaw de Haven. Seu refúgio abriga uma manifestação sobrenatural que você não controla nem entende: pode ser só um fantasma, mas também um portal dimensional, um meteorito amaldiçoado etc. Alguém que a compreenda poderia usá-la para violar a segurança do haven. O Narrador define outros efeitos e impõe ao menos **-1 dado** nas pools afetadas dentro do haven, por ponto do Flaw. *(Core p. 188)*
 ---
 
-### Hunted ●–●●●●
-Um grupo persegue ativamente o personagem — [[Segunda Inquisição|Inquisição]], coterie rival, agência mortal. Cada nível reflete recursos e determinação do perseguidor.
-
----
-
 ### Infamous ●–●●
 *(Infamy no Core)* Você é famoso por algo horrível. No mínimo, a Difficulty da maioria dos testes de reação aumenta pelo valor do Flaw; no pior caso, as autoridades tentam matá-lo ou capturá-lo sempre que aparece. *(Core p. 187)*
 
@@ -361,16 +341,11 @@ Um grupo persegue ativamente o personagem — [[Segunda Inquisição|Inquisiçã
 Você exala um ar predatório e humanos o temem e desconfiam instintivamente. Perde **dois dados** de qualquer pool de caça (exceto expressões puramente Físicas de perseguir, caçar e matar) e **um dado** de qualquer pool de teste Social para deixar humanos à vontade. **Não pode manter um Herd.** *(Core p. 189)*
 ---
 
-### Probationary Member ●–●●
-Em liberdade condicional dentro da seita — sob observação, acesso limitado a recursos, tratado com suspeita. Qualquer violação resulta em punição imediata.
-
----
-
 ### Repulsive ●●
 Fisicamente repelente (nem todo vampiro parece ator do CW; alguns parecem pior). Os modificadores só se aplicam quando você pode ser visto, e o Narrador decide, conflito a conflito, se valem em combates Sociais. Perde **dois dados** de todas as pools Sociais relevantes. *(Core p. 179)*
 
 > Versão branda: **Ugly** (●) perde um dado. Merits opostos: **Beautiful** (●●, +1 dado) e **Stunning** (●●●●, +2 dados).
-> O Bane do clã [[Mecânicas/Clãs#Nosferatu|Nosferatu]] aplica isso automaticamente em nível igual à [[Mecânicas/Gerações e Potência#Blood Potency|Bane Severity]].
+> O Bane do clã [[Mecânicas/Clãs#Nosferatu|Nosferatu]] dá o Flaw Repulsive (-2) automaticamente a todo Nosferatu (que também nunca aumenta o Merit Looks); a [[Mecânicas/Gerações e Potência#Blood Potency|Bane Severity]] entra na penalidade para se disfarçar de humano.
 ---
 
 ### Stalkers ●
@@ -383,29 +358,37 @@ A seita não confia em você. Você furou uma boon, quebrou um juramento ou algo
 > Flaw mais grave: **Shunned** (●●) — completamente odiado pela seita, que age ativamente contra você se puder.
 ---
 
-### Terminal Decree ●–●●●●●
-Um Kindred ou facção poderosa emitiu uma ordem permanente — lista de vigilância, caçada de sangue, ou pior.
+## Outros Flaws do Core
 
-| Nível | Decreto |
-|-------|---------|
-| ● | Lista de vigilância local |
-| ●●●●● | Caçada de sangue ativa e amplamente conhecida — sem porto seguro no domínio |
+Flaws do Core que não têm seção própria acima. *(Core, páginas indicadas)*
 
----
+| Flaw | Dots | Efeito |
+|------|------|--------|
+| **Illiterate** | ●● | Não lê nem escreve; Academics e Science limitados a 1, sem specialty que incorpore conhecimento moderno. *(p. 179)* |
+| **Ugly** | ● | Perde um dado de todas as pools Sociais relevantes. *(p. 179)* |
+| **Bondslave** | ●● | Vincula-se com um único gole de vitae (não três). Começa como thrall do sire, ou o Narrador explica por que o primeiro vínculo se rompeu. *(p. 180)* |
+| **Bond Junkie** | ● | Subtrai um dado das pools para agir contra um Blood Bond. *(p. 181)* |
+| **Long Bond** | ● | Blood Bonds sobre você perdem força mais devagar: -1 a cada três meses sem reforço. *(p. 181)* |
+| **Vegan** | ●● | Só se alimenta de sangue animal; gasta 2 pontos de Willpower para beber sangue humano. Ventrue não podem. *(p. 181)* |
+| **Organovore** | ●● | Só sacia Hunger comendo carne e órgãos humanos (coração, fígado, pulmões, placenta, baço). Só o coração dá Resonance, se der. *(p. 181)* |
+| **Methuselah's Thirst** | ● | Só sacia plenamente o Hunger com sangue de criaturas sobrenaturais; do contrário, ele fica no mínimo 1 (ou mais, conforme a Blood Potency). *(p. 181)* |
+| **Prey Exclusion** | ● | Recusa uma classe de presa (usuários de drogas, mulheres, crianças, policiais etc.). Alimentar-se dela dá Stains como violar um Chronicle Tenet; ver outros Kindred se alimentando dela sem intervir pode dar Stains, a critério do Narrador. Ventrue ganham uma restrição adicional. *(pp. 181-182)* |
+| **Stake Bait** | ●● | Morte Final se estacado no coração, em vez de torpor. *(p. 182)* |
+| **Stigmata** | ● | Sangra por mãos, pés e testa ao atingir Hunger 4; chama atenção e pode penalizar pools, a critério do Narrador. *(p. 182)* |
+| **No Haven** | ● | Precisa de algum esforço (ao menos um teste básico) para achar um novo local de descanso toda manhã. *(p. 188)* |
+| **Compromised** | ●● | Haven já invadido antes; invasores e espiões somam dois dados para penetrar ou vigiar o refúgio. *(p. 188)* |
+| **Creepy** | ● | Haven com cara de covil de serial killer; -2 dados em testes Sociais para seduzir ou deixar convidados humanos à vontade. *(p. 188)* |
+| **Destitute** | ● | Sem dinheiro e sem casa. *(p. 193)* |
+| **Known Corpse** | ● | (Mask) Sabem que você morreu há pouco e reagem com choque e horror; vale também para consultas a bancos de dados. *(p. 190)* |
+| **Known Blankbody** | ●● | (Mask) Biometria, nome e associados constam em bancos de dados de agências de inteligência, marcados como potencial terrorista; qualquer inquisidor lê nas entrelinhas que você é um vampiro. *(p. 190)* |
 
-### Thin Blood ●–●●●●●
-Vitae muito diluída. Não pode Abraçar, tem dificuldade com Disciplinas, e pode ter interações imprevisíveis com o sangue.
-
-| Nível | Estado |
-|-------|--------|
-| ●–●● | Complicações menores |
-| ●●●●● | Quase mortal — mal conta como Kindred |
+Para os Flaws exclusivos de thin-bloods (Baby Teeth, Bestial Temper, Branded by the Camarilla, Clan Curse, Dead Flesh, Mortal Frailty, Shunned by the Anarchs, Vitae Dependency), ver [[Sangue Fraco]].
 
 ---
 
 ## Notas de Jogo
 
-**Advantages podem ser perdidos.** Um aliado pode morrer. Um haven pode ser descoberto. Resources podem ser confiscados. O Narrador tem autoridade para aplicar consequências.
+**Advantages podem ser perdidos.** Um aliado pode morrer. Um haven pode ser descoberto. Resources podem ser confiscados. O Narrador tem autoridade para aplicar consequências. Pela regra do Core (p. 180), o personagem deve poder recuperar, ou ao menos substituir, Advantages perdidas que tenham sido obtidas com XP ou na criação; o que for ganho sem gasto equivalente de XP é, no máximo, temporário.
 
 **Flaws devem ter impacto.** Um Flaw que nunca aparece não vale os pontos que concedeu. O Narrador deve ativá-los regularmente — não crueldade, mas verossimilhança.
 

@@ -148,7 +148,7 @@ Talvez em vida você fosse um artista da sedução, produtor de cinema, autor, u
 # Tipos Adicionais — Player's Guide
 
 > [!warning] Material de suplemento
-> Os seis tipos abaixo foram publicados no *Player's Guide* (lista na p. 62 e descrições no capítulo de personagens, em torno das pp. 106-107), e só valem se a crônica permitir. Os demais tipos do livro (Alleycat, Bagger, Blood Leech, Cleaver, Consensualist, Farmer, Osiris, Sandman, Scene Queen e Siren) são do **Core** (pp. 175-178) e já estão acima. Esta seção também traz as "Predator Pools" do Player's Guide.
+> Os seis tipos abaixo foram publicados no *Player's Guide* (lista na p. 62 e descrições no capítulo de personagens, pp. 107-109), e só valem se a crônica permitir. Os demais tipos do livro (Alleycat, Bagger, Blood Leech, Cleaver, Consensualist, Farmer, Osiris, Sandman, Scene Queen e Siren) são do **Core** (pp. 175-178) e já estão acima. Esta seção também traz as "Predator Pools" do Player's Guide.
 
 ---
 
@@ -211,6 +211,7 @@ Algumas pessoas nunca serão acreditadas; outras nunca serão procuradas. Você 
 - **Ganhe o Mérito:** Bloodhound (•).
 - **Ganhe um ponto de Contacts** entre os habitués moralmente flexíveis do seu terreno de caça: porteiros de clube, vigias sem-teto, vendedores noturnos, traficantes de rua; alguém que responde quando você pergunta "para onde ela foi?".
 - **Perca um ponto de:** Humanidade.
+- **Predator Pool:** Intelligence + Investigation para achar uma vítima que ninguém procura; ou Stamina + Stealth para longas perseguições de presas urbanas desavisadas.
 
 ---
 

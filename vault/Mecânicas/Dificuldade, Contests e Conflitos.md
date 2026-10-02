@@ -8,6 +8,20 @@ O Narrador determina a Dificuldade da ação que você está tentando realizar, 
 
 ![[Pasted image 20241124091615.png]]
 
+| Dificuldade | Exemplos do livro | Sucessos |
+| --- | --- | --- |
+| Routine | acertar um alvo parado, convencer um amigo leal a ajudar | 1 |
+| Straightforward | seduzir quem já está no clima, intimidar um fraco | 2 |
+| Moderate | trocar o som de um carro, andar numa corda bamba | 3 |
+| Challenging | localizar a origem de um sussurro, criar uma obra de arte memorável | 4 |
+| Hard | convencer um policial de que a cocaína não é sua, reconstruir um bloco de motor | 5 |
+| Very Hard | atravessar uma corda bamba sob fogo, acalmar uma multidão hostil e violenta | 6 |
+| Nearly Impossible | achar um sem-teto específico em Los Angeles numa noite | 7 ou mais |
+
+*(Core p. 119.)* A Dificuldade é o **número de sucessos** necessários, não o alvo de cada dado, que é sempre 6 ou mais.
+
+Quando um SPC se opõe à ação mas o Narrador prefere uma Dificuldade fixa (para ganhar velocidade), ele pode: (1) usar a tabela acima; (2) dividir a pool do SPC pela metade, arredondando para baixo ([[#Pegar Metade|Pegar Metade]]); ou (3) usar a Skill (ou Atributo) do SPC como Dificuldade, sendo no mínimo 1 mesmo que a Skill seja zero (Core p. 119).
+
 ### Margem
 
 O número de sucessos em um [[Regras Fundamentais#Realização Testes Simples|teste]] em uma [[Entendendo Dados e Ficha#Dice Pool|dice pool]] que excede a Dificuldade constitui a **margem.**
@@ -27,7 +41,7 @@ Mesmo fora dessas circunstâncias, o Narrador pode descrever o grau de sucesso c
 
 >**Para o Narrador**: Aumentar ou diminuir a dice pool em 2 dados tem o mesmo ***efeito estatístico*** de aumentar ou diminuir a Dificuldade em 1.
 >*Exemplo:*
->*(Citação da pág. 120)*
+>*(Citação da pág. 120; vale também: penalidades nunca deixam a pool abaixo de 1 dado)*
 >	*Nenhum refinamento exagerado garante o sucesso de uma tarefa; da mesma forma, as habilidades básicas dos personagens podem ajudá-los em circunstâncias aparentemente desesperadoras.* 
 >	*Considere limitar os modificadores a **+2 ou -2 na Dificuldade**, ou a no máximo **três dados adicionados ou removidos** da pool do personagem. **Essa diretriz se aplica a modificadores improvisados do Narrador**, não a modificadores provenientes de especializações ou outras regras específicas.*
 
@@ -39,7 +53,7 @@ Algumas tarefas exigem equipamentos especializados, como arrombar uma fechadura,
 
 - **Equipamento Ruim:** Se o Narrador considerar um equipamento essencial para a atividade, e o equipamento usado for de qualidade ruim/improvisado, ele pode **aplicar um +1 na Dificuldade.**
   
-- **Tarefa Impossível Sem Equipamento**: Caso a tarefa seja impossível de ser realizada sem equipamento adequado, o Narrador pode escolher impedir tentativas; nenhum dado será rolado.
+- **Sem Equipamento**: Se o Narrador considera o equipamento um componente central da atividade, sem ele a tarefa é impossível (Core p. 119); nenhum dado será rolado.
 
 # Contests
 
@@ -75,7 +89,7 @@ Em disputas, não é necessário que os dois envolvidos utilizem a mesma pool; p
 ## Empate em Contests e Conflitos
 Em caso de maior dúvida, consultar o [Primer]([Ties in Contests and Conflicts |](https://seattlebynightvtm.com/rulings/v5-primer/ties-in-contests-and-conflicts/))
 
-*Source: pág 123 até pág. 125*:
+*Source: pág. 123 (regra do livro: se o personagem que age rolou igual ou mais sucessos que o oponente, o teste é uma vitória) e pág. 124 (em conflito de dois lados, um empate faz ambos causarem dano com margem 1). Os exemplos abaixo vêm do Primer, não do livro:*
 >- **Quem está agindo tem a vantagem**: 
 >	- O "agente" ganha do "opositor". Logo, se você está tentando atacar alguém, e joga contra um (Dex + Athletics) de alguém que está tentando só se [[#Dodge|Esquivar]], e vocês empatam; você ganha (com a margem mínima.
 >	- Se você está tentando se ocultar, e você empata contra um (Wits + Awareness), você ganha.
@@ -87,8 +101,8 @@ Em caso de maior dúvida, consultar o [Primer]([Ties in Contests and Conflicts |
 ### Pegar Metade
 O Narrador pode "pegar metade" (take half) nas rolagens de NPC's durante disputas básicas. 
 
-- **Pegar metade**: Conte o número de dados na pool do oponente do SPC (normalmente o player), divida pela metade (arredondando para baixo), e esse será o número de sucessos obtidos. 
-  Faça agora o player rolar a dice pool.
+- **Pegar metade**: Conte o número de dados na pool do próprio SPC (a oposição), divida pela metade (arredondando para baixo), e esse será o número de sucessos que ele obteve. 
+  Faça agora o player rolar a dice pool (Core p. 123).
 - **Regra opcional (Companion):** o Companion amplia o Take Half para os jogadores (contar metade da pool como sucessos em vez de rolar, evitando complicações de Hunger) e sugere manter as Difficulties em segredo. Ver [[Errata do Companion#Take Half ampliado|Errata do Companion]] (só vale se a crônica usar o Companion).
 
 ---
@@ -172,16 +186,18 @@ Contra ataques à distância, procurar cobertura é essencial. Veja como o níve
 
 - **Sem Cover:** Um personagem que não possui nenhum tipo de cover contra ataques à distância deve **subtrair 2 dados da *defense pool***. 
 
-- **Pequena Camuflagem:** Moitas, uma pequena árvore. 
-  ***Subtrai 2 dados da defense pool.***
+- **Pequena Camuflagem (Concealment only):** Moitas, uma pequena árvore contra balas de calibre de rifle. 
+  ***Subtrai 1 dado da defense pool.***
 
-- **Cover Limitado**: Uma cobertura limitada, como um carro, esquina de prédio. 
+- **Cover Limitado (Hard Cover)**: Bloco do motor de um carro, esquina de prédio de concreto. 
   Neste caso, ***a defense pool não sofre alterações.***
 
-- **Cover Melhorado**: uma cobertura própria para confronto, como fortificações de concreto em guerrilhas, sacos de areia. ***Adicione  + 1 dado na defense pool***.
+- **Cover Melhorado (Entrenchment)**: sacos de areia, bunker militar. ***Adicione +1 dado na defense pool***.
 
-- **Cover Superior**: Algo como uma fenda de tiro, é uma abertura estreita projetada para defesa, encontrada em veículos blindados, como **IFVs (Veículos de Combate de Infantaria)**, ou em fortificações. Permite que os ocupantes disparem armas contra inimigos externos enquanto permanecem protegidos. 
+- **Cover Superior (Murder Hole)**: fenda de tiro de um **IFV (Veículo de Combate de Infantaria)**. Permite que os ocupantes disparem enquanto permanecem protegidos. 
   ***Adicione +2 dados na defense pool.***
+
+*(Tabela de cobertura: Core p. 302.)*
 
 #### Dodge 
 Quando em um briga que envolva ***Brawl*** ou ***Melee***, um personagem pode adotar uma postura defensiva de esquiva, usando (**Dex** + **Athletics**) em vez de uma skill de combate para se defender.
@@ -267,8 +283,8 @@ Se Narrador e jogadores preferirem o estilo clássico de lutar até o último po
 Os jogadores podem decidir interromper o conflito e fugir ou encerrar a discussão.
 
 - O Narrador pode exigir uma **disputa básica** para isso, como:
-    - **Força ou Destreza + Atletismo** para fugir.
-    - **Composição + Etiqueta** para desviar o foco da discussão.
+    - **Strength ou Dexterity + Athletics** (Força ou Destreza + Atletismo) para fugir.
+    - **Composure + Etiquette** (Compostura + Etiqueta) para desviar o foco da discussão.
 - Alternativamente, os oponentes podem simplesmente permitir que os personagens deixem o conflito.
 
 ---
@@ -295,6 +311,12 @@ Alterar o contexto do conflito pode revitalizar a cena:
 - **Nova força na cena:** Introduzir uma terceira parte, como a polícia ou o Príncipe, que altera a dinâmica.
 - **Mudança de local:** Transferir o conflito para outro ambiente, como de um beco para um armazém próximo ou de uma corte para um concerto.
 - Essas mudanças devem apresentar **novas opções** para ambos os lados, criando novas oportunidades narrativas.
+
+---
+
+#### 5. Conflito de Rolagem Única
+
+Use o [[Regras Avançadas#Conflitos de Rolagem Única (One-Roll)|Conflito de Rolagem Única]] (Core p. 298).
 ---
 
 *Ver também:* [[Mecânicas/Regras Fundamentais]] · [[Mecânicas/Regras Avançadas]] · [[Mecânicas/Dano]] · [[Mecânicas/Exemplos de Testes]] · [[Errata do Companion]]

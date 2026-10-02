@@ -59,9 +59,33 @@ Resonance (como explicado mais detalhadamente nas seções anteriores) não é s
 Resonance não só dá sabor ao sangue e personalidade; dá poder. O sangue da vítima se mistura com o vampírico e é capaz de energizar [[Disciplinas]].
 
 ![[Pasted image 20241121170948.png]]
-Beber o sangue de uma vítima com [[Hunting and Feeding#Determinando Resonance da Vítima| temperamento "intense"]] **fornece um dado a mais em dice pools (testes) envolvendo a disciplina correspondente**.
+**Temperamentos.** A Resonance vem em três temperamentos (Core, p. 227):
 
->Esse bônus de 1 extra dice dura até que a próxima alimentação do vampiro dilua o sangue de temperamento intenso, ou ele atinja [[Fome]] 5 (o corpo do vampiro não possui mais sangue)
+- **Fleeting:** momentâneo, causado por estímulos do instante. Mortais equilibrados têm lampejos de todas as quatro Resonances no dia a dia.
+- **Intense:** tendência muito forte a uma Resonance (doença mental, idade, trauma, vício, ou um ciclo de recompensa muito ativo).
+- **Acute:** tão intensa que cria uma reação autossustentada no sangue, a [[Dyscrasias|Dyscrasia]] (chamada de "clot" pelos Kindred mais jovens).
+
+**Efeitos por temperamento (Core, p. 228):**
+
+- **Fleeting:** sem efeito mecânico imediato, a não ser como ingrediente de Thin-Blood Alchemy. Ainda assim, justifica gastar XP em Disciplinas associadas (ver abaixo).
+- **Intense:** [[Hunting and Feeding#Determinando Resonance da Vítima| beber o sangue]] **dá um dado a mais em dice pools envolvendo uma Disciplina correspondente àquela Resonance**.
+- **Acute:** o mesmo bônus do intense, mais uma [[Dyscrasias|Dyscrasia]].
+
+>Esse bônus de 1 dado dura até que a próxima alimentação do vampiro dilua o sangue, ou ele atinja [[Fome]] 5 (o sistema do vampiro fica sem sangue).
+
+**Disciplinas por Resonance (Core, p. 228):**
+
+| Resonance | Disciplinas |
+|-----------|-------------|
+| Choleric | Celerity, Potence |
+| Melancholy | Fortitude, Obfuscate |
+| Phlegmatic | Auspex, Dominate |
+| Sanguine | Blood Sorcery, Presence |
+| Animal Blood | Animalism, Protean |
+
+**Resonance e XP (Core, p. 231).** Para justificar gastar XP em uma Disciplina, o personagem precisa se alimentar de sangue com a Resonance correspondente. A quantidade de sangue e de vítimas varia, mas em geral cresce com o nível da Disciplina; o Narrador pode exigir Resonances cada vez mais fortes, até Dyscrasias, para níveis mais altos. Aprender uma Disciplina fora de clã também exige provar o Sangue de quem a possui.
+
+**Mudando a Resonance (Core, p. 229).** Assustar, seduzir ou drogar a vítima com sucesso faz o Narrador deslocar a Resonance para combinar. Subir o temperamento um passo (fleeting para intense, intense para acute) exige um teste social bem-sucedido ou uma boa cena de interpretação.
 
 *Source:*
 > "*Drinking blood with intense temperament gives*
@@ -70,6 +94,7 @@ Beber o sangue de uma vítima com [[Hunting and Feeding#Determinando Resonance d
 > *bonus lasts until the vampire’s next drink of blood dilutes*
 > *it, or until the vampire’s system empties of blood when their Hunger reaches 5.*" 
 > pg. 228
+
 ## Suplementos (opcional)
 
 Material de suplemento, só vale se a crônica permitir:

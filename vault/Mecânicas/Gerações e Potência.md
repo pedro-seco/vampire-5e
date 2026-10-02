@@ -40,7 +40,7 @@ Todos os vampiros obtêm seus poderes profanos através do Sangue, mas nem todo 
 - A geração de um vampiro indica o quão distante ele está de Caim, considerado o Primeiro Vampiro.
 - Após o [[Abraço]], o vampiro renasce uma geração **acima** (mais fraca) que a de seu **Sire**.
 - Exemplo:
-    - **Terceira Geração**: Os Antediluvianos, descendentes diretos de Caim.
+    - **Terceira Geração**: Os Antediluvianos, "childer de childer de Caim" (netos de Caim).
     - **Quarta Geração em diante**: Cada geração sucessiva é mais distante de Caim e menos poderosa.
 
 #### Mudança de Geração:
@@ -303,7 +303,7 @@ Você está à beira de se tornar um [[#Elders|elder]], a apenas um passo tentad
 
 #### Transformação Sobrenatural:
 
-- Vampiros com Potência de Sangue acima de **6** possuem Sangue mais potente do que humano, tornando-se **alienígenas** tanto na mente quanto no corpo.
+- Vampiros com Potência de Sangue **6 ou maior** possuem Sangue mais potente do que humano, tornando-se **alienígenas** tanto na mente quanto no corpo.
 - Essas criaturas apresentam comportamentos, poderes e formas que desafiam a compreensão humana.
 
 #### Propósito Narrativo:

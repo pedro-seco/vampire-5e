@@ -41,6 +41,7 @@ _Humanidade_ mede o quão próximo um vampiro ainda está de sua vida humana, da
 - **Humanidade Inicial**:
     - Vampiros comuns começam com _Humanidade_ 7.
     - [[Gerações e Potência#Childer or Fledglings|Fledglings]] (recém-criados) começam com _Humanidade_ 8.
+    - Salvo circunstâncias especiais, como o modificador de [[Predator Type]] (Core p. 236).
 
 ---
 ## O que Caralhos é Humanidade?
@@ -142,7 +143,7 @@ As regras para este nível de _Humanidade_ funcionam como a classificação ante
 ---
 
 ### Humanidade Nível 5
-Neste ponto, você já viu de tudo. A maioria dos [[Gerações e Potência#Neonates|neonatos]] e alguns [[Gerações e Potência#Ancillae|ancillae]] se enquadram nesse nível. Você internalizou dor e angústia, e começa a se importar com os mortais de alguma forma, exceto por animais de estimação e [[#Touchstones]] (marcos de conexão).
+Neste ponto, você já viu de tudo. A maioria dos [[Gerações e Potência#Neonates|neonatos]] e alguns [[Gerações e Potência#Ancillae|ancillae]] se enquadram nesse nível. Você internalizou dor e angústia, e passa a aceitá-las como parte da existência. Você não se importa particularmente com os mortais, exceto por animais de estimação e [[#Touchstones]] (marcos de conexão).
 
 Afinal, você nunca mais será mortal, então por que se importar? Você é egoísta, mente como se fosse algo natural e pode manifestar algum tipo de estranheza física ou deformidade, como uma coloração não natural nos olhos.
 
@@ -211,6 +212,15 @@ As regras para esse nível de _Humanidade_ funcionam da mesma forma que o nível
 Você se tornou a Besta. Seus últimos instintos se manifestam em um último Rötschreck chamado de **wassail** (veja _[[#Losing the Last Drop]]_). 
 Um fantoche do Sangue, você é uma sombra, sob o controle do Narrador para sempre.
 
+#### Quando a Humanidade Falha
+
+Conforme a Humanidade cai, o [[Frenzy]] fica mais provável e o torpor dura mais. O vampiro soma dados igual a um terço da Humanidade (arredondado para baixo) ao teste de Willpower para resistir a frenesi, e a Humanidade também permite despertar de dia. A tabela do Core (p. 241) lista:
+
+| Humanidade | 9 | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dados extras contra frenesi | 3 | 2 | 2 | 2 | 1 | 1 | 1 | 0 | 0 |
+| Duração do torpor | 3 dias | 1 semana | 2 semanas | 1 mês | 1 ano | 1 década | 5 décadas | 1 século | 5 séculos |
+
 #### Losing the Last Drop
 O último [[Frenzy|Frenesi]] que um vampiro passa. Também chamado de *Wassail* (Banquete/Festim). Os que passam por isso são referidos como *Wights (Criaturas)*.
 
@@ -277,7 +287,7 @@ Se um personagem acumula mais [[#Stains (Manchas)]] do que eles possuem caixas v
 
 > - ***Incapacitação***: 
 > 	- Todos as suas [[Entendendo Dados e Ficha#Dice Pool|dice pools]] nos testes receberão uma penalidade de -2 dados
-> 	- Para cada caixa que você não conseguiu preencher com uma [[#Stains (Manchas)|Mancha]], você toma [[Dano#Aggravated Damage|Dano Agravado]] em [[Character#Willpower|Willpower]].
+> 	- Para cada [[#Stains (Manchas)|Mancha]] que não coube nas caixas vazias, você toma 1 ponto de [[Dano#Aggravated Damage|Dano Agravado]] em [[Character#Willpower|Willpower]].
 > Basicamente, você é tomado por uma culpa absurda que te incapacita e te atrapalha.
 > 
 > - ***Tenets e Degeneração***: Neste estado de *Denegeração*, o personagem não é mais capaz de intencionalmente violar os [[#Tenet|Tenets]], e se forem forçados a cometer infringir algum, ***terão de rolar contra um [[Frenzy#Frenesi de Terror|Frenesi de Terror]] com (Dificuldade 4).*** 
@@ -369,7 +379,7 @@ Alguns exemplos de **Convicções**:
 
 Ganhar [[#Stains (Manchas)|Manchas]] em serviço das suas Convicções mitigam um pouco das [[#Stains (Manchas)|Manchas]].
 
-Violar uma Convicção, pode também gerar no ganho de 1 ou mais [[#Stains (Manchas)|Manchas]].
+Violar uma Convicção pode também, a critério do Narrador, gerar o ganho de 1 ou mais [[#Stains (Manchas)|Manchas]].
 
 >- Exemplo:
 >	"Joan esmaga a cabeça de uma pessoa que estava tentando revelar sua natureza para seu irmão mais novo. 

@@ -39,7 +39,7 @@ Todos os vampiros possuem o o trait chamado **Fome**, medido em níveis de 0 a 5
 Para cada nível de Fome que você possui, ganhe um ***dado de Fome*** (Hunger dice). Isso influenciará muitos dos seus testes, como explicado em [[Entendendo Dados e Ficha#Dados de Fome|Entendendo Dados e Ficha: Dados de Fome]].
 
 >**Nota Importante**: 
->- Não use dados de fome em em Checks, em [[Character#Willpower|Willpower]] dice pools ou [[Humanidade|Humanity]] dice pools. 
+>- Não use dados de fome em testes de [[Character#Willpower|Willpower]] nem de [[Humanidade|Humanity]] (logo, não há Messy Critical nem Bestial Failure nessas rolagens). 
 >- Dados de fome não podem ser re-rolados [[Regras Fundamentais#Willpower em Testes (After Roll/Re-roll)|gastando Willpower]].
 
 Através de dados de Fome, um vampiro pode atingir um [[Entendendo Dados e Ficha#Messy Critical|messy critical]] ou um [[Entendendo Dados e Ficha#Bestial Failure|bestial failure]]. Exploraremos algumas consequências dessas rolagens abaixo.
@@ -93,7 +93,9 @@ Entrementes, o livro oferece algumas outras opções:
 *Source: pág. 207*
  - Consequências Adicionais (não recomendo, mas está aqui):
 	 - **Dano Agravado**: o personagem sofre um ou mais pontos de [[Dano]] Agravado em sua [[Character#Health|Health]].   
-	 - **Aumento de Fome**: aumente a Fome em 1 nível. Caso isso faça com que a Fome do personagem passe de 5, ele imediatamente rola para resistir a [[Frenzy]]. 
+	 - **Aumento de Fome**: aumente a Fome em 1 nível. Caso isso faça com que a Fome do personagem passe de 5, ele imediatamente rola para resistir ao [[Frenzy#Frenesi de Fome|frenesi de fome]] com **Dificuldade 4**. 
+	 - **Perda de Vantagem**: o personagem perde 1 ponto de uma Vantagem, como no Messy Critical. 
+	 - Segundo o livro, estas opções servem para jogadores novatos ou mesas que querem personagens menos propensos a agir por impulso; **Aumento de Fome** é o que se usa se ninguém da mesa tiver uma boa ideia.
 
 
 ---
@@ -149,6 +151,7 @@ Essa compulsão reflete o desejo inato do vampiro de ser reconhecido como o mais
 
 ---
 ### Destruição
+*(chamada **Harm** no Core)*
 
 Quando dominado pela Fome, o vampiro é compelido a causar dano e destruição, não por necessidade de alimentar-se ou vencer, mas pelo prazer de ferir e destruir. Essa compulsão pode se manifestar fisicamente, emocionalmente ou socialmente, dependendo da situação.
 

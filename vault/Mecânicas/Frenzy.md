@@ -113,7 +113,7 @@ Exemplos de gatilhos para Frenesi de Fome:
 >*Dependendo da crônica, o Narrador aplica testes de frenesi de fome mais ou menos rigorosa, mas eles SEMPRE DEVEM SER UMA POSSIBILIDADE.*
 >
 >- **Efeito**: Durante um frenesi de fome, o vampiro busca sangue humano fresco da fonte mais próxima. 
->  (Se a fonte mais próxima for sua [[Humanidade#Touchstones|Touchstone]], o jogador pode [[Character#Gastando Willpower|gastar 1 ponto de Willpower]], assumindo o controle do vampiro e direcionando-o para outro alvo. Se já tiver todo o tracker preenchido por [[Dano#Superficial Damage|dano Superficial]], vai tomar [[Dano#Aggravated Damage|dano Agravado]]. Aí tu se fudeu.)
+>  (Se a fonte mais próxima for sua [[Humanidade#Touchstones|Touchstone]], espera-se que o jogador ainda tenha Willpower para [[Character#Gastando Willpower|gastar 1 ponto]], assumir o controle do vampiro por um turno e direcioná-lo para outro alvo. Lembre que cada ponto gasto conta como [[Dano#Superficial Damage|dano Superficial]] em Willpower, e com o tracker cheio vira [[Dano#Aggravated Damage|dano Agravado]]. Aí tu se fudeu.)
 >
 >- **Duração**: O frenesi de fome termina quando o vampiro atinge Fome nível 1 ou menor. Veja [[Fome#Reduzindo a Fome|Reduzindo a Fome]]. 
 

@@ -48,11 +48,42 @@ Source: pg. 229
 ---
 ## Características e Uso de Dyscrasias
 
-Algumas Dyscrasias podem durar anos ou até a vida inteira do mortal, enquanto outras são temporárias e dependem de circunstâncias externas. Após consumidas, Dyscrasias são como "buffs"; são efeitos duradouros que podem ser acessados após longos períodos de tempo que o vampiro consumiu ela. Entrementes, é deixado a critério do narrador a sua utilização pós consumo.
+Algumas Dyscrasias são duradouras, alojadas no mortal por anos ou pela vida inteira; outras são temporárias e dependem de circunstâncias externas (Core, p. 230).
 
-***Cabe ao Narrador determinar se a Dyscrasia pode ser explorada mais de uma vez ou se desaparece após o primeiro uso.***
+***Cabe ao Narrador decidir se cada Dyscrasia só pode ser usada uma vez ou se continua sendo propriedade do sangue da vítima por mais tempo.***
 
-Para uma lista completa dos tipos de Dyscrasias e seus efeitos específicos, consulte a **página 230** do [[Vampire the Masquerade.pdf|livro base]].
+Antes de se alimentar, o Narrador pode apenas insinuar a natureza da Dyscrasia no sabor do sangue (Core, p. 229). O Core traz apenas **exemplos** de Dyscrasias (pp. 230-231), e o Narrador deve escolhê-las conforme os interesses dos jogadores e dos inimigos.
+
+### Exemplos de Dyscrasias (Core, pp. 230-231)
+
+| Resonance | Dyscrasia | Efeito |
+|-----------|-----------|--------|
+| Choleric | Bully | +1 de dano contra inimigos mais fracos (ou do tipo que a vítima gostava de intimidar), em combate social e físico |
+| Choleric | Cycle of Violence | A próxima alimentação em sangue choleric sacia 1 Hunger a mais; outro sangue sacia 1 a menos |
+| Choleric | Envy | +1 de dano contra inimigos "melhores" (mais bonitos, jovens, ricos, de maior status etc.), social e físico |
+| Choleric | Principled | Rerrolar um teste em conflito com inimigo ideológico; não rerrola Hunger dice que deram 1 |
+| Choleric | Vengeful | +2 dados em um teste contra o tipo de alvo da vingança da vítima, ou em todos contra o indivíduo que ela odiava |
+| Choleric | Vicious | Rerrolar testes de Intimidation; não rerrola Hunger dice que deram 1 |
+| Choleric | Driving | 1 XP grátis para Celerity ou Potence; consome a Dyscrasia |
+| Melancholy | In Mourning | +1 dado em testes de Remorse |
+| Melancholy | Lost Love | +1 dado para resistir a sedução, inclusive Presence |
+| Melancholy | Lost Relative | Sacia 1 Hunger a mais ao se alimentar de parentes restantes |
+| Melancholy | Massive Failure | Pode rerrolar testes que lembrem o fracasso da vítima; não rerrola Hunger dice que deram 1 |
+| Melancholy | Nostalgic | +1 dado em testes ligados à década, arte ou grupo da nostalgia; +3 dados em Memoriam sobre o tema |
+| Melancholy | Recalling | 1 XP grátis para Fortitude ou Obfuscate; consome a Dyscrasia |
+| Phlegmatic | Chill | +2 dados para resistir a frenesi |
+| Phlegmatic | Comfortably Numb | Sem penalidades de dor, física ou social |
+| Phlegmatic | Eating Your Emotions | Come e digere comida sem enjoar |
+| Phlegmatic | Given Up | A próxima alimentação em sangue phlegmatic sacia 1 Hunger a mais; outro sangue sacia 1 a menos |
+| Phlegmatic | Lone Wolf | +1 dado em testes quando sozinho; -1 dado em testes para ajudar outros ou trabalhar em equipe; dura uma cena |
+| Phlegmatic | Procrastinate | Recupera 1 Willpower ao adiar algo importante por um dia ou mais; uma vez por sessão |
+| Phlegmatic | Reflection | 1 XP grátis para Auspex ou Dominate; consome a Dyscrasia |
+| Sanguine | Contagious Enthusiasm | Com contato pele a pele e suor com suor, +3 dados em um teste para convencer o alvo; conta como Dominate quanto a crenças centrais e segredos |
+| Sanguine | Smell Game | +3 dados em testes para detectar outros vessels Sanguine |
+| Sanguine | High on Life | Usa Blush of Life sem Rouse Check |
+| Sanguine | Manic High | +1 dado em todos os testes até falhar um; depois, -2 dados em todos |
+| Sanguine | True Love | Sacia 1 Hunger a mais ao se alimentar do verdadeiro amor da vítima; com Auspex, vê pelos olhos dele ao Rousear o sangue |
+| Sanguine | Stirring | 1 XP grátis para Blood Sorcery ou Presence; consome a Dyscrasia |
 
 ---
 ## Suplementos (opcional)

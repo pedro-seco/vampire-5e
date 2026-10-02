@@ -36,7 +36,7 @@ Os **Duskborn** — chamados de *Thin-Bloods* ou Sangue Fraco — são vampiros 
 
 ## Quem São
 
-O [[Lore/Abraço]] de um vampiro de 13ª geração produz um childe de 14ª — tecnicamente ainda dentro do limite normal. Mas na prática, a 13ª geração já começa a mostrar fraquezas. Abaixo disso, os resultados são imprevisíveis.
+Um thin-blood nasce quando um vampiro de 13ª geração ou mais distante de Caim [[Lore/Abraço|Abraça]] um mortal. Formalmente pertencem à 14ª, 15ª ou 16ª geração, mas essas classificações pouco significam: exibem uma grande variedade de traços sem relação com a geração. Um thin-blood de 14ª pode ser fraco demais até para criar um Blood Bond com um mortal, enquanto um de 15ª ainda pode conseguir realizar o Abraço, e vice-versa (Core, p. 109).
 
 Thin-Bloods emergem de [[Lore/Abraço|Abraços]] acidentais, descuidados, ou de sires que não sabem (ou não se importam) com sua própria geração. Surgem mais nas margens: cidades onde o controle é fraco, domínios sem Príncipe, zonas de conflito. Com a [[Lore/Beckoning|Convocação]] esvaziando os Anciões e a [[Lore/Segunda Inquisição]] suprimindo o que resta da estrutura, o número de Duskborn cresce.
 
@@ -63,10 +63,10 @@ Fonte das regras desta seção: Core, pp. 109–112 (thin-bloods) e p. 215 (Bloo
 | Dano | Como vampiro | Sofre dano como mortal, mas se cura como vampiro: dano Agravado também de armas cortantes e perfurantes; estaca não paralisa, causa trauma massivo |
 | Sol | Dano Agravado igual à Bane Severity por turno | 1 nível de dano Superficial por turno sob luz direta; menos frequente sob luz indireta, nuvens ou proteção |
 | Aparência | Cadavérica | Conta como se tivesse usado Blush of Life (efeito depende da Humanity) |
-| Blood Bond / Abraço / ghouls | Sim | Não cria Blood Bonds, não realiza o Abraço com certeza nem cria ghouls (a não ser pelo Merit Catenating Blood) |
+| Blood Bond / Abraço / ghouls | Sim | Não cria Blood Bonds nem realiza o Abraço com certeza (a não ser pelo Merit Catenating Blood); uma Rouse Check de vitae thin-blood dá poderes de ghoul a um mortal por apenas uma noite |
 | Alimentação | Vitae humana | Vitae humana + Thin-Blood Alchemy |
 
-A **Blood Potency 0** é a definição mecânica do Thin-Blood. Ela também impõe: sofre dano como mortal, cura Superficial mortal com um ponto por Rouse Check, só entra em frenesi por meios sobrenaturais e leva apenas um ponto de dano Superficial por turno ao sol (Core, p. 215).
+A **Blood Potency 0** é a definição mecânica do Thin-Blood. Ela também impõe: sofre dano como mortal, ao se curar (Mending Damage) remove 1 ponto de dano Superficial por Rouse Check, só entra em frenesi por meios sobrenaturais e leva apenas um ponto de dano Superficial por turno ao sol (Core, p. 215).
 
 **Disciplinas temporárias.** Sempre que um thin-blood se alimenta, ganha 1 dot em uma Disciplina associada à [[Resonance]] do sangue consumido, mais um poder de nível 1 dela. Se a Resonance for Intense ou mais forte, ganha um dot adicional e um segundo poder. Não é possível obter outros poderes assim nem aumentar esse rating com XP, e a Disciplina dura até a Hunger chegar a 5 ou a próxima alimentação (Core, p. 112).
 

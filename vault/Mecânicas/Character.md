@@ -33,7 +33,7 @@
   - [[#Intelligence|Intelligence]]
   - [[#Wits|Wits]]
   - [[#Resolve|Resolve]]
-  - [[#Especialidades|Especialidades]]
+- [[#Skills|Skills]]
 
 ---
 
@@ -63,7 +63,7 @@ Existem algumas formas de se gastar pontos de Willpower, para atingir diferentes
 
 Um jogador pode gastar **1 ponto de Willpower** para:
 
->- **Re-rolar dados**: Você pode usar Willpower para re-rolar até três dados. Isso pode ser a diferença para ajudar você a conseguir passar num teste. Veja [[Regras Fundamentais#Willpower em Testes (After Roll/Re-roll)|Usando Willpower em Teste]] para ver como fazer isso. 
+>- **Re-rolar dados**: Você pode usar Willpower para re-rolar até três dados regulares (não os dados de Hunger), em qualquer pool, exceto onde as regras excluem o re-roll (rolagens de tracker, One-Roll Conflict etc.). Isso pode ser a diferença para ajudar você a conseguir passar num teste. Veja [[Regras Fundamentais#Willpower em Testes (After Roll/Re-roll)|Usando Willpower em Teste]] para ver como fazer isso. 
 >  
 >- **Retomar o Controle**: É possível obter controle do seu personagem **por UM [[Regras Fundamentais#Turno|turno]]** durante [[Frenzy|frenesis]] ou sob influêncvia de coersão supernatural como [[Disciplinas#Dominate|Dominação]] ou [[Disciplinas#Presence|Presença]]. 
 >    
@@ -136,19 +136,19 @@ Veja [[Dano#Tomando e Trackeando o Dano|Tomando e Trackeando o Dano]] para enten
 ---
 ## Recuperando Vida 
 
-Você como vampiro é um cadáver ambulante. Ou seja, você não se cura; apenas mortais se curam diariamente.
-
-
-pág. 127
+Você como vampiro é um cadáver ambulante: não se cura naturalmente. Seu corpo morto ainda pode se recompor com esforço, gastando Sangue (Core p. 218). Mortais se curam de outra forma. Dano de Health Superficial conta pela metade (arredondado para cima) ao ser aplicado, salvo indicação contrária (Core p. 126).
 
 ### Recuperando Dano Superficial (Health)
 
-
+>- **Mortais:** no início da sessão, removem uma quantidade de dano Superficial de Health até o seu valor de **Stamina**.
+>- **Vampiros:** fazem um **Rouse Check** por turno para curar dano Superficial. Quantos pontos cada Rouse Check remove depende da [[Gerações e Potência#Blood Potency|Blood Potency]] (1 ponto em BP 0-1, 2 em BP 2-3, 3 em BP 4-6).
 
 ### Recuperando Dano Agravado
 
+>- **Mortais:** um personagem com Medicine pode converter dano Agravado em Superficial com um teste simples de **Intelligence + Medicine**, com Dificuldade igual ao total de dano Agravado do paciente (+1 se tratar a si mesmo). O máximo convertido é metade do Medicine do curandeiro, arredondado para cima. O tratamento acontece ao longo da noite; o Narrador decide se o restante exige outro dia de tratamento ou hospitalização. Hospitalização dispensa rolagens, mas os ferimentos levam, em semanas, o total de dano Agravado do paciente para sanar (o Narrador pode reduzir isso).
+>- **Vampiros:** esperam o próximo anoitecer e fazem **três Rouse Checks**, além do Rouse Check normal ao acordar. Isso remove **1 ponto de dano Agravado** e uma Crippling Injury ou impedimento semelhante. Só se cura um ponto de dano Agravado por noite. Se esses Rouse Checks levarem a Hunger acima de 5, o vampiro entra em torpor em vez de testar frenesi por fome.
 
-
+(Fonte: Core pp. 127 e 218.)
 
 ---
 
@@ -318,8 +318,8 @@ Resolve sustenta vigílias durante toda a noite e ajuda a ignorar distrações.
 ---
 # Skills
 
+Skills têm dots de 0 a 5, e 0 apenas significa ausência de treino específico. Descrições por dot, especialidades e regras de especialidade estão em [[Mecânicas/Skills]].
 
-### Especialidades
 ---
 
 *Ver também:* [[Mortais e Ghouls Jogáveis]] · [[Player's Guide — Criação Rápida e Referências de Personagem]] (suplementos; só valem se a crônica permitir) · [[Mecânicas/Clãs]] · [[Mecânicas/Advantages]] · [[Mecânicas/Skills]] · [[Mecânicas/Disciplinas]] · [[Mecânicas/Predator Type]] · [[Mecânicas/XP]] · [[Mecânicas/Loresheets]]

@@ -225,14 +225,14 @@ Os sete clãs abaixo são os pilares da Torre de Marfim. Cada perfil inclui seit
 
 ## Brujah
 
-**Seita:** Anarquistas (maioria) · Camarilla (minoria crescente)  
-**Arquétipo:** Rebeldes, Ativistas, Guerreiros-Filósofos  
+**Seita:** Anarquistas (muitos) · Camarilla (os que permaneceram)  
+**Arquétipos (Core):** Cancer in the System, Voice of the People, Blood Worshipper, Trolling Punk, Monster in Disguise  
 **Disciplinas:** Celerity, Potence, Presence  
 **Maldição:** Violent Temper — a Besta está próxima da superfície. Subtraia dados iguais à Bane Severity de qualquer rolagem para resistir a frenesi de fúria (nunca abaixo de 1 dado). Ver [[#Maldição dos Brujah]].
 
-Os Brujah foram filósofos-guerreiros na Antiguidade — construtores de civilizações, protetores de cidades-estado, debates e espadas com igual fluência. A lenda diz que o verdadeiro Brujah Antediluviano, o Idealista, foi diablerizado por seu próprio childe Troile, que era mais guerreiro do que filósofo. O que resta é o clã de Troile: apaixonado, impulsivo, e furioso com um mundo que prometeu justiça e entregou hierarquia.
+O Core chama os Brujah de "clã erudito" (apelidos: Rabble, Punks, Hipsters, Prometheans, Rebels, Philosopher-Kings, Hellenes). Seu sonho é um mundo sem injustiça, em que vivos e mortos coexistam em paz; dizem agir por amor aos mortais, mas talvez apenas se enfureçam contra um Deus distante ou uma maldição que não podem encerrar. A fome e a paixão do clã garantem que o sangue corra, que inocentes morram e que a paz nunca venha. *(Core, Brujah, pp. 64-67)*
 
-Na 5ª edição, a maioria dos Brujah abandonou a Camarilla junto com os Anarquistas ou sempre esteve no Movimento. Aqueles que permanecem na Torre são minoria, frequentemente vistas com desconfiança pelos irmãos Anarquistas e presa fácil de provocações nos Elísios. O clã produz tanto eruditos quanto combatentes, e os melhores são os dois ao mesmo tempo.
+Os Brujah Abraçam quem simpatiza com a contracultura e a revolução e gravita para o underdog: punks, membros de gangues, imigrantes rejeitados, mas também o fraudador que rouba a própria empresa ou o advogado que atua pro bono. Os recém-Abraçados para lutar e protestar são os *rabble*; os Brujah filosóficos, os *Hellenes*, acreditam que o melhor modo de desmontar o establishment é entender os sistemas sociais e culturais que o sustentam. O clã já foi considerado um High Clan, e alguns ainda acham que seu Sangue é superior. Muitos Brujah (e Gangrel) deixaram a Camarilla. *(Core, Brujah e Nosferatu, pp. 64-67 e 80-85)*
 
 **Para o Narrador:** Brujah são PNJs excelentes para criar pressão dramática — difíceis de manipular, impossíveis de intimidar, e dispostos a dizer em voz alta o que outros sussurram. Um Brujah aliado é um aliado que diz a verdade. Um Brujah inimigo não esquece.
 
@@ -241,13 +241,13 @@ Na 5ª edição, a maioria dos Brujah abandonou a Camarilla junto com os Anarqui
 ## Gangrel
 
 **Seita:** Independente (maioria) · Camarilla (poucos) · Anarquistas (alguns)  
-**Arquétipo:** Predadores, Nômades, Sobreviventes  
+**Arquétipos (Core):** Uncaged Jailbird, Adventurer, Folk Favorite, Director of the Board, Unrepentant Beast  
 **Disciplinas:** Animalism, Fortitude, Protean  
 **Maldição:** Bestial Features — durante um frenesi, o Gangrel desenvolve características animais (um traço físico, um cheiro, um tique), que duram mais uma noite depois do frenesi. O número de características é igual à Bane Severity, e cada uma reduz um Atributo em 1. Ver [[#Maldição dos Gangrel]].
 
-Os Gangrel são os mais próximos da natureza entre os Kindred — e os mais honestos sobre o que são. A Besta não é inimiga a ser suprimida; é parceira, professora, o instinto que sobreviveu quando a razão falhou. O Gangrel que luta contra sua natureza animal eventualmente perde. O que aprende a ouvir a Besta sem se perder nela é o que dura séculos.
+O Core chama os Gangrel de "Clan of the Beast" (Animals, Ferals, Savages, Barbarians, Outcasts, Wolves, Strays). Enquanto outros Kindred amaldiçoam seus apetites e escolhem a jaula dourada da cidade, os Gangrel aceitam a Besta como parte de si e correm livres; deram as costas à Camarilla e lutam para escapar das tramas dos outros Kindred. Fazem haven nas partes mais pobres da cidade, reivindicam poucos domínios e não se curvam a nenhum príncipe. *(Core, Gangrel, pp. 68-73)*
 
-Historicamente independentes, os Gangrel passaram pela Camarilla, a deixaram formalmente em 1999, e alguns retornaram após a Convocação. Sua lealdade não é a nenhuma seita — é à sobrevivência. São excelentes rastreadores, combatentes, e infiltradores rurais, mas desconfortáveis em política de Elísio.
+Abraçam sobreviventes e lutadores: líderes de gangues de prisão, exploradores, qualquer mortal que veja o mundo como algo a atravessar. Valorizam realizações e reputação, e o clã segue rituais e iniciações para garantir que o novato valha o esforço. Como atrai tantos líderes, sofre do sintoma "too many chiefs", mas os anciões desencorajam levar disputas de autoridade até a Morte Final. *(Core, Gangrel, pp. 68-73)*
 
 **Para o Narrador:** Gangrel funcionam como ligação entre o mundo urbano dos Kindred e o que está fora — florestas, periferia, locais sem Príncipes. Um PNJ Gangrel raramente está pedindo favores políticos; está pedindo algo concreto ou oferecendo informação que você não vai encontrar em Elísio.
 
@@ -256,13 +256,13 @@ Historicamente independentes, os Gangrel passaram pela Camarilla, a deixaram for
 ## Malkavian
 
 **Seita:** Camarilla (maioria)  
-**Arquétipo:** Oráculos, Visionários, Lunáticos  
+**Arquétipos (Core):** Influencing Presence, Medium, Analyst, Fanatic, Pure Blood Addict  
 **Disciplinas:** Auspex, Dominate, Obfuscate  
 **Maldição:** Fractured Perspective — todo Malkavian tem ao menos um tipo de distúrbio mental. Ao sofrer um Bestial Failure ou uma Compulsão, a maldição se manifesta: penalidade igual à Bane Severity em uma categoria de dice pools (Físico, Social ou Mental) por toda a cena, somada às penalidades da Compulsão. O jogador e o Narrador definem o tipo na criação. Ver [[#Maldição dos Malkavian]].
 
-Os Malkavians são a prova de que a loucura e a visão não são opostos. Seu fundador Malkav — seja destruído, seja dissolvido no sangue do clã — infundiu nos descendentes não só a loucura mas algo além: a capacidade de perceber padrões que outros não veem, conexões causais invisíveis a mentes sãs, verdades que chegam na forma de delírio.
+O Core chama os Malkavian de "Clan of the Moon" (Lunatics, Madmen, Jesters, Oracles, Dervishes, Visionaries, Children of Malkav). A insanidade deles viria de ver demais do mundo de uma vez, de entender fundo demais e de sentir emoções fortes demais; eles se automedicam com sangue. Todo Malkavian sofre de doença mental após o Abraço, às vezes acentuando uma condição prévia, às vezes acrescentando uma nova, e não há como saber quando ela se manifesta de forma destrutiva ou quando oferece perspectivas que faltavam. *(Core, Malkavian, pp. 74-79)*
 
-A Rede da Loucura (Madness Network / Cobweb) é uma consciência coletiva latente que todos os Malkavians partilham. Não é comunicação direta — é mais como ruído de fundo, sussurros, imagens ocasionais que chegam de outros Malkavians distantes. Em momentos de crise coletiva, a Rede pode transmitir algo próximo de profecia.
+Quem Abraça vê no mortal algo visível só a um Malkavian: "second sight" (interpretar sonhos, perceber espíritos, prever eventos), "insight" (empatia elevada, conhecimento fino de assuntos complexos, obsessão por perguntas filosóficas; por isso há muitos acadêmicos, médicos e terapeutas) ou o "broken", quem foi mudado por trauma ou nasceu um pouco destacado de si e da sociedade. Alguns Malkavians dizem estar ligados por uma consciência compartilhada, chamada *cobweb* ou, mais recentemente, *madness network*. *(Core, Malkavian, pp. 74-79)*
 
 **Para o Narrador:** Um PNJ Malkavian bem feito é um instrumento narrativo único — pode transmitir foreshadowing, revelar verdades que outros personagens negariam, e criar ambiguidade sobre o que é loucura e o que é visão genuína. Evite o clichê do louco inofensivo; os Malkavians mais perigosos são os que parecem coerentes.
 
@@ -271,13 +271,13 @@ A Rede da Loucura (Madness Network / Cobweb) é uma consciência coletiva latent
 ## Nosferatu
 
 **Seita:** Camarilla (maioria)  
-**Arquétipo:** Espiões, Corretores de Informação, Redes Subterrâneas  
+**Arquétipos (Core):** Information Hub, Domain Gumshoe, More Animal Than Man, Hunter of Monsters, Rat  
 **Disciplinas:** Animalism, Obfuscate, Potence  
-**Maldição:** Repulsiveness — todos os Nosferatu contam como tendo o Defeito Repulsive (-2) e nunca aumentam o Mérito Looks. A maldição de Absimiliard desfigurou o clã inteiro: corpos retorcidos, pele como couro, faces que aterrorizam mortais. Além disso, qualquer tentativa de se passar por humano sofre penalidade igual à Bane Severity, inclusive com os poderes de Obfuscate Mask of a Thousand Faces e Impostor's Guise. Ver [[#Maldição dos Nosferatu]].
+**Maldição:** Repulsiveness — todos os Nosferatu contam como tendo o Defeito Repulsive (-2) e nunca aumentam o Mérito Looks. O Abraço Nosferatu é uma jornada pela abjeção: semanas de dor deformam o corpo em algo semelhante a defeitos congênitos, tumores, ferimentos incapacitantes e feridas de lepra. Além disso, qualquer tentativa de se passar por humano sofre penalidade igual à Bane Severity, inclusive com os poderes de Obfuscate Mask of a Thousand Faces e Impostor's Guise. Ver [[#Maldição dos Nosferatu]].
 
-Absimiliard, o Antediluviano fundador, odeia seus descendentes. A teoria dominante é que a maldição foi deliberada — uma punição por algo perdido na Primeira Cidade, ou simplesmente a expressão do ódio de um ser antigo que não queria filhos. Os Nosferatu existem apesar disso: adaptaram-se ao subterrâneo, à invisibilidade, à rede de informação que nenhum Elísio glamoroso consegue igualar.
+O Core chama os Nosferatu de "Clan of the Hidden" (Horrors, Sewer Rats, Lepers, Hives, Carnies, Scabs, Kapos, Vagrants, Orloks). Talvez a dor e a humilhação ensinem compaixão: os próprios Nosferatu se consideram os mais humanos dos Kindred, usando a maldição por fora em vez de por dentro. Para se misturar, alguns usam o Sangue para vestir rostos emprestados ou sumir, outros recorrem a próteses e maquiagem pesada. *(Core, Nosferatu, pp. 80-85)*
 
-O clã tem uma cultura de solidariedade incomum entre os Kindred. A feiura compartilhada cria comunidade. Os Nosferatu sabem que não podem competir por status social convencional, então competem por algo mais durável: o que sabem. Um Nosferatu bem estabelecido numa cidade conhece os segredos de todos os Príncipes, todos os Primogênios, todos os Anarquistas de destaque — e vende essa informação com cuidado, nunca de graça.
+Depois que a Second Inquisition encontrou a SchreckNET, o clã perdeu credibilidade e membros, mas os que resistiram dominam o arquivamento seguro, físico e online. Os Nosferatu se veem como sobreviventes: gostam do subterrâneo (esgotos, catacumbas, estações de metrô abandonadas) e vão para o esconderijo antes de o pânico se espalhar. Com muitos Brujah e Gangrel fora da Camarilla, hoje exercem sua capacidade de brutalidade com mais frequência. *(Core, Nosferatu, pp. 80-85)*
 
 **Para o Narrador:** Nosferatu são o serviço de inteligência da noite. Se os PCs precisam de informação sobre um PNJ poderoso, o caminho mais curto normalmente passa por um Nosferatu. O preço nunca é dinheiro — é informação, favor, ou serviço.
 
@@ -286,13 +286,13 @@ O clã tem uma cultura de solidariedade incomum entre os Kindred. A feiura compa
 ## Toreador
 
 **Seita:** Camarilla (maioria)  
-**Arquétipo:** Artistas, Socialites, Árbitros do Gosto  
+**Arquétipos (Core):** L'Artiste, Stage Manager, Gadabout, Patron of the Arts, Thespian Spy  
 **Disciplinas:** Auspex, Celerity, Presence  
 **Maldição:** Aesthetic Fixation — o Toreador deseja a beleza tão intensamente que sofre em sua ausência. Em ambientes que não são belos, perde dados iguais à Bane Severity nas dice pools para usar Disciplinas; o Narrador decide como a beleza ou feiura do ambiente (roupas e blood dolls inclusos) penaliza o personagem. Um Bestial Failure costuma resultar em transe diante da beleza (ver a Compulsão). Ver [[#Maldição dos Toreador]].
 
-Arikel — ou Ishtar, os nomes se confundem — criou um clã de amantes da beleza que eventualmente tornou-se o clã de criadores da beleza. Os Toreador são os guardiões do Elísio, juízes do que é arte e o que é lixo, patrocinadores de artistas mortais, colecionadores de experiências. Na fachada, são os vampiros mais humanos da Camarilla. Na realidade, são predadores que transformaram a cultura em território.
+O Core chama os Toreador de "Clan of the Rose" (Divas, Degenerates, Artists, Harlots, Arikelites, Hedonists, Sensates, Perverts), obcecados por perfeição estética. Dizem liderar a Camarilla ao lado dos Ventrue e dos Tremere, e se veem como a voz, a inspiração e a alma que une a seita; no fundo, afirmam, o clã é o clã da criação. *(Core, Toreador, pp. 86-91)*
 
-A dicotomia interna do clã é entre os *artistas* (aqueles que genuinamente criam) e os *dilettantes* (aqueles que apenas consomem e julgam). Os artistas tendem a ter mais Humanidade, maior conexão com seus Touchstones, e menor durabilidade política. Os dilettantes dominam os Elísios, mas suas almas são mais vazias a cada século.
+O clã prega seletividade no Abraço: quer pioneiros das artes e da vanguarda, vindos de artistas novos ou decadentes, e entende "arte" como qualquer forma de entretenimento e estímulo (atores, cantores, escritores, dançarinos e até profissionais do sexo). Mesmo assim, a fixação em beleza e inocência leva muitas divas a Abraçar com pressa, gerando hedonistas rasos e "one-hit wonders". Para cada artista de verdade, inovador e grande mente, o clã tem um bajulador, um amador e uma beleza vazia. *(Core, Toreador, pp. 86-91)*
 
 **Para o Narrador:** Toreador são o coração social da Camarilla — controlam o Elísio, definem o que é culturalmente aceitável, e usam reputação como arma. Um Toreador inimigo pode destruir a posição social de um PC sem nunca usar uma Disciplina.
 
@@ -301,13 +301,13 @@ A dicotomia interna do clã é entre os *artistas* (aqueles que genuinamente cri
 ## Tremere
 
 **Seita:** Camarilla (pilar central)  
-**Arquétipo:** Feiticeiros, Acadêmicos, Espiões Internos  
+**Arquétipos (Core):** Pyramid Loyalist, Eternal Scholar, Pagan Nonconformist, Ambitious Outsider, Chief of Security  
 **Disciplinas:** Auspex, Dominate, Blood Sorcery  
 **Maldição:** Deficient Blood — a vitae dos Tremere não forma mais Blood Bonds com outros Kindred (embora eles possam ser vinculados por Kindred de outros clãs). Para vincular mortais e ghouls, a vitae precisa ser bebida um número adicional de vezes igual à Bane Severity. Ver [[#Maldição dos Tremere]].
 
-Tremere não era um vampiro: era um mago humano que roubou a imortalidade. No século XII, ele e seu círculo de magos capturaram e diablerizaram Saulot, um Antediluviano Salubri, e usaram rituais para transformar os membros do círculo em vampiros de uma nova linhagem. A Camarilla aceitou os Tremere a contragosto — seus poderes eram úteis demais para ignorar, seu histórico suspeito demais para confiar completamente.
+O Core apresenta os Tremere como "Usurpers, Warlocks, Hermetics, Thaumaturges, Transgressors, The Broken Clan, Blood Witches". Tremere era um mago hermético da Romênia do século VIII, líder de uma cabala; ao buscar a imortalidade, ele e seus seguidores fizeram experimentos terríveis (milhares de mortais assassinados, centenas de Kindred vivisseccionados) e descobriram a maldição de Caim: morreram e acordaram vampiros, afastados da sua arte. Hoje só sangue fresco permite a eles lançar feitiços taumatúrgicos. *(Core, Tremere, pp. 92-97)*
 
-Nas Noites Modernas, o Conselho Interno foi parcialmente destruído durante a Revolta Anarquista moderna. Os Tremere como clã estão reorganizando sua hierarquia interna, e a lealdade que antes era monolítica agora tem fissuras. Alguns Tremere aproveitam a oportunidade para autonomia maior. Outros buscam reconstituir a pirâmide. O clã está em transição — o que torna eles mais interessantes e mais imprevisíveis do que antes.
+Depois que a Second Inquisition destruiu a Prime Chantry em Viena, em 2008, os Tremere caíram de "eminências pardas" a personae non gratae em muitas regiões. Sem a Pirâmide para ordenar posições, disputam entre si e com os outros Kindred qualquer coisa que devolva poder (artefatos, grimórios). O clã se divide em casas (o Core cita House Goratrix e House Carna, esta voltada a pagãos, bruxas e magos do caos); "mercenary magus" é um termo cada vez mais comum, pois os Tremere antes Bound por seus mestres agora servem pelo preço que escolherem. Servem de três modos: aos outros clãs com perícia oculta, à Camarilla com Blood Sorcery e a si mesmos na busca de poder. *(Core, Tremere, pp. 92-97)*
 
 **Para o Narrador:** Tremere são o recurso sobrenatural por excelência — se alguém sabe sobre Blood Sorcery, rituais, ou o ocultismo vampírico, é um Tremere. São aliados valiosos e inimigos perigosos. Sua fidelidade ao clã torna difícil confiar neles inteiramente — você nunca sabe quando a lealdade ao Conselho supera a amizade pessoal.
 
@@ -316,13 +316,13 @@ Nas Noites Modernas, o Conselho Interno foi parcialmente destruído durante a Re
 ## Ventrue
 
 **Seita:** Camarilla (fundadores, pilares)  
-**Arquétipo:** Líderes, Nobres, Executivos, Reis  
+**Arquétipos (Core):** Cold-Blooded Corporate Director, Member of the Order, Conservative Politician, Godfather, High Priest  
 **Disciplinas:** Dominate, Fortitude, Presence  
 **Maldição:** Rarefied Tastes — o Ventrue tem uma preferência de vítima (ex.: soldados, pessoas com TEPT, usuários de metanfetamina). Beber de qualquer mortal fora da preferência exige um esforço profundo de vontade, ou o sangue volta como vômito escarlate; para alimentar-se de outra vítima, o jogador gasta Willpower igual à Bane Severity. Ver [[#Maldição dos Ventrue]].
 
-Os Ventrue são o clã que decidiu que merecia governar. Desde a Roma Antiga até as corporações das Noites Modernas, eles ocuparam o topo das estruturas de poder — reis, banqueiros, generais, CEOs. Não por acidente: o clã seleciona seus childer entre aqueles que já demonstraram capacidade de comando em vida. Um Ventrue abraçado era quase sempre alguém importante antes do Abraço.
+O Core chama os Ventrue de "Clan of Kings" (Blue Bloods, Tyrants, Warlords, Patricians, Borgias, the Cult of Mithras). Em sua própria visão, só eles têm a contenção, a sabedoria, o controle e o pedigree para liderar os Kindred. Dos tempos de reis-deuses da antiga Babilônia e de senhores da Idade das Trevas até os papéis atuais de guardiões do sangue real, acionistas majoritários e financiadores de campanhas, são obcecados pelo impulso de governar, e cobram seu dízimo em sangue precioso. *(Core, Ventrue, pp. 98-103)*
 
-A cultura interna do clã é de competição refinada. Todos fingem cortesia; ninguém esquece uma dívida ou um insulto. A hierarquia é explícita e levada a sério — um Ancião Ventrue não é desafiado publicamente sem consequências. E ainda assim, dentro dessa estrutura de poder, há um código: os Ventrue cuidam dos seus. Um Primogênio Ventrue raramente abandona um childe em apuros, mesmo que o faça com desdém visível.
+O clã há muito lidera a Camarilla e acredita na força da tradição e da linhagem: o Abraço é um dos rituais mais importantes, e a escolha do childe afeta como os outros Ventrue tratam o sire. Por isso Abraçam *overachievers*, mortais com poder político ou financeiro, ou com um talento que os destaque. Hoje são cautelosos: os melhores se misturam como banqueiros, diretores nas sombras, magnatas reclusos e chefes de gabinete, pois o risco de uma violação fatal da Masquerade é alto demais para liderar abertamente. *(Core, Ventrue, pp. 98-103)*
 
 **Para o Narrador:** Ventrue são os chefes dos chefes da Camarilla. Se um PC precisa de proteção institucional, recursos, ou legitimidade política, o caminho passa por um Ventrue. O preço é obrigação — e os Ventrue cobram com juros.
 
@@ -394,9 +394,7 @@ Detalhes e Banes alternativos (Decay): [[Clãs do Player's Guide — Banes e Com
 **Disciplinas:** Dominate, Oblivion, Potence  
 **Fraqueza:** Distorted Image — o reflexo e as gravações de um Lasombra aparecem distorcidos, e a tecnologia moderna reage mal a eles.
 
-Os Lasombra são aristocratas medievais que fundaram o Sabbat e o lideraram por séculos. Na 5ª edição, uma facção significativa decidiu negociar entrada na Camarilla — pagando um preço: entregar um Lasombra de alto escalão para Final Death como "taxa de entrada". A escolha de quem seria sacrificado criou cicatrizes que não fecharam.
-
-Os Lasombra que ficaram no Sabbat são os mais radicais e fanatizados. Os que entraram na Camarilla trazem consigo um estilo de predação diferente — mais aberto, mais disposto a mostrar os dentes.
+Segundo o Player's Guide, os Lasombra esperam triunfar a qualquer custo, preferem agir como titereiros, "poderes por trás do trono", e historicamente influenciaram todas as seitas: foram rebeldes na Anarch Revolt, senhores de guerra do Sabbat nas Américas e recrutas respeitáveis da Camarilla na era da Second Inquisition. O Core coloca o clã sob a sombra do Sabbat. *(Player's Guide, pp. 28-29; Core, Clans, pp. 62-63)*
 
 **Bane — Distorted Image:** O reflexo ou a gravação (ao vivo ou não) de um Lasombra é reconhecido por quem sabe o que procurar; quem não sabe percebe que há algo errado, mas atribui a defeitos do meio. Isso **não esconde a identidade** do vampiro: ele não é menos filmável que outros. Além disso, tecnologia de comunicação moderna (até uma simples chamada) exige um **teste de Technology com Dificuldade 2 + Bane Severity**, pois microfones reagem à voz do Lasombra como câmeras à imagem. Para evitar sistemas eletrônicos de detecção de vampiros, ele sofre **penalidade igual à Bane Severity**. Tecnologia que depende de toque ou interação direta (comando de voz, touch screen, stylus) tende a falhar com eles, e muitos recrutam mortais ou ghouls como atendentes. *(Player's Guide, pp. 29-30)*
 
@@ -404,7 +402,7 @@ Os Lasombra que ficaram no Sabbat são os mais radicais e fanatizados. Os que en
 
 Detalhes e Banes alternativos (Callousness): [[Clãs do Player's Guide — Banes e Compulsões]].
 
-**Para o Narrador:** Lasombra são os melhores aliados perigosos — sempre têm uma agenda, mas as agendas convergem com a dos PCs com frequência suficiente para construir relações duráveis. Use o reflexo e as gravações distorcidos, e o atrito com a tecnologia, para cenas de tensão (câmera de segurança, foto de grupo, selfie que alguém vai revisar mais tarde, uma ligação que não completa). Internamente, os Lasombra que entraram na Camarilla carregam o peso de quem eles sacrificaram para entrar — excelente material para histórias pessoais.
+**Para o Narrador:** Lasombra são os melhores aliados perigosos — sempre têm uma agenda, mas as agendas convergem com a dos PCs com frequência suficiente para construir relações duráveis. Use o reflexo e as gravações distorcidos, e o atrito com a tecnologia, para cenas de tensão (câmera de segurança, foto de grupo, selfie que alguém vai revisar mais tarde, uma ligação que não completa). Os Lasombra que migraram do Sabbat para a Camarilla têm lealdades divididas e uma agenda própria — excelente material para histórias pessoais.
 
 ---
 
@@ -434,7 +432,7 @@ Detalhes e Banes alternativos (Cold-Blooded): [[Clãs do Player's Guide — Bane
 **Disciplinas:** Animalism, Obfuscate, Presence  
 **Fraqueza:** Doomed — o fogo do sol que incinerou o fundador do clã queima no Sangue de quem se estabelece por muito tempo no mesmo lugar.
 
-Os Ravnos são nômades — historicamente ligados a comunidades Roma e a tradições de ilusionismo e engano. Na 5ª edição, o clã foi quase destruído durante a "Semana de Pesadelos" — uma catástrofe em que seu Antediluviano despertou brevemente e causou carnificina entre seus próprios descendentes antes de ser morto por uma coalizão de forças mortais e sobrenaturais.
+Os Ravnos são nômades — historicamente ligados a comunidades Roma e a tradições de ilusionismo e engano. Na 5ª edição, o clã foi quase destruído durante a "Semana de Pesadelos": um vampiro antiquíssimo (o Antediluviano do clã) despertou e expurgou o próprio clã. Segundo o Core, o Antediluviano Ravnos encontrou a Morte Final em julho de 1999, nas mãos de partes desconhecidas armadas com armamento avançado e o poder do sol; antes de morrer, drenou vitae de todo o seu clã, levando-os a frenesi e canibalismo. *(Core, Loresheet The Week of Nightmares, p. 395)*
 
 Os sobreviventes são raros, paranóicos, e extraordinariamente adaptáveis. Muitos são Caitiff funcionais — sem acesso a tutor de linhagem, aprendem Disciplinas como podem.
 
@@ -482,8 +480,8 @@ Na hierarquia Kindred, são o degrau mais baixo — abaixo dos Caitiff. A maiori
 
 **Mecânicas (Core):**
 - Blood Potency 0, sem clã, sem Bane nem Compulsão de clã (a não ser pelo Flaw Clan Curse)
-- Não criam Blood Bonds, não realizam o Abraço com certeza e não criam ghouls (a não ser pelo Merit Catenating Blood)
-- Não têm Disciplinas iniciais: ganham uma Disciplina temporária conforme a Resonance do sangue bebido
+- Não criam Blood Bonds nem realizam o Abraço com certeza; um Rouse Check de vitae thin-blood dá a um mortal poderes de ghoul, mas só por uma noite (o Merit Catenating Blood altera isso). *(Core, Thin-Blood Characteristics, pp. 108-113)*
+- Não têm Disciplinas iniciais: a cada alimentação ganham 1 dot em uma Disciplina ligada à Resonance do sangue bebido e um poder de nível 1 dela (se a Resonance for Intense ou mais forte, um dot e um segundo poder adicionais); dura até o Hunger chegar a 5 ou a próxima alimentação
 - Têm Merits e Flaws próprios (sem custo em dots), de um a três de cada na criação
 
 **Thin-blood Alchemy:** A habilidade característica. Misturando a própria vitae com sangue humano de Resonance forte, thin-bloods preparam fórmulas que imitam poderes de Disciplinas. Ver [[Sangue Fraco]], [[Mecânicas/Disciplinas#Thin-blood Alchemy|Thin-blood Alchemy]], [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]] e [[Player's Guide — Castoffs]] (suplemento).

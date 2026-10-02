@@ -22,7 +22,9 @@ No entanto, ainda existem alguns meios que infligem danos genuínos a um vampiro
 ---
 ## Luz do Sol
 
-A luz do sol queima os mortos-vivos, incinerando seu Sangue e carne profanos sob o olhar dos céus. Um vampiro exposto à luz solar direta sofre **Dano Agravado à Saúde** à taxa de sua **Bane Severity** em pontos por turno.
+A luz do sol queima os mortos-vivos, incinerando seu Sangue e carne profanos sob o olhar dos céus. Um vampiro exposto à luz solar direta sofre **Dano Agravado à Saúde** à taxa de sua **Bane Severity** em pontos por turno. Por exemplo, com Bane Severity 2, a luz solar direta causa 2 pontos de dano Agravado por turno.
+
+Luz solar obstruída (cortinas, dia muito nublado) ou roupa protetora (casaco pesado, luvas, máscara, chapéu de aba larga, óculos escuros e botas) reduz a taxa de dano para um turno sim, outro não, ou menos. **Thin-bloods** sofrem apenas 1 ponto de dano Superficial por turno sob sol direto; com protetor solar de FPS alto e menos roupa (chapéu mole, mangas longas), caem para um turno sim, outro não (Core, p. 221).
 
 >**Suplemento (Blood Sigils):** a fórmula de Thin-Blood Alchemy **Blacklight Surprise** dá a uma fonte de luz UV o efeito do sol: 1 ponto de dano Agravado por turno de exposição e frenesi de medo como a luz solar. Só vale se a crônica permitir. Ver [[Blood Sigils - Fórmulas de Thin-Blood Alchemy#Blacklight Surprise|Blacklight Surprise]].
 
@@ -44,7 +46,7 @@ Embora vampiros não queimem mais rápido do que mortais, o fogo continua sendo 
 Embora os vampiros não possam morrer de frio, eles podem sofrer os efeitos da congelamento e até mesmo se tornar completamente congelados em temperaturas severas. O frio apresenta um perigo especial para os vampiros, porque eles não têm calor corporal, exceto por alguns minutos imediatamente após a alimentação, e, portanto, não conseguem detectar facilmente quedas perigosas na temperatura.
 
 - Após uma hora de frio extremo (-30°C ou abaixo): 
-	1. Role (***Stamina*** + ***Determination***) (Dificuldade 2) para continuar se movendo 
+	1. Role (***Stamina*** + ***Resolve***) (Dificuldade 2) para continuar se movendo 
 		- Eles realizam o teste novamente a cada hora, aumentando a Dificuldade em 1 a cada teste
 	2. ***Se falhar:*** Em caso de falha, eles param de se mover e só podem usar [[Disciplinas]] mentais. 
 	   Uma hora depois disso, sua carne congela completamente e eles entram em [[#Torpor]].
@@ -64,7 +66,7 @@ Para estacar um vampiro no coração, um caçador precisa ou martelar a estaca n
 
 - **Combate:** Para um estacamento em combate, o caçador deve fazer um disparo específico ([[Regras Avançadas#Called Shots (Ataques Direcionados)|Called Shot]]) com uma penalidade de -2 e infligir 5 pontos ou mais de dano de qualquer tipo (antes de [[Dano#Regras Gerais de Aplicação de Dano|halvar]]). 
 
-- Esse dano pode vir de um teste com armas de longo alcance, usando um lançador de granadas ou uma besta disparando estacas de madeira afiadas (ou alguma arma similar), ou pode vir de combate corpo a corpo com um ataque de (**Strength + Brawl**), usando a estaca como arma.
+- Esse dano pode vir de um teste com armas de longo alcance, usando um lançador de granadas ou uma besta disparando estacas de madeira afiadas (ou alguma arma similar), ou pode vir de combate corpo a corpo com um ataque de (**Strength + Melee**), usando a estaca como arma. A estaca sempre tem modificador de dano +0, seja qual for o modo de uso.
 
 #### Após Ser "Estacado"
 > Ser estacado no coração com uma estaca de madeira paralisa um vampiro, embora ele inicialmente **permaneça consciente.**
@@ -120,7 +122,9 @@ O personagem pode tentar afastar os vampiros brandindo um símbolo sagrado ou pr
 ---
 ### True Faith: Nível 5
 
-- Ao brandir um símbolo sagrado ou orar em voz alta, o mortal obriga o vampiro a fazer um [[Humanidade]]teste de Remorso. Mesmo que o vampiro vença, ele colapsa em um ódio próprio e desgosto incontroláveis, incapaz de agir de outra forma senão em sua própria defesa por um número de turnos igual à quantidade de [[Humanidade#Stains|Stains]] que possui (mínimo de um).
+- Ao brandir um símbolo sagrado ou orar em voz alta, o mortal obriga o vampiro a fazer um [[Humanidade]]teste de Remorso. Mesmo que o vampiro vença, ele colapsa em um ódio próprio e desgosto incontroláveis, incapaz de agir de outra forma senão em sua própria defesa por um número de turnos igual à quantidade de [[Humanidade#Stains|Stains]] que possui (mínimo de um). Depois disso, remove todos os Stains.
+
+- **Sem sucessos no teste de Remorso:** o vampiro perde permanentemente 1 ponto de Resolve, não perde Stains e foge imediatamente em frenesi de terror. Se não puder fugir, sofre dano como se o símbolo fosse luz solar direta e deve se afastar o máximo possível dele (Core, p. 222).
 
 
 ---
@@ -158,7 +162,7 @@ Vampiros podem entrar em Torpor de três maneiras: a partir de [[Fome]], a parti
 	    - Falha: Caso os [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check's]] realizados para curar o dano falhem, elevando o nível de **Fome** do vampiro acima de **5**, ele permanecerá em Torpor, conforme a regras acima (ponto 1).
 
 3. **Voluntariamente**:
-    - Um vampiro pode optar por entrar em Torpor como uma forma de preservação ou para evitar circunstâncias adversas.
+    - Um vampiro pode optar por entrar em Torpor como uma forma de preservação ou para evitar circunstâncias adversas. Mesmo assim, a [[Fome]] aumenta a cada noite, até que ele entre em Torpor pela regra de Fome acima, e valem as mesmas regras (Core, p. 223).
 
 ### Despertando Após Duração do Torpor
 Uma vez que o período estipulado de torpor expire (ver [[Humanidade]]), vampiros em torpor que não estejam impalados por uma estaca estão sujeitos a despertar caso uma vítima se aproxime.

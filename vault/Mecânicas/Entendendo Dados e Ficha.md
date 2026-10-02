@@ -44,9 +44,9 @@ A maior parte das pool de dados ao jogar *Vampiro: A Máscara* é composta de um
   
 - **Atributo + Disciplina**: Bem comum também. Algumas [[Disciplinas]] influenciam diretamente no seu teste (conforme a descrição delas), ou o Narrador pode considerar o número da pontuação nelas arbitrariamente.
   
-- **Atributo + Atributo**: Um pouco mais incomum. Podem representar testes diretos de um Atributo. O Narrador pode pedir, por exemplo, ***Força + Força*** para levantar uma viga pesada de uma tampa de caixão. Às vezes, dois Atributos são combinados para formar uma pool, como em testes de *Determinação + Composição* para resistir a muitas [[Disciplinas]].
+- **Atributo + Atributo**: Um pouco mais incomum. Podem representar testes diretos de um Atributo. O Narrador pode pedir, por exemplo, ***Força + Força*** para levantar uma viga pesada de uma tampa de caixão. Às vezes, dois Atributos são combinados para formar uma pool, como em testes de *Resolve + Composure* (Determinação + Compostura) para resistir a muitas [[Disciplinas]].
 
-- **Atributo + Habilidade ou Atributo + Disciplinas:** Existem casos que o uso de Disciplinas somam na dice pool. Ex: *Hightened Senses* permite você somar seus pontos em [[Disciplinas#Auspex|Auspex]] numa dice pool. Se o personagem possui 2 pontos em Auspex, soma dois dados.
+- **Atributo + Habilidade ou Atributo + Disciplinas:** Existem casos que o uso de Disciplinas somam na dice pool. Ex: *Heightened Senses* (Auspex 1) soma seus pontos em [[Disciplinas#Auspex|Auspex]] a todos os testes de percepção. Se o personagem possui 2 pontos em Auspex, soma dois dados (Core p. 249).
 
 >Um personagem que não possui uma Habilidade rola apenas o Atributo da pool, sem penalidades adicionais.
 
@@ -54,9 +54,9 @@ A maior parte das pool de dados ao jogar *Vampiro: A Máscara* é composta de um
 >
 >*Exemplo*: 
 >	
->	*Um Vampiro com 2 pontos em [[Disciplinas#Celerity|Celeridade]] está em uma perseguição de carros acirrada, e um pedestre surge dentre os carros correndo para atravessar a rua. O Narrador pede um teste de direção (Dex + Drive), e o jogador pergunta se ativar a Disciplina "Reflexos Rápidos" ajudaria nessa situação. O Narrador julga que sim, e tem duas opções nesse momento (modificar a [[Dificuldade, Contests e Conflitos#Dificuldade|Dificuldade]] - como previamente expresso nas regras), ou deixar o jogador somar seus pontos de Celeridade na dice pool. Ele opta pela segunda opção.*
+>	*Um Vampiro com 2 pontos em [[Disciplinas#Celerity|Celeridade]] está em uma perseguição de carros acirrada, e um pedestre surge dentre os carros correndo para atravessar a rua. O Narrador pede um teste de direção (Dex + Drive), e o jogador pergunta se ativar o poder *Fleetness* (Celerity 2, custo de um Rouse Check) ajudaria nessa situação. Como o poder manda somar a Celeridade a testes de Destreza fora de combate, o Narrador julga que sim (Core p. 253), e tem duas opções nesse momento (modificar a [[Dificuldade, Contests e Conflitos#Dificuldade|Dificuldade]] - como previamente expresso nas regras), ou deixar o jogador somar seus pontos de Celeridade na dice pool. Ele opta pela segunda opção.*
 >	
->	*O jogador faria então (Dex + Drive + Celeridade). Se ele tem 3 pontos de Drive, 2 pontos de Drive e 2 pontos de Celeridade, jogaria 7 dados no total.*  
+>	*O jogador faria então (Dex + Drive + Celeridade). Se ele tem 3 pontos de Dexterity, 2 pontos de Drive e 2 pontos de Celeridade, jogaria 7 dados no total.*  
 
 ---
 ## Especialidades na Dice Pool
@@ -71,7 +71,7 @@ Se um personagem tentar uma realizar uma ação que exija um [[Regras Fundamenta
 
 >**Para Saber Mais:** 
 >- No momento da criação, um personagem já adquire especialidades. Algumas por exemplo, são adquiridas ao selecionar seu [[Predator Type]]. 
->- Outras Skills, como Academics, ao alocar um ponto, já lhe confere uma Especialidade. A ficha cuida disso para você no momento da criação.
+>- Quatro Skills (Academics, Craft, Performance e Science) concedem uma Especialidade grátis ao receber o primeiro ponto (Core p. 159). A ficha cuida disso para você no momento da criação.
 
 ### Encontrando Especialidades na Ficha
 
@@ -110,7 +110,7 @@ Ou seja, se você possui 7 pontos de Willpower totais, mas [[Regras Fundamentais
 
 >**Nota Importante**: Nenhuma dice pool pode cair abaixo de 1, então uma rolagem de uma pool vazia ainda gera um dado.
 
-***Observação:*** [[Humanidade#Stains (Manchas)|Manchas de Humanidade]] não contam; se você tem 6 pontos de Humanidade, role 6 dados.
+***Observação:*** no teste de [[Humanidade#Remorso|Remorso]], o livro manda rolar os pontos **não marcados** da trilha: Humanidade 6 com 2 [[Humanidade#Stains (Manchas)|Stains]] rola 2 dados (mínimo 1; Core p. 239). Para os demais testes de Humanidade o livro não traz regra específica sobre Stains; vale a regra geral de usar o valor não danificado, a critério do Narrador.
 
 >**Tutorial**: Veja como realizar testes de Humanidade e Willpower usando a ficha em [[#Teste de Willpower na Ficha]] e [[#Teste de Humanidade na Ficha]]. 
 
@@ -212,7 +212,7 @@ Veja como funcina um passo-a-passo:
 	***Exemplo***: *Em um teste para destrancar uma porta com lockpicking (**Dex** + **Larceny**), Pedro soma 6 dados, por ter 3 pontos em **Dex** e 3 pontos em **Larceny**.*
 
 2. Depois, veja seu [[#Nível de Fome na Ficha|nível de Fome na ficha]]. Para cada nível de Fome (quadrado riscado), separe um dado de Fome (dado vermelho).
-3. Substitua na Dice Pool a quantidade de dados regulares pela quantidade de dados de fome.
+3. Substitua na Dice Pool a quantidade de dados regulares pela quantidade de dados de fome. Se a pool for menor que a Fome, role apenas dados de Fome em número igual à pool (Core p. 205).
 	***Exemplo***: *Como Pedro tinha [[Fome]] nível 2, ele substituirá 2 dados regulares por 2 dados de fome. Então, jogará 4 dados regulares e 2 dados de fome, potencializando suas chances de obter um [[#Messy Critical]] ou um [[#Bestial Failure]], que podem gerar consequências desastrosas.*
 
 #### A Exceção aos Dados de Fome
@@ -300,6 +300,7 @@ Se você entende isso e outros aspectos de [[Fome]], veja abaixo como realizar u
 1. Role **um único dado de dez lados (d10)**:
     - Resultado **6 ou mais**: Sucesso. A Fome permanece inalterada.
     - Resultado **5 ou menos**: Falha. O vampiro ganha **+1 de Fome**.
+    - Em alguns casos (por exemplo, Blood Potency mais alta) o jogador rola **dois dados e fica com o melhor**; um sucesso em qualquer um evita o aumento de Fome (Core p. 211).
 
 2. O efeito desejado acontece **independentemente do sucesso ou falha**.
     - Exemplo: Mesmo falhando ao ativar o _Blush of Life_, ele funciona, mas a Fome aumenta.

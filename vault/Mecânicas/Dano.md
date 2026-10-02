@@ -80,6 +80,11 @@ Quando um personagem acumula dano suficiente (de qualquer tipo ou uma combinaç�
     - Se todos os pontos no rastreador já estiverem marcados como superficiais, converta um ponto superficial para **dano agravado**, usando um **"X"**, conforme as regras usuais de incapacitação.
 - **Nota**: Dano superficial causado por gastos voluntários **não é dividido pela metade**.
 
+3. **Dano Sofrido Enquanto Impaired**:
+- Para cada nível de dano (superficial ou agravado) que o personagem sofre enquanto Impaired, converta 1 dano superficial já marcado em **dano agravado** (de "/" para "X"), um a um. Divida o dano superficial pela metade como de costume **antes** de converter.
+- **Tracker totalmente preenchido de dano agravado**: o personagem está fora do conflito, possivelmente para sempre. Em combate físico, fica em coma ou morre (se mortal), ou cai em [[Perigos do Sangue#Torpor|torpor]] (se vampiro).
+- A critério do Narrador, SPCs mortais ficam incapacitados já ao chegarem em Impaired.
+
 --- 
 
 ## Tomando e Trackeando o Dano:

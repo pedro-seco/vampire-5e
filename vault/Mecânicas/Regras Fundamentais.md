@@ -122,7 +122,7 @@ Em _Vampiro: A Máscara_, a divisão em sessões não é tão rígida quanto em 
 
 Embora as sessões possam variar em duração, elas têm a vantagem de serem **claramente definidas**, facilitando para os jogadores e o Narrador saberem quando uma sessão começa e termina, garantindo um ponto de pausa natural na história.
 
->**Para Saber Mais**: [[Humanidade#Remorso|Testes de Remorso]] só acontecem no fim de uma sessão, por exemplo (cabe ao Narrador julgar se é coerente)
+>**Para Saber Mais**: [[Humanidade#Remorso|Testes de Remorso]] acontecem no fim da sessão para quem tem Stains marcados na trilha de Humanidade, por exemplo
 
 ## Story 
 
@@ -271,7 +271,7 @@ Caso o resultado não seja satisfatório em um teste, o **personagem pode gastar
 
 >**Lembre-se:** você pode fazer para re-rolar dados regulares em qualquer teste de [[Character#Habilidades|Habilidade]] ou [[Character#Atributo|Atributo]], incluindo testes que envolvam [[Disciplinas]] vampíricas. 
 
->**Nota Importante**: Um ponto de Força de Vontade gasto conta como tendo sofrido um nível de dano Superficial à Força de Vontade e deve ser marcado como tal na ficha.
+>**Nota Importante**: Um ponto de Força de Vontade gasto conta como tendo sofrido um nível de dano Superficial à Força de Vontade e deve ser marcado como tal na ficha. Esse dano Superficial vindo de gastos **não é dividido pela metade** (Core p. 126).
 
 >**Tutorial**: Veja como realizar re-rolar os dados usando o Willpower de maneira automática através da sua ficha em [[Entendendo Dados e Ficha#Tutorial Como Re-Rolar os Dados na Ficha|Como Re-Rolar os Dados na Ficha Interativa Usando Willpower]]. 
 
@@ -285,7 +285,7 @@ Utiliza-se um Check principalmente para determinar o aumento de [[Fome]] atravé
 
 **ATENÇÃO:**
 - Os personagens não podem usar Willpower para refazer Checks. 
-- Sucessos automáticas e a opção de [[Dificuldade, Contests e Conflitos#Pegar Metade|"pegar metade"]] nunca se aplicam aos testes.
+- Sucessos automáticos e a opção de [[Dificuldade, Contests e Conflitos#Pegar Metade|"pegar metade"]] nunca se aplicam aos Checks.
 ---
 
 *Ver também:* [[Mecânicas/Entendendo Dados e Ficha]] · [[Mecânicas/Regras Avançadas]] · [[Mecânicas/Dificuldade, Contests e Conflitos]] · [[Mecânicas/Exemplos de Testes]]
