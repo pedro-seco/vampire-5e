@@ -80,6 +80,8 @@ export interface Character {
   touchstones: Touchstone[];
   background: string;
   notes: string;
+  portrait?: string;
+  backdrop?: string;
 }
 
 export const SKILL_GROUPS: Record<'physical' | 'social' | 'mental', SkillKey[]> = {

@@ -22,7 +22,8 @@ src/
   scripts/vaultSections.ts          conversão .md (Obsidian) → HTML, roda no build
   app/
     App.tsx, main.tsx, sheet.css    ficha
-    components/                     Nav, mechanics/, narrative/, manual/, modals/, shared/
+    ankh/                           aba Mechanics: layout em volta do ankh (desktop e mobile)
+    components/                     Nav, narrative/, manual/, modals/, shared/
     tabs/                           MechanicsTab, NarrativeTab, RefTab, ManualTab
     context/                        CharacterContext, characterStore, characterFiles, ConfirmContext, storage
     types/character.ts              schema do personagem
@@ -47,12 +48,25 @@ modo de edição (✏), exportar (⬆), importar (⬇).
 - Trackers e Resonance funcionam sempre, sem modo de edição. XP também é sempre editável.
 
 ### Aba Mechanics
-- **Cabeçalho:** nome, apelidos, clã, geração, predator type, facção, Abraço, sire, idiomas,
-  XP total/gasto. Limites de caracteres por campo.
-- **4 colunas:** Physical · Social · Mental (atributos 1–5 e skills 0–5 com especialidade) ·
-  Advantages + Flaws (busca em `advantages.json`, nível limitado pelo `maxLevel`).
-- **Notes:** texto livre.
-- **Inventory:** lista de texto livre.
+Layout em volta do símbolo do ankh. O ankh é uma "janela" recortada na imagem de fundo
+(a mesma foto do fundo, sem o blur), com o retrato do personagem dentro do laço ou, sem
+retrato, o ícone do clã (game-icons.net, CC BY 3.0).
+
+- **Desktop (> 820px):** palco fixo de 1440px, escalado para caber na largura. O texto abraça
+  o contorno do ankh (tabela de meia-largura em `ankh/geometry.ts`). Esquerda: atributos e
+  perícias. Direita: dados do personagem, sangue (geração + Blood Potency), disciplinas e poderes,
+  advantages, flaws, inventário e cola para dados. Trackers no braço do ankh.
+- **Mobile (≤ 820px):** cabo do ankh no topo com o retrato, nome, dados em 2 colunas, sangue,
+  seção Estado (trackers), lâmina com atributos | disciplinas, depois perícias, vantagens,
+  inventário e cola para dados.
+- **Janelas de detalhe:** clicar numa perícia ou num poder abre uma janela ao lado (no mobile,
+  uma gaveta embaixo) com o texto do Core quando disponível (Stealth p.164 e os poderes do Khalil)
+  ou o resumo da vault / dados da ficha.
+- **Aparência (modo de edição):** enviar/trocar/remover retrato (salvo como JPEG reduzido no
+  personagem, campo `portrait`) e escolher um dos 5 fundos (`backdrop`).
+- Atributos 1–5, skills 0–5 com especialidade, advantages/flaws com nível limitado pelo `maxLevel`
+  de `advantages.json`. Disciplinas: adicionar (busca), nível 1–5, adicionar poder (só poderes com
+  nível ≤ nível da disciplina).
 - **Cola para dados:** pools salvos (atributo + skill + especialidade opcional (+1) + disciplina
   opcional), com a fórmula e o total calculados a partir da ficha atual.
 - **Trackers:**
@@ -64,9 +78,7 @@ modo de edição (✏), exportar (⬆), importar (⬇).
 | Humanity | 10 | cheias = Humanidade; Stains preenchem as vazias da direita | `+`/`−` no valor |
 | Blood Potency | 10 | cheias = BP | clique só em edição |
 
-  O painel de Blood Potency mostra os efeitos do nível atual (`bp.json`).
-- **Disciplines:** adicionar disciplina (busca), nível 1–5, adicionar poder (só poderes com nível
-  ≤ nível da disciplina, de `disciplines.json`). Grupos e cartões de poder colapsam ao clicar.
+  O bloco de sangue mostra os efeitos do nível atual (`bp.json`) e o máximo pela geração.
 
 ### Aba Narrative
 - **Convictions** (até 5) e **Touchstones** (nome, resumo, convicção vinculada, descrição).
@@ -75,6 +87,7 @@ modo de edição (✏), exportar (⬆), importar (⬇).
   do Khalil (Nosferatu / Paranoia / Alleycat)** — derivar do clã exige um arquivo de dados
   por clã que ainda não existe.
 - **Background:** texto livre.
+- **Languages** e **Notes:** texto livre (saíram da aba Mechanics).
 
 ### Aba Ref
 Referência estática: tipos de dano, efeitos de Fome, Rouse Checks, Frenzy, Resonance,

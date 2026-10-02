@@ -20,8 +20,9 @@ O código não tem comentários nem variáveis de uma letra: explicações ficam
 
 ## A ficha
 
-Port da ficha clássica em JS puro, com o mesmo visual: `app/sheet.css` é o CSS original, e o
-markup segue o antigo porque o CSS depende de `body.edit-mode`, `[contenteditable="true"]` e
+A aba Mechanics usa o layout do ankh (`app/ankh/`, CSS em `app/ankh/ankh.css`). As outras abas
+são o port da ficha clássica em JS puro, com o mesmo visual: `app/sheet.css` é o CSS original, e
+o markup segue o antigo porque o CSS depende de `body.edit-mode`, `[contenteditable="true"]` e
 `:empty`. Os dados ficam em `localStorage['vtm5e']`, no mesmo formato de antes.
 
 Dois bugs da versão antiga não foram reproduzidos:
@@ -37,7 +38,7 @@ Dois bugs da versão antiga não foram reproduzidos:
 | --- | --- |
 | `app/App.tsx`, `app/main.tsx` | Entrada da ficha: navegação e as quatro abas. |
 | `app/tabs/` | Uma aba por arquivo: Mechanics, Narrative, Ref, Manual. |
-| `app/components/mechanics/` | Blocos da aba Mechanics: cabeçalho, atributos/skills, vantagens, trackers, disciplinas, inventário, pools. |
+| `app/ankh/` | Aba Mechanics: `AnkhSheet` escolhe `DesktopSheet` ou `MobileSheet`; `SheetItems` são as linhas editáveis; `geometry.ts`/`stage.ts` posicionam o texto pelo contorno do ankh; `backdrops/` são os fundos. |
 | `app/components/narrative/` | Convicções, touchstones e cartões de referência. |
 | `app/components/manual/` | Guia de uso e prompt de criação de personagem. |
 | `app/components/modals/` | Modais de adicionar disciplina, poder, vantagem e de deletar personagem. |
