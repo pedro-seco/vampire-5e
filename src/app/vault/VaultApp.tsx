@@ -1,4 +1,4 @@
-import { memo, useCallback, useEffect, useLayoutEffect, useRef, useState } from 'react';
+import { memo, useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react';
 import sections from 'virtual:vault-sections';
 import { containsMatch, highlightMatches, removeHighlights, searchPattern } from './highlight';
 
@@ -15,6 +15,39 @@ const NoteHtml = memo(function NoteHtml({ html }: { html: string }) {
   return <div ref={container} />;
 });
 
+type SidebarEntry =
+  | { kind: 'link'; section: (typeof sections)[number] }
+  | { kind: 'group'; name: string; children: (typeof sections)[number][] };
+
+type Tab = 'jogador' | 'narrador';
+
+const TAB_STORAGE_KEY = 'vault-tab';
+const TAB_LABELS: Record<Tab, string> = { jogador: 'Jogador', narrador: 'Narrador' };
+
+const isNarratorOnly = (section: (typeof sections)[number]) => section.audience === 'narrador';
+
+function buildSidebarEntries(list: typeof sections): SidebarEntry[] {
+  const entries: SidebarEntry[] = [];
+  for (const section of list) {
+    if (!section.group) {
+      entries.push({ kind: 'link', section });
+      continue;
+    }
+    const last = entries[entries.length - 1];
+    if (last?.kind === 'group' && last.name === section.group) last.children.push(section);
+    else entries.push({ kind: 'group', name: section.group, children: [section] });
+  }
+  return entries;
+}
+
+function readStoredTab(): Tab {
+  try {
+    return localStorage.getItem(TAB_STORAGE_KEY) === 'narrador' ? 'narrador' : 'jogador';
+  } catch {
+    return 'jogador';
+  }
+}
+
 const sectionElements = (content: HTMLElement) => Array.from(content.querySelectorAll<HTMLElement>('section.vs'));
 
 export function VaultApp() {
@@ -26,12 +59,27 @@ export function VaultApp() {
   const [search, setSearch] = useState('');
   const [activeId, setActiveId] = useState(sections[0]?.id);
   const [showBackToTop, setShowBackToTop] = useState(false);
+  const [tab, setTab] = useState<Tab>(readStoredTab);
+  const [openGroups, setOpenGroups] = useState<Set<string>>(new Set());
   const pendingScrollTarget = useRef<Element | null>(null);
 
   useEffect(() => {
     const timer = setTimeout(() => setSearch(query.trim()), SEARCH_DELAY_MS);
     return () => clearTimeout(timer);
   }, [query]);
+
+  const isOutsideTab = useCallback((section: (typeof sections)[number]) => tab === 'jogador' && isNarratorOnly(section), [tab]);
+  const tabSections = useMemo(() => sections.filter((section) => !isOutsideTab(section)), [isOutsideTab]);
+  const sidebarEntries = useMemo(() => buildSidebarEntries(tabSections), [tabSections]);
+
+  const chooseTab = useCallback((next: Tab) => {
+    setTab(next);
+    try {
+      localStorage.setItem(TAB_STORAGE_KEY, next);
+    } catch {
+      return;
+    }
+  }, []);
 
   const scrollTo = useCallback((target: Element) => {
     const pane = content.current;
@@ -49,7 +97,7 @@ export function VaultApp() {
     if (!pendingScrollTarget.current) return;
     scrollTo(pendingScrollTarget.current);
     pendingScrollTarget.current = null;
-  }, [hiddenIds, scrollTo]);
+  }, [hiddenIds, scrollTo, tab]);
 
   useEffect(() => {
     const pane = content.current;
@@ -62,8 +110,9 @@ export function VaultApp() {
 
     const pattern = searchPattern(search);
     const hidden = new Set<string>();
+    const outsideIds = new Set(sections.filter(isOutsideTab).map((section) => section.id));
     for (const section of sectionElements(pane)) {
-      if (containsMatch(section.textContent || '', pattern)) highlightMatches(section, pattern);
+      if (!outsideIds.has(section.id) && containsMatch(section.textContent || '', pattern)) highlightMatches(section, pattern);
       else hidden.add(section.id);
     }
     setHiddenIds(hidden);
@@ -71,7 +120,7 @@ export function VaultApp() {
     const firstMatch = sections.find((section) => !hidden.has(section.id));
     const firstElement = firstMatch && document.getElementById(firstMatch.id);
     if (firstElement) requestAnimationFrame(() => scrollTo(firstElement));
-  }, [search, scrollTo]);
+  }, [search, scrollTo, isOutsideTab]);
 
   const followScroll = () => {
     const pane = content.current;
@@ -86,6 +135,18 @@ export function VaultApp() {
   };
 
   useEffect(() => {
+    const activeGroup = sections.find((section) => section.id === activeId)?.group;
+    if (activeGroup) setOpenGroups((groups) => (groups.has(activeGroup) ? groups : new Set(groups).add(activeGroup)));
+  }, [activeId]);
+
+  const toggleGroup = (name: string) =>
+    setOpenGroups((groups) => {
+      const next = new Set(groups);
+      if (!next.delete(name)) next.add(name);
+      return next;
+    });
+
+  useEffect(() => {
     document.querySelector('.vn-link.active')?.scrollIntoView({ block: 'nearest' });
   }, [activeId]);
 
@@ -97,6 +158,13 @@ export function VaultApp() {
       const target = document.getElementById(decodeURIComponent(link.getAttribute('href')!.slice(1)));
       if (!target) return;
 
+      const owner = sections.find((section) => section.id === target.closest('.vs')?.id);
+      if (owner && isNarratorOnly(owner) && tab === 'jogador') {
+        pendingScrollTarget.current = target;
+        chooseTab('narrador');
+        setSidebarOpen(false);
+        return;
+      }
       const isInHiddenSection = target.closest('.vs')?.classList.contains('hidden');
       if (isInHiddenSection) {
         pendingScrollTarget.current = target;
@@ -108,11 +176,22 @@ export function VaultApp() {
     };
     document.addEventListener('click', goToAnchor);
     return () => document.removeEventListener('click', goToAnchor);
-  }, [clearSearch, scrollTo]);
+  }, [chooseTab, clearSearch, scrollTo, tab]);
 
-  const visibleCount = sections.length - hiddenIds.size;
+  const visibleCount = tabSections.filter((section) => !hiddenIds.has(section.id)).length;
   const countLabel = search ? visibleCount + (visibleCount === 1 ? ' seção' : ' seções') : '';
-  const hiddenClass = (id: string) => (hiddenIds.has(id) ? ' hidden' : '');
+  const hiddenClass = (section: (typeof sections)[number]) => (hiddenIds.has(section.id) || isOutsideTab(section) ? ' hidden' : '');
+
+  const renderLink = (section: (typeof sections)[number], nested: boolean) => (
+    <a
+      key={section.id}
+      className={'vn-link' + (nested ? ' nested' : '') + (section.id === activeId ? ' active' : '') + hiddenClass(section)}
+      href={'#' + section.id}
+      data-id={section.id}
+    >
+      {section.label ?? section.title}
+    </a>
+  );
 
   return (
     <>
@@ -148,22 +227,45 @@ export function VaultApp() {
 
       <div className="layout">
         <nav className={'sidebar' + (sidebarOpen ? ' open' : '')}>
-          <div className="sidebar-head">Mec&#226;nicas</div>
-          {sections.map((section) => (
-            <a
-              key={section.id}
-              className={'vn-link' + (section.id === activeId ? ' active' : '') + hiddenClass(section.id)}
-              href={'#' + section.id}
-              data-id={section.id}
-            >
-              {section.title}
-            </a>
-          ))}
+          <div className="vault-tabs" role="tablist">
+            {(Object.keys(TAB_LABELS) as Tab[]).map((key) => (
+              <button
+                key={key}
+                type="button"
+                role="tab"
+                aria-selected={tab === key}
+                className={'vault-tab' + (tab === key ? ' active' : '')}
+                onClick={() => chooseTab(key)}
+              >
+                {TAB_LABELS[key]}
+              </button>
+            ))}
+          </div>
+          {sidebarEntries.map((entry) => {
+            if (entry.kind === 'link') return renderLink(entry.section, false);
+            const allHidden = entry.children.every((child) => hiddenIds.has(child.id));
+            const isOpen = openGroups.has(entry.name) || Boolean(search);
+            const hasActive = entry.children.some((child) => child.id === activeId);
+            return (
+              <div key={entry.name} className={'vn-group' + (allHidden ? ' hidden' : '')}>
+                <button
+                  type="button"
+                  className={'vn-group-head' + (hasActive ? ' has-active' : '')}
+                  aria-expanded={isOpen}
+                  onClick={() => toggleGroup(entry.name)}
+                >
+                  <span className="vn-caret">{isOpen ? '▾' : '▸'}</span>
+                  {entry.name}
+                </button>
+                {isOpen && entry.children.map((child) => renderLink(child, true))}
+              </div>
+            );
+          })}
         </nav>
 
         <main className="content" ref={content} onScroll={followScroll}>
           {sections.map((section) => (
-            <section key={section.id} id={section.id} className={'vs' + hiddenClass(section.id)} data-title={section.title}>
+            <section key={section.id} id={section.id} className={'vs' + hiddenClass(section)} data-title={section.title}>
               <NoteHtml html={section.html} />
             </section>
           ))}

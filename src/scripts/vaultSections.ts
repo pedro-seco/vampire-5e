@@ -6,6 +6,9 @@ export interface VaultSection {
   id: string;
   title: string;
   html: string;
+  group?: string;
+  label?: string;
+  audience: 'jogador' | 'narrador';
 }
 
 interface VaultNote {
@@ -15,9 +18,15 @@ interface VaultNote {
 }
 
 export const VAULT_NOTES: VaultNote[] = [
-  { file: 'Mecânicas/100 Locais do Toolkit.md', id: '100-locais-do-toolkit', title: '100 Locais do Toolkit' },
-  { file: 'Mecânicas/100 Vítimas do Toolkit.md', id: '100-vitimas-do-toolkit', title: '100 Vítimas do Toolkit' },
-  { file: 'Mecânicas/50 Omens do Toolkit.md', id: '50-omens-do-toolkit', title: '50 Omens do Toolkit' },
+  { file: 'Narração/Coteries.md', id: 'coteries', title: 'Coteries' },
+  { file: 'Narração/Dicas.md', id: 'dicas-de-narracao', title: 'Dicas de Narração' },
+  { file: 'Narração/Guia do Narrador.md', id: 'guia-do-narrador', title: 'Guia do Narrador' },
+  { file: 'Mecânicas/Anarch - Loresheets.md', id: 'anarch-loresheets', title: 'Anarch - Loresheets' },
+  { file: 'Mecânicas/Anarch - Ministry e Cura de Thin-Bloods.md', id: 'anarch-ministry-e-cura-de-thin-bloods', title: 'Anarch - Ministry e Cura de Thin-Bloods' },
+  { file: 'Mecânicas/Anarch - Response Algorithm.md', id: 'anarch-response-algorithm', title: 'Anarch - Response Algorithm' },
+  { file: 'Mecânicas/Camarilla - Banu Haqim.md', id: 'camarilla-banu-haqim', title: 'Camarilla - Banu Haqim' },
+  { file: 'Mecânicas/Camarilla - Conflito Institucional.md', id: 'camarilla-conflito-institucional', title: 'Camarilla - Conflito Institucional' },
+  { file: 'Mecânicas/Camarilla - Loresheets.md', id: 'camarilla-loresheets', title: 'Camarilla - Loresheets' },
   { file: 'Mecânicas/Advantages de Ghoul e Mortal.md', id: 'advantages-de-ghoul-e-mortal', title: 'Advantages de Ghoul e Mortal' },
   { file: 'Mecânicas/Advantages.md', id: 'advantages-e-flaws', title: 'Advantages e Flaws' },
   { file: 'Mecânicas/Blood Sigils - A Cena Blood Craft.md', id: 'blood-sigils-a-cena-blood-craft', title: 'Blood Sigils - A Cena Blood Craft' },
@@ -169,12 +178,56 @@ function markdownRenderer(note: VaultNote): Marked {
   });
 }
 
+const GROUP_OVERRIDES: Record<string, { group: string; label: string }> = {
+  "Clãs do Player's Guide — Banes e Compulsões": { group: "Player's Guide", label: 'Clãs — Banes e Compulsões' },
+  'Clãs do Companion': { group: 'Companion', label: 'Clãs' },
+  'Errata do Companion': { group: 'Companion', label: 'Errata' },
+  'Poderes do Companion': { group: 'Companion', label: 'Poderes' },
+  'Mortais e Ghouls Jogáveis': { group: 'Companion', label: 'Mortais e Ghouls Jogáveis' },
+  'Advantages de Ghoul e Mortal': { group: 'Companion', label: 'Advantages de Ghoul e Mortal' },
+  'Merits de Coterie por Clã': { group: 'Companion', label: 'Merits de Coterie por Clã' },
+};
+
+const NARRATOR_TITLES = new Set([
+  'Coteries',
+  'Dicas de Narração',
+  'Guia do Narrador',
+  "Player's Guide — Antagonistas Consolidados",
+  'Blood Sigils - A Cena Blood Craft',
+  'Blood Sigils - Antagonistas e Criaturas',
+  'Blood Sigils - Artefatos, Tomos e Mistérios',
+  'Blood Sigils - Crônica, Tenets e Loresheets',
+  'Sabbat — Antagonistas',
+  'Camarilla - Conflito Institucional',
+  'Anarch - Response Algorithm',
+]);
+
+const audienceOf = (title: string): 'jogador' | 'narrador' => (NARRATOR_TITLES.has(title) ? 'narrador' : 'jogador');
+
+const GROUP_PREFIX = /^(.+?) [—-] (.+)$/;
+
+function groupOf(title: string): { group?: string; label?: string } {
+  const override = GROUP_OVERRIDES[title];
+  if (override) return override;
+  const prefixed = GROUP_PREFIX.exec(title);
+  return prefixed ? { group: prefixed[1], label: prefixed[2] } : {};
+}
+
+const sortKey = (text: string) => text.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+
+function compareSections(first: VaultSection, second: VaultSection): number {
+  const firstTop = sortKey(first.group ?? first.title);
+  const secondTop = sortKey(second.group ?? second.title);
+  if (firstTop !== secondTop) return firstTop < secondTop ? -1 : 1;
+  return sortKey(first.label ?? first.title).localeCompare(sortKey(second.label ?? second.title));
+}
+
 export function buildVaultSections(vaultDir: string): VaultSection[] {
   const links = new LinkResolver(vaultDir);
 
   return VAULT_NOTES.map((note) => {
     const markdown = renderWikilinks(stripObsidianOnlySyntax(readNote(vaultDir, note.file)), note, links);
     const html = markdownRenderer(note).parse(markdown, { async: false });
-    return { id: note.id, title: note.title, html };
-  });
+    return { id: note.id, title: note.title, html, audience: audienceOf(note.title), ...groupOf(note.title) };
+  }).sort(compareSections);
 }
