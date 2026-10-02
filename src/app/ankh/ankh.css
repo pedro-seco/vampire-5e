@@ -448,6 +448,22 @@
   text-shadow: none;
 }
 
+.ankh-window-slot {
+  position: absolute;
+  z-index: 5;
+  width: 292px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  border: 1px solid var(--ankh-line);
+  background: var(--ankh-panel);
+}
+
+.ankh-window-slot > .ankh-window { width: auto; border: none; }
+
+.ankh-window-slot > .ankh-window { position: static; }
+
 .ankh-window__header {
   display: flex;
   align-items: baseline;

@@ -3,6 +3,7 @@ import type { ReactNode } from 'react';
 import { useCharacter } from '../context/CharacterContext';
 import { SKILL_GROUPS } from '../types/character';
 import type { Attributes, SkillKey } from '../types/character';
+import { AnchoredWindow } from './AnchoredWindow';
 import { AnkhArt } from './AnkhArt';
 import { AppearanceControls } from './AppearanceControls';
 import { backdropFor, coverRect } from './backdrops';
@@ -41,7 +42,6 @@ const BLOOD_LEFT = 1012;
 const TRACKERS_TOP = 806;
 const SKILL_WINDOW_LEFT = 32;
 const SIDE_WINDOW_LEFT = 1116;
-const WINDOW_BOTTOM_ROOM = 420;
 const STAGE_BOTTOM_ROOM = 90;
 const STAGE_TOP_CROP = 56;
 
@@ -151,33 +151,36 @@ export function DesktopSheet({ scale }: { scale: number }) {
   const backdrop = backdropFor(character.backdrop);
   const photo = coverRect(backdrop, { width: STAGE_WIDTH, height: stageHeight });
 
-  const windowTop = (rowTop: number) => Math.max(80, Math.min(rowTop - 18, stageHeight - WINDOW_BOTTOM_ROOM));
   const closeWindow = () => setSelection(null);
 
   let detailWindow: ReactNode = null;
+  let windowAnchor = LOWER_START;
+  let windowLeft = SIDE_WINDOW_LEFT;
   if (selection?.kind === 'skill') {
     const entry = character.skills[selection.skill];
+    windowAnchor = skillRowTops[selection.skill] ?? LOWER_START;
+    windowLeft = SKILL_WINDOW_LEFT;
     detailWindow = (
       <SkillWindow
         skill={selection.skill}
         value={entry?.value ?? 0}
         specialty={entry?.specialty ?? ''}
-        style={{ top: windowTop(skillRowTops[selection.skill] ?? LOWER_START), left: SKILL_WINDOW_LEFT }}
         onClose={closeWindow}
       />
     );
   } else if (selection?.kind === 'power') {
+    windowAnchor = powerRowTops[selection.discipline + '/' + selection.power] ?? LOWER_START;
     detailWindow = (
       <PowerWindow
         discipline={selection.discipline}
         power={selection.power}
-        style={{ top: windowTop(powerRowTops[selection.discipline + '/' + selection.power] ?? LOWER_START), left: SIDE_WINDOW_LEFT }}
         onClose={closeWindow}
       />
     );
   } else if (selection?.kind === 'pool-form') {
+    windowAnchor = poolsTop;
     detailWindow = (
-      <FormWindow title="Novo pool" style={{ top: windowTop(poolsTop), left: SIDE_WINDOW_LEFT }} onClose={closeWindow}>
+      <FormWindow title="Novo pool" onClose={closeWindow}>
         <PoolForm onClose={closeWindow} />
       </FormWindow>
     );
@@ -210,7 +213,11 @@ export function DesktopSheet({ scale }: { scale: number }) {
           <ResonancePicker />
         </div>
 
-        {detailWindow}
+        {detailWindow && (
+          <AnchoredWindow key={JSON.stringify(selection)} anchorTop={windowAnchor} left={windowLeft} stageHeight={stageHeight} scale={scale}>
+            {detailWindow}
+          </AnchoredWindow>
+        )}
 
         <Frame />
         <p className="ankh-credit">{CLAN_ICON_CREDIT}</p>

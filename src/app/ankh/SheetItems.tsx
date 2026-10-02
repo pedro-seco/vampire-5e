@@ -112,11 +112,11 @@ export function XpItem() {
       <span className="ankh-field-label">XP</span>
       <label className="ankh-xp__box">
         <span className="ankh-xp__caption">total</span>
-        <input type="number" min="0" defaultValue={character.xpTotal} key={'total' + character.id} onBlur={(event) => update((draft) => { draft.xpTotal = toNumberText(event.target.value); })} />
+        <input type="text" inputMode="numeric" pattern="[0-9]*" defaultValue={character.xpTotal} key={'total' + character.id} onBlur={(event) => update((draft) => { draft.xpTotal = toNumberText(event.target.value); })} />
       </label>
       <label className="ankh-xp__box">
         <span className="ankh-xp__caption">gasto</span>
-        <input type="number" min="0" defaultValue={character.xpSpent} key={'spent' + character.id} onBlur={(event) => update((draft) => { draft.xpSpent = toNumberText(event.target.value); })} />
+        <input type="text" inputMode="numeric" pattern="[0-9]*" defaultValue={character.xpSpent} key={'spent' + character.id} onBlur={(event) => update((draft) => { draft.xpSpent = toNumberText(event.target.value); })} />
       </label>
     </span>
   );
