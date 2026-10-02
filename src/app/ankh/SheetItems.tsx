@@ -57,16 +57,18 @@ export function SkillItem({ skill, side, selected, onSelect }: SkillItemProps) {
   const setSpecialty = (text: string) => update((draft) => { draft.skills[skill].specialty = text; });
 
   const showSpecialty = value > 0 && (editMode || specialty);
+  const specialtyField = showSpecialty && (
+    <Editable className="ankh-note" value={specialty} editable={editMode} onCommit={setSpecialty} placeholder="especialidade" />
+  );
 
   return (
     <span className={'ankh-skill' + (value === 0 && !selected ? ' is-zero' : '')}>
       <Ordered side={side} dots={<TraitDots label={SKILL_LABELS[skill]} value={value} editable={editMode} onChange={setValue} />}>
+        {side === 'left' && specialtyField}
         <button type="button" className={'ankh-link' + (selected ? ' is-selected' : '')} aria-pressed={selected} onClick={onSelect}>
           {SKILL_LABELS[skill]}
         </button>
-        {showSpecialty && (
-          <Editable className="ankh-note" value={specialty} editable={editMode} onCommit={setSpecialty} placeholder="especialidade" />
-        )}
+        {side !== 'left' && specialtyField}
       </Ordered>
     </span>
   );

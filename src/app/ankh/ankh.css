@@ -155,7 +155,8 @@
   background: none;
   border: none;
   border-bottom: 1px solid transparent;
-  padding: 2px 0;
+  padding: 0;
+  line-height: 1.1;
   cursor: pointer;
   text-align: inherit;
 }
@@ -432,7 +433,10 @@
   background: rgba(12, 10, 10, 0.6);
   border: 1px solid var(--ankh-line);
   font-size: 19px;
+  outline: none;
 }
+
+.ankh-xp input:focus { border-color: var(--ankh-bone); }
 
 .ankh-window {
   position: absolute;
