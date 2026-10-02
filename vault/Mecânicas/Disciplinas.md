@@ -36,6 +36,7 @@
   - [[#Blink|Blink]]
   - [[#Traversal|Traversal]]
 - [[#Celerity - Poderes Nível 4|Celerity - Poderes Nível 4]]
+  - [[#Draught of Elegance|Draught of Elegance]]
   - [[#Unerring Aim|Unerring Aim]]
 - [[#Celerity - Poderes Nível 5|Celerity - Poderes Nível 5]]
   - [[#Lightning Strike|Lightning Strike]]
@@ -123,11 +124,11 @@
   - [[#Spark of Rage|Spark of Rage]]
   - [[#Uncanny Grip|Uncanny Grip]]
 - [[#Potence - Poderes Nível 4|Potence - Poderes Nível 4]]
-  - [[#Draught of Elegance|Draught of Elegance]]
+  - [[#Draught of Might|Draught of Might]]
 - [[#Potence - Poderes Nível 5|Potence - Poderes Nível 5]]
   - [[#Earthshock|Earthshock]]
   - [[#Savage Fury|Savage Fury]]
-- [[#Blood Sorcery - Poderes Level 1|Blood Sorcery - Poderes Level 1]]
+- [[#Fortitude - Poderes Nível 1|Fortitude - Poderes Nível 1]]
   - [[#Resilience|Resilience]]
   - [[#Unswayable Mind|Unswayable Mind]]
 - [[#Fortitude - Poderes Nível 2|Fortitude - Poderes Nível 2]]
@@ -136,8 +137,9 @@
   - [[#Defy Bane|Defy Bane]]
   - [[#Fortify the Inner Facade|Fortify the Inner Facade]]
 - [[#Fortitude - Poderes Nível 4|Fortitude - Poderes Nível 4]]
-  - [[#Flesh of Marble|Flesh of Marble]]
+  - [[#Draught of Endurance|Draught of Endurance]]
 - [[#Fortitude - Poderes Nível 5|Fortitude - Poderes Nível 5]]
+  - [[#Flesh of Marble|Flesh of Marble]]
   - [[#Prowess from Pain|Prowess from Pain]]
   - [[#Suffer the Beast's Rage|Suffer the Beast's Rage]]
 - [[#Regras Gerais de Blood Sorcery|Regras Gerais de Blood Sorcery]]
@@ -369,7 +371,7 @@ Este poder sutil requer apenas uma conversa casual, pois a influência insidiosa
 >- **Amálgama**: Obfuscate 2 (necessário 2 pontos em Obfuscate para obter esse poder)
 >- **Custo**: Um [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check]] por [[Regras Fundamentais#Scene|cena]].
 >- **Duração**: Uma [[Regras Fundamentais#Scene|cena]].
->- **Dice Pools:** Leia abaixo, possível (Manipulation + Dominate) vs (Intelligence + Resolve) - [[Dificuldade, Contests e Conflitos#Contests|Contest Roll]] 
+>- **Dice Pools:** Leia abaixo, possível (Manipulation + Dominate) vs (Composure + Intelligence) - [[Dificuldade, Contests e Conflitos#Contests|Contest Roll]] 
 >  
 >- **System (Regras)**:
 >    - **Primeiro Converse, Depois o Teste**:
@@ -454,28 +456,26 @@ As vítimas do vampiro agora acreditam que qualquer coisa que façam sob a influ
 
 ### Mass Manipulation
 
-O vampiro projeta Dominate em área — afetando múltiplos alvos simultaneamente com um único comando.
+O vampiro passa a comandar reuniões inteiras de mortais e, em alguns casos, até grupos de vampiros. Pode usar o poder tanto para dar instruções quanto para manipular memórias. *(Core p. 257)*
 
-> - **Custo**: Two Rouse Checks
-> - **Duração**: Uma cena (comando simples) ou conforme o poder base
-> - **Dice Pools:** Charisma + Dominate vs. Wits + Resolve de cada alvo individualmente
+> - **Custo**: One Rouse Check, além do custo do poder amplificado
+> - **Duração**: Conforme o poder amplificado
+> - **Dice Pools:** Nenhuma própria; qualquer teste necessário é feito contra o oponente mais forte do grupo
 >
 > - **System (Regras)**:
->   O vampiro pode aplicar qualquer poder de Dominate de nível 1-3 a todos os alvos visíveis dentro de Dominate × 5 metros simultaneamente. Role uma vez — compare o resultado contra a resistência de cada alvo individualmente. Alvos que resistam com sucesso ficam imunes ao poder por essa cena.
->   Não funciona com The Forgetful Mind ou poderes que requerem interação individual detalhada.
+>   O vampiro pode amplificar qualquer um de seus outros poderes para afetar um grupo de pessoas, mortais ou vampiros, de uma só vez. Todas as vítimas precisam ver os olhos do usuário. O usuário faz qualquer teste necessário **contra o oponente mais forte do grupo**.
 
 ### Terminal Decree
 
-O vampiro implanta um comando tão profundo que sobrevive à morte do próprio vampiro — um gatilho que permanece até ser executado ou dispelado.
+Sem ser limitado pelo instinto de autopreservação das vítimas, o vampiro passa a emitir comandos que levam diretamente ao dano ou à morte delas. Mortais podem ser levados a estourar os próprios miolos, pular de telhados ou engolir veneno. Vampiros podem, com algum esforço, ser levados a entrar no fogo ou na luz do sol. *(Core p. 257)*
 
-> - **Custo**: Two Rouse Checks + uma semana de condicionamento (cenas repetidas)
-> - **Duração**: Permanente até execução ou dispelling sobrenatural
-> - **Dice Pools:** Manipulation + Dominate vs. Resolve + Composure do alvo (acumulativo por sessão de condicionamento)
+> - **Custo**: Sem custo de Hunger adicional, mas o custo de Humanity é potencialmente severo
+> - **Duração**: Passiva
+> - **Dice Pools:** Nenhuma própria (ver os poderes individuais para os testes envolvidos)
 >
 > - **System (Regras)**:
->   O vampiro condiciona um alvo ao longo de múltiplas cenas (mínimo 3) para executar uma ação específica quando um gatilho acontecer. O gatilho pode ser qualquer evento (a morte do vampiro, uma palavra específica, a visão de um objeto).
->   Quando o gatilho ocorre, o alvo executa o comando mesmo que o vampiro esteja morto, ausente ou que o alvo tenha se libertado de outros Dominates. Só Tremere de alto nível ou Willpower 5+ combinado com Conviction relevante pode resistir ao gatilho ativamente.
-
+>   Comandos terminais agora precisam ser resistidos (ver os poderes individuais para os testes envolvidos), em vez de falharem automaticamente.
+>   Sem Terminal Decree, comandos que resultem em morte ou ferimento grave óbvio falham automaticamente; os alvos ainda rolam para resistir a comandos que causem outros danos sociais ou físicos, como se despir em público.
 
 # Celerity
 
@@ -542,76 +542,88 @@ Enquanto alguns vampiros a utilizam para cortar e esfaquear inimigos sem medo de
 
 ### Fleetness
 
-O vampiro aumenta dramaticamente sua velocidade de movimento — não apenas reflexos, mas velocidade de deslocamento pura.
+A maestria em Celerity agora permite ao vampiro se mover e reagir com velocidade vertiginosa. *(Core p. 253)*
 
 > - **Custo**: One Rouse Check
-> - **Duração**: Uma cena
+> - **Duração**: Uma [[Regras Fundamentais#Scene|cena]]
 > - **Dice Pools:** Não possui (bônus automático)
 >
 > - **System (Regras)**:
->   Enquanto ativo, adicione o rating de Celerity ao movimento do vampiro: cada turno pode mover-se Celerity × 3 metros adicionais além do normal. Em perseguições, adicione Celerity como bônus de dados a qualquer teste de Athletics envolvendo velocidade. Pode correr sobre água rasa ou superfícies instáveis sem penalidade.
+>   Adicione o rating de Celerity à pool do usuário em testes de Dexterity que não sejam de combate. Uma vez por turno, o usuário também pode fazer isso ao se defender com Dexterity + Athletics.
 
 ## Celerity - Poderes Nível 3
 
 ### Blink
 
-O vampiro move-se tão rápido que parece teleportar — um passo cobre distâncias que olhos mortais não conseguem acompanhar.
+O vampiro fecha a distância contra um inimigo (ou escapa dele) num piscar de olhos. Para um observador desprevenido, quase parece teletransporte: só um sopro de vento marca a passagem. *(Core p. 253)*
 
 > - **Custo**: One Rouse Check
-> - **Duração**: Instantâneo
-> - **Dice Pools:** Dexterity + Athletics (para distâncias extremas ou obstáculos)
+> - **Duração**: Um turno
+> - **Dice Pools:** Dexterity + Athletics, ou conforme necessário
 >
 > - **System (Regras)**:
->   O vampiro pode se mover até Celerity × 10 metros como ação gratuita (não consome o turno). Pode usar uma vez por turno. Obstáculos óbvios (paredes, grades fechadas) ainda bloqueiam — mas obstáculos que requerem desvio (multidão, móveis) são ignorados. Mortais que observem veem apenas um borrão.
+>   O vampiro se move em linha reta em direção a um alvo, cobrindo qualquer distância **abaixo de 50 metros** e ainda tendo tempo de realizar uma ação, como um ataque, no turno. Se o terreno for de algum modo perigoso, o personagem precisa fazer um teste de Dexterity + Athletics para evitar tropeçar e parar no caminho. O Narrador pode pedir outros contests, sobretudo se o vampiro disputar com um inimigo distante a chegada a um objeto ou ação. Um vampiro que engaja um inimigo com este poder age como se já estivesse engajado quando o turno começa.
+>   *Exemplo (Core):* Seo-Hee está a 40 m de um agente do FBI, em terreno perigoso, com uma Glock 17 em punho. Ela rola Dexterity + Athletics contra Dexterity + Firearms dele. Se vencer, faz um ataque de Brawl ou Melee antes de o agente atirar; se o agente vencer, atira primeiro e depois ela ataca.
 
 ### Traversal
 
-O vampiro escala superfícies verticais e se move sobre tetos com a mesma velocidade que no chão.
+Com velocidade borrada, o vampiro corre ou escala por qualquer superfície, inclusive verticais e até líquidas. Traversal não dá aderência de inseto, mas correr por paredes é pouco problema. Andar na água continua impossível, mas o vampiro pode correr sobre ela por uma distância limitada, com impulso. *(Core p. 253)*
 
-> - **Custo**: Free
-> - **Duração**: Uma cena
-> - **Dice Pools:** Não possui
+> - **Custo**: One Rouse Check
+> - **Duração**: Um turno
+> - **Dice Pools:** Dexterity + Athletics
 >
 > - **System (Regras)**:
->   Movimento vertical e invertido à velocidade normal de corrida, sem testes. Combina com Blink: pode "piscar" verticalmente. Superfícies completamente lisas e molhadas ainda requerem teste de Dexterity + Athletics Dificuldade 2.
+>   Faça um teste de Dexterity + Athletics com Difficulty de **3** (superfície inclinada com aderência) a **6** (superfície vertical escorregadia, água aberta), conforme a superfície e o ângulo. Cada ponto de margem leva o vampiro mais longe para cima ou para a frente: margem 0 chega a um alvo próximo, margem 1 a um alvo um pouco mais distante, e assim por diante. O Narrador deve avisar antes se o alvo estiver longe demais para sequer tentar; como regra de bolso, mais de 60 metros sobre a água (ou mais de 30 andares subindo um prédio) provavelmente excede o alcance do poder.
 
 ## Celerity - Poderes Nível 4
 
-### Unerring Aim
+### Draught of Elegance
 
-A velocidade do vampiro permite processar trajetórias em frações de segundo — disparos e ataques à distância tornam-se cirúrgicos.
+O Sangue do vampiro fica saturado com Celerity, transmitindo parte desse poder a quem o beber. É também um primeiro passo rumo ao Blood Bond. *(Core p. 254)*
 
-> - **Custo**: One Rouse Check por ataque
-> - **Duração**: Um ataque
-> - **Dice Pools:** Composure + Firearms (ou Athletics para arremesso)
+> - **Custo**: One Rouse Check
+> - **Duração**: Uma noite; para vampiros, até a próxima alimentação ou até atingirem Hunger 5
+> - **Dice Pools:** Não possui
 >
 > - **System (Regras)**:
->   O vampiro ignora penalidades de cobertura parcial, movimento do alvo e distância (dentro do alcance normal da arma). Adiciona Celerity como bônus de dados ao teste de ataque. Contra alvos em movimento total (correndo, em veículo), reduz a penalidade à metade em vez de ignorar.
+>   Beber o equivalente a um Rouse Check de Sangue diretamente do usuário dá ao bebedor Celerity temporária igual à **metade** dos pontos de Celerity do doador (arredondado para baixo). O bebedor ganha os mesmos poderes (não-Amalgam) do doador, até esse nível.
+
+### Unerring Aim
+
+Com o mundo ao redor se arrastando, o vampiro pode mirar e arremessar ou disparar qualquer arma contra um alvo como se ele estivesse parado. *(Core p. 254)*
+
+> - **Amálgama**: Auspex 2 (requer 2 pontos em Auspex para obter este poder)
+> - **Custo**: One Rouse Check
+> - **Duração**: Um ataque
+> - **Dice Pools:** Não possui
+>
+> - **System (Regras)**:
+>   Use antes de fazer um ataque à distância. O alvo **não faz teste para esquivar ou se defender**; o ataque é feito com **Difficulty 1**. Um oponente com Celerity 5 pode anular este poder fazendo o próprio Rouse Check e se defendendo à mesma velocidade.
 
 ## Celerity - Poderes Nível 5
 
 ### Lightning Strike
 
-O vampiro ataca com velocidade impossível — múltiplos golpes em um único turno, cada um com força total.
+Mais rápido do que o olho acompanha, o vampiro golpeia com punho ou arma branca tão depressa que o oponente não consegue se defender nem fazer uma manobra evasiva. *(Core p. 254)*
 
-> - **Custo**: Two Rouse Checks
-> - **Duração**: Um turno
-> - **Dice Pools:** Dexterity + Brawl ou Melee (por ataque)
+> - **Custo**: One Rouse Check
+> - **Duração**: Um ataque
+> - **Dice Pools:** Não possui
 >
 > - **System (Regras)**:
->   O vampiro realiza até Celerity ataques adicionais no mesmo turno, cada um com pool completa. Cada ataque adicional além do primeiro sofre −1 dado cumulativo. Pode distribuir os ataques entre alvos diferentes dentro do alcance de movimento (ver Blink). Defensores não podem usar Dodge contra todos os ataques simultaneamente — apenas o primeiro recebe defesa completa; os seguintes têm Dificuldade reduzida em 1 para o atacante.
+>   Use antes de fazer um ataque de Brawl ou Melee. O oponente **não faz teste para esquivar ou se defender**; o ataque é feito com **Difficulty 1**. Um oponente com Celerity 5 pode anular este poder fazendo o próprio Rouse Check e se defendendo à mesma velocidade.
 
 ### Split Second
 
-O vampiro processa o tempo em câmera lenta — um segundo subjetivo equivale a vários para os outros. Permite reagir a eventos que normalmente seriam impossíveis de antecipar.
+A velocidade do vampiro alcança sua percepção superalimentada, permitindo reagir aos eventos num instante. Emboscadores descobrem a presa já parada atrás deles, e favores pedidos são cumpridos antes de as palavras saírem da boca do suplicante. *(Core p. 254)*
 
-> - **Custo**: One Rouse Check (reação)
-> - **Duração**: Um turno (reação)
-> - **Dice Pools:** Wits + Celerity vs. Dificuldade do evento
+> - **Custo**: One Rouse Check
+> - **Duração**: Aproximadamente uma ação, conforme o Narrador
+> - **Dice Pools:** Não possui (o Narrador decide quais Skills, se alguma, precisam ser testadas)
 >
 > - **System (Regras)**:
->   Usado como reação fora do turno do vampiro. Permite interromper uma ação que já começou: interceptar um projétil (Dexterity + Celerity Dificuldade 4), puxar um aliado da linha de fogo (Dexterity + Celerity Dificuldade 3), ou desviar de um ataque surpresa sem perder a ação do próprio turno. Pode ser usado uma vez entre os próprios turnos.
-
+>   O jogador pode **sobrepor a narração do Narrador** dentro do razoável. Pode escolher que seu personagem atravesse uma porta antes de ela fechar, contorne uma emboscada depois de disparada, role para fora do alcance de uma explosão etc. A ação tomada deve ser razoável e não deve levar mais que poucos segundos de tempo real. O Narrador decide que Skills, se alguma, precisam ser testadas para concluir a ação iniciada com este poder.
 
 # Auspex
 
@@ -769,16 +781,15 @@ Ao tocar um objeto inanimado ou o solo em um local, o vampiro pode perceber o re
 
 ### Telepathy
 
-O vampiro penetra diretamente na mente de um alvo, lendo pensamentos ativos e memórias superficiais sem precisar de contato ou conversa.
+No mais alto nível de Auspex, o vampiro literalmente lê mentes e projeta os próprios pensamentos na mente de outros. Ler uma mente mortal é relativamente simples; mentes mortas-vivas exigem mais esforço para serem penetradas. *(Core p. 252)*
 
-> - **Custo**: One Rouse Check
-> - **Duração**: Uma cena
-> - **Dice Pools:** Resolve + Auspex vs. Wits + Resolve do alvo
+> - **Custo**: One Rouse Check (mais um ponto de Willpower contra vampiros que não consentem)
+> - **Duração**: Cerca de um minuto por Rouse Check; uma cena inteira em alvos que consentem
+> - **Dice Pools:** Resolve + Auspex vs. Wits + Subterfuge do alvo
 >
 > - **System (Regras)**:
->   Contest. Se o vampiro vencer, acessa pensamentos ativos do alvo (o que está pensando agora, preocupações imediatas) e pode fazer até Auspex perguntas específicas — o alvo não sabe que está sendo lido.
->   Para memórias mais profundas ou informações suprimidas, cada "camada" adicional requer vitória por mais um sucesso. O alvo com Resolve 3+ sente uma "intrusão" vaga mesmo sem saber a origem.
->   Pode ser usado à distância (linha de visão) sem contato físico.
+>   O usuário **não precisa rolar** para projetar seus pensamentos em outro (vampiro ou mortal), mas precisa de linha de visão. Para ler a mente de um mortal em linha de visão, role Resolve + Auspex vs. Wits + Subterfuge olhando em seus olhos (sem rolagem se o mortal consentir). Uma vitória revela pensamentos superficiais como um fluxo de imagens, e uma margem maior permite sondar memórias mais distantes ou enterradas. Uma vitória crítica dá um quadro coerente dos pensamentos e intenções atuais do alvo.
+>   Para ler a mente de um **vampiro que não consente**, gaste um ponto de Willpower antes de rolar.
 
 ### Unburdened by the Conscious Mind
 
@@ -1019,16 +1030,14 @@ O vampiro irradia uma presença absolutamente avassaladora — mortais e Kindred
 
 ### Star Magnetism
 
-O vampiro torna-se o centro absoluto de atenção de qualquer espaço — todos querem estar perto dele, agradá-lo, serem notados por ele.
+Os poderes de Presence do usuário passam a afetar quem o vê em transmissões ao vivo ou o ouve pelo telefone. *(Core p. 269)*
 
-> - **Custo**: One Rouse Check
-> - **Duração**: Uma noite
-> - **Dice Pools:** Charisma + Presence (sem contest para efeito passivo)
+> - **Custo**: One Rouse Check adicional
+> - **Duração**: Conforme o poder usado
+> - **Dice Pools:** Não possui
 >
 > - **System (Regras)**:
->   Enquanto ativo, todos os mortais e Kindred na mesma localização que não estejam ativamente resistindo (Composure + Resolve Dificuldade 3) gravitam socialmente em direção ao vampiro. NPCs não hostis oferecem conversas, favores não solicitados, e tratam o vampiro como figura de autoridade natural.
->   Em contextos sociais (festas, negociações, audiências), adicione Presence como bônus a todos os testes Sociais do vampiro. O efeito é sutil o suficiente para não parecer sobrenatural — apenas "carisma extraordinário".
-
+>   **Awe**, **Daunt** e **Entrancement** podem ser transmitidos por transmissões ao vivo, via telas ou telefones. Se Entrancement for usado, o nome da vítima precisa ser dito claramente, pois esse poder só afeta uma pessoa por vez; quem mais assistir à mesma transmissão apenas acha o usuário charmoso, sem nada sobrenatural. Imagens ou mensagens gravadas não retêm o efeito.
 
 # Obfuscate
 ![[Obfuscate.png]]
@@ -1196,27 +1205,33 @@ Os seguidores da Igreja de Set mantêm que Obfuscate é menos sobre ilusão e ma
 
 ### Conceal
 
-O vampiro estende seu Obfuscate para cobrir um objeto, criatura ou local, ocultando-o da percepção de quem não usa Auspex ou poder equivalente.
+O usuário oculta um objeto inanimado como uma porta, um carro ou uma casa pequena. Como nos outros poderes de Obfuscate, o objeto não fica invisível; cria-se um efeito hipnótico persistente que faz a maioria das pessoas simplesmente ignorá-lo. A menos que algo faça os passantes colidirem com ele ou alguém o aponte, as pessoas agem como se o objeto não estivesse lá. *(Core p. 262)*
 
-> - **Custo**: 1 Rouse Check
-> - **Duração**: Uma cena ou até o vampiro mover o objeto/criatura mais de 3 metros de onde estava ao ativar o poder
-> - **Dice Pools:** Wits + Obfuscate
+> - **Amálgama**: Auspex 3 (requer 3 pontos em Auspex para obter este poder)
+> - **Custo**: One Rouse Check
+> - **Duração**: Uma noite, com uma noite adicional por ponto de margem na vitória
+> - **Dice Pools:** Intelligence + Obfuscate
 >
 > - **System (Regras)**:
->   O vampiro pode ocultar qualquer coisa de tamanho humano ou menor — um objeto, uma outra pessoa (mortal ou vampiro), um veículo pequeno, ou uma área limitada. A coisa oculta ainda pode ser detectada por toque, cheiro, ou Sense the Unseen. Obfuscate de nível inferior que já esteja ativo em um alvo o inclui automaticamente no Conceal sem custo adicional.
+>   O vampiro toca o objeto e rola Intelligence + Obfuscate contra Difficulty de **2** (esconder um anel numa gaveta cheia de lembranças) a **6** (esconder uma casa no meio de uma praça aberta), conforme tamanho e localização do alvo. O poder dura uma noite; cada ponto de margem na vitória oculta o objeto por uma noite adicional.
+>   Oculta também qualquer pessoa ou coisa **dentro** do objeto (ex.: pessoas num carro ou galpão), enquanto o observador estiver do lado de fora. Não afeta nada maior que uma casa de dois andares nem objetos que se movem por conta própria (como um carro em movimento).
+>   Quem tem o poder de Auspex Sense the Unseen (ou equivalente) pode notar o objeto vencendo um contest de Wits + Auspex vs. Intelligence + Obfuscate do usuário.
+
 
 ---
 
 ### Vanish
 
-O vampiro desaparece da percepção de quem o está observando diretamente — até de câmeras, espelhos e outros registros tecnológicos — de forma instantânea, sem precisar de movimento ou desvio de atenção.
+O vampiro pode ativar Cloak of Shadows e Unseen Passage mesmo sob observação direta. Parece sumir num piscar de olhos; até a memória dele fica nebulosa e indistinta. *(Core p. 262)*
 
-> - **Custo**: 1 Rouse Check
-> - **Duração**: Enquanto o vampiro não agir de forma que quebre o Obfuscate (ataque, interação física forçada)
-> - **Dice Pools:** Wits + Obfuscate vs. Wits + Awareness do observador (se estiver ativamente prestando atenção)
+> - **Pré-requisito**: Cloak of Shadows
+> - **Custo**: Conforme o poder aumentado
+> - **Duração**: Conforme o poder aumentado
+> - **Dice Pools:** Wits + Obfuscate vs. Wits + Awareness
 >
 > - **System (Regras)**:
->   Ao contrário de Cloak of Shadows ou Unseen Passage, Vanish funciona mesmo quando o vampiro está sendo ativamente observado. O observador tem a impressão de que a pessoa "simplesmente saiu" — não que desapareceu, apenas que não está mais presente. Gravações mostram um frame com a pessoa e o próximo sem ela. Alvos usando Sense the Unseen podem tentar resistir com Wits + Auspex vs. Composure + Obfuscate do vampiro.
+>   Ao desaparecer diante de um mortal, role um contest de Wits + Obfuscate vs. Wits + Awareness. Em uma vitória, o observador passa a duvidar se o vampiro sequer esteve ali; sua memória sobre o assunto se turva. Com vitória crítica, o vampiro some completamente da memória do observador. O poder **não afeta a memória de vampiros**, mas qualquer vitória do usuário os esconde como se ele tivesse iniciado o poder sem ser observado. Só pode ser usado **uma vez por cena**.
+
 
 ---
 
@@ -1224,14 +1239,15 @@ O vampiro desaparece da percepção de quem o está observando diretamente — a
 
 ### Cloak the Gathering
 
-O vampiro pode estender qualquer poder de Obfuscate ativo para cobrir um grupo, aplicando o mesmo efeito a todos os membros simultaneamente.
+O vampiro estende seu poder de Obfuscate a um grupo, aplicando o mesmo efeito a todos. *(Core p. 263)*
 
-> - **Custo**: 1 Rouse Check por poder aplicado ao grupo
-> - **Duração**: Igual ao poder base sendo estendido
-> - **Dice Pools:** Wits + Obfuscate
+> - **Custo**: One Rouse Check, além do custo do poder estendido
+> - **Duração**: Conforme o poder estendido
+> - **Dice Pools:** Não possui
 >
 > - **System (Regras)**:
->   O vampiro pode cobrir um número de alvos igual ao seu rating de Obfuscate com qualquer poder de Obfuscate que normalmente afeta apenas o próprio vampiro. Todos os membros do grupo devem permanecer dentro de 10 metros do vampiro para manter o efeito. Se qualquer membro do grupo agir de forma a quebrar Obfuscate (atacar, falar alto), apenas esse membro perde a cobertura, não o grupo inteiro. Extraordinariamente útil para infiltração em grupo ou evacuação silenciosa.
+>   O vampiro estende seu poder de Obfuscate a um número de súditos voluntários adicionais igual ao seu **Wits**, mais um para cada Rouse Check adicional feito. O poder de Obfuscate usado no grupo pode ser qualquer um que o usuário conheça, e cada membro conta como se o tivesse usado em si mesmo, usando o rating do vampiro que ofusca como o seu quando precisar rolar. Os membros do grupo ainda percebem uns aos outros sob o efeito. Se alguém além do usuário for revelado (por conta própria ou por um observador atento), o resto do grupo continua oculto; se o usuário for revelado, todos são.
+
 
 ---
 
@@ -1255,91 +1271,93 @@ Animalism é a Disciplina que conecta o Kindred à sua Besta interior e ao mundo
 
 ### Bond Famulus
 
-O vampiro cria um vínculo sobrenatural com um único animal, transformando-o em um familiar permanente. O animal obedece instintivamente, age como sentinela, mensageiro ou espião.
+Ao criar um Blood Bond com um animal, o vampiro pode fazer dele um famulus, formando um elo mental e facilitando o uso de outros poderes de Animalism. Este poder sozinho não permite comunicação nos dois sentidos, mas o animal segue instruções verbais simples como "fica" e "vem cá". Ataca para defender a si mesmo e a seu mestre, mas não pode ser convencido a lutar contra algo que normalmente não atacaria. *(Core p. 245)*
 
-> - **Custo**: One Rouse Check (criação do vínculo)
-> - **Duração**: Permanente até a morte do animal
-> - **Dice Pools:** Não requer teste para manutenção; para comandos complexos, Wits + Animalism
+> - **Custo**: Alimentar o animal com o Sangue do usuário em **três noites separadas**, cada uma exigindo um Rouse Check. A quantidade de Sangue para manter o estado de ghoul do animal depois disso é desprezível. Jogadores que começam com este poder já completaram o processo e escolhem o famulus de graça
+> - **Duração**: Apenas a morte libera um famulus depois de vinculado. Enquanto receber Sangue vampírico regularmente, o famulus não envelhece
+> - **Dice Pools:** Charisma + Animal Ken
 >
 > - **System (Regras)**:
->   O vampiro alimenta um animal com sua própria Vitae durante três noites consecutivas. O animal torna-se seu *famulus* — um Ghoul animal. O famulus age como extensão dos sentidos do vampiro e obedece a comandos simples sem teste. Para comandos complexos ou ordens contrárias ao instinto do animal, role Wits + Animalism contra Dificuldade 2.
->   O famulus não pode aprender Disciplines como ghouls humanos, mas ganha longevidade e ligação empática com o sire. Se o famulus morrer, o vampiro sofre 1 dano superficial de Willpower.
+>   Sem o uso de Feral Whispers, dar comandos ao animal exige um teste de Charisma + Animal Ken (Difficulty 2); aumente a Difficulty para ordens mais complexas.
+>   Um vampiro só pode ter **um famulus**, mas pode arranjar outro se o atual morrer. Pode usar Feral Whispers (Animalism 2) e Subsume the Spirit (Animalism 4) no famulus **de graça**.
 
 ### Sense the Beast
 
-O vampiro detecta a Besta em outras criaturas — Kindred, humanos, animais. Sente raiva suprimida, loucura, predisposição à violência.
+O vampiro sente a Besta presente em mortais, vampiros e outros sobrenaturais, percebendo sua natureza, fome e hostilidade. *(Core p. 245)*
 
 > - **Custo**: Free
-> - **Duração**: Um turno de escrutínio
-> - **Dice Pools:** Wits + Animalism vs. Composure + Subterfuge (se o alvo tentar esconder)
+> - **Duração**: Passiva
+> - **Dice Pools:** Resolve + Animalism vs. Composure + Subterfuge
 >
 > - **System (Regras)**:
->   O vampiro pode detectar se outro ser sente raiva intensa, predisposição predatória ou corrupção espiritual. Em Kindred, detecta Humanidade abaixo de 4 automaticamente. Em mortais, identifica instintos violentos suprimidos. Em caso de contest, use Wits + Animalism vs. Composure + Subterfuge do alvo.
+>   Role Resolve + Animalism vs. Composure + Subterfuge. Uma vitória permite sentir o nível de hostilidade do alvo (se está preparado para ferir ou determinado a isso) e determinar se ele abriga uma Besta sobrenatural, marcando-o como vampiro ou lobisomem. Em uma vitória crítica, o usuário recebe informação sobre o tipo exato de criatura e seu nível de Hunger ou Rage. O poder pode ser usado ativa ou passivamente, avisando o usuário de intenção agressiva por perto.
 
 ## Animalism - Poderes Nível 2
 
 ### Feral Whispers
 
-O vampiro pode se comunicar diretamente com qualquer animal, recebendo informações sobre o ambiente, movimentos recentes ou ameaças percebidas.
+O vampiro conversa com as feras da natureza e da cidade, em comunicação de mão dupla com animais. Dependendo de sua habilidade, pode até persuadi-los a prestar serviços; como humanos, animais raramente concordam com o que vai contra sua natureza ou os põe em perigo. Também pode usar o poder para convocar animais. *(Core p. 245)*
 
-> - **Custo**: Free (comunicação básica) / One Rouse Check (comando elaborado)
-> - **Duração**: Uma cena
-> - **Dice Pools:** Manipulation + Animalism vs. Difficulty baseada na inteligência do animal (1-3)
+> - **Custo**: One Rouse Check por tipo de animal escolhido para a cena (permite uma convocação e comunicação ilimitada). Grátis ao usar no famulus
+> - **Duração**: Uma [[Regras Fundamentais#Scene|cena]]
+> - **Dice Pools:** Manipulation + Animalism (persuadir); Charisma + Animalism (convocar)
 >
 > - **System (Regras)**:
->   O vampiro "fala" com animais através de linguagem instintiva — imagens, odores, emoções. Animais não mentem, mas percebem o mundo de forma limitada. Um corvo pode reportar "homem grande com faca entrou pela janela"; não pode descrever a cor da roupa.
->   Para comandos simples (fique aqui, observe aquele), sem teste. Para comandos elaborados, role Manipulation + Animalism vs. Difficulty 1 (ratos, pombos) a 3 (cães, corvos, primatas). Falha: o animal ignora. Falha catastrófica: o animal foge em pânico ou ataca.
+>   Comunicação simples não exige teste. Persuadir um animal a prestar um serviço exige Manipulation + Animalism; a Difficulty depende da tarefa: um pássaro vigiando quem entra no parque à noite é **Difficulty 3**; ordenar a qualquer animal que defenda um lugar com a vida é **Difficulty 6**.
+>   Convocar animais usa Charisma + Animalism; a Difficulty depende da escassez dos animais convocados. O número de animais depende da margem; uma vitória crítica convoca a maioria (ou todos) os animais daquele tipo na área.
 
 ## Animalism - Poderes Nível 3
 
 ### Animal Succulence
 
-O vampiro extrai mais nutrição do sangue animal do que o normal — uma adaptação predatória da Besta.
+O vampiro sacia mais Hunger ao se alimentar de animais. Além disso, pode consumir seu famulus, obtendo nutrição muito além da de um animal de porte semelhante e absorvendo uma fração do seu traço principal. *(Core p. 246)*
 
 > - **Custo**: Free
 > - **Duração**: Passiva
 > - **Dice Pools:** Não possui
 >
 > - **System (Regras)**:
->   Quando o vampiro se alimenta de animais, a Fome reduzida é calculada normalmente (animais normalmente reduzem menos Fome que humanos). Com este poder, o vampiro reduz a penalidade: sangue animal satisfaz como se o vampiro tivesse Blood Potency 1 menor para fins de alimentação. Útil para Gangrel e Nosferatu que caçam fora da civilização.
+>   Alimentar-se de animais sacia **1 Hunger adicional**, e o vampiro conta seu Blood Potency como **dois níveis menor** para as penalidades de saciar Hunger com sangue animal.
+>   Consumir o próprio famulus sacia **4 Hunger**, independentemente do tamanho do animal (nunca remove o último dado de Hunger). Além disso, aumenta em **dois pontos** o Attribute do vampiro mais associado ao animal (definido pelo Narrador): consumir um gato pode elevar Dexterity ou Composure; um cão, Charisma ou Resolve; uma coruja, percepção ou decisões sensatas. O bônus dura até a próxima alimentação do vampiro ou até seu Hunger chegar a 5. O Narrador pode variar a recompensa.
 
 ### Quell the Beast
 
-O vampiro suprime a Besta de outro ser — acalmando um Kindred em frenesi, dominando um animal em pânico, ou apagando a agressividade de um mortal.
+Encarando o alvo, o vampiro intimida a Besta interior dele até um sono temporário. Mortais ficam apáticos, incapazes de qualquer ação além de se manterem vivos; os impulsos bestiais de vampiros recuam temporariamente, para o bem ou para o mal. *(Core p. 246)*
 
 > - **Custo**: One Rouse Check
-> - **Duração**: Uma cena
-> - **Dice Pools:** Manipulation + Animalism vs. Composure + Resolve do alvo
+> - **Duração**: Uma cena, ou um número de turnos igual à margem do teste mais um (contra vampiros)
+> - **Dice Pools:** Charisma + Animalism vs. Stamina + Resolve
 >
 > - **System (Regras)**:
->   Contest. Se o vampiro vencer, o alvo tem sua Besta suprimida: Kindred em frenesi retornam à razão (mas ainda sentem a Fome), mortais agressivos ficam passivos, animais em pânico ficam calmos. O efeito dura uma cena ou até o alvo receber nova provocação intensa (ataque físico, ameaça direta).
->   Não pode ser usado em si mesmo.
+>   Role Charisma + Animalism vs. Stamina + Resolve. Uma vitória contra um **mortal** o incapacita pela cena, instilando letargia severa: ele só age para se preservar, nunca contra o usuário ou qualquer outro.
+>   Uma vitória contra um **vampiro** impede o alvo de fazer Blood Surges e faz com que ele não pontue messy criticals enquanto a Besta estiver subjugada. Contra vampiros, o poder dura um turno mais um número de turnos igual à margem. Uma vitória crítica contra um vampiro também encerra seu frenesi.
 
 ### Unliving Hive
 
-O vampiro transforma seu próprio corpo em refúgio e hive para criaturas pequenas — insetos, ratos, aranhas. As criaturas entram e saem sem causar dano e obedecem instintivamente.
+Mais comum entre os Nosferatu, este poder perturbador permite ao usuário estender sua influência animal a enxames de insetos como moscas ou baratas. Alguns vampiros chegam a adotar enxames como famuli, dando-lhes um lar permanente nas dobras e orifícios de sua carne deformada. *(Core p. 246)*
 
-> - **Custo**: One Rouse Check (ativação)
-> - **Duração**: Permanente enquanto ativo
-> - **Dice Pools:** Stamina + Animalism para resistir à revelação involuntária
+> - **Amálgama**: Obfuscate 2 (requer 2 pontos em Obfuscate para obter este poder)
+> - **Custo**: Sem custo adicional
+> - **Duração**: Passiva
+> - **Dice Pools:** Não possui
 >
 > - **System (Regras)**:
->   O vampiro mantém um enxame de criaturas (máximo: Animalism × 10 criaturas) dentro do próprio corpo. As criaturas podem ser liberadas como ação menor para vigiar uma área, atacar um alvo (1 dano superficial por turno, difícil de bloquear) ou causar distração. O vampiro percebe o que o enxame percebe — visão fragmentada, vibrações, odores.
->   Revelar o enxame involuntariamente (dano agravado rasgando o corpo) requer teste de Stamina + Animalism Dificuldade 3 para evitar o colapso do controle.
+>   Este poder **estende a enxames de insetos todos os poderes antes restritos a vertebrados**, tratando o enxame como uma única criatura. O vampiro pode vincular o enxame como famulus e, às vezes, dar a ele a capacidade de se aninhar nas cavidades do próprio corpo. Isso esconde o enxame, ao mesmo tempo que permite alimentá-lo com as pequenas quantidades de Sangue necessárias para sustentá-lo indefinidamente. Enquanto aninhado, o enxame é indetectável por qualquer coisa abaixo de raios-X.
+>   Enxames causam pouco dano em combate: têm **Health 5** e uma pool de **8 dados** para resistir a ataques. Sofrem dano Superficial de Brawl; fogo e inseticida causam dano Agravado. Podem ser usados para espionagem, como distração (penalidade de dois dados em qualquer teste de uma única pessoa cercada pelo enxame) ou para intimidar mortais (some de um a três dados em pools de Intimidation, conforme o inseto e as fobias da vítima).
 
 ## Animalism - Poderes Nível 4
 
 ### Subsume the Spirit
 
-O vampiro penetra a mente de um animal e assume controle total de seu corpo, percebendo tudo através dos sentidos do animal enquanto seu próprio corpo fica imóvel.
+O vampiro transfere totalmente a mente para o corpo de um animal. Controla o animal e usa seus sentidos livremente, até durante o dia se conseguir ficar acordado. Enquanto isso, seu corpo fica imóvel como em torpor. *(Core p. 247)*
 
-> - **Custo**: One Rouse Check
-> - **Duração**: Uma cena; pode ser mantida com Rouse Checks adicionais
-> - **Dice Pools:** Resolve + Animalism vs. Resolve do animal (geralmente 1-2)
+> - **Custo**: One Rouse Check. Grátis ao usar no famulus
+> - **Duração**: Uma cena / indefinidamente (ver abaixo)
+> - **Dice Pools:** Manipulation + Animalism
 >
 > - **System (Regras)**:
->   O vampiro entra em transe e passa a habitar o corpo do animal alvo (dentro de Animalism × 5 metros). Pode usar todos os sentidos e capacidades físicas do animal. Não pode usar Disciplines através do animal (exceto Animalism). O corpo do vampiro fica imóvel e vulnerável — apenas dano agravado o desperta involuntariamente.
->   Ao sair, role Resolve + Animalism Dificuldade 3: falha significa que instintos animais contaminam o vampiro por uma cena (o Narrador pode pedir testes para resistir a comportamentos animais).
+>   Faça um teste de Manipulation + Animalism com **Difficulty 4**. Em uma vitória, o vampiro habita o corpo do animal por uma cena; em uma vitória crítica, indefinidamente. Estender a possessão pelas horas do dia exige que o vampiro permaneça acordado (Core p. 219); ver o sol exige um teste de frenesi de medo, embora a luz não danifique o animal cavalgado.
+>   O usuário fica alheio ao próprio corpo; dano a ele o tira do transe e libera o animal. A morte do animal possuído também encerra o transe, e o vampiro sofre **1 ponto de dano Agravado de Willpower** pelo choque.
 
 ### Species Speech
 
@@ -1356,28 +1374,27 @@ O vampiro pode se comunicar com *qualquer* espécie animal simultaneamente, sem 
 
 ### Animal Dominion
 
-O vampiro exerce domínio absoluto sobre todos os animais em uma área ampla, comandando-os como extensões de sua vontade.
+O poder do vampiro sobre bestas agora é grande o bastante para comandar bandos e matilhas como extensões do próprio corpo. A um gesto, animais entregam a vida às dezenas ou centenas para apaziguar seu mestre. *(Core p. 247)*
 
 > - **Custo**: Two Rouse Checks
-> - **Duração**: Uma noite
-> - **Dice Pools:** Charisma + Animalism vs. Difficulty 3 (para animais resistentes ou treinados)
+> - **Duração**: Uma cena ou até a diretiva ser cumprida, o que for mais curto
+> - **Dice Pools:** Charisma + Animalism
 >
 > - **System (Regras)**:
->   O vampiro emite uma compulsão sobrenatural que atinge todos os animais não-familiares dentro de Animalism × 100 metros. Pode dar comandos em grupo ou individuais, mover enxames, direcionar ataques. Animais treinados por humanos (cães policiais, cavalos militares) resistem com Resolve do treinador + 1.
->   O vampiro pode manter comandos ativos em múltiplos grupos simultaneamente, mas cada grupo extra além do primeiro aumenta a Dificuldade em 1.
+>   Escolha um tipo de animal e role Charisma + Animalism com Difficulty que depende da natureza dos animais e da ordem dada. Fazer um bando de corvos se dispersar e procurar um indivíduo específico (com algum meio de identificá-lo) é relativamente fácil (**Difficulty 3**); fazer uma matilha de cães dar a vida num ataque suicida contra outro vampiro é mais difícil (**Difficulty 5**).
+>   O poder **não permite convocar** animais, mas obriga os que já estão presentes a obedecer. O vampiro pode mandá-los voltar depois da tarefa, se tiverem meios.
 
 ### Drawing Out the Beast
 
-O vampiro expulsa sua própria Besta para dentro de outro ser — temporariamente libertando-se do frenesi enquanto força o outro a carregar o fardo.
+O vampiro projeta sua Besta no momento de um frenesi de terror ou fúria, transferindo-a para um sujeito próximo, mortal ou vampiro. A pessoa passa imediatamente pelo frenesi no lugar dele, numa fúria impiedosa ou fugindo aterrorizada, conforme o gatilho. *(Core p. 247)*
 
-> - **Custo**: Free (usa a Besta do próprio vampiro, não Vitae)
-> - **Duração**: Até o vampiro recuperar a Besta voluntariamente ou a cena terminar
-> - **Dice Pools:** Wits + Animalism vs. Resolve + Composure do alvo
+> - **Custo**: One Rouse Check
+> - **Duração**: Duração do frenesi (ver Core p. 220)
+> - **Dice Pools:** Wits + Animalism vs. Composure + Resolve do alvo
 >
 > - **System (Regras)**:
->   Quando o vampiro estiver prestes a entrar em frenesi (falhou no teste de resistência), pode usar este poder como reação. Se bem-sucedido, o alvo entra em frenesi no lugar do vampiro — o vampiro fica calmo e lúcido, mas sem a Besta que normalmente lhe confere certos reflexos.
->   Enquanto a Besta está fora: o vampiro não pode usar poderes que requerem a Besta (Frenzy intencional, alguns poderes de Protean). Quando a cena termina ou o vampiro voluntariamente recupera a Besta, ela retorna — e o vampiro deve fazer um teste de frenesi de Fome imediatamente se estiver com Fome 4+.
->   **Atenção moral:** forçar a Besta sobre um inocente é uma Stain automática.
+>   Em vez do teste de Willpower para resistir a um frenesi de terror ou fúria, role Wits + Animalism vs. Composure + Resolve do alvo. Se o usuário falhar, entra em frenesi como se tivesse falhado o teste de Willpower. Se vencer, o alvo vive aquele frenesi no lugar do usuário. Estímulos posteriores ainda podem provocar frenesi no usuário, mas ele pode usar este poder enquanto puder fazer Rouse Checks e houver alvos disponíveis. O poder **não transfere frenesi de Hunger**.
+
 
 ---
 
@@ -1429,44 +1446,40 @@ O vampiro estende suas armas naturais a proporções monstruosas — geralmente 
 
 ### Earth Meld
 
-O vampiro dissolve seu corpo na terra ou outro material natural (madeira, pedra, neve), desaparecendo completamente.
+Tornando-se um com o solo, o vampiro afunda na terra. A menos que esteja em torpor, ele se ergue de novo na noite seguinte. *(Core p. 270)*
 
 > - **Custo**: One Rouse Check
-> - **Duração**: Até o vampiro emergir voluntariamente ou ser forçado a sair
-> - **Dice Pools:** Não requer teste; emergência forçada requer Strength + Protean Dificuldade 3
+> - **Duração**: Um dia ou mais, ou até ser perturbado
+> - **Dice Pools:** Não possui
 >
 > - **System (Regras)**:
->   O vampiro e tudo que carrega fundem-se com o material natural adjacente. Enquanto fundido: completamente indetectável por meios físicos normais, entra em repouso diurno protegido, não consome Vitae adicional.
->   Limitações: requer superfície natural (não funciona em concreto armado, metal, ou pisos sintéticos). Não pode usar Disciplines, perceber o ambiente (exceto com Auspex 1 ativo antes da fusão), ou agir de qualquer forma.
->   Forçar saída prematura (explosão próxima, luz solar direta sobre o local) causa 2 danos agravados.
+>   Nenhum teste é necessário, mas o vampiro precisa estar sobre uma **superfície natural**: rochas, terra bruta, grama etc. O poder não funciona em concreto, asfalto ou outras superfícies artificiais. Leva um turno para o vampiro afundar na terra, deixando os objetos carregados sobre o solo. Dentro da terra, o vampiro percebe o ambiente, exceto durante o sono diurno; nesses momentos, perturbações (escavação, barulhos altos) o acordam ou não como a qualquer vampiro (Core p. 219).
 
 ### Shapechange
 
-O vampiro transforma-se completamente em um animal de tamanho pequeno a médio — rato, corvo, lobo, morcego.
+O vampiro assume a forma de um animal de massa aproximadamente igual à sua. Só pode se transformar em **um tipo de animal** (em geral um lobo, às vezes um grande felino ou uma cobra gigante), normalmente ligado a seu clã ou à presa que mais caça. O animal, embora costume ser um exemplar espetacular da espécie, não mostra a um observador comum sinal de ser sobrenatural. *(Core p. 270)*
 
 > - **Custo**: One Rouse Check
-> - **Duração**: Uma cena; pode ser mantida com Rouse Checks adicionais por cena
-> - **Dice Pools:** Stamina + Protean Dificuldade 2 para transformação; sem teste para reverter
+> - **Duração**: Uma cena, a menos que encerrado voluntariamente antes
+> - **Dice Pools:** Não possui
 >
 > - **System (Regras)**:
->   O vampiro assume a forma de um animal natural (não sobrenatural) de tamanho entre rato e lobo. Ganha todos os atributos físicos e sentidos do animal. Não pode usar Disciplines enquanto transformado (exceto Animalism e Protean).
->   Roupas e equipamento não se transformam — ficam no local ou são destruídos. O vampiro retém memória e consciência completas.
->   Formas comuns: lobo (Strength/Stamina altos, Dexterity moderada), corvo (voo, Dexterity alta, Strength mínima), morcego (voo, ecolocalização, Strength mínima), rato (Dexterity alta, Strength mínima, pequeno).
+>   Nenhum teste é necessário. A transformação leva um turno, durante o qual o usuário não pode fazer outra ação. Ao se transformar, o vampiro ganha os Atributos Físicos, sentidos e Skills nativas do animal (ver Core p. 373) e também seus limites naturais de comunicação e manipulação (a maioria dos animais só carrega uma coisa na boca).
+>   O vampiro pode usar outras Disciplinas a critério do Narrador (em geral, Auspex, Animalism, Celerity, Fortitude, Potence e Protean; muitos poderes de Dominate, Obfuscate e Presence são problemáticos; Blood Sorcery está fora de questão).
 
 ## Protean - Poderes Nível 4
 
 ### Metamorphosis
 
-O vampiro ganha controle pleno sobre sua forma — pode assumir qualquer forma animal, misturar características, ou adotar formas intermediárias entre humano e animal.
+Este poder concede ao usuário uma forma animal adicional, que desta vez também permite mudar de tamanho. Os vampiros mais comumente se metamorfoseiam em morcegos, ratos, insetos incomumente grandes ou cobras (ver Core p. 373). *(Core p. 271)*
 
+> - **Pré-requisito**: Shapechange
 > - **Custo**: One Rouse Check
-> - **Duração**: Uma cena por Rouse Check
-> - **Dice Pools:** Stamina + Protean Dificuldade 1 (formas conhecidas) a 3 (formas novas ou complexas)
+> - **Duração**: Uma cena, a menos que encerrado voluntariamente antes
+> - **Dice Pools:** Igual a Shapechange (não requer teste)
 >
 > - **System (Regras)**:
->   Expande Shapechange: o vampiro pode assumir *qualquer* forma animal sem restrição de tamanho (desde inseto até urso), combinações híbridas (humano com asas de corvo, corpo de lobo com mãos humanas), ou formas de névoa/sombra espessa.
->   Em forma de névoa: imune a dano físico normal, pode passar por frestas, não pode atacar fisicamente. Dano agravado (fogo, luz solar) ainda afeta.
->   O vampiro pode usar Disciplines enquanto em forma híbrida, mas não em forma animal pura (exceto Animalism e Protean).
+>   Igual a Shapechange.
 
 ## Protean - Poderes Nível 5
 
@@ -1635,30 +1648,30 @@ Vampiros com Potência ganham uma força muito maior de seu Sangue do que aquele
 ---
 ## Potence - Poderes Nível 4
 
-### Draught of Elegance
+### Draught of Might
 
-O vampiro canaliza Potence em precisão cirúrgica — força bruta convertida em controle absoluto.
+O Sangue do vampiro fica saturado com Potence, transmitindo parte desse poder a quem o beber. *(Core p. 265)*
 
 > - **Custo**: One Rouse Check
-> - **Duração**: Uma cena
-> - **Dice Pools:** Não possui (bônus automático)
+> - **Duração**: Uma noite; para vampiros, até a próxima alimentação ou até atingirem Hunger 5
+> - **Dice Pools:** Não possui
 >
 > - **System (Regras)**:
->   Enquanto ativo, o vampiro pode usar Strength no lugar de Dexterity em quaisquer testes de habilidade que normalmente requerem delicadeza ou precisão (cirurgia, pickpocket, arco e flecha, instrumentos musicais). A força sobrenatural torna-se refinada o suficiente para tarefas que normalmente a excluiriam. Também elimina penalidades por realizar tarefas delicadas enquanto carrega pesos enormes.
+>   Beber o equivalente a um Rouse Check de Sangue diretamente do usuário dá ao bebedor Potence temporária igual à **metade** dos pontos de Potence do doador (arredondado para baixo). O bebedor ganha os mesmos poderes do doador, até esse nível.
 
 ## Potence - Poderes Nível 5
 
 ### Earthshock
 
-O vampiro golpeia o chão com força suficiente para criar uma onda de choque localizada.
+Com força de elemento da natureza, o vampiro bate o punho ou o pé no chão e cria uma onda de choque que derruba os oponentes. Uma das aplicações mais dramáticas de Potence, deve ser usada com cuidado para o usuário não derrubar a casa sobre si mesmo. *(Core p. 265)*
 
 > - **Custo**: Two Rouse Checks
-> - **Duração**: Instantâneo
-> - **Dice Pools:** Strength + Potence vs. Dexterity + Athletics de cada alvo na área
+> - **Duração**: Um uso
+> - **Dice Pools:** Dexterity + Athletics (Difficulty 3) dos alvos para resistir
 >
 > - **System (Regras)**:
->   O vampiro golpeia uma superfície sólida (chão, parede, mesa). Todos os alvos dentro de Potence × 2 metros devem fazer contest ou são derrubados e recebem dano igual aos sucessos do vampiro como dano superficial.
->   A onda de choque também pode colapsar estruturas frágeis (paredes de drywall, vidraças, pisos de madeira podre) automaticamente dentro do raio. Em espaços fechados, o efeito é amplificado — Dificuldade dos alvos aumenta em 1.
+>   Nenhum teste adicional é necessário para criar a onda de choque. Qualquer um em um raio de **5 metros** do usuário faz um teste de Dexterity + Athletics (Difficulty 3), com os resultados: **Vitória crítica**: nenhum efeito. **Vitória**: perde o equilíbrio e perde a ação atual. **Falha**: cai prostrado, perde a ação atual e precisa gastar um turno para se levantar. Quem estava preparado (como os companheiros do usuário) pode subir seu resultado um degrau.
+>   O poder causa dano colateral significativo: no chão, a terra racha; em ambientes fechados, móveis quebram e espelhos estilhaçam; em andares acima do térreo o piso pode se despedaçar, fazendo todos no raio despencarem. Só pode ser usado **uma vez por cena**.
 
 ### Savage Fury
 
@@ -1689,7 +1702,7 @@ Nestes tempos, menos vampiros usam Fortitude para resistir ao sol do que para su
 
 Aqueles que possuem Fortitude são exemplos dos pilares sólidos da sociedade dos [[Kindred]], capazes de resistir a golpes e encantos sem se mover ou mostrar sinais de deterioração. Poucos vampiros se sentem tão seguros em sua imortalidade quanto os anciões de Sangue Azul e os Ferais.
 
-## Blood Sorcery - Poderes Level 1
+## Fortitude - Poderes Nível 1
 
 >⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
 
@@ -1720,68 +1733,78 @@ O usuário ganha uma habilidade mística para resistir a qualquer tentativa de i
 
 ### Toughness
 
-O vampiro endurece seu corpo além do normal vampírico — dano que penetraria a carne é absorvido ou reduzido.
+Todo vampiro com este poder tem uma capacidade inata de ignorar dano que de outro modo incomodaria ou até incapacitaria outros da sua espécie. Sozinho, o poder não protege contra banes e outro dano Agravado, mas a proteção se acumula no longo prazo. *(Core p. 258)*
 
-> - **Custo**: Free
-> - **Duração**: Passiva
+> - **Custo**: One Rouse Check
+> - **Duração**: Uma [[Regras Fundamentais#Scene|cena]]
 > - **Dice Pools:** Não possui
 >
 > - **System (Regras)**:
->   O vampiro reduz todo dano superficial recebido em 1 (mínimo 0) — bônus passivo sempre ativo. Não requer ativação. Não afeta dano agravado.
->   Combinado com Resilience (nível 1): o vampiro converte 1 ponto de dano agravado em superficial por cena (via Resilience) E reduz superficial em 1 adicionalmente via Toughness.
+>   Subtraia o Fortitude do defensor de todo dano **Superficial** sofrido. Isso ocorre antes de reduzir o dano pela metade e não pode reduzi-lo abaixo de um.
 
 ## Fortitude - Poderes Nível 3
 
 ### Defy Bane
 
-O vampiro suprime temporariamente sua fraqueza de clã — o Bane não se aplica por uma cena.
+Preparando-se com um gasto de poder, o vampiro se torna temporariamente resistente ao fogo e à luz do sol, bem como a outros ferimentos graves que o ameaçariam com a Morte Final. *(Core p. 259)*
 
 > - **Custo**: One Rouse Check
-> - **Duração**: Uma cena
-> - **Dice Pools:** Não possui
+> - **Duração**: Uma cena ou até esgotar, o que vier primeiro
+> - **Dice Pools:** Wits + Survival (para ativar reflexivamente)
 >
 > - **System (Regras)**:
->   O vampiro ignora os efeitos do Bane de seu próprio clã por uma cena inteira. Um Nosferatu pode aparecer em público sem revelar sua natureza; um Gangrel não perde traços animais por frenesi; um Toreador pode agir livremente diante de arte que normalmente o paralisaria.
->   Não funciona contra fraquezas intrínsecas (como a sensibilidade vampírica universal ao sol e fogo) — apenas contra o Bane específico do clã.
+>   O usuário converte um número de pontos de dano **Agravado** igual ao seu Fortitude em dano Superficial ao sofrê-lo. Não pode curar esse dano Superficial pelo resto da cena. O poder converte uma quantidade de dano por cena, não por ferimento ou ataque.
+>   *Exemplo (Core):* Salman tem Fortitude 3. Numa briga, converte 2 pontos de Agravado em Superficial e, no turno seguinte, mais 1 antes de o poder acabar. O usuário pode renovar o poder após esgotado fazendo outro Rouse Check.
+>   Se for pego de surpresa, pode ativar o poder reflexivamente com um teste de Wits + Survival (Difficulty 3) ao receber dano Agravado. Se falhar, o poder não ativa; se vencer, faz o Rouse Check para pagar o poder.
 
 ### Fortify the Inner Facade
 
-O vampiro fortalece sua resistência mental, tornando-se muito mais difícil de ser Dominado, manipulado por Presence, ou afetado por poderes sociais sobrenaturais.
+Em vez de endurecer o corpo, este poder protege pensamentos e emoções do usuário contra bisbilhotice sobrenatural. A mente parece completamente vazia e a aura, por falta de palavra melhor, plana. *(Core p. 259)*
 
-> - **Custo**: One Rouse Check
-> - **Duração**: Uma cena
-> - **Dice Pools:** Não possui (bônus passivo enquanto ativo)
+> - **Custo**: Free
+> - **Duração**: Uma [[Regras Fundamentais#Scene|cena]]
+> - **Dice Pools:** Não possui
 >
 > - **System (Regras)**:
->   Enquanto ativo, adicione Fortitude como bônus de dados a qualquer teste de resistência contra Dominate, Presence, Auspex invasivo, e poderes similares. Também adiciona Fortitude a testes de Resolve + Composure contra manipulação sobrenatural de qualquer tipo.
+>   Aumenta em **metade do rating de Fortitude** (arredondado para cima) a Difficulty de usar Scry the Soul (Auspex 3), Telepathy (Auspex 5) e poderes semelhantes contra o usuário. Se as regras permitirem ao usuário resistir a esses poderes, ele soma o rating de Fortitude à própria pool.
 
 ## Fortitude - Poderes Nível 4
 
+### Draught of Endurance
+
+O Sangue do vampiro fica saturado com Fortitude, transmitindo parte desse poder a quem o beber. *(Core p. 259)*
+
+> - **Custo**: One Rouse Check
+> - **Duração**: Uma noite; para vampiros, até a próxima alimentação ou até atingirem Hunger 5
+> - **Dice Pools:** Não possui
+>
+> - **System (Regras)**:
+>   Beber o equivalente a um Rouse Check de Sangue diretamente do usuário dá ao bebedor Fortitude temporária igual à **metade** dos pontos de Fortitude do doador (arredondado para baixo). O bebedor ganha os mesmos poderes do doador, até esse nível.
+
+## Fortitude - Poderes Nível 5
+
 ### Flesh of Marble
 
-O corpo do vampiro torna-se temporariamente resistente a dano físico de qualquer tipo — músculos e ossos adquirem dureza quase mineral.
+O poder do Sangue endurece a pele do vampiro, que ganha um brilho marmóreo ainda flexível, mas que detém quase qualquer golpe antes de se romper e se refazer por um instante. Um vampiro usando este poder é quase impossível de destruir de vez, salvo por um golpe de sorte ou contenção física. *(Core p. 259)*
 
 > - **Custo**: Two Rouse Checks
 > - **Duração**: Uma cena
 > - **Dice Pools:** Não possui
 >
 > - **System (Regras)**:
->   Todo dano superficial recebido é reduzido em Fortitude (mínimo 0). Dano agravado de fogo e luz solar é reduzido em metade de Fortitude (arredondado para baixo). Ataques de arma branca comum causam dano superficial em vez de agravado ao vampiro.
->   O vampiro ainda pode ser derrubado ou imobilizado por força suficiente, mas o dano em si é drasticamente reduzido.
-
-## Fortitude - Poderes Nível 5
+>   Com o poder ativo, o vampiro **ignora a primeira fonte de dano físico a cada turno**, inclusive fogo, mas não luz solar. Se houver confusão sobre qual é a "primeira" fonte, o Narrador decide pela narrativa ou o vampiro ignora a fonte única mais danosa do turno. Uma vitória crítica em uma rolagem de ataque contorna este poder.
 
 ### Prowess from Pain
 
-O vampiro converte dano sofrido em força — quanto mais ferido, mais perigoso.
+Ferimentos e incapacitações agora só alimentam os poderes do vampiro, que fica mais forte e rápido a cada golpe, rasgo ou corte recebido. Só a destruição total detém quem invoca este poder de Fortitude. *(Core p. 260)*
 
-> - **Custo**: Free (reação automática)
-> - **Duração**: Enquanto o vampiro tiver dano agravado na trilha de Saúde
+> - **Custo**: One Rouse Check
+> - **Duração**: Uma cena
 > - **Dice Pools:** Não possui
 >
 > - **System (Regras)**:
->   Para cada ponto de dano agravado na trilha de Saúde do vampiro, ele ganha +1 dado em testes físicos (Strength, Dexterity, Stamina) e de combate. Máximo de bônus igual ao rating de Fortitude.
->   Efeito paradoxal: um vampiro gravemente ferido com este poder torna-se *mais* perigoso, não menos. O Narrador deve tratar isso como sinal de que a Besta está dominando — comportamento cada vez mais brutal e irracional à medida que o bônus cresce.
+>   Ao ativar o poder, o vampiro deixa de sofrer penalidades de dados por dano de Health, como o Impairment físico. Além disso, pode aumentar em um ponto um Atributo Físico (os valores derivados não mudam) **para cada nível de dano na trilha de Health**, Agravado ou Superficial. Os Atributos do usuário não podem passar de **Blood Surge + 6** por este poder.
+>   *Exemplo (Core):* Darin tem Blood Potency 3, com Blood Surge 2. Ele não pode elevar seus Atributos Físicos acima de 8 com Prowess from Pain.
 
 ### Suffer the Beast's Rage
 
@@ -1960,28 +1983,26 @@ A ferida se fecha sozinha assim que o efeito termina, independentemente de a ví
 
 ### Baal's Caress
 
-O vampiro satura sua arma (ou suas mãos) com Vitae corrompida, tornando cada golpe capaz de causar dano agravado mesmo a Kindred.
+O vampiro transmuta seu Sangue em um veneno extremamente agressivo, letal a mortais e Kindred. *(Core p. 274)*
 
-> - **Custo**: One Rouse Check
-> - **Duração**: Uma cena
-> - **Dice Pools:** Strength + Blood Sorcery (para ativar); ataque normal depois
+> - **Custo**: Um ou mais Rouse Checks
+> - **Duração**: O veneno permanece potente por uma cena
+> - **Dice Pools:** Strength + Blood Sorcery vs. Stamina + Occult ou Fortitude
 >
 > - **System (Regras)**:
->   O vampiro esfrega Vitae em uma arma ou cobre suas mãos/garras. Enquanto ativo, todos os ataques físicos causam dano agravado à Saúde de Kindred (normalmente apenas superficial). Contra mortais, causa dano agravado automaticamente.
->   A Vitae corrompida evapora após uma cena ou após um número de ataques igual a Blood Sorcery.
+>   Usa o mesmo sistema de **Scorpion's Touch** (e o veneno tem as mesmas restrições), com dano aumentado. Se o veneno acertar, o usuário faz um contest de Strength + Blood Sorcery vs. Stamina + Occult (vampiros com Fortitude podem resistir com Fortitude no lugar de Occult). Se vencer, o veneno causa dano **Agravado** igual à margem, a mortais e vampiros. Um mortal que sofra ao menos um ponto de dano **morre instantaneamente**.
+>   Se um vampiro sofrer dano Agravado deste veneno, o usuário rola o contest de novo; em uma vitória, o vampiro entra em **torpor** quando for dormir em seguida.
 
 ### Cauldron of Blood
 
-O vampiro ferve literalmente o sangue dentro do corpo de um alvo — dano catastrófico de dentro para fora.
+Este poder macabro faz o sangue da vítima ferver nas próprias veias, causando dano massivo e dor excruciante. Há formas mais eficientes de matar, mas poucas se aproximam desta crueldade. *(Core p. 274)*
 
-> - **Custo**: Two Rouse Checks
-> - **Duração**: Instantâneo (efeito imediato)
-> - **Dice Pools:** Resolve + Blood Sorcery vs. Stamina + Composure do alvo
+> - **Custo**: One Rouse Check e ganha uma (ou mais) Stain
+> - **Duração**: Um turno
+> - **Dice Pools:** Resolve + Blood Sorcery vs. Composure + Occult (vampiros com Fortitude: Composure + Fortitude)
 >
 > - **System (Regras)**:
->   O vampiro toca (ou está dentro de 1 metro de) o alvo e ativa este poder. O alvo recebe dano agravado igual aos sucessos do vampiro no contest. Contra mortais, pode ser letal imediatamente com poucos sucessos. Contra Kindred, cada ponto de dano agravado é devastador.
->   O vampiro deve ter previamente bebido do alvo ou ter contato com o sangue do alvo nessa cena para usar este poder — requer "conhecer" o sangue que vai ferver.
-
+>   O usuário paga o custo e toca a vítima (Dexterity + Athletics em combate ou situações parecidas), rolando um contest de Resolve + Blood Sorcery vs. Composure + Occult (vampiros com Fortitude podem resistir com Composure + Fortitude). Em uma vitória, cada ponto de margem causa um ponto de dano **Agravado** na vítima. Mortais que sofram ao menos um ponto de dano morrem gritando. Vítimas vampiras ganham **1 Hunger por ponto de dano causado**, até Hunger 5.
 
 # Rituals (Blood Sorcery)
 

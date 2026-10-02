@@ -32,7 +32,7 @@
   {
     "name": "Animal Succulence",
     "discipline": "Animalism",
-    "level": 2,
+    "level": 3,
     "pool": "—",
     "cost": "Free",
     "duration": "Permanent",
@@ -72,7 +72,7 @@
   {
     "name": "Animal Dominion",
     "discipline": "Animalism",
-    "level": 4,
+    "level": 5,
     "pool": "Charisma + Animalism",
     "cost": "1 Rouse Check",
     "duration": "Scene",
@@ -162,7 +162,7 @@
   {
     "name": "Telepathy",
     "discipline": "Auspex",
-    "level": 4,
+    "level": 5,
     "pool": "Resolve + Auspex vs. Resolve + Subterfuge",
     "cost": "1 Rouse Check",
     "duration": "Scene",
@@ -242,7 +242,7 @@
   {
     "name": "Baal's Caress",
     "discipline": "Blood Sorcery",
-    "level": 4,
+    "level": 5,
     "pool": "Dexterity + Blood Sorcery",
     "cost": "1 Rouse Check",
     "duration": "Scene",
@@ -502,7 +502,7 @@
   {
     "name": "Flesh of Marble",
     "discipline": "Fortitude",
-    "level": 4,
+    "level": 5,
     "pool": "—",
     "cost": "1 Rouse Check",
     "duration": "Scene",
@@ -832,7 +832,7 @@
   {
     "name": "Dread Gaze",
     "discipline": "Presence",
-    "level": 2,
+    "level": 3,
     "pool": "Charisma + Presence vs. Composure + Resolve",
     "cost": "1 Rouse Check",
     "duration": "Instant",
@@ -852,7 +852,7 @@
   {
     "name": "Summon",
     "discipline": "Presence",
-    "level": 3,
+    "level": 4,
     "pool": "Charisma + Presence",
     "cost": "1 Rouse Check",
     "duration": "Until arrival",
@@ -922,7 +922,7 @@
   {
     "name": "Earth Meld",
     "discipline": "Protean",
-    "level": 2,
+    "level": 3,
     "pool": "—",
     "cost": "1 Rouse Check",
     "duration": "Until you emerge",
@@ -942,7 +942,7 @@
   {
     "name": "Metamorphosis",
     "discipline": "Protean",
-    "level": 3,
+    "level": 4,
     "pool": "Stamina + Protean",
     "cost": "1 Rouse Check",
     "duration": "Scene",
@@ -952,7 +952,7 @@
   {
     "name": "Unfettered Heart",
     "discipline": "Protean",
-    "level": 4,
+    "level": 5,
     "pool": "—",
     "cost": "1 Rouse Check",
     "duration": "Instant",

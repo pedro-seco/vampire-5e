@@ -2,19 +2,19 @@
   {
     "name": "Allies",
     "type": 1,
-    "maxLevel": 5,
+    "maxLevel": 6,
     "description": "Mortals who actively support you — politicians, gang members, police officers. Each dot represents one group or individual of significant influence. They act on your behalf but have limits; push too hard and they may withdraw."
   },
   {
     "name": "Contacts",
     "type": 1,
-    "maxLevel": 5,
+    "maxLevel": 3,
     "description": "Information networks and loose associates. Each dot is a contact pool you can call for tips, rumors, or black-market access in a specific domain. They don't act for you — they talk."
   },
   {
     "name": "Fame",
     "type": 1,
-    "maxLevel": 3,
+    "maxLevel": 5,
     "description": "Public renown among mortals — celebrity, influencer, notorious criminal. Eases social rolls within your sphere. Lvl 1: local scene. Lvl 2: citywide recognition. Lvl 3: national or international."
   },
   {
@@ -50,7 +50,7 @@
   {
     "name": "Mask",
     "type": 1,
-    "maxLevel": 3,
+    "maxLevel": 2,
     "description": "A false mortal identity — papers, social media, a cover story. Lvl 1: basic documents. Lvl 2: full legend with job and apartment. Lvl 3: deep cover that withstands serious investigation."
   },
   {
@@ -68,7 +68,7 @@
   {
     "name": "Retainer",
     "type": 1,
-    "maxLevel": 5,
+    "maxLevel": 3,
     "description": "A loyal servant or ghoul who acts on your behalf. Each dot is one Retainer, rated by competence. Retainers need feeding, protection, and management — they are not expendable."
   },
   {
@@ -104,13 +104,13 @@
   {
     "name": "Addiction",
     "type": -1,
-    "maxLevel": 3,
+    "maxLevel": 2,
     "description": "An uncontrollable craving — for a specific type of blood, substance, or experience. Must indulge at least once per session or suffer penalties (Diff +1 to +2 on Composure rolls). Lvl 1: manageable. Lvl 3: debilitating."
   },
   {
     "name": "Archaic",
     "type": -1,
-    "maxLevel": 1,
+    "maxLevel": 2,
     "description": "You were Embraced in another era and never fully adapted to the modern world. −2 dice on rolls involving modern technology, social media, contemporary norms, or post-industrial systems."
   },
   {
@@ -134,7 +134,7 @@
   {
     "name": "Dark Secret",
     "type": -1,
-    "maxLevel": 3,
+    "maxLevel": 1,
     "description": "You carry a truth that would destroy your reputation or worse if exposed. Lvl 1: embarrassing. Lvl 2: actionable — would cause loss of Status or allies. Lvl 3: would trigger violence or exile."
   },
   {
@@ -146,25 +146,25 @@
   {
     "name": "Despised",
     "type": -1,
-    "maxLevel": 3,
+    "maxLevel": 2,
     "description": "You are widely disliked within Kindred society. Social rolls with Kindred who know your reputation suffer −1 to −3 dice. Others may actively scheme against you."
   },
   {
     "name": "Enemy",
     "type": -1,
-    "maxLevel": 5,
+    "maxLevel": 2,
     "description": "A personal adversary with a grudge and means. Unlike Adversary, this is personal. Lvl 1: a mortal with connections. Lvl 3: a vampire with grudge and resources. Lvl 5: elder with a blood hunt issued."
   },
   {
     "name": "Folkloric Bane",
     "type": -1,
-    "maxLevel": 2,
+    "maxLevel": 1,
     "description": "You are vulnerable to a folk myth about vampires — garlic, mirrors, holy symbols, running water. Lvl 1: −2 dice when exposed. Lvl 2: you cannot cross or touch the substance without spending Willpower."
   },
   {
     "name": "Haunted",
     "type": -1,
-    "maxLevel": 2,
+    "maxLevel": 1,
     "description": "You are plagued by a ghost or spirit tied to your past. It interferes with your activities, reveals secrets at inopportune times, or simply makes your existence miserable. Lvl 2: it can physically affect the world."
   },
   {
@@ -194,19 +194,19 @@
   {
     "name": "Repulsive",
     "type": -1,
-    "maxLevel": 3,
+    "maxLevel": 2,
     "description": "You are physically or socially repellent to mortals (and sometimes Kindred). −1 to −3 dice on appearance-based social rolls. The Nosferatu clan Bane applies this at level equal to Bane Severity."
   },
   {
     "name": "Stalkers",
     "type": -1,
-    "maxLevel": 2,
+    "maxLevel": 1,
     "description": "One or more mortals (or perhaps a Kindred) are obsessed with you and cannot be easily shaken. They may interfere with your operations, compromise your Masquerade, or simply be an endless nuisance."
   },
   {
     "name": "Suspect",
     "type": -1,
-    "maxLevel": 2,
+    "maxLevel": 1,
     "description": "Your sect or faction does not fully trust you. You are under informal surveillance. Lvl 1: watched. Lvl 2: actively tested and second-guessed. Any misstep is used against you."
   },
   {
