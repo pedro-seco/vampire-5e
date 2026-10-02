@@ -64,7 +64,7 @@ Representa o tempo necessário para realizar uma **ação simples** e serve como
 
 >**Nota Importante:** Em situações onde várias ações ocorrem ao mesmo tempo (como em combate), o Narrador organiza turnos para garantir que cada personagem tenha uma oportunidade de agir. Veremos mais sobre isso em [[Regras Avançadas]] e também em [[Dificuldade, Contests e Conflitos#Conflitos|Conflitos]].
 
->**💡 Observação**: Não cometa o mesmo erro que eu. O Turno não é o mesmo que "a vez" da pessoa; está mais próximo do conceito de "Rodada" em D&D; entrementes, a duração do Turno cabe ao Narrador. É uma coisa bem mais abstrata mesmo.
+>**Observação**: Não cometa o mesmo erro que eu. O Turno não é o mesmo que "a vez" da pessoa; está mais próximo do conceito de "Rodada" em D&D; entrementes, a duração do Turno cabe ao Narrador. É uma coisa bem mais abstrata mesmo.
 
 ### Exemplos de Uso de Turnos:
 
@@ -81,7 +81,7 @@ Logo, a duração do turno é **abstrata** e se adapta à narrativa:
 
 ---
 #### Minor Actions
-> 🧩**Dica Para o Narrador**: Minor Actions é um conceito importante, pois ajuda a delimitar o Turno.
+> **Dica Para o Narrador**: Minor Actions é um conceito importante, pois ajuda a delimitar o Turno.
 
 Em algumas instâncias (sobretudo em [[Dificuldade, Contests e Conflitos#Conflitos|Conflitos]]), a presença de ações menores podem afetar as mecânicas e os testes.
 
@@ -89,7 +89,7 @@ Ações menores são as que não justificam "esgotar" o turno completo, nem rola
 mas também não são simples o suficiente para serem realizadas gratuitamente.
 
 >Saber da existência de regras que cobrem isto é fundamental, e podem auxiliar o Narrador a prover uma experiência mais rica e balanceada para os jogadores, sobretudo quando falamos de [[Dificuldade, Contests e Conflitos#Conflitos|Conflitos]]. 
->❗**Explicamos isso em [[Regras Avançadas#Minor Actions|Regras Avançadas: Minor Actions]].**
+>**Explicamos isso em [[Regras Avançadas#Minor Actions|Regras Avançadas: Minor Actions]].**
 
 ---
 
@@ -122,7 +122,7 @@ Em _Vampiro: A Máscara_, a divisão em sessões não é tão rígida quanto em 
 
 Embora as sessões possam variar em duração, elas têm a vantagem de serem **claramente definidas**, facilitando para os jogadores e o Narrador saberem quando uma sessão começa e termina, garantindo um ponto de pausa natural na história.
 
->**💡 Para Saber Mais**: [[Humanidade#Remorso|Testes de Remorso]] só acontecem no fim de uma sessão, por exemplo (cabe ao Narrador julgar se é coerente)
+>**Para Saber Mais**: [[Humanidade#Remorso|Testes de Remorso]] só acontecem no fim de uma sessão, por exemplo (cabe ao Narrador julgar se é coerente)
 
 ## Story 
 
@@ -160,9 +160,9 @@ Os testes simples funcionam assim:
 >A menos que o teste seja um [[#Sucessos Automáticos (Before Roll)|sucesso automático]], você rola os dados da [[Entendendo Dados e Ficha#Dice Pool|dice pool]] e conta os sucessos. 
 >***Se o número de sucessos que você obtiver for igual ou superior à* Dificuldade**, você vence o teste e realiza a ação.
 
->**💡Para Saber Mais:** Muitos exemplos de testes podem ser encontrados em [[Exemplos de Testes]].
+>**Para Saber Mais:** Muitos exemplos de testes podem ser encontrados em [[Exemplos de Testes]].
 
->📘**Tutorial**: Veja como usar sua ficha para realizar testes em [[Entendendo Dados e Ficha#Tutorial Como Rolar os Dados na Ficha|Como Rolar os Dados na Ficha do Demiplane]].
+>**Tutorial**: Veja como usar sua ficha para realizar testes em [[Entendendo Dados e Ficha#Tutorial Como Rolar os Dados na Ficha|Como Rolar os Dados na Ficha do Demiplane]].
 
 ## Resultados Possíveis 
 
@@ -205,7 +205,7 @@ uma das duas coisas:
 - Significa apenas que seu personagem não alcançou o resultado desejado
 - Outras vezes, uma falha total pode implicar em consequências mais graves que uma simples falha.
 
->🧩 Dica Para O Narrador: É como tirar 1 no D20, sem gerar um *Bestial Failure*. O Narrador define o que a falha total significa de acordo com a situação e as circunstâncias.
+>Dica Para O Narrador: É como tirar 1 no D20, sem gerar um *Bestial Failure*. O Narrador define o que a falha total significa de acordo com a situação e as circunstâncias.
 
 --- 
 ### Tentar Novamente
@@ -229,7 +229,7 @@ Se o custo for muito alto, você sempre pode optar por seguir com sua falha.
 >*Source: pág. 122 do [[Vampire the Masquerade.pdf|livro]].
 
 
->**🧩Dica de Narrador**: Alguns custos vêm em forma de "tempo" também. No meio de uma sessão, um jogador pode decidir ir [[Hunting and Feeding#Hunting|caçar]], utilizando um [[Hunting and Feeding#Hunting Roll|hunting roll]] mas falha por pouco no teste. O Narrador pode oferecer para ele ser bem-sucedido, porém demorará 1 hora a mais achando uma presa, etc.
+>**Dica de Narrador**: Alguns custos vêm em forma de "tempo" também. No meio de uma sessão, um jogador pode decidir ir [[Hunting and Feeding#Hunting|caçar]], utilizando um [[Hunting and Feeding#Hunting Roll|hunting roll]] mas falha por pouco no teste. O Narrador pode oferecer para ele ser bem-sucedido, porém demorará 1 hora a mais achando uma presa, etc.
 
 --- 
 ## Manipulando Testes 
@@ -254,14 +254,14 @@ Se dois ou mais personagens puderem colaborar efetivamente em uma tarefa, como i
 Sucessos automáticos agilizam o jogo e reduzem interrupções desnecessárias nas regras. 
 Use-os com frequência, especialmente fora de combate ou para testes em que a falha seria entediante, como reunir informações, iniciar conversas ou criar oportunidades que impulsionem a cena ou avancem a narrativa.
 
->**⚠️ Nota Importante**: Sucessos automáticos raramente se aplicam em combate ou outras situações de alto estresse. 
+>**Nota Importante**: Sucessos automáticos raramente se aplicam em combate ou outras situações de alto estresse. 
 >No entanto, um Narrador que deseja acelerar os turnos iniciais ou passar rapidamente por um local que não deveria oferecer desafio pode permitir sucessos automáticos contra capangas ou obstáculos humanos sem importância, como seguranças de aluguel no saguão de um prédio, mas não contra policiais reais nas ruas. 
 >*Source: pág. 120 do [[Vampire the Masquerade.pdf|livro]]*
 
 ---
 ### Willpower em Testes (After Roll/Re-roll)
 
->😎**Dica do Autor**: Entenda o que é [[Character#Willpower|Willpower]], e razões para você talvez querer economizá-lo antes de sair por aí gastando ele.
+>**Dica do Autor**: Entenda o que é [[Character#Willpower|Willpower]], e razões para você talvez querer economizá-lo antes de sair por aí gastando ele.
 
 Caso o resultado não seja satisfatório em um teste, o **personagem pode gastar 1 ponto de [[Character#Willpower|Willpower]] para re-rolar até três dados normais da sua dice pool em um teste.**
 
@@ -271,9 +271,9 @@ Caso o resultado não seja satisfatório em um teste, o **personagem pode gastar
 
 >**Lembre-se:** você pode fazer para re-rolar dados regulares em qualquer teste de [[Character#Habilidades|Habilidade]] ou [[Character#Atributo|Atributo]], incluindo testes que envolvam [[Disciplinas]] vampíricas. 
 
->**⚠️ Nota Importante**: Um ponto de Força de Vontade gasto conta como tendo sofrido um nível de dano Superficial à Força de Vontade e deve ser marcado como tal na ficha.
+>**Nota Importante**: Um ponto de Força de Vontade gasto conta como tendo sofrido um nível de dano Superficial à Força de Vontade e deve ser marcado como tal na ficha.
 
->📘**Tutorial**: Veja como realizar re-rolar os dados usando o Willpower de maneira automática através da sua ficha em [[Entendendo Dados e Ficha#Tutorial Como Re-Rolar os Dados na Ficha|Como Re-Rolar os Dados na Ficha Interativa Usando Willpower]]. 
+>**Tutorial**: Veja como realizar re-rolar os dados usando o Willpower de maneira automática através da sua ficha em [[Entendendo Dados e Ficha#Tutorial Como Re-Rolar os Dados na Ficha|Como Re-Rolar os Dados na Ficha Interativa Usando Willpower]]. 
 
 
 ---

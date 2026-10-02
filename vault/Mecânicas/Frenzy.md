@@ -23,7 +23,7 @@
 
 Frenzy é uma constante ameaça à frágil paz de todo vampiro. Circunstâncias externas frequentemente provocam um frenesi, rompendo o frágil controle sobre a **Besta** interior. Sendo a expressão máxima dos impulsos mais primitivos do Sangue, o **frenesi** liberta a Besta sem pensamento ou remorso, permitindo que o predador atue em completo abandono.
 
-> 🧩**Dica Para o Narrador:** Os *triggers* de um frenesi variam com o tipo do Frenesi. Mas considere o contexto; para um vampiro com um nível maior de [[Fome]], qualquer gatilho pequeno pode fazer com que ele teste contra o [[#Frenesi de Fome]], visto que a Besta está impaciente.
+> **Dica Para o Narrador:** Os *triggers* de um frenesi variam com o tipo do Frenesi. Mas considere o contexto; para um vampiro com um nível maior de [[Fome]], qualquer gatilho pequeno pode fazer com que ele teste contra o [[#Frenesi de Fome]], visto que a Besta está impaciente.
 > Caso esteja com um Willpower mais baixo (tomou dano, ou gastou muito) talvez até mesmo o fogo baixo faça com que ele teste contra um [[#Frenesi de Terror]]. 
 > Ou se ele sofreu algum tipo de insulto a sua honra, ou foi agredido nesse estado, talvez um [[#Frenesi de Fúria]].
  
@@ -63,7 +63,7 @@ Um vampiro pode optar por **"Surfar na Onda"** do frenesi, sucumbindo intenciona
 
 Esse ato segue as regras usuais de frenesi, embora o ***Narrador deva permitir que o jogador interprete o frenesi***, como ***escolher quem será a primeira vítima***, em vez de assumir o controle total do personagem.
 
->⚠️ **Atenção:** Caso não opte por "Surfar na Onda", um vampiro em frenesi torna-se propriedade do Narrador enquanto o frenzy durar.
+>**Atenção:** Caso não opte por "Surfar na Onda", um vampiro em frenesi torna-se propriedade do Narrador enquanto o frenzy durar.
 
 ---
 ## Efeitos do Frenesi

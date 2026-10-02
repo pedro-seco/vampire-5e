@@ -104,9 +104,9 @@ Este é o preço da imortalidade e do poder sobrenatural.
 >4. **Blush of Life**: Fingir uma aparência de vitalidade humana utilizando [[#Blush of Life]].
 >5. **Curar Ferimentos**: Reparar o corpo danificado através de [[#Recuperação Vampírica]].
 
->📘**Tutorial:** Veja [[Entendendo Dados e Ficha#Tutorial Rouse Check|como fazer um Rouse Check na ficha]].
+>**Tutorial:** Veja [[Entendendo Dados e Ficha#Tutorial Rouse Check|como fazer um Rouse Check na ficha]].
 
->⚠️**ATENÇÃO**: 
+>**ATENÇÃO**: 
 >- O efeito que você está tentando realizar ocorre independente de você falhar ou não Rouse Check. 
 >- O Rouse Check determina aumento de [[Fome]], não de sucesso no que está tentando realizar.
 
@@ -124,18 +124,18 @@ Para realizar um ataque de mordida:
    
 2. **Penalidade no Teste**: Remova **dois dados** da *[[Entendendo Dados e Ficha#Dice Pool|dice pool]]* ao realizar o [[Regras Fundamentais#Entendo os Testes (Rolls)|teste]], já que ataques de mordida são mais fáceis de defender.
 
->📘 **Dica**: Para realizar uma mordida contra inimigos imobilizados, a penalidade no teste não se aplica. Confira como funciona as regras de [[Regras Avançadas#Grappling|Grappling]], para um melhor entendimento.
+>**Dica**: Para realizar uma mordida contra inimigos imobilizados, a penalidade no teste não se aplica. Confira como funciona as regras de [[Regras Avançadas#Grappling|Grappling]], para um melhor entendimento.
 
 #### Dano do Bite Attack
 
-> 💡Busque entender como funciona [[Dano]], [[Dificuldade, Contests e Conflitos#Margem|Margem]] e [[Dificuldade, Contests e Conflitos#Conflitos|Conflitos]] para uma melhor compreensão desta parte.
+> Busque entender como funciona [[Dano]], [[Dificuldade, Contests e Conflitos#Margem|Margem]] e [[Dificuldade, Contests e Conflitos#Conflitos|Conflitos]] para uma melhor compreensão desta parte.
 
 - **Dano Fixo**: Diferente de outros ataques, não importa número de sucessos ([[Dificuldade, Contests e Conflitos#Margem|Margem]]) que você obtém caso seja bem-sucedido; as presas causam **dois pontos de dano** ao vencer o teste de ***Brawl***.
 - **Nível do Dano:** O dano das presas é [[Dano#Aggravated Damage|Dano Agravado]] na Saúde, tanto para mortais quanto para vampiros.
 
 #### Alimentação Após Mordida
 
-> 💡Veja sobre [[Fome#Reduzindo a Fome|Reduzindo a Fome]] para uma melhor compreensão.
+> Veja sobre [[Fome#Reduzindo a Fome|Reduzindo a Fome]] para uma melhor compreensão.
 
 - **Turnos Seguintes**: Após um ataque de mordida bem-sucedido, o vampiro pode **se alimentar** do alvo nos [[Regras Fundamentais#Turno|turnos seguintes]] sem sofrer penalidade no teste de ***Brawl***, pois é difícil desestabilizar uma mordida bem-sucedida.
   
@@ -185,7 +185,7 @@ Ao fazer vampiro pode enviar seu Sangue para os capilares mortos de sua pele e r
 
 - **Interações Sociais e Sexuais:** Dependendo da sua [[Humanidade]], vampiros conseguem até mesmo aproveitar interações íntimas com o Blush of Life ativado.
 
->⚠️ Limitações de Blush of Life:
+>Limitações de Blush of Life:
 >- Vampiros não conseguem enganar exames médicos intrusivos com Blush of Life.
 >- A aparência, embora convincente, ainda apresenta sutis diferenças que podem ser detectadas sob inspeção minuciosa.
 
@@ -257,7 +257,7 @@ Diferente do [[Dano#Superficial Damage|dano superficial]], a recuperação de [[
 3. **Teste Adicional**:
 	- Além dos [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check's]] para a cura, o vampiro também realiza o teste usual de Rouse ao acordar naquela noite, totalizando 4 [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check's]] obrigatórios.
 
->❗**Regra da Fome**: Assim como ocorre ao [[#Acordando|despertar]], se esses [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check's]] aumentarem a [[Fome]] do vampiro acima do nível 5, eles automaticamente caem em [[Perigos do Sangue#Torpor|Torpor]] em vez de testar contra [[Frenzy#Frenesi de Fome|Frenesi de Fome]] 
+>**Regra da Fome**: Assim como ocorre ao [[#Acordando|despertar]], se esses [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check's]] aumentarem a [[Fome]] do vampiro acima do nível 5, eles automaticamente caem em [[Perigos do Sangue#Torpor|Torpor]] em vez de testar contra [[Frenzy#Frenesi de Fome|Frenesi de Fome]] 
 
 ---
 # Preços do Sangue
@@ -280,7 +280,7 @@ Após despertar do sono diurno, o vampiro pode agir por **uma única [[Regras Fu
 - Ao final dessa [[Regras Fundamentais#Scene|cena]]**, para permanecer acordado, deve realizar outro teste de [[Entendendo Dados e Ficha#Trackers e Dice Pools|Teste de Humanidade]] com [[Dificuldade, Contests e Conflitos#Dificuldade|Dificuldade 3]]. 
 - Um sucesso permite mais uma [[Regras Fundamentais#Scene|cena]], enquanto um [[Entendendo Dados e Ficha#Sucesso Críticos|sucesso crítico]] permite que permaneça acordado pelo tempo necessário.
 
-> ⚠️ **Nota Importante**: Durante as horas do dia, o ***maior [[Entendendo Dados e Ficha#Dice Pool|dice pool]] para qualquer ação*** que um vampiro pode ter é igual ao seu **nível de [[Humanidade]]**.
+> **Nota Importante**: Durante as horas do dia, o ***maior [[Entendendo Dados e Ficha#Dice Pool|dice pool]] para qualquer ação*** que um vampiro pode ter é igual ao seu **nível de [[Humanidade]]**.
 
 ---
 ## Frenesi

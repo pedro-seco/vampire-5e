@@ -25,13 +25,13 @@ Mesmo fora dessas circunstâncias, o Narrador pode descrever o grau de sucesso c
   
 - **Alterar a Dificuldade:** Reflere mudança ou circunstância para a *ação em si*; tempo chuvoso, equipamento de baixa qualidade, atividade performanda durante um tiroteio caótico, etc.
 
->🧩**Para o Narrador**: Aumentar ou diminuir a dice pool em 2 dados tem o mesmo ***efeito estatístico*** de aumentar ou diminuir a Dificuldade em 1.
+>**Para o Narrador**: Aumentar ou diminuir a dice pool em 2 dados tem o mesmo ***efeito estatístico*** de aumentar ou diminuir a Dificuldade em 1.
 >*Exemplo:*
 >*(Citação da pág. 120)*
 >	*Nenhum refinamento exagerado garante o sucesso de uma tarefa; da mesma forma, as habilidades básicas dos personagens podem ajudá-los em circunstâncias aparentemente desesperadoras.* 
 >	*Considere limitar os modificadores a **+2 ou -2 na Dificuldade**, ou a no máximo **três dados adicionados ou removidos** da pool do personagem. **Essa diretriz se aplica a modificadores improvisados do Narrador**, não a modificadores provenientes de especializações ou outras regras específicas.*
 
->**🧩 Para O Narrador**: Algo que modifica a dice pool por exemplo (que não entra nesse aconselhamento), é o uso de [[Regras Fundamentais#Minor Actions|Minor Actions]] dentro de um Conflito mais complexo. Explicamos isso em [[Regras Avançadas]].
+>**Para O Narrador**: Algo que modifica a dice pool por exemplo (que não entra nesse aconselhamento), é o uso de [[Regras Fundamentais#Minor Actions|Minor Actions]] dentro de um Conflito mais complexo. Explicamos isso em [[Regras Avançadas]].
 
 ### Equipamento
 
@@ -151,7 +151,7 @@ Em um conflito básico, tanto o atacante quanto o defensor rolam suas pools simu
 
 O combate à distância é resolvido como um [[#Contests|contest]], geralmente contra (**Dexterity + Athletics**) do alvo, que seria como um CA do D&D nesse caso.
 
->🧩 **Dica Para o Narrador:** leia mais em [[Regras Avançadas#Ranged Combat|Ranged Combat]], nas [[Regras Avançadas]].
+>**Dica Para o Narrador:** leia mais em [[Regras Avançadas#Ranged Combat|Ranged Combat]], nas [[Regras Avançadas]].
 
 - **Combate à distância de dois lados**: Se ambos os combatentes estão atacando um ao outro à distância, pode-se resolver como um conflito de **Firearms** de dois lados, conforme descrito anteriormente em [[#Resolvendo as Pools e Dano]].
 
@@ -167,7 +167,7 @@ Contra ataques à distância, procurar cobertura é essencial. Veja como o níve
 
 **Defense Pool**: o padrão é  (**Dex** + **Athletics**)
 
->🔫**Nota Importante:** alvos estáticos (parados) não possuem defense pool, então fica como Dificuldade 1 para acertá-lo.
+>**Nota Importante:** alvos estáticos (parados) não possuem defense pool, então fica como Dificuldade 1 para acertá-lo.
 
 - **Sem Cover:** Um personagem que não possui nenhum tipo de cover contra ataques à distância deve **subtrair 2 dados da *defense pool***. 
 
@@ -226,7 +226,7 @@ No conflito do exemplo encontrado no [[#Início de Cada Turno]], ficaria algo co
 
 >**Nota**: A dice pool de "desempate" pode ser modificada circunstancialmente pelo Narrador. Afinal, ele pode julgar que algumas [[Disciplinas]] afetariam esse tipo de teste de desempate. Um vampiro com Auspex muito alto pode ser difícil pegar de surpresa; o mesmo vale para Celeridade, etc.
 
->⚔️ **Nota Ainda Mais Importante:** Em conflitos mais elaborados, sobretudo PvP, uma ordem de iniciativa mais tradicional existe e pode ser encontrada nas [[Regras Avançadas]].
+>**Nota Ainda Mais Importante:** Em conflitos mais elaborados, sobretudo PvP, uma ordem de iniciativa mais tradicional existe e pode ser encontrada nas [[Regras Avançadas]].
 
 ---
 ## Dica: Críticos em Combate

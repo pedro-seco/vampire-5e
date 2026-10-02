@@ -316,8 +316,8 @@ No final, o Narrador determina o que a Disciplina pode realizar, mas deve garant
 ---
 ## Dominate - Poderes Nível 1
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder. 
->📘 **Regras Gerais de Dominate**: Leia as [[#Regras Gerais de Dominate]]
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder. 
+>**Regras Gerais de Dominate**: Leia as [[#Regras Gerais de Dominate]]
 
 ### Cloud Memory
 
@@ -344,8 +344,8 @@ No final, o Narrador determina o que a Disciplina pode realizar, mas deve garant
 ---
 ## Dominate - Poderes Nível 2
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder. 
->📘 **Regras Gerais de Dominate**: Leia as [[#Regras Gerais de Dominate]]
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder. 
+>**Regras Gerais de Dominate**: Leia as [[#Regras Gerais de Dominate]]
 
 ### Mesmerize
 
@@ -387,8 +387,8 @@ Este poder sutil requer apenas uma conversa casual, pois a influência insidiosa
 ---
 ## Dominate - Poderes Nível 3
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder. 
->📘 **Regras Gerais de Dominate**: Leia as [[#Regras Gerais de Dominate]]
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder. 
+>**Regras Gerais de Dominate**: Leia as [[#Regras Gerais de Dominate]]
 
 ### The Forgetful Mind
 
@@ -431,8 +431,8 @@ Funciona com [[#Mesmerize]].
 ---
 ## Dominate - Poderes Nível 4
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder. 
->📘 **Regras Gerais de Dominate**: Leia as [[#Regras Gerais de Dominate]]
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder. 
+>**Regras Gerais de Dominate**: Leia as [[#Regras Gerais de Dominate]]
 
 ### Rationalize
 
@@ -647,7 +647,7 @@ Usuários de Auspex convidam à paranoia, mas usá-la é viciante. Uma vez que s
 ---
 ## Auspex - Poderes Nível 1
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
 
 ### Heightened Senses
 Os sentidos do vampiro se aguçam a um grau sobrenatural, dando-lhes a capacidade de enxergar na escuridão total, ouvir frequências ultrassônicas e sentir o cheiro do medo de presas aterrorizadas.
@@ -687,7 +687,7 @@ Os sentidos do vampiro tornam-se sintonizados a dimensões além do mundano, per
 ---
 ## Auspex - Poderes Nível 2
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
 
 ### Premonition
 
@@ -710,7 +710,7 @@ O vampiro experimenta lampejos de percepção. Essas premonições podem se mani
 ---
 ## Auspex - Poderes Nível 3
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
 
 ### Scry The Soul
 
@@ -758,7 +758,7 @@ Ao alcançar com sua mente, o vampiro pode acessar os sentidos de outro mortal o
 ---
 ## Auspex - Poderes Nível 4
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
 
 ### Spirit's Touch
 
@@ -841,8 +841,8 @@ Eficaz tanto como isca quanto como defesa, vampiros com Presence desfrutam de um
 ---
 ## Presence - Poderes Nível 1
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
->📘 **Regras Gerais de Presence**: Leia as [[#Regras Gerais de Presence]]
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Regras Gerais de Presence**: Leia as [[#Regras Gerais de Presence]]
 
 ### Awe
 
@@ -884,8 +884,8 @@ Eficaz tanto como isca quanto como defesa, vampiros com Presence desfrutam de um
 ---
 ## Presence - Poderes Nível 2
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
->📘 **Regras Gerais de Presence**: Leia as [[#Regras Gerais de Presence]]
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Regras Gerais de Presence**: Leia as [[#Regras Gerais de Presence]]
 
 ### Lingering Kiss
 
@@ -911,8 +911,8 @@ Eficaz tanto como isca quanto como defesa, vampiros com Presence desfrutam de um
 ---
 ## Presence - Poderes Nível 3
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
->📘 **Regras Gerais de Presence**: Leia as [[#Regras Gerais de Presence]]
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Regras Gerais de Presence**: Leia as [[#Regras Gerais de Presence]]
 
 ### Dread Gaze
 
@@ -966,8 +966,8 @@ Eficaz tanto como isca quanto como defesa, vampiros com Presence desfrutam de um
 ---
 ## Presence - Poderes Nível 4
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
->📘 **Regras Gerais de Presence**: Leia as [[#Regras Gerais de Presence]]
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Regras Gerais de Presence**: Leia as [[#Regras Gerais de Presence]]
 
 ### Irresistible Voice
 
@@ -1073,8 +1073,8 @@ Os observadores veem o vampiro, mas suas mentes escolhem ignorá-lo. Testemunhas
 ---
 ## Obfuscate - Poderes Nível 1
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
->📘 **Regras Gerais de Presence**: Leia as [[#Regras Gerais de Obfuscate]]
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Regras Gerais de Presence**: Leia as [[#Regras Gerais de Obfuscate]]
 
 ### Cloak of Shadows
 
@@ -1110,8 +1110,8 @@ Popular entre os Banu Haqim, este poder silencia completamente o usuário, anula
 ---
 ## Obfuscate - Poderes Nível 2
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
->📘 **Regras Gerais de Presence**: Leia as [[#Regras Gerais de Obfuscate]]
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Regras Gerais de Presence**: Leia as [[#Regras Gerais de Obfuscate]]
 
 ### Unseen Passage
 
@@ -1147,8 +1147,8 @@ O vampiro pode conferir uma medida de sutileza aos animais sob sua influência, 
 ---
 ## Obfuscate - Poderes Nível 3
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
->📘 **Regras Gerais de Presence**: Leia as [[#Regras Gerais de Obfuscate]]
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Regras Gerais de Presence**: Leia as [[#Regras Gerais de Obfuscate]]
 
 ### Ghost In The Machine
 
@@ -1534,7 +1534,7 @@ Essa Disciplina é usada para mais do que apenas golpear coisas, embora seja cer
 ---
 ## Potence - Poderes Nível 1
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
 
 ### Lethal Body
 
@@ -1567,7 +1567,7 @@ Possuindo uma força profana que vai além de braços e punhos, o usuário é ca
 ---
 ## Potence - Poderes Nível 2
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
 
 ### Prowess
 
@@ -1583,7 +1583,7 @@ Vampiros com Potência ganham uma força muito maior de seu Sangue do que aquele
 ---
 ## Potence - Poderes Nível 3
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
 
 ### Brutal Feed
 
@@ -1704,7 +1704,7 @@ Aqueles que possuem Fortitude são exemplos dos pilares sólidos da sociedade do
 
 ## Fortitude - Poderes Nível 1
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
 
 ### Resilience
 
@@ -1847,7 +1847,7 @@ Ao contrário de outras Disciplinas, que avançam organicamente conforme os alvo
 ---
 ## Blood Sorcery - Poderes Level 1
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
 
 ### Corrosive Vitae
 
@@ -1884,7 +1884,7 @@ Ao provar uma gota de sangue, o usuário pode discernir certos traços básicos 
 ---
 ## Blood Sorcery - Poderes Level 2
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
 
 ### Extinguish Vitae
 
@@ -1902,7 +1902,7 @@ O usuário pode, intencionalmente, remover as propriedades que sustentam a não-
 ---
 ## Blood Sorcery - Poderes Level 3
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
 
 ### Blood of Potency
 
@@ -1952,7 +1952,7 @@ O vampiro pode transmutar parte de seu próprio Sangue em um veneno paralisante,
 ---
 ## Blood Sorcery - Poderes Level 4
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo o **Custo** e o **System**, visto que eles explicam as regras mecânicas do poder.
 
 ### Theft of Vitae
 
@@ -2006,7 +2006,7 @@ Este poder macabro faz o sangue da vítima ferver nas próprias veias, causando 
 
 # Rituals (Blood Sorcery)
 
->⚠️ **Nota Importante**: Leia sempre a parte em negrito, sobretudo **System** visto que explica as regras mecânicas do poder.
+>**Nota Importante**: Leia sempre a parte em negrito, sobretudo **System** visto que explica as regras mecânicas do poder.
 
 A realização de rituais de Feitiçaria de Sangue segue um processo específico que combina custos, testes e ingredientes simbólicos.
 
@@ -2035,7 +2035,7 @@ A realização de rituais de Feitiçaria de Sangue segue um processo específico
 --- 
 ## Rituais Level 1
 
->⚠️ **Nota Importante**: Leia as [[#Regras Gerais dos Rituais]] e as seções em negrito dos rituais.
+>**Nota Importante**: Leia as [[#Regras Gerais dos Rituais]] e as seções em negrito dos rituais.
 
 ### Blood Walk
 
@@ -2107,7 +2107,7 @@ Realizado antes do amanhecer, este ritual permite ao conjurador despertar a qual
 ---
 ## Rituals Level 2
 
->⚠️ **Nota Importante**: Leia as [[#Regras Gerais dos Rituais]] e as seções em negrito dos rituais.
+>**Nota Importante**: Leia as [[#Regras Gerais dos Rituais]] e as seções em negrito dos rituais.
 
 ### Communicate With Kindred Sire
 
@@ -2190,7 +2190,7 @@ Até recentemente conhecido apenas pelos vizires Banu Haqim, este ritual cria um
 ---
 ## Rituals Level 3
 
->⚠️ **Nota Importante**: Leia as [[#Regras Gerais dos Rituais]] e as seções em negrito dos rituais.
+>**Nota Importante**: Leia as [[#Regras Gerais dos Rituais]] e as seções em negrito dos rituais.
 
 ### Dagon's Call
 
@@ -2287,7 +2287,7 @@ Um Ritual doloroso, mas que permite ao feiticeiro e até mesmo a seus aliados re
 ---
 ## Rituals Level 4
 
->⚠️ **Nota Importante**: Leia as [[#Regras Gerais dos Rituais]] e as seções em negrito dos rituais.
+>**Nota Importante**: Leia as [[#Regras Gerais dos Rituais]] e as seções em negrito dos rituais.
 
 ### Defense of The Sacred Haven
 
@@ -2346,7 +2346,7 @@ As Proteções são amplamente empregadas pelos Tremere e Banu Haqim para repeli
 
 - Consistem em um glifo ou linha de escrita feita para repelir um único tipo de sobrenatural, chamado de "o invasor", nas regras.  
 
-> ⚠️ **Nota Importante:** O casting time do Ward é o mesmo dos Rituais, por se tratar de um ritual.
+> **Nota Importante:** O casting time do Ward é o mesmo dos Rituais, por se tratar de um ritual.
 
 >**Definição de Invasor**: O tipo de ser sobrenatural que a proteção é feita contra. 
 >

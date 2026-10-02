@@ -38,7 +38,7 @@ Todos os vampiros possuem o o trait chamado **Fome**, medido em níveis de 0 a 5
 
 Para cada nível de Fome que você possui, ganhe um ***dado de Fome*** (Hunger dice). Isso influenciará muitos dos seus testes, como explicado em [[Entendendo Dados e Ficha#Dados de Fome|Entendendo Dados e Ficha: Dados de Fome]].
 
->**⚠️ Nota Importante**: 
+>**Nota Importante**: 
 >- Não use dados de fome em em Checks, em [[Character#Willpower|Willpower]] dice pools ou [[Humanidade|Humanity]] dice pools. 
 >- Dados de fome não podem ser re-rolados [[Regras Fundamentais#Willpower em Testes (After Roll/Re-roll)|gastando Willpower]].
 
@@ -68,19 +68,19 @@ Essas ações mais selvagens podem gerar consequências interessantes, como:
 	- Ofender um **Aliado** ou perder **Status** em uma corte.  
 	*Essa perda temporária pode ser recuperada mais rapidamente, dependendo da narrativa e das ações tomadas para reparação.*
 
-🧩 **Importante (Narrador)**: Caso não veja uma maneira boa de inserir a selvageria da Besta na ação, o livro sugere o personagem falhar como consequência da Besta. Mas eu e outros Narradores temos uma sugestão melhor,: aumente a o nível de Fome dele.
+**Importante (Narrador)**: Caso não veja uma maneira boa de inserir a selvageria da Besta na ação, o livro sugere o personagem falhar como consequência da Besta. Mas eu e outros Narradores temos uma sugestão melhor,: aumente a o nível de Fome dele.
 
 - **Aumentar a Fome**: Sua **Besta** quase vem à tona, mas, como isso significaria algo prejudicial e não há uma maneira boa e dramática de conciliar isso com um sucesso, você reprime o impulso, aumentando a pressão para se alimentar como consequência.
 
 ![[Recording Messy Critical.m4a]]
 
->🧩**Dica Para o Narrador**: há uma discordância em relação a essa parte do livro entre diversos Narradores. Para entender o contexto, escute o áudio acima ([[Recording Messy Critical.m4a|ou clique aqui para escutá-lo]]).
+>**Dica Para o Narrador**: há uma discordância em relação a essa parte do livro entre diversos Narradores. Para entender o contexto, escute o áudio acima ([[Recording Messy Critical.m4a|ou clique aqui para escutá-lo]]).
 >Link mencionado no áudio: [dealing with messy criticals as a Narrator](https://www.reddit.com/r/vtm/comments/pk4bci/question_about_messy_critical_and_how_to_deal/)
 
 ### A Besta: Bestial Failure
 Isso significa que a **Besta** do personagem se manifestou de maneira inoportuna ou que sua falha enfureceu a Besta, causando sua interferência.
 
-> ❗**Nota Importante:** se o seu teste foi bem sucedido (você teve o número sucessos necessário para passar), NÃO É BESTIAL FAILURE, não importa quantos 1 você tirou nos dados de fome.
+> **Nota Importante:** se o seu teste foi bem sucedido (você teve o número sucessos necessário para passar), NÃO É BESTIAL FAILURE, não importa quantos 1 você tirou nos dados de fome.
 
 >Para entender como ocorre um Bestial Failure nos dados, [[Entendendo Dados e Ficha#Bestial Failure|clique aqui]].
 
@@ -211,7 +211,7 @@ Beber sangue reduz o nível de **Fome** do vampiro, mas apenas drenar completame
 
 Vampiros podem se alimentar uns dos outros, reduzindo a própria **Fome** enquanto aumentam a Fome do doador, seja este voluntário ou não.
 
-> 💡**Para Saber Mais**: Drenar completamente um vampiro, consumindo por completo sua vitae consiste em [[Diablerie, Blood Bond, Ghouls#Diablerie|diablerie]].
+> **Para Saber Mais**: Drenar completamente um vampiro, consumindo por completo sua vitae consiste em [[Diablerie, Blood Bond, Ghouls#Diablerie|diablerie]].
 
 #### Regras (Sangue de Outros Vampiros)
 
@@ -221,7 +221,7 @@ Vampiros podem se alimentar uns dos outros, reduzindo a própria **Fome** enquan
 
 - **Doador com Menor [[Gerações e Potência|Potência de Sangue]]**: Se o doador tiver **2 ou mais níveis de [[Gerações e Potência|Potência de Sangue]] inferiores**, o vampiro que se alimenta reduz **1 ponto de Fome** para cada **2 pontos de Fome** infligidos no doador.
 
->**⚠️ ATENÇÃO**: Alimentar-se diretamente de outro vampiro pode criar um [[Diablerie, Blood Bond, Ghouls#Blood Bond|Blood Bond]], uma conexão mística e emocional entre o doador e o bebedor.
+>**ATENÇÃO**: Alimentar-se diretamente de outro vampiro pode criar um [[Diablerie, Blood Bond, Ghouls#Blood Bond|Blood Bond]], uma conexão mística e emocional entre o doador e o bebedor.
 
 ---
 ### Alimentando-se de Animais

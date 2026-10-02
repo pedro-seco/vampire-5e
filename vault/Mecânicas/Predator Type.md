@@ -6,7 +6,7 @@ Predator Type é um dos features do seu personagem, e é uma coisa que você esc
 
 Este _modus predationis_ é como você geralmente caça. Seu tipo de Predador mostra seu reflexo ou hábito; 
 
-**⚠️ Nota Importante:** Predator Type não dita seu comportamento no jogo. Você pode caçar de outras formas durante uma sessão, já que pode ser necessário cooperar com outros vampiros com Predator Types diferentes, e aproveitar oportunidades de alimentação que surjam durante a história. 
+**Nota Importante:** Predator Type não dita seu comportamento no jogo. Você pode caçar de outras formas durante uma sessão, já que pode ser necessário cooperar com outros vampiros com Predator Types diferentes, e aproveitar oportunidades de alimentação que surjam durante a história. 
 ==**Para mais informações**, veja como funcionam as [[Hunting and Feeding|mecânicas de alimentação]].==
 
 # Sumário

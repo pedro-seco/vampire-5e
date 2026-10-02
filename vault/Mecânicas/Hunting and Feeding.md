@@ -68,7 +68,7 @@ Para determinar o temperamento de uma vítima, role um d10. Caso tire 6 ou +, si
 
 - Caso seja *Intense*, o mesmo vale para chegar a *Acute.* E em temperamentos agudos, a vítima estará sujeita a um longo processo de [[Dyscrasias#**Criando Dyscrasias**|criação de uma Dyscrasia]], que resulta em ***ganhos maiores e mais poderosos***. 
 
->**⚠️ Nota Importante**: Personagens podem mudar o [[Resonance]] da vítima através de roleplay ou através dos vários social systems do jogo (testes, disciplinas sociais, etc), e o ST (*Storyteller*) pode alterar conforme achar necessário e coerente.
+>**Nota Importante**: Personagens podem mudar o [[Resonance]] da vítima através de roleplay ou através dos vários social systems do jogo (testes, disciplinas sociais, etc), e o ST (*Storyteller*) pode alterar conforme achar necessário e coerente.
 
 *Source:*
 >" To determine the temperament of a potential victim
@@ -86,7 +86,7 @@ Para determinar o temperamento de uma vítima, role um d10. Caso tire 6 ou +, si
 
 Muitos vampiros tentam variar seus métodos de alimentação conforme as oportunidades surgem, mas seus instintos os levam a padrões padrão específicos. A combinação de Atributos e Habilidades (Skills) que um vampiro usa para caçar depende de sua abordagem, que geralmente segue seu [[Predator Type]].
 
-**⚠️ Nota Importante**: Os jogadores, em um momento de improvisação, podem sugerir variações em qualquer um desses métodos de caça. O Narrador pode seguir com a ideia ou introduzir complicações causadas por um predador que tenta pensar em vez de caçar instintivamente. [[Disciplinas]] e [[Advantages#Merits|Méritos]] **também podem influenciar a combinação de dados, indo além das opções apresentadas abaixo**.
+**Nota Importante**: Os jogadores, em um momento de improvisação, podem sugerir variações em qualquer um desses métodos de caça. O Narrador pode seguir com a ideia ou introduzir complicações causadas por um predador que tenta pensar em vez de caçar instintivamente. [[Disciplinas]] e [[Advantages#Merits|Méritos]] **também podem influenciar a combinação de dados, indo além das opções apresentadas abaixo**.
 
 | Predator Type                                            |                     Dice Pool (Teste)                     | Descrição                                                                                                                                                                                                                                                                                      |     |
 | -------------------------------------------------------- | :-------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |

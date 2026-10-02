@@ -48,7 +48,7 @@ Esta página não procura explicar aas especificidades de cada Clã; isto é dev
 
 Cada clã possui uma maldição única, conhecida como **Bane**. Essas são limitações e fraquezas específicas do clã que nunca podem ser removidas. As maldições variam de acordo com o clã e são o que diferencia os principais clãs dos **Caitiff** e [[Sangue Fraco]].
 
->❗**Nota Importante:** Conhecer sobre a Maldição do seu próprio clã é dever de todo jogador.
+>**Nota Importante:** Conhecer sobre a Maldição do seu próprio clã é dever de todo jogador.
 
 ### Maldição dos Brujah
 

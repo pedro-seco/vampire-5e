@@ -14,7 +14,7 @@
 
 **Dyscrasias** são características únicas do sangue de certas vítimas, que fornecem benefícios mais poderosos ou sublimes ao vampiro que se alimenta delas. Elas estão relacionadas a um temperamento agudo (*acute temperament*), conferindo os mesmos bônus de [[Disciplinas]] que uma [[Resonance]] intensa, além de efeitos adicionais. 
 
-⚠️ **Nota Importante**: para entender sobre o que é uma Dyscrasia, é essencial **entender primeiro** o que é uma [[Resonance]].
+**Nota Importante**: para entender sobre o que é uma Dyscrasia, é essencial **entender primeiro** o que é uma [[Resonance]].
 
 ---
 ## Como Explorar uma Dyscrasia

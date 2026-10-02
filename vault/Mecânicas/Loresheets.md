@@ -11,18 +11,18 @@
 
 - [[#O Que São|O Que São]]
 - [[#Loresheets por Fonte|Loresheets por Fonte]]
-  - [[#📕 Core Rulebook — *Vampire: The Masquerade* (pp. 382–406)|📕 Core Rulebook]]
-  - [[#📗 Camarilla (pp. 184–190)|📗 Camarilla]]
-  - [[#📘 Anarch (pp. 190–198)|📘 Anarch]]
-  - [[#📙 Chicago By Night|📙 Chicago By Night]]
-  - [[#📒 Fall of London (Apêndice II)|📒 Fall of London]]
-  - [[#📓 Player's Guide — Hecata Bloodlines|📓 Player's Guide — Hecata Bloodlines]]
-  - [[#🔴 Blood Sigils|🔴 Blood Sigils]]
-  - [[#🩸 Children of the Blood|🩸 Children of the Blood]]
-  - [[#🔥 Cults of the Blood Gods|🔥 Cults of the Blood Gods]]
-  - [[#🚫 Sabbat: The Black Hand|🚫 Sabbat: The Black Hand]]
-  - [[#📖 Book of Nod Apocrypha|📖 Book of Nod Apocrypha]]
-  - [[#☣️ Forbidden Religions|☣️ Forbidden Religions]]
+  - [[#Core Rulebook — *Vampire: The Masquerade* (pp. 382–406)|Core Rulebook]]
+  - [[#Camarilla (pp. 184–190)|Camarilla]]
+  - [[#Anarch (pp. 190–198)|Anarch]]
+  - [[#Chicago By Night|Chicago By Night]]
+  - [[#Fall of London (Apêndice II)|Fall of London]]
+  - [[#Player's Guide — Hecata Bloodlines|Player's Guide — Hecata Bloodlines]]
+  - [[#Blood Sigils|Blood Sigils]]
+  - [[#Children of the Blood|Children of the Blood]]
+  - [[#Cults of the Blood Gods|Cults of the Blood Gods]]
+  - [[#Sabbat: The Black Hand|Sabbat: The Black Hand]]
+  - [[#Book of Nod Apocrypha|Book of Nod Apocrypha]]
+  - [[#Forbidden Religions|Forbidden Religions]]
 
 ---
 
@@ -44,7 +44,7 @@ As loresheets abaixo estão organizadas por livro fonte. Loresheets do livro bas
 
 ---
 
-### 📕 Core Rulebook — *Vampire: The Masquerade* (pp. 382–406)
+### Core Rulebook — *Vampire: The Masquerade* (pp. 382–406)
 
 *TXT não disponível na vault. Loresheets abaixo identificadas por referências cruzadas nos suplementos.*
 
@@ -63,7 +63,7 @@ As loresheets abaixo estão organizadas por livro fonte. Loresheets do livro bas
 
 ---
 
-### 📗 Camarilla (pp. 184–190)
+### Camarilla (pp. 184–190)
 
 | Loresheet | Restrição | Tema |
 |-----------|-----------|------|
@@ -80,7 +80,7 @@ As loresheets abaixo estão organizadas por livro fonte. Loresheets do livro bas
 
 ---
 
-### 📘 Anarch (pp. 190–198)
+### Anarch (pp. 190–198)
 
 | Loresheet | Restrição | Tema |
 |-----------|-----------|------|
@@ -98,7 +98,7 @@ As loresheets abaixo estão organizadas por livro fonte. Loresheets do livro bas
 
 ---
 
-### 📙 Chicago By Night
+### Chicago By Night
 
 | Loresheet | Restrição | Tema |
 |-----------|-----------|------|
@@ -117,7 +117,7 @@ As loresheets abaixo estão organizadas por livro fonte. Loresheets do livro bas
 
 ---
 
-### 📒 Fall of London (Apêndice II)
+### Fall of London (Apêndice II)
 
 *Loresheets projetadas para crônicas modernas após a Queda de Londres.*
 
@@ -136,7 +136,7 @@ As loresheets abaixo estão organizadas por livro fonte. Loresheets do livro bas
 
 ---
 
-### 📓 Player's Guide — Hecata Bloodlines
+### Player's Guide — Hecata Bloodlines
 
 *Todas as loresheets do Player's Guide são restritas a personagens Hecata. Funcionam também como Background de Bloodline.*
 
@@ -158,7 +158,7 @@ As loresheets abaixo estão organizadas por livro fonte. Loresheets do livro bas
 
 ---
 
-### 🔴 Blood Sigils
+### Blood Sigils
 
 | Loresheet | Restrição | Tema |
 |-----------|-----------|------|
@@ -171,7 +171,7 @@ As loresheets abaixo estão organizadas por livro fonte. Loresheets do livro bas
 
 ---
 
-### 🩸 Children of the Blood
+### Children of the Blood
 
 *Todas as loresheets abaixo aparecem em Children of the Blood (2021). "Bloodline" significa que funcionam também como Background de Bloodline (Hecata).*
 
@@ -194,7 +194,7 @@ As loresheets abaixo estão organizadas por livro fonte. Loresheets do livro bas
 
 ---
 
-### 🔥 Cults of the Blood Gods
+### Cults of the Blood Gods
 
 *Duas das três loresheets abaixo são específicas de Hecata; uma está presente também no Book of Nod Apocrypha.*
 
@@ -212,13 +212,13 @@ As loresheets abaixo estão organizadas por livro fonte. Loresheets do livro bas
 
 ---
 
-### 🚫 Sabbat: The Black Hand
+### Sabbat: The Black Hand
 
 **Sabbat: The Black Hand (2021) não contém loresheets.** É um livro de antagonistas — NPCs, facções e táticas do Sabbat para o Narrador. Não há mecânicas destinadas a jogadores nessa fonte.
 
 ---
 
-### 📖 Book of Nod Apocrypha
+### Book of Nod Apocrypha
 
 *Duas das quatro loresheets deste livro também aparecem em outras fontes (indicado). Todas têm foco em erudição noddista, Gehenna e Jyhad.*
 
@@ -236,7 +236,7 @@ As loresheets abaixo estão organizadas por livro fonte. Loresheets do livro bas
 
 ---
 
-### ☣️ Forbidden Religions
+### Forbidden Religions
 
 *Seis loresheets vinculadas às devoções apresentadas neste livro. Gehenna Cults também aparece no Book of Nod Apocrypha.*
 

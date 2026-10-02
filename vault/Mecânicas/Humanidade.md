@@ -259,7 +259,7 @@ Um personagem com qualquer mancha ([[#Stains (Manchas)|Stain]]) marcada na no se
 >	*Um personagem com **Humanity 6** e 2 manchas rolaria dois dados, pois possui dois quadrados vazios*
 >	`[*][*][*][*][*][*][ ][ ][/][/]`
 
->**⚠️ Nota Importante:** O mínimo de dados em um teste de Remorso é um, mesmo que todo tracker esteja preenchido. Logo, há sempre a possibilididade de sentir "Remorso"
+>**Nota Importante:** O mínimo de dados em um teste de Remorso é um, mesmo que todo tracker esteja preenchido. Logo, há sempre a possibilididade de sentir "Remorso"
 
 - Possíveis Resultados do Teste de Remorso:
 
@@ -297,7 +297,7 @@ Os vampiros só podem aumentar a **Humanidade** envolvendo-se de forma altruíst
 	Algumas ações extraordinariamente humanas no jogo (como dotar e proteger de maneira não assassina um museu ou hospital, por exemplo) podem permitir que um jogador compre **Humanidade** com pontos de experiência.
 	Custará (10 x Nova Pontuação de Humanidade) em experiência. 
 
->***⚠️ Nota Importante:*** Essa compra fica a critério do **Narrador**, e alguns narradores podem não permitir que pontos de experiência sejam usados para comprar Humanidade.
+>***Nota Importante:*** Essa compra fica a critério do **Narrador**, e alguns narradores podem não permitir que pontos de experiência sejam usados para comprar Humanidade.
 
 - **Golconda:**
 	Algumas das artes e práticas de **Golconda** também podem permitir o aumento da Humanidade, mas isso fica a cargo do Narrador determinar e revelar.
@@ -334,7 +334,7 @@ Cada personagem começa com 1 até 3 Convicções: valores humanos que eles tent
 
 Os detalhes dessas **Convicções** ficam a cargo do jogador. Elas podem refletir um código religioso, um núcleo ético pessoal, um caminho vampírico, ou simplesmente coisas que o personagem faz ou evita fazer sem realmente considerar o peso filosófico delas. 
 
->❗**Cuidado**: O **Narrador** deve se sentir à vontade para rejeitar **Convicções** sugeridas com base no gosto ou na adequação ao tipo de história que ele pretende contar.
+>**Cuidado**: O **Narrador** deve se sentir à vontade para rejeitar **Convicções** sugeridas com base no gosto ou na adequação ao tipo de história que ele pretende contar.
 
 Alguns exemplos de **Convicções**:
 
@@ -377,7 +377,7 @@ Violar uma Convicção, pode também gerar no ganho de 1 ou mais [[#Stains (Manc
 
 # Tenet
 
-> 🧩***Dica Para o Narrador:*** Isto aqui será um dever fundamental do Narrador.
+> ***Dica Para o Narrador:*** Isto aqui será um dever fundamental do Narrador.
 > Eu recomendo essas threads: [thread 1](https://www.reddit.com/r/vtm/comments/17x65w2/im_unsure_how_to_work_chronicle_tenets/), [thread 2](https://www.reddit.com/r/WhiteWolfRPG/comments/jfru1p/v5_what_are_your_chronicle_tenets/), [thread 3](https://www.reddit.com/r/WhiteWolfRPG/comments/9a55du/chronicle_tenets_for_v5/)
 
 Tenet's são Príncipios, e referem-se à [[Regras Fundamentais#Crônica|Crônica]] (Campanha) como um todo. É missão dos jogadores e do Narrador definirem os Tenets.
@@ -456,7 +456,7 @@ São âncoras para com a Humanidade do vampiro. E se conecta diretamente com sua
 
 A **Ambição** de um personagem mantém suas ações e movimentos tanto noite após noite quanto ao longo da crônica. Ela fornece motivação para o jogador e pontos de partida narrativos para o Narrador.
 
->💡**Importante**: Uma **Ambição** deve ser mensurável em termos de jogo. 
+>**Importante**: Uma **Ambição** deve ser mensurável em termos de jogo. 
 >Por exemplo, pode ser algo como "*Minha Ambição é alcançar Humanidade 10*" ou representar uma conquista concreta na crônica, como "*Minha Ambição é libertar o Rio da Camarilla*"
 >
 >- **Não pode ser algo vago:** Coisas como “*acabar com o racismo*” ou “*alcançar a paz mundial*” não podem ser Amnbições. 
@@ -466,7 +466,7 @@ A **Ambição** de um personagem mantém suas ações e movimentos tanto noite a
 - **Só precisa ser teoricamente alcançável**: Mesmo que uma Ambição seja improvável de acontecer ou termine a crônica caso realizada, ela ainda pode oferecer um rico material narrativo – ela só precisa ser teoricamente alcançável.
 
 
->🧩 **Aplicabilidade Mecânica**: No final de uma sessão em que o personagem trabalhou ativamente em direção à sua Ambição, ele recupera um ponto de [[Dano#Aggravated Damage|dano Agravado]] de [[Character#Willpower|Willpower]].
+>**Aplicabilidade Mecânica**: No final de uma sessão em que o personagem trabalhou ativamente em direção à sua Ambição, ele recupera um ponto de [[Dano#Aggravated Damage|dano Agravado]] de [[Character#Willpower|Willpower]].
 
 ### Alcançando a Ambição
 
@@ -475,7 +475,7 @@ Se um personagem realiza sua **Ambição** e a crônica continua, o jogador deve
 ---
 ## Desejo (Opcional)
 
->❗O Desejo é mais uma "regra"/recurso para ajudar a guiar seu personagem, e uma dica do livro. Confira com seu **Narrador** se as mecânicas do Desejo irão se aplicar.
+>O Desejo é mais uma "regra"/recurso para ajudar a guiar seu personagem, e uma dica do livro. Confira com seu **Narrador** se as mecânicas do Desejo irão se aplicar.
 
 O **Desejo** reflete algo menos duradouro que uma **Ambição**, mas mais significativo do que um desejo momentâneo. A cada sessão, um personagem pode escolher um Desejo ou manter o Desejo não realizado da sessão anterior. 
 
@@ -491,7 +491,7 @@ Assim, um bom **Desejo** deve se conectar de alguma forma com o mundo externo.
 >	- **Porém**, “*Quero dirigir o Maserati vermelho-cereja de Cytherea*” ou “Quero comer a morena de Lord Harkness” são ótimos Desejos.
 
 
->🧩**Para O Narrador**: O Narrador deve avaliar se Desejos que envolvem personagens de outros jogadores se enquadram no espírito de incentivar interações significativas ou apenas na tentativa preguiçosa de obter Força de Vontade gratuitamente.
+>**Para O Narrador**: O Narrador deve avaliar se Desejos que envolvem personagens de outros jogadores se enquadram no espírito de incentivar interações significativas ou apenas na tentativa preguiçosa de obter Força de Vontade gratuitamente.
 ---
 
 *Ver também:* [[Mecânicas/Frenzy]] · [[Mecânicas/Fome]] · [[Mecânicas/Diablerie, Blood Bond, Ghouls]] · [[Mecânicas/Character]] · [[Mecânicas/XP]]

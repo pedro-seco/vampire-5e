@@ -65,7 +65,7 @@ Dano agravado causa lesões severas, como ossos quebrados, ferimentos graves e l
 
 Quando um personagem acumula dano suficiente (de qualquer tipo ou uma combinação de ambos) ***para preencher totalmente um tracker*** (todos os quadrados), ele é considerado **Impaired** (Incapacitado).
 
->🧩***Nota Importante:*** Para casos de *Impaired* de Saúde (tracker de Health preenchido), se o personagem sofrer mais dano, veja [[#Crippling Injuries]]
+>***Nota Importante:*** Para casos de *Impaired* de Saúde (tracker de Health preenchido), se o personagem sofrer mais dano, veja [[#Crippling Injuries]]
 
 ##### Efeitos de Incapacitação:
 
@@ -91,7 +91,7 @@ Os personagens aplicam o dano recebido no rastreador relevante, seja ele **Healt
 >Veja [[#Dano na Ficha]] para aprender a trackear pela ficha do [Demiplane]([https://app.demiplane.com/nexus/vampire](https://app.demiplane.com/nexus/vampire "https://app.demiplane.com/nexus/vampire")
 
 - **Dano Superficial**:
-    - **❗Antes de Marcar na Ficha:** Divida o dano superficial **pela metade** (arredondando para cima) antes de aplicá-lo ao rastreador.
+    - **Antes de Marcar na Ficha:** Divida o dano superficial **pela metade** (arredondando para cima) antes de aplicá-lo ao rastreador.
     - **Marque na Ficha:** Depois disso, marque cada nível de dano superficial na ficha do personagem fazendo um **" / "** em uma caixa no rastreador.
   
 - **Dano Agravado**:

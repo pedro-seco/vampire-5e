@@ -50,7 +50,7 @@ A maior parte das pool de dados ao jogar *Vampiro: A Máscara* é composta de um
 
 >Um personagem que não possui uma Habilidade rola apenas o Atributo da pool, sem penalidades adicionais.
 
->**⚠️ Nota Importante**: Além de alguns poderes das [[Disciplinas]] já manipularem dice pools (em sua descrição elas anunciam isso), existe casos onde o Narrador pode optar por manipular a dice pool (em vez de manipular a [[Dificuldade, Contests e Conflitos#Dificuldade|Dificuldade]]) com base na soma que o personagem tem naquela [[Disciplinas]].
+>**Nota Importante**: Além de alguns poderes das [[Disciplinas]] já manipularem dice pools (em sua descrição elas anunciam isso), existe casos onde o Narrador pode optar por manipular a dice pool (em vez de manipular a [[Dificuldade, Contests e Conflitos#Dificuldade|Dificuldade]]) com base na soma que o personagem tem naquela [[Disciplinas]].
 >
 >*Exemplo*: 
 >	
@@ -69,7 +69,7 @@ Se um personagem tentar uma realizar uma ação que exija um [[Regras Fundamenta
 > O Narrador determina que o personagem role um teste com a dice pool **(Dexterity + Athletics)**. 
 > Porém, Luiz tem **especialidade** em Parkour (Athletics), ele **adicionará um dado extra nessa dice pool**.*
 
->**💡 Para Saber Mais:** 
+>**Para Saber Mais:** 
 >- No momento da criação, um personagem já adquire especialidades. Algumas por exemplo, são adquiridas ao selecionar seu [[Predator Type]]. 
 >- Outras Skills, como Academics, ao alocar um ponto, já lhe confere uma Especialidade. A ficha cuida disso para você no momento da criação.
 
@@ -112,7 +112,7 @@ Ou seja, se você possui 7 pontos de Willpower totais, mas [[Regras Fundamentais
 
 ***Observação:*** [[Humanidade#Stains (Manchas)|Manchas de Humanidade]] não contam; se você tem 6 pontos de Humanidade, role 6 dados.
 
->📘 **Tutorial**: Veja como realizar testes de Humanidade e Willpower usando a ficha em [[#Teste de Willpower na Ficha]] e [[#Teste de Humanidade na Ficha]]. 
+>**Tutorial**: Veja como realizar testes de Humanidade e Willpower usando a ficha em [[#Teste de Willpower na Ficha]] e [[#Teste de Humanidade na Ficha]]. 
 
 ---
 
@@ -195,7 +195,7 @@ Porém, 10's funcionam de maneiras diferentes dependendo da quantidade deles.
 
 **Caso** um teste que contenha ao menos um **sucesso crítico** (par de 10) **atinja a [[Dificuldade, Contests e Conflitos#Dificuldade|Dificuldade]] necessária**, o Narrador pode descrever como você performa essa ***tarefa de uma maneira mais rápida, de maneira mais estilosa ou completa que o normal.***
 
->**💡Para Saber Mais:** Muitos exemplos podem ser encontrados em [[Exemplos de Testes]].
+>**Para Saber Mais:** Muitos exemplos podem ser encontrados em [[Exemplos de Testes]].
 
 ---
 ## Dados de Fome
@@ -257,7 +257,7 @@ Nesse caso, é como se a **Besta** tivesse alcançado o crítico, e não o próp
 
 - **Consequência**: As consequências de um Messy Critical dependem de vários fatores, como por exemplo **[[Fome#A Besta Messy Critical|as circunstâncias em que ele ocorre]].**
 
-> ❗**Para constituir um Messy Critical, o teste deve ser um *sucesso***
+> **Para constituir um Messy Critical, o teste deve ser um *sucesso***
 > - Logo(o número de sucessos deve ser suficiente para superar a Dificuldade determinada, ou superar o oponente). 
 > 
 > - Mesmo que uma rolagem contenha um par de 10, onde pelo menos um dos 10 é em dados de fome, mas o número de sucessos não seja o suficiente, não é um Messy Critical, é apenas uma falha. 
@@ -278,7 +278,7 @@ Uma **Falha Bestial** ocorre quando uma rolagem falha (ou seja, não alcança o 
 
 - **Consequência:** Um Bestial Failure possui [[Fome#A Besta Bestial Failure|consequências mais específicas e variáveis]], visto que a Besta se manifesta de uma maneira mais agressiva quando isso ocorre.
 
->**⚠️ Nota Importante**: se o teste é bem-sucedido, não importa quantos 1 aparecem em dados de Fome; não é um Bestial Failure.
+>**Nota Importante**: se o teste é bem-sucedido, não importa quantos 1 aparecem em dados de Fome; não é um Bestial Failure.
 
 - Exemplo de um Bestial Failure (caso a Dificuldade seja maior do que 2):
 ![[Pasted image 20241125103243.png]]

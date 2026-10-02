@@ -2,7 +2,7 @@
 
 # Anarch - Loresheets
 
-> **Aviso de suplemento:** material de *Vampire: The Masquerade — Anarch*. Só vale se a crônica permitir. Esta nota detalha as 9 loresheets do livro; o resumo de uma linha de cada fica em [[Loresheets#📘 Anarch (pp. 190–198)|Loresheets]].
+> **Aviso de suplemento:** material de *Vampire: The Masquerade — Anarch*. Só vale se a crônica permitir. Esta nota detalha as 9 loresheets do livro; o resumo de uma linha de cada fica em [[Loresheets#Anarch (pp. 190–198)|Loresheets]].
 
 > **Sobre a leitura do texto-fonte:** o `.txt` perdeu os pontos (●) e intercalou as colunas do PDF. Os poderes abaixo estão na **ordem em que o livro os apresenta**, que segue a ordem dos níveis ●–●●●●● (nas loresheets de 5 poderes, o 5º é o mais forte). Onde o nível exato não é verificável no texto, está marcado. Confira no PDF/livro físico antes de usar como referência definitiva.
 

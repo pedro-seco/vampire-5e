@@ -23,7 +23,7 @@ O tipo sanguínio é expresso como Resonance. A não ser que esteja buscando sob
 ## Resonance e Alquimia
 A alquimia é frequentemente usada como metáfora para explicar como o sangue mortal é transformado pela emoção do momento da alimentação. Segundo os Tremere, o processo é comparado a um cadinho alquímico, onde os elementos no sangue são refinados pela "fornalha" emocional do ato de se alimentar. Embora essa abordagem possa parecer arcaica, muitos vampiros concordam que compreender os humores e as emoções humanas no momento certo pode intensificar o efeito do sangue, até mesmo proporcionando experiências transcendentais ou fortalecendo Disciplinas.
 
-💡**Para Saber Mais**: O número "quatro" significa bastante para os estudiosos, e pode ser utilizado em roleplays interessantes quando se é um estudioso do **Oculto**, como um Tremere, como é mostrado em [[Quaternario.pdf|"Dos Quatro Humores às Quatro Bases"]].
+**Para Saber Mais**: O número "quatro" significa bastante para os estudiosos, e pode ser utilizado em roleplays interessantes quando se é um estudioso do **Oculto**, como um Tremere, como é mostrado em [[Quaternario.pdf|"Dos Quatro Humores às Quatro Bases"]].
 
 ## Os Quatro Humores
 

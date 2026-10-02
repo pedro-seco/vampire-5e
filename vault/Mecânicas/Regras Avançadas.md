@@ -102,7 +102,7 @@ Se o personagem tiver acesso a uma cobertura sólida e puder se esconder complet
 ---
 ### Minor Actions
 
->🧩**Importante**: Esta é uma das regras mais fundamentais de Conflitos, pois ajuda a delimitar o que pode ser feito num [[Regras Fundamentais#Turno|Turno]]. 
+>**Importante**: Esta é uma das regras mais fundamentais de Conflitos, pois ajuda a delimitar o que pode ser feito num [[Regras Fundamentais#Turno|Turno]]. 
 
 Algumas ações podem não justificar uma troca completa, mas ainda não são simples o suficiente para serem realizadas gratuitamente. Essas ações **não devem exigir uma rolagem ou estar sujeitas a oposição** de alguma forma.
 
@@ -248,7 +248,7 @@ Este sistema abrange todos os tipos de armas à distância, desde pistolas e bes
 ### Armas de Fogo (Firearms)
 No caso de ataques envolvendo **Armas de Fogo**, os testes podem ser:
 
->🧩**Observação:** Tiros causam [[Dano#Superficial Damage|Dano Superficial]] em [[Kindred|vampiros]].
+>**Observação:** Tiros causam [[Dano#Superficial Damage|Dano Superficial]] em [[Kindred|vampiros]].
 
 - (***Composure + Firearms***): Em uma batalha convencional com armas de fogo, no meio de um tiroteio, é mais sobre manter a calma e saber quando/onde atirar do que simplesmente da velocidade para fazê-lo.
 
@@ -256,10 +256,10 @@ No caso de ataques envolvendo **Armas de Fogo**, os testes podem ser:
 
 - ***(Resolve + Firearms)***: um atirador de elite escondido em arbustos durante um dia inteiro aguardando um alvo, ou um combatente sob estresse mental, como após tortura, fornecendo fogo de supressão para garantir que alvos específicos sejam neutralizados
 
->⚠️ **Nota Importante:** Atirar em um alvo além do alcance efetivo da arma impõe uma **penalidade de -2 dados**
+>**Nota Importante:** Atirar em um alvo além do alcance efetivo da arma impõe uma **penalidade de -2 dados**
 
 
->🧩**Regra Opcional**: Conceda um dado extra ao combatente que possui uma **superioridade de fogo** (baseada na taxa de disparo da arma) ou que esteja disposto a gastar mais munição.
+>**Regra Opcional**: Conceda um dado extra ao combatente que possui uma **superioridade de fogo** (baseada na taxa de disparo da arma) ou que esteja disposto a gastar mais munição.
 >- Exemplo:
 >	"*Jason está usando uma submetralhadora (SMG) contra Dragan, que possui apenas uma pistola.*  
 >	*O jogador de Jason ganha um dado extra.*
@@ -283,7 +283,7 @@ Um personagem arremessando uma arma contra um alvo realiza um teste de **Dexteri
 
 - **Defendendo**: Defender-se de ataques à distância normalmente é feito com *(**Dexterity + Athletics**)*, representando a habilidade de manter-se em movimento e tornar-se um alvo difícil, utilizando qualquer [[Dificuldade, Contests e Conflitos#Cover|cobertura]].
 
->⚠️ **Nota Importante:** alvos estáticos (parados) não possuem defense pool, então fica como Dificuldade 1 para acertá-lo.
+>**Nota Importante:** alvos estáticos (parados) não possuem defense pool, então fica como Dificuldade 1 para acertá-lo.
 
 - **Conflitos Opostos**: Uma troca de tiros acirrada entre dois atacantes também pode ser resolvida como um conflito oposto.
 
@@ -340,7 +340,7 @@ Exemplos incluem:
 > - **-1 sucesso**: Acertar os pneus de um carro.
 > - -**4 sucessos**: Perfurar a linha de combustível de um avião decolando.
 
->❗**Nota Importante**: O propósito de um ataque normal é causar o maior dano possível, enquanto um a***taque direcionado prioriza precisão e efeito específico***, frequentemente à custa de efetividade geral.
+>**Nota Importante**: O propósito de um ataque normal é causar o maior dano possível, enquanto um a***taque direcionado prioriza precisão e efeito específico***, frequentemente à custa de efetividade geral.
 
 ---
 # Conflitos Avançados: Combate Social
