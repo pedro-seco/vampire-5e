@@ -60,7 +60,7 @@ Acesse [pedro-seco.github.io/vampire-5e/vault](https://pedro-seco.github.io/vamp
 
 ### Vault local (Obsidian)
 1. Clone o repositório: `git clone https://github.com/pedro-seco/vampire-5e.git`
-2. Abra o Obsidian → *Open folder as vault* → selecione a pasta raiz do projeto
+2. Abra o Obsidian → *Open folder as vault* → selecione a pasta raiz do projeto (as notas ficam em `vault/`; `src/` é ignorada)
 3. Os wikilinks `[[Arquivo]]` e as seções `[[#Heading]]` funcionam nativamente
 
 ---
@@ -69,23 +69,26 @@ Acesse [pedro-seco.github.io/vampire-5e/vault](https://pedro-seco.github.io/vamp
 
 ```
 vampire-5e/
-├── docs/                    # GitHub Pages (ficha + vault)
-│   ├── index.html           # Ficha de personagem (SPA)
-│   ├── assets/css/          # sheet.css
-│   ├── assets/js/           # sheet.js
-│   └── vault/               # Vault web
-│       ├── index.html
-│       └── assets/
-│           ├── css/vault.css
-│           ├── js/vault.js
-│           └── data/sections.js   # Conteúdo compilado (gerado)
-├── Mecânicas/               # Markdown source — regras
-├── Lore/                    # Markdown source — lore
-├── Narração/                # Markdown source — ferramentas de mesa
-├── Aventuras/               # Markdown source — módulos
-├── Personagens/             # Fichas dos PCs em MD
-└── bibliografia/            # Referências de fontes
+├── .github/workflows/deploy.yml   # Build do app e publicação no GitHub Pages
+├── .obsidian/                     # Config do Obsidian (a raiz do repo é a vault)
+├── src/                           # App React + Vite: ficha e vault web (ver src/README.md)
+├── vault/                         # Conteúdo em Markdown
+│   ├── Mecânicas/                 # Regras (é o que a vault web publica)
+│   ├── Lore/                      # Lore e cidades
+│   ├── Narração/                  # Ferramentas de mesa
+│   ├── Aventuras/                 # Módulos
+│   ├── Personagens/ + Personagens.md
+│   └── bibliografia/              # Livros em .txt, imagens, PDFs (só locais)
+└── CLAUDE.md                      # Instruções para usar o Claude Code como consultor de regras
 ```
+
+O site é publicado automaticamente a cada push na `main`. Editar um `.md` em `vault/Mecânicas/`
+atualiza a vault online no próximo deploy.
+
+### Usando com o Claude Code
+Abra o Claude Code na raiz do repositório e pergunte direto ("como funciona Blood Surge?",
+"monte um NPC Tzimisce para Nova York"). O `CLAUDE.md` orienta o Claude a consultar a vault e
+conferir nos livros.
 
 ---
 

@@ -1,5 +1,7 @@
-bibliografia/**/*.pdf
-documentos/*.pdf
-bibliografia/audio/
+# Material de referência pesado / com direitos: só local
+vault/bibliografia/**/*.pdf
+vault/bibliografia/audio/
+
+# Obsidian: estado local da interface
 .obsidian/graph.json
 .obsidian/workspace.json
