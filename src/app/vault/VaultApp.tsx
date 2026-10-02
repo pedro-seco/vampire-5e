@@ -5,6 +5,7 @@ import { containsMatch, highlightMatches, removeHighlights, searchPattern } from
 const SEARCH_DELAY_MS = 180;
 const ACTIVE_SECTION_OFFSET = 80;
 const SCROLL_MARGIN = 12;
+const BACK_TO_TOP_THRESHOLD = 400;
 
 const NoteHtml = memo(function NoteHtml({ html }: { html: string }) {
   const container = useRef<HTMLDivElement>(null);
@@ -24,6 +25,7 @@ export function VaultApp() {
   const [hiddenIds, setHiddenIds] = useState<Set<string>>(new Set());
   const [search, setSearch] = useState('');
   const [activeId, setActiveId] = useState(sections[0]?.id);
+  const [showBackToTop, setShowBackToTop] = useState(false);
   const pendingScrollTarget = useRef<Element | null>(null);
 
   useEffect(() => {
@@ -74,6 +76,7 @@ export function VaultApp() {
   const followScroll = () => {
     const pane = content.current;
     if (!pane) return;
+    setShowBackToTop(pane.scrollTop > BACK_TO_TOP_THRESHOLD);
     const threshold = pane.scrollTop + ACTIVE_SECTION_OFFSET;
     let current = sections[0]?.id;
     for (const section of sectionElements(pane)) {
@@ -166,6 +169,16 @@ export function VaultApp() {
           ))}
         </main>
       </div>
+
+      <button
+        type="button"
+        className={'back-to-top' + (showBackToTop ? ' visible' : '')}
+        aria-label="Voltar ao topo"
+        title="Voltar ao topo"
+        onClick={() => content.current?.scrollTo({ top: 0, behavior: 'smooth' })}
+      >
+        &#8593;
+      </button>
     </>
   );
 }

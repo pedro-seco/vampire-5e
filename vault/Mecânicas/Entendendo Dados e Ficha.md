@@ -4,8 +4,6 @@
 
 # Introdução
 
-Os dados de *Vampiro: A Máscara V5* são d10. Como iremos utilizar o [Demiplane]([https://app.demiplane.com/nexus/vampire](https://app.demiplane.com/nexus/vampire "https://app.demiplane.com/nexus/vampire") como plataforma para controle das fichas e rolagem dos dados, irei fornecer aqui como os jogadores deverão fazer para compreender os resultados dos dados.
-
 ### Sumário
 - [[#Dice Pool|Dice Pool]]
     - [[#Especialidades na Dice Pool|Especialidades na Dice Pool]]
