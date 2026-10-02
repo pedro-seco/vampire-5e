@@ -124,7 +124,15 @@ Todos da 13ª geração, Blood Potency 1. Advantages compartilhados: Haven 2, Ma
 ## Usando em Crônica Existente
 
 Para integrar a uma crônica em andamento:
-- Emerie pode ser um blood sorcerer de qualquer clã trabalhando para o
+
+- **Para Anarquistas:** Emerie pode ser um blood sorcerer de qualquer clã a serviço de um Barão (ou candidata a Baronesa); Benedict e seu culto se apresentam às autoridades Anarch em vez do Príncipe
+- **Garantir sucesso:** Assegure-se de que ao menos um personagem, Mawla ou aliado tenha Blood Sorcery; senão a coterie sofrerá
+- **Introdução mais lenta:** Deixe os personagens alimentarem-se de Peter várias vezes e descobrir organicamente o coven na periferia do Domain
+- **Risco calculado:** A história não é necessariamente vitória — planeje rotas de fuga ou arrisque a continuidade da crônica. O Metusálen pode retornar como antagonista final em futuras sessões
+- **Pontas soltas:** Se o grupo aguenta tudo, mortais da congregação podem precisar ser investigados e "silenciados" (muitos Stains), e Kindred do culto podem ser objetivos posteriores
+
+Fonte: Under the Skin, p. 21.
+
 ---
 
-*Ver também:* [[Lore/Londres]] · [[Lore/Sabbat]] · [[Narração/Guia do Narrador]] · [[Mecânicas/Regras Fundamentais]]
+*Ver também:* [[Lore/Londres]] · [[Lore/Sabbat]] · [[Narração/Guia do Narrador]] · [[Mecânicas/Regras Fundamentais]] · [[Under the Skin - Sangue Inefável e Condução]]
