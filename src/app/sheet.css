@@ -1,6 +1,17 @@
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--acc); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #b02a2a; }
+::-webkit-scrollbar-button { display: none; width: 0; height: 0; }
+::-webkit-scrollbar-corner { background: transparent; }
+
+@supports not selector(::-webkit-scrollbar) {
+  * { scrollbar-width: thin; scrollbar-color: var(--acc) transparent; }
+}
+
 :root {
   --bg:       #0a0704;
   --bg-col:   #130e08;
@@ -105,6 +116,27 @@ body {
   align-items: center;
   gap: 2px;
 }
+.nav-text-btn {
+  font-family: var(--font-ui);
+  font-size: 14px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--txt-m);
+  background: none;
+  border: none;
+  cursor: pointer;
+  height: 34px;
+  padding: 0 10px;
+  white-space: nowrap;
+  border-radius: 3px;
+  transition: color .15s, background .15s;
+  flex-shrink: 0;
+}
+.nav-text-btn:hover  { color: var(--txt); background: rgba(255,255,255,.06); }
+.nav-text-btn.active { color: var(--gold); }
+.nav-text-btn.danger:hover { color: #e05; background: rgba(238,0,68,.1); }
+.nav-switch-btn { border: 1px solid var(--brd-s); color: var(--txt); }
+.nav-switch-name { display: inline-block; max-width: 160px; overflow: hidden; text-overflow: ellipsis; vertical-align: bottom; }
 .nav-icon-btn {
   background: none;
   border: none;
@@ -1212,6 +1244,8 @@ body.edit-mode .disc-lvl-adj:hover { color: #fff; }
 
   .nav-tabs { display: none; }
   #btn-menu { display: flex; }
+  .tabnav { flex-wrap: wrap; height: auto; min-height: 44px; }
+  .nav-actions { flex-wrap: wrap; justify-content: flex-end; }
 
   .hmeta { flex-wrap: wrap; gap: 10px 16px; }
   .hval  { white-space: normal; }
@@ -1243,6 +1277,8 @@ body.edit-mode .disc-lvl-adj:hover { color: #fff; }
 
   .tabnav { padding: 0 4px; }
   .nav-icon-btn { width: 30px; height: 30px; font-size: 18px; }
+  .nav-text-btn { font-size: 12px; letter-spacing: 1px; padding: 0 6px; }
+  .nav-switch-name { max-width: 90px; }
 
   .page { padding: 12px 12px 36px; }
 

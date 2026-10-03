@@ -1,0 +1,128 @@
+.print-sheets {
+  position: fixed;
+  left: -10000px;
+  top: 0;
+  width: 794px;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+@media print {
+  @page { size: A4; margin: 0; }
+
+  body { background: #fff; color: #000; min-height: 0; font-size: 9pt; line-height: 1.25; }
+  body > #root > *:not(.print-sheets) { display: none !important; }
+  .print-sheets { position: static; width: auto; visibility: visible; pointer-events: auto; }
+}
+
+.print-page {
+  box-sizing: border-box;
+  width: 210mm;
+  height: 297mm;
+  overflow: hidden;
+  break-after: page;
+  font-family: var(--font-body);
+  color: #000;
+  background: #fff;
+}
+.print-page:last-child { break-after: auto; }
+
+.print-dots { letter-spacing: 3px; white-space: nowrap; font-size: 21px; }
+.print-box { width: 30px; height: 30px; flex: none; }
+
+.print-page--bordered { position: relative; }
+.print-page--bordered::before,
+.print-page--bordered::after { content: ''; position: absolute; pointer-events: none; }
+.print-page--bordered::before { inset: 6mm; border: 0.6mm solid #000; }
+.print-page--bordered::after { inset: 8mm; border: 0.2mm solid #000; }
+.print-page:has(.pstage-frame) { display: flex; justify-content: center; align-items: center; }
+.pstage-frame { position: relative; overflow: hidden; }
+.pstage {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+  --pstage-condensed: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+  color: #000;
+}
+.pstage *, .print-ref *, .print-narrative * { color: #000 !important; }
+.pstage-art { position: absolute; left: 0; top: 0; }
+
+.pstage-row { position: absolute; display: flex; align-items: baseline; gap: 14px; line-height: 1.1; white-space: nowrap; }
+.pstage-title {
+  font-family: var(--pstage-condensed);
+  font-weight: 600;
+  font-size: 34px;
+  letter-spacing: 0.24em;
+}
+.pstage-group { font-family: var(--pstage-condensed); font-weight: 600; font-size: 19px; letter-spacing: 0.24em; }
+.pstage-row--attribute .pstage-trait { font-size: 30px; font-weight: 500; }
+.pstage-row--skill .pstage-trait { font-size: 26px; font-weight: 500; }
+.pstage-note { font-size: 19px; font-style: italic; }
+.pstage-power { font-size: 22px; }
+.pstage-ritual { font-style: italic; }
+.pstage-text { font-size: 24px; }
+.pstage-name { font-size: 52px; font-weight: 700; letter-spacing: 0.02em; }
+.pstage-aliases { font-size: 23px; font-style: italic; }
+.pstage-field-label { display: inline-block; width: 138px; font-family: var(--pstage-condensed); font-size: 19px; letter-spacing: 0.24em; }
+.pstage-field-value { font-size: 29px; font-weight: 500; }
+
+.pstage-row .print-box { width: 22px; height: 22px; }
+.pstage-bars { display: flex; gap: 6px; }
+.pstage-bar { width: 11px; height: 34px; box-sizing: border-box; border: 1.5px solid #000; }
+.pstage-bar.is-filled { background: #000; }
+.pstage-small { font-size: 20px; }
+
+.pstage-trackers { position: absolute; display: flex; flex-direction: column; gap: 14px; }
+.pstage-trackers--left { align-items: flex-end; }
+.pstage-trackers--right { align-items: flex-start; }
+.pstage-tracker-row { display: flex; align-items: center; gap: 14px; }
+.pstage-tracker-label { font-family: var(--pstage-condensed); font-size: 21px; letter-spacing: 0.24em; }
+.pstage-boxes { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 5px; }
+
+.print-fit { box-sizing: border-box; display: flex; flex-direction: column; }
+.print-narrative .print-fit { padding: 12mm 14mm; }
+.print-ref .print-fit { padding: 10mm 11mm; }
+.print-narrative .paper { flex: 1 1 auto; display: flex; flex-direction: column; max-width: none; font-family: 'Libre Baskerville', 'Times New Roman', Georgia, serif; }
+.print-narrative .paper-masthead { border-top: 0.5mm solid #000; }
+.print-narrative .paper-meta { font-size: 9pt; padding: 1.5mm 0; border-bottom: 0.5mm solid #000; }
+.print-narrative .paper-masthead h1 { margin: 2mm 0 0; font-size: 40pt; padding-bottom: 2mm; border-bottom: 0.5mm solid #000; font-family: inherit; }
+.print-narrative .paper-lead { grid-template-columns: 1fr 62mm; gap: 6mm; min-height: 82mm; flex-shrink: 0; padding: 4mm 0; border-bottom: 0.4mm solid #000; }
+.print-narrative .paper-touchstones { display: flex; flex-direction: column; flex: 1 1 auto; min-height: 0; }
+.print-narrative .paper-touchstones > .sh { display: none; }
+.print-narrative .paper-story { grid-template-columns: 62mm 1fr; gap: 6mm; flex: 1 1 auto; min-height: 34mm; break-inside: avoid; padding: 4mm 0; border-bottom: 0.4mm solid #000; }
+.print-narrative .paper-story.is-flipped { grid-template-columns: 1fr 62mm; }
+.print-narrative .paper-story.is-flipped .paper-photo { order: 2; }
+.print-narrative .paper-photo { min-height: 0; border: 0.4mm solid #000; border-radius: 3mm; background: none; }
+.print-narrative .paper-photo--tall { min-height: 0; }
+.print-narrative .paper-photo__actions,
+.print-narrative .btn-delete,
+.print-narrative .sh-add { display: none !important; }
+.print-narrative .paper-text h2 { margin: 0 0 1.5mm; font-family: inherit; font-weight: 400; font-size: 14pt; letter-spacing: 0; }
+.print-narrative .paper-background,
+.print-narrative .ts-desc { font-size: 8pt; line-height: 1.35; margin-bottom: 2mm; }
+.print-narrative .ts-summary { font-size: 8pt; }
+.print-narrative .ts-link { font-size: 8pt; }
+.print-narrative .paper-text .sh { margin: 2mm 0 1mm; font-size: 9pt; }
+.print-narrative .conviction-item { padding: 0.4mm 0; font-size: 8.5pt; border: 0; }
+.print-narrative .conv-num { font-size: 8.5pt; width: 7mm; }
+.print-narrative [contenteditable] { border: 0 !important; background: none !important; }
+.print-narrative .paper-foot { grid-template-columns: repeat(3, 1fr); gap: 6mm; flex-shrink: 0; min-height: 38mm; padding: 3mm 0 0; }
+.print-narrative .paper-note h3 { font-family: inherit; font-weight: 400; font-size: 9pt; letter-spacing: 0; margin: 0 0 1mm; }
+.print-narrative .paper-note p { font-size: 8.5pt; line-height: 1.3; }
+.print-narrative .paper-writing { display: block; }
+.print-narrative .paper-writing__line { border-bottom: 0.2mm solid #000; height: 7mm; }
+.print-narrative .paper-extra { display: none; }
+
+.print-ref .ref-page { column-count: 2; column-gap: 7mm; font-size: 9pt; line-height: 1.25; color: #000; }
+.print-ref .ref-section { break-inside: avoid; margin-bottom: 3mm; padding: 0; background: none; border: 0; border-bottom: 0.2mm solid #000; overflow: visible; }
+.print-ref .ref-section-title { font-size: 8.5pt; letter-spacing: 1.5pt; text-transform: uppercase; font-weight: 700; color: #000; border-bottom: 0.3mm solid #000; margin-bottom: 1mm; }
+.print-ref .ref-note,
+.print-ref td,
+.print-ref th { font-size: 9pt; color: #000; background: none; padding: 0.4mm 1mm; }
+.print-ref .ref-table { width: 100%; border-collapse: collapse; }
+.print-ref th { text-align: left; border-bottom: 0.2mm solid #000; }
+.print-ref .ref-note { margin: 0 0 0.8mm; }
+.print-ref .t-val,
+.print-ref .t-name,
+.print-ref .t-acc { font-family: inherit; font-size: 9pt; font-weight: 700; letter-spacing: 0; }
+.print-ref .t-name { font-weight: 400; }

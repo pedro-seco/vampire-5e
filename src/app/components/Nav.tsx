@@ -3,13 +3,14 @@ import type { ChangeEvent, MouseEvent } from 'react';
 import { useCharacter } from '../context/CharacterContext';
 import { DeleteCharacterModal } from './modals/DeleteCharacterModal';
 
-export type TabId = 'mechanics' | 'narrative' | 'ref' | 'manual';
+export type TabId = 'mechanics' | 'narrative' | 'ref' | 'manual' | 'vault';
 
 const TABS: { id: TabId; label: string }[] = [
-  { id: 'mechanics', label: 'Mechanics' },
-  { id: 'narrative', label: 'Narrative' },
+  { id: 'mechanics', label: 'Mecânica' },
+  { id: 'narrative', label: 'Narrativa' },
   { id: 'ref', label: 'Ref' },
   { id: 'manual', label: 'Manual' },
+  { id: 'vault', label: 'Vault' },
 ];
 
 interface NavProps {
@@ -17,21 +18,9 @@ interface NavProps {
   onTab: (tab: TabId) => void;
 }
 
-function VaultIcon() {
-  return (
-    <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path
-        d="M1 3.5C1 2.67 1.67 2 2.5 2H6l1.5 2H13.5C14.33 4 15 4.67 15 5.5V11.5C15 12.33 14.33 13 13.5 13H2.5C1.67 13 1 12.33 1 11.5V3.5Z"
-        stroke="currentColor"
-        strokeWidth="1.4"
-        strokeLinejoin="round"
-      />
-    </svg>
-  );
-}
-
 function CharacterSwitcher() {
   const { characters, activeId, switchChar } = useCharacter();
+  const activeName = characters.find((summary) => summary.id === activeId)?.name ?? 'Personagem';
   const [open, setOpen] = useState(false);
 
   useEffect(() => {
@@ -52,7 +41,9 @@ function CharacterSwitcher() {
 
   return (
     <div className="char-switcher">
-      <button className="nav-icon-btn" title="Trocar personagem" onClick={toggle}>▾</button>
+      <button className="nav-text-btn nav-switch-btn" title="Trocar personagem" onClick={toggle}>
+        <span className="nav-switch-name">{activeName}</span> ▾
+      </button>
       <div className={'char-dropdown' + (open ? ' open' : '')}>
         {characters.map((summary) => (
           <div
@@ -77,7 +68,7 @@ function ImportButton() {
     try {
       await importCharacter(file);
     } catch (err) {
-      alert('Could not import character: ' + (err instanceof Error ? err.message : String(err)));
+      alert('Não foi possível importar o personagem: ' + (err instanceof Error ? err.message : String(err)));
     }
   };
 
@@ -88,7 +79,7 @@ function ImportButton() {
 
   return (
     <>
-      <button className="nav-icon-btn" title="Importar" onClick={() => fileInput.current?.click()}>⬇</button>
+      <button className="nav-text-btn" onClick={() => fileInput.current?.click()}>Importar</button>
       <input ref={fileInput} type="file" accept=".json" style={{ display: 'none' }} onChange={onFileChosen} />
     </>
   );
@@ -100,8 +91,9 @@ export function Nav({ tab, onTab }: NavProps) {
   const [deleteOpen, setDeleteOpen] = useState(false);
 
   const selectTab = (id: TabId) => {
+    if (id !== 'vault' && window.location.hash) window.history.replaceState(null, '', window.location.pathname + window.location.search);
     onTab(id);
-    window.scrollTo(0, 0);
+    window.scrollTo({ top: 0, behavior: 'instant' });
     setDrawerOpen(false);
   };
 
@@ -126,19 +118,14 @@ export function Nav({ tab, onTab }: NavProps) {
         <div className="nav-spacer" />
         <div className="nav-actions">
           <CharacterSwitcher />
-          <button className="nav-icon-btn" title="Novo personagem" onClick={newCharacter}>＋</button>
-          <button className="nav-icon-btn danger" title="Deletar personagem" onClick={() => setDeleteOpen(true)}>🗑</button>
-          <div className="nav-sep" />
-          <a className="nav-icon-btn" href="vault/index.html" target="_blank" title="Vault"><VaultIcon /></a>
-          <button
-            className={'nav-icon-btn' + (editMode ? ' active' : '')}
-            title={editMode ? 'Sair do modo edição' : 'Editar'}
-            onClick={() => setEditMode(!editMode)}
-          >
-            ✏
+          <button className="nav-text-btn" onClick={newCharacter}>Novo</button>
+          <button className={'nav-text-btn' + (editMode ? ' active' : '')} onClick={() => setEditMode(!editMode)}>
+            {editMode ? 'Sair da edição' : 'Editar'}
           </button>
-          <button className="nav-icon-btn" title="Exportar" onClick={exportActive}>⬆</button>
+          <button className="nav-text-btn" onClick={exportActive}>Exportar</button>
           <ImportButton />
+          <button className="nav-text-btn" onClick={() => window.print()}>Impressão</button>
+          <button className="nav-text-btn danger" onClick={() => setDeleteOpen(true)}>Excluir</button>
         </div>
       </nav>
 
