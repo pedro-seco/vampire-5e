@@ -13,9 +13,85 @@ Verbetes curtos para quem está chegando em *Vampiro: A Máscara* 5ª edição. 
 
 # Sumário
 
-[[#Abraço]] · [[#Aggravated Damage]] · [[#Ambition]] · [[#Anarquistas]] · [[#Antediluviano]] · [[#Bane]] · [[#Bane Severity]] · [[#Beckoning]] · [[#Bestial Failure]] · [[#Blood Bond]] · [[#Blood Hunt]] · [[#Blood Potency]] · [[#Blood Surge]] · [[#Blush of Life]] · [[#Caitiff]] · [[#Camarilla]] · [[#Compulsion]] · [[#Contest]] · [[#Conviction]] · [[#Coterie]] · [[#Crippling Injury]] · [[#Critical Win]] · [[#Cultos Vampíricos]] · [[#Desire]] · [[#Diablerie]] · [[#Dice Pool]] · [[#Difficulty]] · [[#Disciplina]] · [[#Domain]] · [[#Dyscrasia]] · [[#Elders, Ancillae e Neonatos]] · [[#Elysium]] · [[#Final Death]] · [[#Frenzy]] · [[#Gehenna]] · [[#Geração]] · [[#Ghoul]] · [[#Health]] · [[#Humanity]] · [[#Hunger]] · [[#Hunger Dice]] · [[#Hunting Roll]] · [[#Impairment]] · [[#Jyhad]] · [[#Kindred]] · [[#Margin]] · [[#Máscara (Masquerade)]] · [[#Messy Critical]] · [[#Minor Action]] · [[#Predator Type]] · [[#Prince]] · [[#Remorse]] · [[#Resonance]] · [[#Rouse Check]] · [[#Sabbat]] · [[#Scene (cena)]] · [[#Segunda Inquisição]] · [[#Sire e Childe]] · [[#Stain]] · [[#Storyteller (Narrador)]] · [[#Superficial Damage]] · [[#Tenet]] · [[#Thin-blood]] · [[#Torpor]] · [[#Total Failure]] · [[#Touchstone]] · [[#Tracker]] · [[#Turno]] · [[#Vitae]] · [[#Willpower]]
-
----
+- [[#Abraço|Abraço]]
+- [[#Aggravated Damage|Aggravated Damage]]
+- [[#Ambition|Ambition]]
+- [[#Anarquistas|Anarquistas]]
+- [[#Antediluviano|Antediluviano]]
+- [[#Bane|Bane]]
+- [[#Bane Severity|Bane Severity]]
+- [[#Beckoning|Beckoning]]
+- [[#Bestial Failure|Bestial Failure]]
+- [[#Blood Bond|Blood Bond]]
+- [[#Blood Hunt|Blood Hunt]]
+- [[#Blood Potency|Blood Potency]]
+- [[#Blood Surge|Blood Surge]]
+- [[#Blush of Life|Blush of Life]]
+- [[#Cainite|Cainite]]
+- [[#Caitiff|Caitiff]]
+- [[#Camarilla|Camarilla]]
+- [[#Clã (como ligação)|Clã (como ligação)]]
+- [[#Compulsion|Compulsion]]
+- [[#Contest|Contest]]
+- [[#Controle|Controle]]
+- [[#Conviction|Conviction]]
+- [[#Corruption|Corruption]]
+- [[#Coterie|Coterie]]
+- [[#Crippling Injury|Crippling Injury]]
+- [[#Critical Win|Critical Win]]
+- [[#Cultos Vampíricos|Cultos Vampíricos]]
+- [[#Daytime|Daytime]]
+- [[#Desire|Desire]]
+- [[#Diablerie|Diablerie]]
+- [[#Dice Pool|Dice Pool]]
+- [[#Difficulty|Difficulty]]
+- [[#Disciplina|Disciplina]]
+- [[#Domain|Domain]]
+- [[#Dyscrasia|Dyscrasia]]
+- [[#Elders, Ancillae e Neonatos|Elders, Ancillae e Neonatos]]
+- [[#Elysium|Elysium]]
+- [[#Final Death|Final Death]]
+- [[#Frenzy|Frenzy]]
+- [[#Gehenna|Gehenna]]
+- [[#Geração|Geração]]
+- [[#Ghoul|Ghoul]]
+- [[#Health|Health]]
+- [[#Humanity|Humanity]]
+- [[#Humano e Mortal|Humano e Mortal]]
+- [[#Hunger|Hunger]]
+- [[#Hunger Dice|Hunger Dice]]
+- [[#Hunting Roll|Hunting Roll]]
+- [[#Impairment|Impairment]]
+- [[#Jyhad|Jyhad]]
+- [[#Kindred|Kindred]]
+- [[#Manipulate|Manipulate]]
+- [[#Margin|Margin]]
+- [[#Máscara (Masquerade)|Máscara (Masquerade)]]
+- [[#Messy Critical|Messy Critical]]
+- [[#Minor Action|Minor Action]]
+- [[#Predator Type|Predator Type]]
+- [[#Prince|Prince]]
+- [[#Remorse|Remorse]]
+- [[#Resonance|Resonance]]
+- [[#Rouse Check|Rouse Check]]
+- [[#Sabbat|Sabbat]]
+- [[#Scene (cena)|Scene (cena)]]
+- [[#Segunda Inquisição|Segunda Inquisição]]
+- [[#Serve (servir)|Serve (servir)]]
+- [[#Sire e Childe|Sire e Childe]]
+- [[#Stain|Stain]]
+- [[#Storyteller (Narrador)|Storyteller (Narrador)]]
+- [[#Superficial Damage|Superficial Damage]]
+- [[#Tenet|Tenet]]
+- [[#Thin-blood|Thin-blood]]
+- [[#Torpor|Torpor]]
+- [[#Total Failure|Total Failure]]
+- [[#Touchstone|Touchstone]]
+- [[#Tracker|Tracker]]
+- [[#Turno|Turno]]
+- [[#Unlife|Unlife]]
+- [[#Vitae|Vitae]]
+- [[#Willpower|Willpower]]
 
 ## Abraço
 O ato de criar um novo vampiro: o sire drena o candidato por completo e lhe dá um pouco do próprio Sangue. O childe renasce uma geração acima do sire e costuma entrar em frenesi de fome logo depois. Ver [[Lore/Abraço]].
@@ -59,11 +135,17 @@ Potência do Sangue: mede quão denso e poderoso é o Sangue do vampiro dentro d
 ## Blush of Life
 Com um Rouse Check, o vampiro envia Sangue à pele e ao coração e parece vivo por uma noite: cor, calor, respiração, pulso e a capacidade de comer e beber por cerca de 1 hora. Os efeitos variam com a Humanity. Ver [[Kindred#Blush of Life|Kindred: Blush of Life]].
 
+## Cainite
+Termo alternativo a Kindred, que voltou a ser usado com o retorno da Cainite Heresy e com as atrocidades do Sabbat, que levaram os Lasombra de volta à sociedade Kindred. Ver [[Lore/Kindred]] e [[Lore/Sabbat]]. (Player's Guide, p. 8.)
+
 ## Caitiff
 Vampiro sem clã, portanto sem Bane de clã. Segundo o suplemento Anarch, todo thin-blood é Caitiff, mas nem todo Caitiff é thin-blood. A Camarilla os considera exilados. Ver [[Mecânicas/Sangue Fraco]].
 
 ## Camarilla
 Seita que protege a Máscara e governa as cidades por meio de Príncipes, num sistema hierárquico e centralizado, regido por seis Tradições. Foi fundada no século XV em reação à Inquisição humana. Ver [[Lore/Camarilla]].
+
+## Clã (como ligação)
+Os clãs não são definidos nem limitados por geografia, fronteiras nacionais ou culturas mortais, embora de dentro e de fora se confunda uma coisa com a outra. O clã não é seu empregador nem seu comandante militar: no máximo é sua família estendida. É só mais uma característica, como o sobrenome ou a nacionalidade; mesmo Justicars servem à Camarilla, não à sua linhagem. Os Tremere erraram ao pôr o clã acima de tudo e pagaram quando Viena caiu. Ver [[Clãs]]. (Player's Guide, p. 8.)
 
 ## Compulsion
 Impulso imposto pela Besta após um Bestial Failure: Faminto, Dominância, Destruição (Harm no Core), Paranoia ou a Compulsion do clã. O jogador não pode gastar Willpower para ignorá-la e sofre -2 dados em ações que não sirvam a ela. Ver [[Fome#Compulsões|Fome: Compulsões]].
@@ -71,8 +153,14 @@ Impulso imposto pela Besta após um Bestial Failure: Faminto, Dominância, Destr
 ## Contest
 Disputa: ações opostas entre dois lados, cada um com sua dice pool. Vence quem obtém mais sucessos; se quem age empata, ele vence com margem mínima. Todo conflito é feito de disputas. Ver [[Dificuldade, Contests e Conflitos#Contests|Contests]].
 
+## Controle
+Vampiros influenciam; são manipuladores, não ditadores (nem controlam a própria Hunger). "Controle" é poder completo sobre algo, como o seu carro ou um personagem de videogame. Dizer que alguém controla a polícia ou a mídia local é improvável; é possível ter influência significativa, palavra melhor porque admite graus e nuances. Ver [[Advantages]]. (Player's Guide, p. 8.)
+
 ## Conviction
 Convicção: de uma a três crenças centrais do personagem (em geral "sempre" ou "nunca"), aprovadas pelo Narrador. Stains ganhas por servi-las são reduzidas, e cada Convicção está ligada a uma Touchstone. Ver [[Humanidade#Convictions|Humanidade: Convictions]].
+
+## Corruption
+Como "manipulação", a corrupção parece o padrão dos vampiros e por isso, sozinha, não diz nada. Pergunte quem corrompe quem e para quê; se vem de fora (um policial subornado), de dentro (um gerente de cassino que desvia) ou do sistema que só dá acesso a quem tem influência. Pense em quem os vampiros precisam superar e em que moeda. Ver [[Advantages]]. (Player's Guide, p. 8.)
 
 ## Coterie
 O grupo de vampiros dos personagens jogadores. É criada em conjunto, com um coterie pool (1 dot grátis por PC) gasto em Domain, Havens e outras Advantages compartilhadas. Ver [[Core - Tipos de Coterie]].
@@ -85,6 +173,9 @@ Sucesso crítico: cada par de 10s vale 4 sucessos. Um 10 sozinho conta como suce
 
 ## Cultos Vampíricos
 Religiões e seitas de fé vampírica que respondem a perguntas como "quem foi Caim?" e "o que é a Besta?". Exemplos: Bahari, Church of Caine, Church of Set, Ashfinders e Nephilim. Ver [[Lore/Cultos Vampíricos]].
+
+## Daytime
+Para o vampiro, "dia" só vale em sentido literal, como quando os ghouls trabalham e os bancos estão abertos. Ele escapa para lutar outra noite, não outro dia; acorda daqui a três noites, por exemplo. Ver [[Lore/Kindred]]. (Player's Guide, p. 8.)
 
 ## Desire
 Desejo (regra opcional): meta imediata ligada a algo ou alguém nomeado na crônica. Uma vez por sessão, agir de forma definitiva por ele devolve 1 ponto de dano Superficial de Willpower. Ver [[Humanidade#Desejo (Opcional)|Humanidade: Desejo (Opcional)]].
@@ -134,6 +225,9 @@ Saúde: tracker de vida, com máximo igual a 3 + Stamina. Recebe dano Superficia
 ## Humanity
 Humanidade: mede quão próximo o vampiro ainda está do humano, de 0 a 10 (vampiros começam com 7, fledglings com 8). Não é moralidade nem karma. Cai por Remorse falho ou Degeneration e chega a zero com o Wassail. Ver [[Humanidade]].
 
+## Humano e Mortal
+Os Kindred se acreditam humanos (talvez um predador mais puro ou um animal mais corrupto) e se agarram à humanidade enquanto puderem acreditar em algum resquício dela. Usam "mortal" para os humanos que não são vampiros. Ver [[Humanidade]]. (Player's Guide, p. 8.)
+
 ## Hunger
 Fome: nível de 0 a 5 que mede a sede de sangue. Cada nível dá 1 dado de Hunger. Sobe com Rouse Checks falhos e desce ao beber sangue; só a morte da vítima leva a Hunger a 0. Ver [[Fome]].
 
@@ -151,6 +245,9 @@ A Eterna Luta: o conflito sutil entre Matusaléns e Antediluvianos, travado por 
 
 ## Kindred
 Como os vampiros chamam a si mesmos. Imortais, mas vulneráveis a decapitação, fogo e sol; não precisam respirar nem comer, só beber sangue. Ver [[Lore/Kindred]].
+
+## Manipulate
+Vampiros manipulam tudo o que podem; por isso, ao usar a palavra, especifique o que foi manipulado e como. Em vez de "a Prince manipulou os manifestantes", diga se ela pôs agentes provocadores na multidão, pagou o comitê organizador ou subornou um policial para fazer algo que levaria ao motim. Mesmo que a Prince guarde seus planos, outros veem as ondas que deixou. Ver [[Lore/Camarilla]]. (Player's Guide, p. 8.)
 
 ## Margin
 Margem: número de sucessos acima da Dificuldade. Dano, efeitos de poderes e a descrição do resultado usam a margem. Ex.: Dificuldade 4 e 7 sucessos dão margem 3. Ver [[Dificuldade, Contests e Conflitos#Margem|Margem]].
@@ -188,6 +285,9 @@ Série compacta de ações e interações em um mesmo local ou com o mesmo grupo
 ## Segunda Inquisição
 Aliança de agências de inteligência (CIA, NSA e o serviço secreto do Vaticano) que caça vampiros com tecnologia de vigilância desde os anos 2000. Levou ao fim do SchreckNET e à expulsão dos Anarquistas da Camarilla. Ver [[Lore/Segunda Inquisição]].
 
+## Serve (servir)
+Vale só para servos literais: Retainers, ghouls e outros que fazem exatamente o que você manda; um garçom serve você. Ativos com mais livre-arbítrio podem servir uma agenda sem saber, mas um vampiro que diz que "a polícia o serve" é grandioso na melhor hipótese e vaidoso na pior, e fica vulnerável a um inimigo que entenda melhor as relações de poder. Ver [[Advantages]]. (Player's Guide, p. 8.)
+
 ## Sire e Childe
 O sire é quem Abraça; o childe é o novo vampiro, sempre uma geração acima. Pela 4ª Tradição, o sire responde pelos pecados do childe até este ser liberado. Ver [[Lore/Abraço]].
 
@@ -221,12 +321,16 @@ Rastreador de um recurso: Health, Willpower, Hunger e Humanity. Em testes de tra
 ## Turno
 Tempo necessário para uma ação simples, abstrato: curto em cenas de ação, longo em cenas sociais. Em conflitos, o turno termina quando cada participante agiu uma vez. Não é "a vez" de cada jogador. Ver [[Regras Fundamentais#Turno|Turno]].
 
+## Unlife
+Vampiros são mortos-vivos e levam uma não-vida: existem, mantêm seus havens em certos lugares, mas não "moram" nem "vivem" em lugar algum e não veem o que a vida tem a oferecer. Palavras como "viver" e "vivido" ganham outro sentido. Ver [[Lore/Kindred]]. (Player's Guide, p. 8.)
+
+---
+
 ## Vitae
 O Sangue de um vampiro. Usada no Abraço, no Blood Bond e para criar ghouls; fora do corpo, perde as propriedades em segundos (no Abraço e no Blood Bond). Ver [[Lore/Kindred]].
 
 ## Willpower
 Força de Vontade: tracker com máximo Composure + Resolve. Gasta-se 1 ponto (dano Superficial) para re-rolar até 3 dados normais, ignorar Impairment de Health ou retomar o controle por 1 turno. Ver [[Character#Willpower|Character: Willpower]].
 
----
 
 *Ver também:* [[Guia Rápido]] · [[Mecânicas/Regras Fundamentais]] · [[Mecânicas/Entendendo Dados e Ficha]] · [[Mecânicas/Fome]] · [[Mecânicas/Humanidade]] · [[Mecânicas/Dano]] · [[Lore/Kindred]]
