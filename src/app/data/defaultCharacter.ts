@@ -1,4 +1,4 @@
-import type { Character } from '../types/character';
+import type { Character, SkillKey, Skills } from '../types/character';
 
 export const DEFAULT_CHARACTER: Character = {
   id: 'khalil',
@@ -7,7 +7,7 @@ export const DEFAULT_CHARACTER: Character = {
   clan: 'Nosferatu',
   generation: '9th',
   predatorType: 'Alleycat',
-  faction: 'Anarchist',
+  faction: 'Anarquistas',
   embrace: '1916 · Cairo',
   sire: 'al-Musawwir',
   languages: 'Arabic · French · Turkish · English',
@@ -48,7 +48,7 @@ export const DEFAULT_CHARACTER: Character = {
     technology: { value: 0, specialty: '' },
   },
   advantages: [
-    { name: 'Contacts', level: 3, note: 'Criminal' },
+    { name: 'Contacts', level: 3, note: 'Criminosos' },
     { name: 'Haven', level: 1, note: '' },
     { name: 'Linguistics', level: 2, note: '' },
     { name: 'Mask', level: 2, note: '' },
@@ -77,71 +77,84 @@ export const DEFAULT_CHARACTER: Character = {
     { name: 'Celerity', level: 1, powers: ['Rapid Reflexes'] },
     { name: 'Potence', level: 1, powers: ['Lethal Body'] },
   ],
-  inventory: ['Burner phone', 'Lock picks', 'Fake ID (Samir Haddad)'],
+  inventory: ['Celular descartável', 'Gazuas', 'Identidade falsa (Samir Haddad)'],
   pools: [
-    { title: 'Golpe (corpo a corpo)', attr: 'strength', skill: 'brawl', specialty: '', disc: 'Potence' },
-    { title: 'Furtividade', attr: 'dexterity', skill: 'stealth', specialty: 'Infiltration', disc: '' },
+    { title: 'Strike (Brawl)', attr: 'strength', skill: 'brawl', specialty: '', disc: 'Potence' },
+    { title: 'Stealth', attr: 'dexterity', skill: 'stealth', specialty: 'Infiltration', disc: '' },
   ],
   convictions: [
-    'Never leave a trace.',
-    'Dead men fix nothing.',
-    "Distrust anyone who asks you to do what they wouldn't do themselves.",
+    'Nunca deixar rastros.',
+    'Homens mortos não resolvem nada.',
+    'Desconfie de quem lhe pede para fazer o que ele mesmo não faria.',
   ],
   touchstones: [
     {
       name: 'Peter Hollis',
-      summary: '†1953 · Spy · MI6',
-      linkedConviction: 'Never leave a trace.',
+      summary: '†1953 · Espião · MI6',
+      linkedConviction: 'Nunca deixar rastros.',
       description:
-        "MI6 analyst who witnessed the supernatural during one of Khalil's 1916 operations. He was not silenced — he was discredited. Lived from 1919 to 1953 in psychiatric institutions, describing with surgical precision things no one believed. Khalil visited once, in 1931. He never went back.",
+        'Analista do MI6 que testemunhou o sobrenatural durante uma das operações de Khalil em 1916. Não foi silenciado — foi desacreditado. Viveu de 1919 a 1953 em instituições psiquiátricas, descrevendo com precisão cirúrgica coisas em que ninguém acreditava. Khalil o visitou uma vez, em 1931. Nunca voltou.',
     },
     {
       name: 'Hassan el-Amin',
-      summary: 'Mortal · Businessman',
-      linkedConviction: 'Dead men fix nothing.',
+      summary: 'Mortal · Empresário',
+      linkedConviction: 'Homens mortos não resolvem nada.',
       description:
-        "Owner of a chain of bars and restaurants. An unwitting logistical front — he doesn't know he is. Khalil has known him for decades under different identities. Hassan believes he has exceptional luck in business. He represents the invisible human cost of a century of operations.",
+        'Dono de uma rede de bares e restaurantes. Uma fachada logística involuntária — ele não sabe que é. Khalil o conhece há décadas sob identidades diferentes. Hassan acredita ter uma sorte excepcional nos negócios. Representa o custo humano invisível de um século de operações.',
     },
     {
       name: 'Edmund Ashford',
-      summary: 'Kindred · Tremere · Embraced 1915',
-      linkedConviction: "Distrust anyone who asks you to do what they wouldn't do themselves.",
+      summary: 'Kindred · Tremere · Abraçado em 1915',
+      linkedConviction: 'Desconfie de quem lhe pede para fazer o que ele mesmo não faria.',
       description:
-        'British orientalist. They met in Cairo in 1916, both at the Arab Bureau for different reasons. They met again decades later and recognized something immediate — the texture of someone who was alive in that era. A lasting operational exchange: occultism for field work. What neither says aloud is that when the other disappears for years without word, he notices.',
+        'Orientalista britânico. Conheceram-se no Cairo em 1916, ambos no Arab Bureau por razões diferentes. Reencontraram-se décadas depois e reconheceram algo imediato — a textura de alguém que estava vivo naquela época. Uma troca operacional duradoura: ocultismo por trabalho de campo. O que nenhum dos dois diz em voz alta é que, quando o outro desaparece por anos sem dar notícia, ele percebe.',
     },
   ],
   background:
-    'Born in 1883 in Damascus, son of a family of dragomans — professional interpreters who survived by being useful to whoever held power. He worked as an interpreter and double agent during the Balkan Wars (1912–13) and World War I, operating between the British Arab Bureau and Ottoman intelligence in Cairo. Embraced in 1916 by al-Musawwir, a Nosferatu elder aligned with the Sabbat, who wanted an asset inside the Bureau. Deserted in 1917 by faking his own destruction. Al-Musawwir still believes the childe died. Since then he has operated as "The Dragoman" in Anarchist Movement counter-intelligence, accumulating a century of operations in Berlin, Paris, Cairo, Buenos Aires, and other centers.',
+    'Nascido em 1883 em Damasco, filho de uma família de dragomanos — intérpretes profissionais que sobreviveram sendo úteis a quem detinha o poder. Trabalhou como intérprete e agente duplo durante as Guerras Balcânicas (1912–13) e a Primeira Guerra Mundial, operando entre o Arab Bureau britânico e a inteligência otomana no Cairo. Abraçado em 1916 por al-Musawwir, um ancião Nosferatu alinhado ao Sabbat, que queria um agente infiltrado no Bureau. Desertou em 1917 forjando a própria destruição. Al-Musawwir ainda acredita que o childe morreu. Desde então atua como "O Dragomano" na contrainteligência do Movimento Anarquista, acumulando um século de operações em Berlim, Paris, Cairo, Buenos Aires e outros centros.',
   notes: '',
 };
 
 const EMPTY_SKILL = { value: 0, specialty: '' };
 
 export function blankCharacter(id: string): Character {
-  const character = structuredClone(DEFAULT_CHARACTER);
-  const skillKeys = Object.keys(character.skills) as (keyof typeof character.skills)[];
+  const skills = Object.fromEntries(
+    (Object.keys(DEFAULT_CHARACTER.skills) as SkillKey[]).map((skill) => [skill, { ...EMPTY_SKILL }])
+  ) as Skills;
 
-  character.id = id;
-  character.name = 'New Character';
-  character.aliases = '';
-  character.trackers = {
-    healthMax: 5, health: [0, 0, 0, 0, 0],
-    willpowerMax: 5, willpower: [0, 0, 0, 0, 0],
-    hunger: [0, 0, 0, 0, 0],
-    humanity: 7, humanityStains: 0, bp: 1, resonance: '',
+  return {
+    id,
+    name: 'Novo Personagem',
+    aliases: '',
+    clan: '',
+    generation: '',
+    predatorType: '',
+    faction: '',
+    embrace: '',
+    sire: '',
+    languages: '',
+    xpTotal: 0,
+    xpSpent: 0,
+    attributes: {
+      strength: 1, dexterity: 1, stamina: 1,
+      charisma: 1, manipulation: 1, composure: 1,
+      intelligence: 1, wits: 1, resolve: 1,
+    },
+    skills,
+    advantages: [],
+    flaws: [],
+    trackers: {
+      healthMax: 4, health: [0, 0, 0, 0],
+      willpowerMax: 2, willpower: [0, 0],
+      hunger: [0, 0, 0, 0, 0],
+      humanity: 7, humanityStains: 0, bp: 0, resonance: '',
+    },
+    disciplines: [],
+    inventory: [],
+    pools: [],
+    convictions: [],
+    touchstones: [],
+    background: '',
+    notes: '',
   };
-  character.attributes = {
-    strength: 1, dexterity: 1, stamina: 1,
-    charisma: 1, manipulation: 1, composure: 1,
-    intelligence: 1, wits: 1, resolve: 1,
-  };
-  for (const skill of skillKeys) character.skills[skill] = { ...EMPTY_SKILL };
-  character.advantages = [];
-  character.flaws = [];
-  character.disciplines = [];
-  character.inventory = [];
-  character.convictions = [];
-  character.touchstones = [];
-  character.background = '';
-  return character;
 }

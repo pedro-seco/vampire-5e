@@ -1,101 +1,101 @@
 [
   {
     "level": 0,
-    "bloodSurge": "None",
+    "bloodSurge": "Nenhum",
     "damageHealed": "1 Superficial",
-    "disciplineBonus": "None",
-    "rouseRoll": "None",
+    "disciplineBonus": "Nenhum",
+    "rouseRoll": "Nenhum",
     "bane": 0,
-    "penalty": "None"
+    "penalty": "Nenhum"
   },
   {
     "level": 1,
     "bloodSurge": "+1 die",
     "damageHealed": "1 Superficial",
-    "disciplineBonus": "None",
-    "rouseRoll": "None",
+    "disciplineBonus": "Nenhum",
+    "rouseRoll": "Nenhum",
     "bane": 1,
-    "penalty": "None"
+    "penalty": "Nenhum"
   },
   {
     "level": 2,
     "bloodSurge": "+1 die",
     "damageHealed": "1 Superficial",
-    "disciplineBonus": "None",
-    "rouseRoll": "Level 1 only",
+    "disciplineBonus": "Nenhum",
+    "rouseRoll": "Apenas nível 1",
     "bane": 1,
-    "penalty": "None"
+    "penalty": "Nenhum"
   },
   {
     "level": 3,
-    "bloodSurge": "+2 dice",
+    "bloodSurge": "+2 dados",
     "damageHealed": "2 Superficial",
-    "disciplineBonus": "None",
-    "rouseRoll": "Level 2 and below",
+    "disciplineBonus": "Nenhum",
+    "rouseRoll": "Nível 2 e abaixo",
     "bane": 2,
-    "penalty": "Animal / bagged: no Hunger reduction"
+    "penalty": "Animal / em bolsa: sem redução de Hunger"
   },
   {
     "level": 4,
-    "bloodSurge": "+2 dice",
+    "bloodSurge": "+2 dados",
     "damageHealed": "2 Superficial",
     "disciplineBonus": "+1 die",
-    "rouseRoll": "Level 2 and below",
+    "rouseRoll": "Nível 2 e abaixo",
     "bane": 2,
-    "penalty": "Animal / bagged: no Hunger reduction"
+    "penalty": "Animal / em bolsa: sem redução de Hunger"
   },
   {
     "level": 5,
-    "bloodSurge": "+3 dice",
+    "bloodSurge": "+3 dados",
     "damageHealed": "3 Superficial",
     "disciplineBonus": "+1 die",
-    "rouseRoll": "Level 3 and below",
+    "rouseRoll": "Nível 3 e abaixo",
     "bane": 2,
-    "penalty": "Animal / bagged: no Hunger reduction"
+    "penalty": "Animal / em bolsa: sem redução de Hunger"
   },
   {
     "level": 6,
-    "bloodSurge": "+3 dice",
+    "bloodSurge": "+3 dados",
     "damageHealed": "3 Superficial",
-    "disciplineBonus": "+2 dice",
-    "rouseRoll": "Level 3 and below",
+    "disciplineBonus": "+2 dados",
+    "rouseRoll": "Nível 3 e abaixo",
     "bane": 3,
-    "penalty": "Animal / bagged: no Hunger reduction"
+    "penalty": "Animal / em bolsa: sem redução de Hunger"
   },
   {
     "level": 7,
-    "bloodSurge": "+4 dice",
+    "bloodSurge": "+4 dados",
     "damageHealed": "3 Superficial",
-    "disciplineBonus": "+2 dice",
-    "rouseRoll": "Level 4 and below",
+    "disciplineBonus": "+2 dados",
+    "rouseRoll": "Nível 4 e abaixo",
     "bane": 3,
-    "penalty": "Animal / bagged: no Hunger reduction"
+    "penalty": "Animal / em bolsa: sem redução de Hunger"
   },
   {
     "level": 8,
-    "bloodSurge": "+4 dice",
+    "bloodSurge": "+4 dados",
     "damageHealed": "3 Superficial",
-    "disciplineBonus": "+3 dice",
-    "rouseRoll": "Level 4 and below",
+    "disciplineBonus": "+3 dados",
+    "rouseRoll": "Nível 4 e abaixo",
     "bane": 3,
-    "penalty": "Animal / bagged: no Hunger reduction"
+    "penalty": "Animal / em bolsa: sem redução de Hunger"
   },
   {
     "level": 9,
-    "bloodSurge": "+5 dice",
+    "bloodSurge": "+5 dados",
     "damageHealed": "4 Superficial",
-    "disciplineBonus": "+3 dice",
-    "rouseRoll": "Level 5 and below",
+    "disciplineBonus": "+3 dados",
+    "rouseRoll": "Nível 5 e abaixo",
     "bane": 3,
-    "penalty": "Animal / bagged: no Hunger reduction"
+    "penalty": "Animal / em bolsa: sem redução de Hunger"
   },
   {
     "level": 10,
-    "bloodSurge": "+5 dice",
+    "bloodSurge": "+5 dados",
     "damageHealed": "4 Superficial",
-    "disciplineBonus": "+3 dice",
-    "rouseRoll": "Level 5 and below",
+    "disciplineBonus": "+3 dados",
+    "rouseRoll": "Nível 5 e abaixo",
     "bane": 4,
-    "penalty": "Only human: no Hunger reduction"
+    "penalty": "Apenas humano: sem redução de Hunger"
   }
 ]

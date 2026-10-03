@@ -3,222 +3,222 @@
     "name": "Allies",
     "type": 1,
     "maxLevel": 6,
-    "description": "Mortals who actively support you — politicians, gang members, police officers. Each dot represents one group or individual of significant influence. They act on your behalf but have limits; push too hard and they may withdraw."
+    "description": "Mortais que apoiam você ativamente — políticos, membros de gangues, policiais. Cada ponto representa um grupo ou indivíduo de influência significativa. Eles agem em seu nome, mas têm limites; force demais e podem se afastar."
   },
   {
     "name": "Contacts",
     "type": 1,
     "maxLevel": 3,
-    "description": "Information networks and loose associates. Each dot is a contact pool you can call for tips, rumors, or black-market access in a specific domain. They don't act for you — they talk."
+    "description": "Redes de informação e associados informais. Cada ponto é uma reserva de contatos que você pode acionar para dicas, boatos ou acesso ao mercado negro em um domínio específico. Eles não agem por você — eles conversam."
   },
   {
     "name": "Fame",
     "type": 1,
     "maxLevel": 5,
-    "description": "Public renown among mortals — celebrity, influencer, notorious criminal. Eases social rolls within your sphere. Lvl 1: local scene. Lvl 2: citywide recognition. Lvl 3: national or international."
+    "description": "Renome público entre os mortais — celebridade, influenciador, criminoso notório. Facilita testes sociais dentro da sua esfera. Nv. 1: cena local. Nv. 2: reconhecimento na cidade inteira. Nv. 3: nacional ou internacional."
   },
   {
     "name": "Haven",
     "type": 1,
     "maxLevel": 5,
-    "description": "A secured place to sleep and store your things. Lvl 1: a room with a lock. Lvl 2: a proper apartment or safehouse. Lvl 3: well-hidden with security. Lvl 4: fortified. Lvl 5: castle-level defensible compound."
+    "description": "Um lugar seguro para dormir e guardar seus pertences. Nv. 1: um quarto com tranca. Nv. 2: um apartamento decente ou esconderijo. Nv. 3: bem escondido e com segurança. Nv. 4: fortificado. Nv. 5: complexo defensável nível castelo."
   },
   {
     "name": "Herd",
     "type": 1,
     "maxLevel": 5,
-    "description": "A pool of mortals who willingly offer their blood. Each dot represents a group of regular vessels. Feeding from your Herd is automatic — no roll, no risk of Masquerade breach."
+    "description": "Um grupo de mortais que oferecem seu sangue de bom grado. Cada ponto representa um grupo de vítimas regulares. Alimentar-se do seu Herd é automático — sem teste, sem risco de violação da Masquerade."
   },
   {
     "name": "Influence",
     "type": 1,
     "maxLevel": 5,
-    "description": "Indirect power over a mortal institution — media, finance, police, academia, criminal networks. You don't control individuals; you move the institution. Each dot covers one sphere."
+    "description": "Poder indireto sobre uma instituição mortal — mídia, finanças, polícia, academia, redes criminosas. Você não controla indivíduos; você move a instituição. Cada ponto cobre uma esfera."
   },
   {
     "name": "Linguistics",
     "type": 1,
     "maxLevel": 5,
-    "description": "Additional languages beyond your native tongue. Each dot grants fluency in one language (written and spoken). Khalil example: Arabic (native), French, Turkish, English."
+    "description": "Idiomas adicionais além da sua língua nativa. Cada ponto concede fluência em um idioma (escrito e falado). Exemplo do Khalil: árabe (nativo), francês, turco, inglês."
   },
   {
     "name": "Loresheets",
     "type": 1,
     "maxLevel": 5,
-    "description": "Ties to specific historical bloodlines, factions, or forbidden knowledge. Specific to loresheet chosen; see rulebook. Grants unique abilities or information tied to that history."
+    "description": "Laços com linhagens históricas, facções ou conhecimento proibido específicos. Específico da loresheet escolhida; veja o livro de regras. Concede habilidades ou informações únicas ligadas àquela história."
   },
   {
     "name": "Mask",
     "type": 1,
     "maxLevel": 2,
-    "description": "A false mortal identity — papers, social media, a cover story. Lvl 1: basic documents. Lvl 2: full legend with job and apartment. Lvl 3: deep cover that withstands serious investigation."
+    "description": "Uma identidade mortal falsa — documentos, redes sociais, uma história de fachada. Nv. 1: documentos básicos. Nv. 2: lenda completa com emprego e apartamento. Nv. 3: cobertura profunda que resiste a investigação séria."
   },
   {
     "name": "Mawla",
     "type": 1,
     "maxLevel": 5,
-    "description": "A powerful patron — a vampire or influential mortal who protects and guides you. Each dot reflects their power and how indebted they are to help. A high-level Mawla is rare and comes with obligations."
+    "description": "Um patrono poderoso — um vampiro ou mortal influente que o protege e orienta. Cada ponto reflete o poder dele e o quanto ele se sente em dívida para ajudar. Um Mawla de nível alto é raro e vem com obrigações."
   },
   {
     "name": "Resources",
     "type": 1,
     "maxLevel": 5,
-    "description": "Wealth and liquid assets. Lvl 1: working class. Lvl 2: comfortable. Lvl 3: affluent. Lvl 4: wealthy. Lvl 5: obscenely rich, multiple properties and accounts."
+    "description": "Riqueza e bens líquidos. Nv. 1: classe trabalhadora. Nv. 2: confortável. Nv. 3: abastado. Nv. 4: rico. Nv. 5: obscenamente rico, várias propriedades e contas."
   },
   {
     "name": "Retainer",
     "type": 1,
     "maxLevel": 3,
-    "description": "A loyal servant or ghoul who acts on your behalf. Each dot is one Retainer, rated by competence. Retainers need feeding, protection, and management — they are not expendable."
+    "description": "Um servo leal ou ghoul que age em seu nome. Cada ponto é um Retainer, classificado por competência. Retainers precisam de alimentação, proteção e gestão — não são descartáveis."
   },
   {
     "name": "Status",
     "type": 1,
     "maxLevel": 5,
-    "description": "Formal standing within a faction — Camarilla, Anarch, Sabbat, or mortal institution. Influences how others treat you and what resources you can request. Each dot is one sphere of standing."
+    "description": "Posição formal dentro de uma facção — Camarilla, Anarch, Sabbat ou instituição mortal. Influencia como os outros o tratam e que recursos você pode solicitar. Cada ponto é uma esfera de posição."
   },
   {
     "name": "Thin-blood Alchemy",
     "type": 1,
     "maxLevel": 5,
-    "description": "(Thin-bloods only) The ability to brew alchemical formulas using your diluted vitae. Each dot unlocks more powerful and reliable formulas. Requires ingredients and preparation time."
+    "description": "(Apenas thin-bloods) A capacidade de preparar fórmulas alquímicas usando seu vitae diluído. Cada ponto desbloqueia fórmulas mais poderosas e confiáveis. Exige ingredientes e tempo de preparo."
   },
   {
     "name": "Feeding Grounds",
     "type": 1,
     "maxLevel": 3,
-    "description": "A territory acknowledged by local Kindred as your exclusive hunting ground. You feed without contest here. Lvl 1: one block. Lvl 2: a neighborhood. Lvl 3: a substantial district."
+    "description": "Um território reconhecido pelos Kindred locais como seu terreno exclusivo de caça. Você se alimenta aqui sem contestação. Nv. 1: um quarteirão. Nv. 2: um bairro. Nv. 3: um distrito considerável."
   },
   {
     "name": "Catenating Blood",
     "type": 1,
     "maxLevel": 3,
-    "description": "Your Blood Bond forms faster or stronger than normal. Useful for controlling ghouls and thralls. Each level reduces the number of drinks required to establish a full bond."
+    "description": "Seu Blood Bond se forma mais rápido ou mais forte que o normal. Útil para controlar ghouls e servos. Cada nível reduz o número de goles necessários para estabelecer um vínculo completo."
   },
   {
     "name": "Adversary",
     "type": -1,
     "maxLevel": 5,
-    "description": "A powerful enemy actively working against you. Lvl 1: a persistent nuisance. Lvl 2: a genuine threat with resources. Lvl 3: an elder or organization. Lvl 4: a Methuselah or major faction. Lvl 5: existential."
+    "description": "Um inimigo poderoso que trabalha ativamente contra você. Nv. 1: um incômodo persistente. Nv. 2: uma ameaça real com recursos. Nv. 3: um ancião ou organização. Nv. 4: um Methuselah ou facção importante. Nv. 5: existencial."
   },
   {
     "name": "Addiction",
     "type": -1,
     "maxLevel": 2,
-    "description": "An uncontrollable craving — for a specific type of blood, substance, or experience. Must indulge at least once per session or suffer penalties (Diff +1 to +2 on Composure rolls). Lvl 1: manageable. Lvl 3: debilitating."
+    "description": "Um desejo incontrolável — por um tipo específico de sangue, substância ou experiência. Deve ceder pelo menos uma vez por sessão ou sofrer penalidades (Dif. +1 a +2 em testes de Composure). Nv. 1: administrável. Nv. 3: debilitante."
   },
   {
     "name": "Archaic",
     "type": -1,
     "maxLevel": 2,
-    "description": "You were Embraced in another era and never fully adapted to the modern world. −2 dice on rolls involving modern technology, social media, contemporary norms, or post-industrial systems."
+    "description": "Você foi Abraçado em outra era e nunca se adaptou totalmente ao mundo moderno. -2 dados em testes que envolvam tecnologia moderna, redes sociais, normas contemporâneas ou sistemas pós-industriais."
   },
   {
     "name": "Bestial",
     "type": -1,
     "maxLevel": 2,
-    "description": "Your Beast is particularly close to the surface. Frenzy thresholds are lower — triggers are more common and tests are at higher Difficulty. Lvl 1: +1 Diff to resist Frenzy. Lvl 2: +2 Diff."
+    "description": "Sua Beast está particularmente perto da superfície. Os limiares de Frenzy são mais baixos — gatilhos são mais comuns e os testes têm Dificuldade maior. Nv. 1: +1 Dif. para resistir ao Frenzy. Nv. 2: +2 Dif."
   },
   {
     "name": "Blind",
     "type": -1,
     "maxLevel": 5,
-    "description": "You cannot see. All sight-based actions fail automatically without supernatural compensation. Auspex may partially compensate. 5-dot flaw — very rarely taken without Storyteller planning."
+    "description": "Você não enxerga. Todas as ações baseadas na visão falham automaticamente sem compensação sobrenatural. Auspex pode compensar parcialmente. Flaw de 5 pontos — muito raramente escolhida sem planejamento do Narrador."
   },
   {
     "name": "Clan Enmity",
     "type": -1,
     "maxLevel": 2,
-    "description": "Another clan holds collective grudge or institutional hostility toward you. Social rolls with that clan suffer −2 dice. Lvl 2: open hostility, feeding grounds and territory contested."
+    "description": "Outro clã nutre um ressentimento coletivo ou hostilidade institucional contra você. Testes sociais com esse clã sofrem -2 dados. Nv. 2: hostilidade aberta, terrenos de caça e território contestados."
   },
   {
     "name": "Dark Secret",
     "type": -1,
     "maxLevel": 1,
-    "description": "You carry a truth that would destroy your reputation or worse if exposed. Lvl 1: embarrassing. Lvl 2: actionable — would cause loss of Status or allies. Lvl 3: would trigger violence or exile."
+    "description": "Você carrega uma verdade que destruiria sua reputação, ou pior, se exposta. Nv. 1: constrangedora. Nv. 2: acionável — causaria perda de Status ou de aliados. Nv. 3: desencadearia violência ou exílio."
   },
   {
     "name": "Deficient",
     "type": -1,
     "maxLevel": 2,
-    "description": "One of your Disciplines is capped or absent due to a flaw in your Blood. You cannot learn a specific Discipline (Lvl 2) or cannot exceed level 2 in it (Lvl 1)."
+    "description": "Uma de suas Disciplinas é limitada ou ausente devido a uma falha no seu Blood. Você não pode aprender uma Disciplina específica (Nv. 2) ou não pode passar do nível 2 nela (Nv. 1)."
   },
   {
     "name": "Despised",
     "type": -1,
     "maxLevel": 2,
-    "description": "You are widely disliked within Kindred society. Social rolls with Kindred who know your reputation suffer −1 to −3 dice. Others may actively scheme against you."
+    "description": "Você é amplamente malquisto na sociedade Kindred. Testes sociais com Kindred que conhecem sua reputação sofrem de -1 a -3 dados. Outros podem tramar ativamente contra você."
   },
   {
     "name": "Enemy",
     "type": -1,
     "maxLevel": 2,
-    "description": "A personal adversary with a grudge and means. Unlike Adversary, this is personal. Lvl 1: a mortal with connections. Lvl 3: a vampire with grudge and resources. Lvl 5: elder with a blood hunt issued."
+    "description": "Um adversário pessoal com rancor e meios. Ao contrário de Adversary, é algo pessoal. Nv. 1: um mortal com contatos. Nv. 3: um vampiro com rancor e recursos. Nv. 5: um ancião com uma blood hunt decretada."
   },
   {
     "name": "Folkloric Bane",
     "type": -1,
     "maxLevel": 1,
-    "description": "You are vulnerable to a folk myth about vampires — garlic, mirrors, holy symbols, running water. Lvl 1: −2 dice when exposed. Lvl 2: you cannot cross or touch the substance without spending Willpower."
+    "description": "Você é vulnerável a um mito popular sobre vampiros — alho, espelhos, símbolos sagrados, água corrente. Nv. 1: -2 dados quando exposto. Nv. 2: você não pode cruzar nem tocar a substância sem gastar Willpower."
   },
   {
     "name": "Haunted",
     "type": -1,
     "maxLevel": 1,
-    "description": "You are plagued by a ghost or spirit tied to your past. It interferes with your activities, reveals secrets at inopportune times, or simply makes your existence miserable. Lvl 2: it can physically affect the world."
+    "description": "Você é atormentado por um fantasma ou espírito ligado ao seu passado. Ele interfere em suas atividades, revela segredos em momentos inoportunos ou simplesmente torna sua existência miserável. Nv. 2: pode afetar fisicamente o mundo."
   },
   {
     "name": "Hunted",
     "type": -1,
     "maxLevel": 4,
-    "description": "A group is actively pursuing you — Inquisition, rival coterie, mortal agency. Each level reflects their resources and determination. They know where to look and won't stop easily."
+    "description": "Um grupo o persegue ativamente — Inquisição, coterie rival, agência mortal. Cada nível reflete os recursos e a determinação deles. Sabem onde procurar e não desistem facilmente."
   },
   {
     "name": "Infamous",
     "type": -1,
     "maxLevel": 2,
-    "description": "You carry a specific, known disgrace in Kindred history. Your lineage or an act in your past is widely known. Lose Status equal to Flaw level in affected faction. Social rolls with aware Kindred suffer penalties."
+    "description": "Você carrega uma desgraça específica e conhecida na história Kindred. Sua linhagem ou um ato do seu passado é amplamente conhecido. Perde Status igual ao nível da Flaw na facção afetada. Testes sociais com Kindred cientes sofrem penalidades."
   },
   {
     "name": "Obvious Predator",
     "type": -1,
     "maxLevel": 2,
-    "description": "Your vampire nature is hard to conceal. You look, smell, or move wrong. Mortals instinctively distrust you. −2 dice on social rolls with mortals who haven't been Dominated or Bound. Lvl 2: animals also react."
+    "description": "Sua natureza vampírica é difícil de esconder. Você parece, cheira ou se move de forma errada. Mortais desconfiam de você por instinto. -2 dados em testes sociais com mortais que não foram Dominados nem Bound. Nv. 2: animais também reagem."
   },
   {
     "name": "Probationary Member",
     "type": -1,
     "maxLevel": 2,
-    "description": "You are on probation within your sect — under observation, limited access to resources, treated with suspicion. Any violation of the rules will result in immediate punishment or expulsion."
+    "description": "Você está em período probatório em sua seita — sob observação, com acesso limitado a recursos, tratado com suspeita. Qualquer violação das regras resultará em punição imediata ou expulsão."
   },
   {
     "name": "Repulsive",
     "type": -1,
     "maxLevel": 2,
-    "description": "You are physically or socially repellent to mortals (and sometimes Kindred). −1 to −3 dice on appearance-based social rolls. The Nosferatu clan Bane applies this at level equal to Bane Severity."
+    "description": "Você é fisicamente ou socialmente repelente para os mortais (e às vezes para os Kindred). -1 a -3 dados em testes sociais baseados em aparência. O Bane do clã Nosferatu aplica isto em nível igual à Bane Severity."
   },
   {
     "name": "Stalkers",
     "type": -1,
     "maxLevel": 1,
-    "description": "One or more mortals (or perhaps a Kindred) are obsessed with you and cannot be easily shaken. They may interfere with your operations, compromise your Masquerade, or simply be an endless nuisance."
+    "description": "Um ou mais mortais (ou talvez um Kindred) são obcecados por você e não são fáceis de despistar. Podem interferir em suas operações, comprometer sua Masquerade ou simplesmente ser um incômodo sem fim."
   },
   {
     "name": "Suspect",
     "type": -1,
     "maxLevel": 1,
-    "description": "Your sect or faction does not fully trust you. You are under informal surveillance. Lvl 1: watched. Lvl 2: actively tested and second-guessed. Any misstep is used against you."
+    "description": "Sua seita ou facção não confia plenamente em você. Você está sob vigilância informal. Nv. 1: observado. Nv. 2: ativamente testado e questionado. Qualquer passo em falso é usado contra você."
   },
   {
     "name": "Terminal Decree",
     "type": -1,
     "maxLevel": 5,
-    "description": "A powerful Kindred or faction has issued a standing order against you — watch list, blood hunt, or worse. Lvl 5 means the blood hunt is active and broadly known. You have no safe harbor in that domain."
+    "description": "Um Kindred poderoso ou uma facção emitiu uma ordem permanente contra você — lista de vigilância, blood hunt ou pior. Nv. 5 significa que a blood hunt está ativa e amplamente conhecida. Você não tem refúgio seguro naquele domínio."
   },
   {
     "name": "Thin Blood",
     "type": -1,
     "maxLevel": 5,
-    "description": "Your vitae is too diluted. You cannot Embrace, struggle with Disciplines, and may have unpredictable blood interactions. Lvl 1–2: minor complications. Lvl 5: near-mortal, barely Kindred."
+    "description": "Seu vitae é diluído demais. Você não pode Abraçar, tem dificuldade com Disciplinas e pode ter interações imprevisíveis com o sangue. Nv. 1–2: complicações menores. Nv. 5: quase mortal, mal chega a ser Kindred."
   }
 ]

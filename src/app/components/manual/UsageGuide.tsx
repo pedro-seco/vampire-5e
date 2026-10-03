@@ -27,25 +27,25 @@ const Arrow = ({ text }: { text: string }) => <span style={ARROW_STYLE}>{text}</
 function TrackerAids() {
   return (
     <>
-      <VisualAid label="Health / Willpower" annotation="Empty → Superficial (╲) → Aggravated (✕) → Empty">
+      <VisualAid label="Saúde / Willpower" annotation="Vazio → Superficial (╲) → Agravado (✕) → Vazio">
         <div className="box" />
-        <Arrow text="→ click →" />
+        <Arrow text="→ clique →" />
         <div className="box superficial" />
-        <Arrow text="→ click →" />
+        <Arrow text="→ clique →" />
         <div className="box aggravated" />
-        <Arrow text="→ click → empty" />
+        <Arrow text="→ clique → vazio" />
       </VisualAid>
 
-      <VisualAid label="Hunger" annotation="Empty → Filled (✕) → Empty. Always 5 boxes.">
+      <VisualAid label="Hunger" annotation="Vazio → Preenchido (✕) → Vazio. Sempre 5 caixas.">
         <div className="box" />
-        <Arrow text="→ click →" />
+        <Arrow text="→ clique →" />
         <div className="box hunger-on" />
-        <Arrow text="→ click → empty" />
+        <Arrow text="→ clique → vazio" />
       </VisualAid>
 
       <VisualAid
         label="Humanity"
-        annotation="Red boxes = current Humanity value (left to right). Click empty boxes from the right to add Stains (╲ in orange). Edit mode: use + / − to change the Humanity value."
+        annotation="Caixas vermelhas = valor atual de Humanity (da esquerda para a direita). Clique nas caixas vazias, da direita para a esquerda, para marcar Stains (╲ em laranja). No modo edição, use + / − para mudar o valor de Humanity."
       >
         <div className="box hum-filled" />
         <div className="box hum-filled" />
@@ -61,31 +61,35 @@ function TrackerAids() {
 export function UsageGuide() {
   return (
     <div className="manual-section">
-      <div className="manual-section-title">How to Use This Sheet</div>
+      <div className="manual-section-title">Como usar esta ficha</div>
 
-      <GuideItem title="▾ Switch Character">
-        <p className="manual-text">Click the <strong>▾</strong> arrow next to the character name to open the character list. Click any name to switch. The sheet reloads with that character's data.</p>
+      <GuideItem title="Trocar de personagem">
+        <p className="manual-text">Na barra superior, à direita, clique no nome do personagem (▾) para abrir a lista. Clique em qualquer nome para trocar. A ficha recarrega com os dados daquele personagem.</p>
       </GuideItem>
 
-      <GuideItem title="＋ New Character">
-        <p className="manual-text">Click the <strong>＋</strong> next to the character name. A blank sheet will be created. Switch to it using the ▾ dropdown and fill in the fields in Edit mode.</p>
+      <GuideItem title="Novo personagem">
+        <p className="manual-text">Clique em <strong>Novo</strong>. Uma ficha em branco será criada. Troque para ela pela lista de personagens e preencha os campos no modo edição. Para apagar o personagem ativo, use <strong>Excluir</strong> (haverá uma confirmação).</p>
       </GuideItem>
 
-      <GuideItem title="✏ Edit Mode">
-        <p className="manual-text">Click <strong>✏ Edit</strong> in the top right to unlock the sheet for editing. All text fields become editable. Numeric values (attributes, skills) show <strong>+</strong> and <strong>−</strong> buttons. Sections like Disciplines and Advantages show <strong>＋</strong> buttons to add new entries, and <strong>×</strong> to delete (a confirmation will appear). Click <strong>✏ Edit</strong> again to exit — changes are saved automatically.</p>
+      <GuideItem title="Modo edição">
+        <p className="manual-text">Clique em <strong>Editar</strong> para liberar a ficha. Todos os campos de texto ficam editáveis. Valores numéricos (atributos, perícias) mostram os botões <strong>+</strong> e <strong>−</strong>. Seções como Disciplinas e Advantages mostram <strong>＋</strong> para adicionar entradas e <strong>×</strong> para remover (com confirmação). Clique em <strong>Sair da edição</strong> para voltar. As mudanças são salvas automaticamente.</p>
       </GuideItem>
 
       <GuideItem title="Trackers">
-        <p className="manual-text">Tracker boxes are always interactive — no Edit mode needed. Click a box to cycle its state:</p>
+        <p className="manual-text">As caixas dos trackers são sempre interativas, sem precisar do modo edição. Clique em uma caixa para mudar o estado dela:</p>
         <TrackerAids />
       </GuideItem>
 
-      <GuideItem title="Export & Import">
-        <p className="manual-text"><strong>Export</strong> downloads your character as a <code>.json</code> file — keep it as a backup or send it to the Storyteller. <strong>Import</strong> loads a <code>.json</code> file and adds that character to your sheet. All data is stored in your browser's local storage; if you clear browser data, your characters will be lost — export regularly.</p>
+      <GuideItem title="Exportar e importar">
+        <p className="manual-text"><strong>Exportar</strong> baixa o personagem como um arquivo <code>.json</code>: guarde como backup ou envie ao Narrador. <strong>Importar</strong> carrega um arquivo <code>.json</code> e adiciona aquele personagem à sua ficha. Tudo fica salvo no armazenamento local do navegador; se você limpar os dados do navegador, os personagens serão perdidos, então exporte com frequência.</p>
       </GuideItem>
 
-      <GuideItem title="Adding Disciplines">
-        <p className="manual-text">In Edit mode, click <strong>＋</strong> next to Disciplines. Search for a discipline by name and confirm. Then click <strong>＋</strong> inside the discipline header to add powers — only powers at or below your current discipline level are available. To remove a power or a full discipline, click <strong>×</strong> and confirm.</p>
+      <GuideItem title="Impressão">
+        <p className="manual-text"><strong>Impressão</strong> abre o diálogo de impressão do navegador com três folhas A4: a ficha de Mecânica, a Narrativa e a Ref. Escolha uma impressora ou salve em PDF.</p>
+      </GuideItem>
+
+      <GuideItem title="Adicionar disciplinas">
+        <p className="manual-text">No modo edição, clique em <strong>＋</strong> ao lado de Disciplinas. Busque a disciplina pelo nome e confirme. Depois clique em <strong>＋ poder</strong> no cabeçalho da disciplina para adicionar poderes: só aparecem os poderes de nível igual ou menor ao da disciplina. Para remover um poder ou a disciplina inteira, clique em <strong>×</strong> e confirme.</p>
       </GuideItem>
     </div>
   );
