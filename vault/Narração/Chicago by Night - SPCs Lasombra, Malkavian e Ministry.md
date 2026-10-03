@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "chicago-by-night-spcs-lasombra-malkavian-e-ministry"
+publico: narrador
+livro: "Chicago by Night"
+grupo: "Chicago by Night"
+rotulo: "SPCs Lasombra, Malkavian e Ministry"
+tipo: narração
+---
+
 #mecânica #narrador #spc #chicago-by-night #suplemento #lasombra #malkavian #ministry
 
 # Chicago by Night - SPCs Lasombra, Malkavian e Ministry

@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "fall-of-london-operation-antigen"
+publico: narrador
+livro: "Fall of London"
+grupo: "Fall of London"
+rotulo: "Operation Antigen"
+tipo: narração
+---
+
 #narrador #antagonistas #operation-antigen #second-inquisition #suplemento
 
 # Fall of London — Operation Antigen

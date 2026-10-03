@@ -1,6 +1,23 @@
+---
+publicar: true
+id: "regras-fundamentais"
+publico: jogador
+livro: "Core"
+tipo: regra
+nivel: iniciante
+---
+
 #rules #important #dice
 
 ![[Pasted image 20241123001151.png]]
+
+> [!resumo] Em 30 segundos
+> - Um teste é uma dice pool de d10: cada 6 ou mais é um sucesso, e você vence se os sucessos igualarem ou superarem a Dificuldade definida pelo Narrador.
+> - O Narrador diz quais Traits formam a pool; se a pool for o dobro da Dificuldade, ele pode declarar sucesso automático (raro em combate).
+> - Se falhar mas tiver algum sucesso, o Narrador pode oferecer vencer com um custo.
+> - Gastar 1 Willpower re-rola até três dados regulares (nunca dados de Fome) e conta como dano Superficial em Willpower.
+> - Checks usam um único d10 (6 ou mais), sem re-roll de Willpower, sem sucesso automático e sem "pegar metade".
+> - O tempo é abstrato: Turno, Scene, Sessão, Story e Crônica; o Turno dura o que a ação levar.
 
 Vampiro: A Máscara usa regras mecânicas para fornecer uma base confiável para o mundo. Tanto os players quanto o Narrador não querem que o Narrador tenha de ficar inventando conforme eles o jogo vai acontecendo. Afinal, é um jogo, não um livro ou filme.
 

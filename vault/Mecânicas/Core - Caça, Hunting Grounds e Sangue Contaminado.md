@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-caca-hunting-grounds-e-sangue-contaminado"
+publico: jogador
+livro: "Core"
+rotulo: "Caça, Hunting Grounds e Sangue Contaminado"
+tipo: regra
+---
+
 #mecânica #rules #core #hunting #feeding #resonance #sangue
 
 # Core - Caça, Hunting Grounds e Sangue Contaminado

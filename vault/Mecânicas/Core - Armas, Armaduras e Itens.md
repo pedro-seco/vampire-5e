@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-armas-armaduras-e-itens"
+publico: jogador
+livro: "Core"
+rotulo: "Armas, Armaduras e Itens"
+tipo: regra
+---
+
 #mecânica #rules #core #armas #armaduras #equipamento #itens
 
 # Core - Armas, Armaduras e Itens

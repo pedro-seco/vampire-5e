@@ -1,6 +1,21 @@
+---
+publicar: true
+id: "geracoes-e-potencia"
+publico: jogador
+livro: "Core"
+tipo: regra
+---
+
 #lore #rules #blood #important #character #concept
 
 ![[Pasted image 20241127014724.png]]
+
+> [!resumo] Em 30 segundos
+> - A Geração mede a distância de Caim; o childe é uma Geração acima (mais fraca) do sire, e só a diablerie a reduz.
+> - PCs típicos: fledglings e neonates de 12ª e 13ª (thin-bloods 14ª a 16ª) e ancillae de 10ª e 11ª; elders não são jogáveis.
+> - Blood Potency sobe 1 a cada 100 anos ativo e cai 1 a cada 50 anos em torpor; thin-bloods não a aumentam.
+> - Mais Blood Potency dá mais cura por Rouse Check, mais Blood Surge e dados extras em Disciplinas (+1 em BP 2, +2 em BP 4).
+> - Em compensação a Bane Severity sobe (1 em BP 1, 2 em BP 3, 3 em BP 5) e o sangue animal e de bolsa deixa de saciar (acima de BP 2).
 
 ### Sumário
 - [[#As Gerações : Proximidade com Caim|As Gerações : Proximidade com Caim]]

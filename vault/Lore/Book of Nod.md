@@ -1,3 +1,10 @@
+---
+publicar: true
+publico: jogador
+livro: "Lore"
+tipo: lore
+---
+
 # O Livro de Nod
 
 

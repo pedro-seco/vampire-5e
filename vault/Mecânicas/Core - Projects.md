@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-projects"
+publico: jogador
+livro: "Core"
+rotulo: "Projects"
+tipo: regra
+---
+
 #mecânica #rules #core #projects #apêndice #opcional
 
 # Core - Projects

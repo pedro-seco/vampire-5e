@@ -1,3 +1,10 @@
+---
+publicar: true
+publico: narrador
+livro: "Lore"
+tipo: lore
+---
+
 # A Queda de Londres — Fall of London
 
 > *"O domínio de Londres é um dos primeiros a cair em massa para um pogrom organizado e patrocinado pelo governo."*  

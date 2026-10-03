@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "player-s-guide-castoffs"
+publico: jogador
+livro: "Player's Guide"
+grupo: "Player's Guide"
+rotulo: "Castoffs"
+tipo: regra
+---
+
 #mecânica #castoffs #caitiff #thin-blood #ghoul #mortal #player-guide #suplemento
 
 # Player's Guide — Castoffs

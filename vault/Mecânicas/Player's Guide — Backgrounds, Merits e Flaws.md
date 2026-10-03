@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "player-s-guide-backgrounds-merits-e-flaws"
+publico: jogador
+livro: "Player's Guide"
+grupo: "Player's Guide"
+rotulo: "Backgrounds, Merits e Flaws"
+tipo: regra
+---
+
 #mecânica #advantages #backgrounds #merits #flaws #player-guide #suplemento
 
 # Player's Guide — Backgrounds, Merits e Flaws

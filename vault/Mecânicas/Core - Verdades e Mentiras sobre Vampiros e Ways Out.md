@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-verdades-e-mentiras-sobre-vampiros-e-ways-out"
+publico: jogador
+livro: "Core"
+rotulo: "Verdades e Mentiras sobre Vampiros e Ways Out"
+tipo: regra
+---
+
 #mecânica #core #vampiros #mitos #thin-blood
 
 # Core - Verdades e Mentiras sobre Vampiros e Ways Out

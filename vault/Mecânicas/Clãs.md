@@ -1,6 +1,22 @@
+---
+publicar: true
+id: "clas"
+publico: jogador
+livro: "Core"
+tipo: regra
+nivel: iniciante
+---
+
 #rules #important #concept 
 
 ![[Pasted image 20241127193824.png]]
+
+> [!resumo] Em 30 segundos
+> - Existem 13 clãs, mais Caitiff e thin-bloods; o Core detalha sete: Brujah, Gangrel, Malkavian, Nosferatu, Toreador, Tremere e Ventrue.
+> - Cada clã tem uma Bane permanente, cuja intensidade é a Bane Severity do personagem.
+> - A Compulsão de clã surge em Bestial Failure e, em geral, impõe -2 dados nas ações fora do tema (Gangrel: -3 dados em Manipulation e Intelligence por uma cena).
+> - Cada perfil lista as três Disciplinas do clã (por exemplo, Brujah: Celerity, Potence e Presence).
+> - Os clãs que o Core não detalha têm Banes e Compulsões no Player's Guide, que só vale se a crônica permitir.
 
 ### Sumário
 

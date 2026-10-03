@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "blood-sigils-criacao-de-rituais-formulas-e-efeitos-colaterais"
+publico: jogador
+livro: "Blood Sigils"
+grupo: "Blood Sigils"
+rotulo: "Criação de Rituais, Fórmulas e Efeitos Colaterais"
+tipo: regra
+---
+
 #mecânica #blood-sorcery #thin-blood-alchemy #narrador #suplemento #blood-sigils
 
 # Blood Sigils — Criação de Rituais, Fórmulas e Efeitos Colaterais

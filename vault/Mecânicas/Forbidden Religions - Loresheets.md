@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "forbidden-religions-loresheets"
+publico: jogador
+livro: "Forbidden Religions"
+grupo: "Forbidden Religions"
+rotulo: "Loresheets"
+tipo: regra
+---
+
 #mecânica #loresheet
 
 # Forbidden Religions — Loresheets

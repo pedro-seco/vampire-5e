@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "chicago-by-night-spcs-dos-capitulos-7-e-8-e-modelos-genericos"
+publico: narrador
+livro: "Chicago by Night"
+grupo: "Chicago by Night"
+rotulo: "SPCs dos Capítulos 7 e 8 e Modelos Genéricos"
+tipo: narração
+---
+
 #mecânica #narrador #spc #chicago-by-night #suplemento #antagonistas
 
 # Chicago by Night - SPCs dos Capítulos 7 e 8 e Modelos Genéricos

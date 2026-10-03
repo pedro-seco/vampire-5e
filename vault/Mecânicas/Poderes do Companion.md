@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "poderes-do-companion"
+publico: jogador
+livro: "Companion"
+grupo: "Companion"
+rotulo: "Poderes"
+tipo: regra
+---
+
 #mecânica #rules #disciplinas #suplemento
 
 # Poderes de Disciplina do Companion

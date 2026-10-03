@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "cults-of-the-blood-gods-cultos-mortais-leah-eligos-e-broken-branch"
+publico: narrador
+livro: "Cults of the Blood Gods"
+grupo: "Cults of the Blood Gods"
+rotulo: "Cultos Mortais (Leah, Eligos e Broken Branch)"
+tipo: narração
+---
+
 #narração #cultos #cultos-mortais #antagonistas #npc #leahs-circle #eligos #broken-branch #second-inquisition #cults-of-blood-gods #suplemento
 
 # Cults of the Blood Gods — Cultos Mortais (Leah's Circle, Dread Cult of Eligos e Order of the Broken Branch)

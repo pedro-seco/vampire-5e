@@ -1,3 +1,10 @@
+---
+publicar: true
+publico: narrador
+livro: "Lore"
+tipo: lore
+---
+
 # Chicago by Night — A Joia da Camarilla
 
 > *"Chicago é o trono inexpugnável da Camarilla americana."*  

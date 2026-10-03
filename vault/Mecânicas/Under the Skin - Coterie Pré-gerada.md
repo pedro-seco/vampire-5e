@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "under-the-skin-coterie-pre-gerada"
+publico: jogador
+livro: "Under the Skin"
+grupo: "Under the Skin"
+rotulo: "Coterie Pré-gerada"
+tipo: regra
+---
+
 #mecânica #personagens #pregerados #supplement #under-the-skin
 
 # Under the Skin - Coterie Pré-gerada

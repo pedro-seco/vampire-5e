@@ -1,6 +1,21 @@
+---
+publicar: true
+id: "disciplinas"
+publico: jogador
+livro: "Core"
+tipo: regra
+---
+
 #concept #character #rules
 
 ![[Pasted image 20241213175019.png]]
+
+> [!resumo] Em 30 segundos
+> - Cada dot dá um poder do nível novo ou de um nível abaixo; o personagem tem tantos poderes quanto dots na Disciplina.
+> - Só um poder de Disciplina pode ser ativado por turno, mas não há limite de poderes ativos ao mesmo tempo.
+> - Poderes maiores exigem Rouse Checks, que podem subir a Fome.
+> - Some à pool, para usar ou resistir a Disciplinas, dados iguais à metade da Blood Potency (arredondado para baixo).
+> - Para gastar XP em uma Disciplina é preciso se alimentar da Resonance correspondente; uma Disciplina fora do clã também exige provar o Sangue de quem a domina.
 
 ```table-of-contents
 ```

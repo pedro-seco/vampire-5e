@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "book-of-nod-the-book-of-nod-loresheet"
+publico: jogador
+livro: "Book of Nod"
+grupo: "Book of Nod"
+rotulo: "The Book of Nod Loresheet"
+tipo: regra
+---
+
 #mecânica #loresheets #backgrounds #vantagens #apocrypha #conhecimento
 
 # The Book of Nod Loresheet

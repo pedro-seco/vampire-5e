@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "book-of-nod-machinations-of-saulot-loresheet"
+publico: jogador
+livro: "Book of Nod"
+grupo: "Book of Nod"
+rotulo: "Machinations of Saulot Loresheet"
+tipo: regra
+---
+
 #mecânica #loresheets #backgrounds #vantagens #apocrypha #salubri #tremere
 
 # Machinations of Saulot Loresheet

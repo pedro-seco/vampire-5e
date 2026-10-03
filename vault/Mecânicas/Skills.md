@@ -1,4 +1,20 @@
+---
+publicar: true
+id: "skills"
+publico: jogador
+livro: "Core"
+tipo: regra
+nivel: iniciante
+---
+
 #mecânica #referência
+
+> [!resumo] Em 30 segundos
+> - Skills têm de 0 a 5 dots (0 é só falta de treino) e a pool padrão é Atributo + Skill.
+> - São 27 Skills divididas em Physical, Social e Mental.
+> - Uma especialidade soma +1 dado, só uma vale por teste, e o limite é de tantas especialidades quanto dots na Skill (Craft é exceção).
+> - Academics, Craft, Performance e Science dão uma especialidade grátis no primeiro dot.
+> - Na criação você ganha uma especialidade grátis em qualquer Skill, mais uma do Predator Type; especialidades extras custam 3 XP.
 
 # Skills
 

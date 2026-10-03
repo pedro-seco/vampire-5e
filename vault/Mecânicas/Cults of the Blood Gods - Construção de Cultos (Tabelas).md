@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "cults-of-the-blood-gods-construcao-de-cultos-tabelas"
+publico: jogador
+livro: "Cults of the Blood Gods"
+grupo: "Cults of the Blood Gods"
+rotulo: "Construção de Cultos (Tabelas)"
+tipo: regra
+---
+
 #mecânica #cultos #construção-de-cultos #tabelas #cults-of-blood-gods #suplemento #jogador
 
 # Cults of the Blood Gods — Construção de Cultos (Tabelas)

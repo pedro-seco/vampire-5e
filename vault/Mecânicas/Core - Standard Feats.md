@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-standard-feats"
+publico: jogador
+livro: "Core"
+rotulo: "Standard Feats"
+tipo: regra
+---
+
 #mecânica #rules #core #feats #apêndice #social #opcional
 
 # Core - Standard Feats

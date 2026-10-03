@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "cults-of-the-blood-gods-bahari-e-rituals"
+publico: jogador
+livro: "Cults of the Blood Gods"
+grupo: "Cults of the Blood Gods"
+rotulo: "Bahari e Rituals"
+tipo: regra
+---
+
 #mecânica #cultos #bahari #rituals #blood-sorcery #cults-of-blood-gods #suplemento
 
 # Cults of the Blood Gods — Bahari e Rituais

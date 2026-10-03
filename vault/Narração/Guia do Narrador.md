@@ -1,3 +1,11 @@
+---
+publicar: true
+id: "guia-do-narrador"
+publico: narrador
+livro: "Core"
+tipo: narração
+---
+
 # Guia do Narrador
 
 

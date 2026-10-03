@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "fall-of-london-the-blooding-ritual"
+publico: narrador
+livro: "Fall of London"
+grupo: "Fall of London"
+rotulo: "The Blooding Ritual"
+tipo: narração
+---
+
 #narrador #blood-sorcery #ritual #antagonistas #mithras #suplemento
 
 # Fall of London — The Blooding Ritual

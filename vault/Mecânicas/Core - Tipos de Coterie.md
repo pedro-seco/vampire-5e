@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-tipos-de-coterie"
+publico: jogador
+livro: "Core"
+rotulo: "Tipos de Coterie"
+tipo: regra
+---
+
 #mecânica #rules #character #coterie #domain #core
 
 # Core - Tipos de Coterie

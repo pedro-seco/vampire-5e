@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "sabbat-poderes-de-disciplina"
+publico: jogador
+livro: "Sabbat"
+grupo: "Sabbat"
+rotulo: "Poderes de Disciplina"
+tipo: regra
+---
+
 #mecânica #sabbat #disciplinas #suplemento
 
 # Sabbat — Poderes de Disciplina

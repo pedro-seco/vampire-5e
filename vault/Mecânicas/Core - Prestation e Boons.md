@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-prestation-e-boons"
+publico: jogador
+livro: "Core"
+rotulo: "Prestation e Boons"
+tipo: regra
+---
+
 #mecânica #rules #core #prestation #boons #social #opcional
 
 # Core - Prestation e Boons

@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-conflito-avancado-advance-tres-trocas-e-concessoes"
+publico: jogador
+livro: "Core"
+rotulo: "Conflito Avançado (Advance, Três Trocas e Concessões)"
+tipo: regra
+---
+
 #mecânica #core #conflito #regras
 
 # Core - Conflito Avançado (Advance, Três Trocas e Concessões)

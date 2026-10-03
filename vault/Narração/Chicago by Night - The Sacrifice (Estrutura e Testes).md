@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "chicago-by-night-the-sacrifice-estrutura-e-testes"
+publico: narrador
+livro: "Chicago by Night"
+grupo: "Chicago by Night"
+rotulo: "The Sacrifice (Estrutura e Testes)"
+tipo: narração
+---
+
 #mecânica #narrador #chicago-by-night #suplemento #aventura #the-sacrifice
 
 # Chicago by Night - The Sacrifice (Estrutura e Testes)

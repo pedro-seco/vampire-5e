@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-cronicas-conduzindo-o-jogo"
+publico: narrador
+livro: "Core"
+rotulo: "Crônicas - Conduzindo o Jogo"
+tipo: narração
+---
+
 #mecânica #narrador #core #crônica #condução
 
 # Core - Crônicas - Conduzindo o Jogo

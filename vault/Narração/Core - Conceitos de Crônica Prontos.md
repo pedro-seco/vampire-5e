@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-conceitos-de-cronica-prontos"
+publico: narrador
+livro: "Core"
+rotulo: "Conceitos de Crônica Prontos"
+tipo: narração
+---
+
 #narrador #core #crônica #ganchos #coterie #aventura
 
 # Core - Conceitos de Crônica Prontos

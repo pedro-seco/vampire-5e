@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "blood-sigils-artefatos-tomos-e-misterios"
+publico: narrador
+livro: "Blood Sigils"
+grupo: "Blood Sigils"
+rotulo: "Artefatos, Tomos e Mistérios"
+tipo: regra
+---
+
 #mecânica #artefatos #grimórios #narrador #suplemento #blood-sigils
 
 # Blood Sigils — Artefatos, Tomos e Mistérios

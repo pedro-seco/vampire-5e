@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "children-of-the-blood-bloodline-milliner-grudge-masters"
+publico: jogador
+livro: "Children of the Blood"
+grupo: "Children of the Blood"
+rotulo: "Bloodline Milliner (Grudge Masters)"
+tipo: regra
+---
+
 #jogador #bloodline #hecata
 
 # Children of the Blood — Bloodline Milliner (Grudge Masters)

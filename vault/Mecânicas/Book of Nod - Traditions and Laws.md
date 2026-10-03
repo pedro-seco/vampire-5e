@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "book-of-nod-traditions-and-laws"
+publico: jogador
+livro: "Book of Nod"
+grupo: "Book of Nod"
+rotulo: "Traditions and Laws"
+tipo: regra
+---
+
 #mecânica #lore #traditions #leis #kindred #apocrypha #politica
 
 # Book of Nod — Traditions and Laws

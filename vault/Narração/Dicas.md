@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "dicas-de-narracao"
+titulo: "Dicas de Narração"
+publico: narrador
+livro: "Core"
+tipo: narração
+---
+
 #narrador #dicas #ferramentas
 
 # Dicas de Narração — VTM 5e

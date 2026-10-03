@@ -1,3 +1,11 @@
+---
+publicar: true
+publico: jogador
+livro: "Lore"
+tipo: lore
+nivel: iniciante
+---
+
 #lore #faction #important
 
 ```table-of-contents

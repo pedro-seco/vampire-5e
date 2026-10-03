@@ -1,6 +1,23 @@
+---
+publicar: true
+id: "personagem"
+titulo: "Personagem"
+publico: jogador
+livro: "Core"
+tipo: regra
+---
+
 #rules #character #important 
 
 ![[Pasted image 20241213183304.png]]
+
+> [!resumo] Em 30 segundos
+> - Health = Stamina + 3 e Willpower = Composure + Resolve; nenhum dos dois é comprado com XP.
+> - Atributos e Skills vão de 1 a 5 dots (0 em Skill significa apenas sem treino).
+> - Gastar 1 Willpower permite re-rolar até três dados regulares, retomar o controle por um turno, ignorar Impairment por um turno ou mostrar sinal de vida.
+> - No início da sessão, remova dano Superficial de Willpower igual ao maior entre Composure e Resolve.
+> - Vampiros curam dano Superficial de Health com Rouse Checks (1, 2 ou 3 pontos conforme a Blood Potency) e 1 ponto Agravado por noite com três Rouse Checks.
+> - A Bane Severity depende só da Blood Potency e potencializa as Banes de clã.
 
 ```table-of-contents
 ```

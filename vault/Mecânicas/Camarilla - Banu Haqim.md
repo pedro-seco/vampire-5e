@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "camarilla-banu-haqim"
+publico: jogador
+livro: "Camarilla"
+grupo: "Camarilla"
+rotulo: "Banu Haqim"
+tipo: regra
+---
+
 #mecânica #camarilla #clãs #banu-haqim #blood-sorcery #suplemento
 
 # Camarilla - Banu Haqim

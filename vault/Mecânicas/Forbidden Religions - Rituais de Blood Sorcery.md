@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "forbidden-religions-rituais-de-blood-sorcery"
+publico: jogador
+livro: "Forbidden Religions"
+grupo: "Forbidden Religions"
+rotulo: "Rituais de Blood Sorcery"
+tipo: regra
+---
+
 #mecânica #blood-sorcery #ritual
 
 # Forbidden Religions — Rituais de Blood Sorcery

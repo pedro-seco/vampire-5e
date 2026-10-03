@@ -1,4 +1,22 @@
+---
+publicar: true
+id: "core-criacao-de-personagem"
+publico: jogador
+livro: "Core"
+rotulo: "Criação de Personagem"
+tipo: regra
+nivel: iniciante
+---
+
 #mecânica #rules #character #criação #core
+
+> [!resumo] Em 30 segundos
+> - A ordem é: Core Concept, Clã e Sire, Attributes, Skills, Disciplines, Predator, Advantages, Convictions e Touchstones, e Sea of Time.
+> - Attributes: um em 4, três em 3, quatro em 2 e um em 1; Health = Stamina + 3 e Willpower = Composure + Resolve.
+> - Skills: escolha Jack of all trades, Balanced ou Specialist; Disciplines: dois do clã, com 2 dots em um e 1 no outro.
+> - Advantages: 7 dots e pelo menos 2 pontos de Flaws; Humanity 7, com 1 a 3 Convictions e um Touchstone para cada.
+> - A Blood Potency inicial depende da Geração: 0 (14ª a 16ª), 1 (12ª e 13ª) ou 2 (10ª e 11ª).
+> - Neonates e ancillae começam com XP extra (15 e 35 pontos); elders não são jogáveis neste livro.
 
 # Core - Criação de Personagem
 

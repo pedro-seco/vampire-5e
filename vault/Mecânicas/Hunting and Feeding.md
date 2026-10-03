@@ -1,6 +1,22 @@
+---
+publicar: true
+id: "hunting-and-feeding"
+publico: jogador
+livro: "Core"
+tipo: regra
+nivel: iniciante
+---
+
 #concept #feeding #hunting #resonance
 
 ![[Pasted image 20241122190420.png]]
+
+> [!resumo] Em 30 segundos
+> - O hunting roll é um teste simples com a predator pool do seu Predator Type (ou uma abordagem plausível) contra a Dificuldade do hunting ground.
+> - A Dificuldade depende do número de vítimas, da vigilância e da coesão social, e nunca fica abaixo de 1.
+> - Modificadores de exemplo: +1 com polícia ou segurança acima do normal, +2 com segurança pesada, -2 em festival, desfile ou tumulto.
+> - Para a Resonance da vítima, role um d10: com 6 ou mais ela tende a uma Resonance, e uma segunda rolagem a define; provar o sangue revela.
+> - Teamwork é permitido na caça se o plano for plausível, e o Narrador pode aumentar a Dificuldade para vampiros muito desumanos.
 
 # # Sumário
 - [[#Introdução: Hunting and Feeding|Introdução: Hunting and Feeding]]

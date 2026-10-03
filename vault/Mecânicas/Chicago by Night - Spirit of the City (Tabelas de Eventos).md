@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "chicago-by-night-spirit-of-the-city-tabelas-de-eventos"
+publico: jogador
+livro: "Chicago by Night"
+grupo: "Chicago by Night"
+rotulo: "Spirit of the City (Tabelas de Eventos)"
+tipo: regra
+---
+
 #mecânica #chicago-by-night #suplemento #cidade #tabelas #eventos
 
 # Chicago by Night - Spirit of the City (Tabelas de Eventos)

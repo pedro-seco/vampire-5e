@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "fall-of-london-cenas-e-testes-cap-5-red-lists-and-red-caps"
+publico: narrador
+livro: "Fall of London"
+grupo: "Fall of London"
+rotulo: "Cenas e Testes (Cap. 5 - Red Lists and Red Caps)"
+tipo: narração
+---
+
 #mecânica #narrador #fall-of-london #aventura #testes #suplemento
 
 # Fall of London — Cenas e Testes (Cap. 5 — Red Lists and Red Caps)

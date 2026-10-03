@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "book-of-nod-servitor-of-irad-loresheet"
+publico: jogador
+livro: "Book of Nod"
+grupo: "Book of Nod"
+rotulo: "Servitor of Irad Loresheet"
+tipo: regra
+---
+
 #mecânica #loresheets #backgrounds #vantagens #apocrypha #cultos #jyhad
 
 # Servitor of Irad Loresheet

@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "chicago-by-night-coteries-de-chicago"
+publico: narrador
+livro: "Chicago by Night"
+grupo: "Chicago by Night"
+rotulo: "Coteries de Chicago"
+tipo: narração
+---
+
 #mecânica #narrador #coteries #chicago-by-night #suplemento
 
 # Chicago by Night - Coteries de Chicago

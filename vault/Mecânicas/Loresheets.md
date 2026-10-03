@@ -1,3 +1,11 @@
+---
+publicar: true
+id: "loresheets"
+publico: jogador
+livro: "Core"
+tipo: regra
+---
+
 #rules #concept #advantages
 
 # Loresheets

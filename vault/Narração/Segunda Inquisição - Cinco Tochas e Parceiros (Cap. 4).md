@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "segunda-inquisicao-cinco-tochas-e-parceiros-cap-4"
+publico: narrador
+livro: "Segunda Inquisição"
+grupo: "Segunda Inquisição"
+rotulo: "Cinco Tochas e Parceiros (Cap. 4)"
+tipo: narração
+---
+
 #mecânica #narrador #segunda-inquisição #antagonistas #estatísticas #suplemento
 
 # Segunda Inquisição — Cinco Tochas e Parceiros (Cap. 4: Fire Teams)

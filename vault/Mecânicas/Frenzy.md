@@ -1,5 +1,21 @@
+---
+publicar: true
+id: "frenzy"
+publico: jogador
+livro: "Core"
+tipo: regra
+nivel: iniciante
+---
+
 #rules #concept #important #character
 ![[Pasted image 20241128005612.png]]
+
+> [!resumo] Em 30 segundos
+> - Para resistir, faça um teste de Willpower contra a Dificuldade do Narrador, somando dados iguais a um terço da Humanidade (arredondado para baixo).
+> - Há três tipos: Fúria (provocação), Fome (Rouse Check falho com Fome 5) e Terror (fogo, luz solar, dano grave).
+> - Resistir com sucesso custa um turno; com sucesso crítico não custa turno.
+> - Em frenzy o personagem passa ao Narrador, só usa Disciplinas físicas e resiste às mentais com +3 dados; gastar 1 Willpower devolve o controle por um turno.
+> - Rides the Wave: ceder ao frenzy sem teste, interpretando-o (por exemplo, escolhendo a primeira vítima).
 
 ```table-of-contents
 ```

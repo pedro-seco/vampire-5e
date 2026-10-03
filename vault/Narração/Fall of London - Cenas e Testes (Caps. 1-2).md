@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "fall-of-london-cenas-e-testes-caps-1-2"
+publico: narrador
+livro: "Fall of London"
+grupo: "Fall of London"
+rotulo: "Cenas e Testes (Caps. 1-2)"
+tipo: narração
+---
+
 #mecânica #narrador #fall-of-london #aventura #testes #suplemento
 
 # Fall of London — Cenas e Testes (Caps. 1-2)

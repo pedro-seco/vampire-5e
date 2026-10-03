@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "book-of-nod-gehenna-cults-loresheet"
+publico: jogador
+livro: "Book of Nod"
+grupo: "Book of Nod"
+rotulo: "Gehenna Cults Loresheet"
+tipo: regra
+---
+
 #mecânica #loresheets #backgrounds #vantagens #apocrypha #antagonistas #cultos
 
 # Gehenna Cults Loresheet

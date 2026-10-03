@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "mortais-e-ghouls-jogaveis"
+publico: jogador
+livro: "Companion"
+grupo: "Companion"
+rotulo: "Mortais e Ghouls Jogáveis"
+tipo: regra
+---
+
 #mecânica #rules #character #mortais #ghouls #suplemento
 
 # Mortais e Ghouls Jogáveis

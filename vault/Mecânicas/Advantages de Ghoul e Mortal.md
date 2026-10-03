@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "advantages-de-ghoul-e-mortal"
+publico: jogador
+livro: "Companion"
+grupo: "Companion"
+rotulo: "Advantages de Ghoul e Mortal"
+tipo: regra
+---
+
 #mecânica #rules #advantages #ghouls #mortais #suplemento
 
 # Advantages de Ghoul e Mortal

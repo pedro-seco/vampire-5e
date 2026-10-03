@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "player-s-guide-antagonistas-consolidados"
+publico: narrador
+livro: "Player's Guide"
+grupo: "Player's Guide"
+rotulo: "Antagonistas Consolidados"
+tipo: regra
+---
+
 #mecânica #antagonistas #ghouls #tzimisce #necromancia #player-guide #suplemento
 
 # Player's Guide — Antagonistas Consolidados

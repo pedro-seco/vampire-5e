@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "cults-of-the-blood-gods-ashfinders-beast-shards-amber-e-mortius"
+publico: narrador
+livro: "Cults of the Blood Gods"
+grupo: "Cults of the Blood Gods"
+rotulo: "Ashfinders (Beast Shards, Amber e Mortius)"
+tipo: narração
+---
+
 #narração #cultos #ashfinders #antagonistas #npc #beast-shards #cults-of-blood-gods #suplemento
 
 # Cults of the Blood Gods — Ashfinders (Beast Shards, Amber e Mortius)

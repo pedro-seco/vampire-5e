@@ -1,3 +1,11 @@
+---
+publicar: true
+id: "perigos-do-sangue"
+publico: jogador
+livro: "Core"
+tipo: regra
+---
+
 #lore #important #rules #concept
 
 ![[Pasted image 20241128131034.png]]

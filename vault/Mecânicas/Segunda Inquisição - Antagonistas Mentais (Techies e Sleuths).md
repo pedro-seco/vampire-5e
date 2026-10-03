@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "segunda-inquisicao-antagonistas-mentais-techies-e-sleuths"
+publico: narrador
+livro: "Segunda Inquisição"
+grupo: "Segunda Inquisição"
+rotulo: "Antagonistas Mentais (Techies e Sleuths)"
+tipo: regra
+---
+
 #mecânica #narrador #antagonistas #segunda-inquisição #suplemento
 
 # Segunda Inquisição — Antagonistas Mentais (Techies e Sleuths)

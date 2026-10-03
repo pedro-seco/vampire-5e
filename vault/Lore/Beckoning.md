@@ -1,3 +1,10 @@
+---
+publicar: true
+publico: narrador
+livro: "Lore"
+tipo: lore
+---
+
 #lore #concept #gehenna
 
 # A Convocação (*The Beckoning*)

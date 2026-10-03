@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "anarch-response-algorithm"
+publico: narrador
+livro: "Anarch"
+grupo: "Anarch"
+rotulo: "Response Algorithm"
+tipo: regra
+---
+
 #mecânica #suplemento #anarch #narração
 
 # Anarch - Response Algorithm

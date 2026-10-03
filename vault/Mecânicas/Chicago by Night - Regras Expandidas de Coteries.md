@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "chicago-by-night-regras-expandidas-de-coteries"
+publico: jogador
+livro: "Chicago by Night"
+grupo: "Chicago by Night"
+rotulo: "Regras Expandidas de Coteries"
+tipo: regra
+---
+
 #mecânica #coteries #advantages #chicago-by-night #suplemento
 
 # Chicago by Night - Regras Expandidas de Coteries

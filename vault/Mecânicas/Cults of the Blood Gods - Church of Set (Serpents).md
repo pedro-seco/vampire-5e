@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "cults-of-the-blood-gods-church-of-set-serpents"
+publico: jogador
+livro: "Cults of the Blood Gods"
+grupo: "Cults of the Blood Gods"
+rotulo: "Church of Set (Serpents)"
+tipo: regra
+---
+
 #mecânica #cultos #church-of-set #ministry #setites #powers #disciplines #cults-of-blood-gods #suplemento
 
 # Cults of the Blood Gods — Church of Set (The Serpents)

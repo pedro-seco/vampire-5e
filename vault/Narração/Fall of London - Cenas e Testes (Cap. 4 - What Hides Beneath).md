@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "fall-of-london-cenas-e-testes-cap-4-what-hides-beneath"
+publico: narrador
+livro: "Fall of London"
+grupo: "Fall of London"
+rotulo: "Cenas e Testes (Cap. 4 - What Hides Beneath)"
+tipo: narração
+---
+
 #mecânica #narrador #fall-of-london #aventura #testes #suplemento
 
 # Fall of London — Cenas e Testes (Cap. 4 — What Hides Beneath)

@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "player-s-guide-loresheets-e-bloodlines-hecata"
+publico: jogador
+livro: "Player's Guide"
+grupo: "Player's Guide"
+rotulo: "Loresheets e Bloodlines Hecata"
+tipo: regra
+---
+
 #mecânica #loresheets #bloodline #hecata #player-guide #suplemento
 
 # Player's Guide — Loresheets e Bloodlines Hecata

@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "segunda-inquisicao-antagonistas-sobrenaturais-e-turncoats"
+publico: narrador
+livro: "Segunda Inquisição"
+grupo: "Segunda Inquisição"
+rotulo: "Antagonistas Sobrenaturais e Turncoats"
+tipo: regra
+---
+
 #mecânica #narrador #antagonistas #segunda-inquisição #suplemento
 
 # Segunda Inquisição — Antagonistas Sobrenaturais e Turncoats

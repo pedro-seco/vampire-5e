@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "segunda-inquisicao-antagonistas-fisicos-hitters-e-operators"
+publico: narrador
+livro: "Segunda Inquisição"
+grupo: "Segunda Inquisição"
+rotulo: "Antagonistas Físicos (Hitters e Operators)"
+tipo: regra
+---
+
 #mecânica #narrador #antagonistas #segunda-inquisição #suplemento
 
 # Segunda Inquisição — Antagonistas Físicos (Hitters e Operators)

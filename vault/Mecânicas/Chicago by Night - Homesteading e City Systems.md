@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "chicago-by-night-homesteading-e-city-systems"
+publico: narrador
+livro: "Chicago by Night"
+grupo: "Chicago by Night"
+rotulo: "Homesteading e City Systems"
+tipo: regra
+---
+
 #rules #mechanics #city-building
 
 # Homesteading, Spirit of the City e Elysium

@@ -1,7 +1,23 @@
+---
+publicar: true
+id: "dano"
+publico: jogador
+livro: "Core"
+tipo: regra
+nivel: iniciante
+---
+
 #combat #rules #important #concept #character
 
 pág 126 
 
+
+> [!resumo] Em 30 segundos
+> - Há dois tipos: Superficial (marcado com "/") e Agravado (marcado com "X"); conflito físico atinge Health e social atinge Willpower.
+> - O vencedor aplica sua margem de sucesso como dano, mais o dano da arma; dano Superficial é dividido pela metade (arredondado para cima) antes de marcar.
+> - Armas convencionais causam dano Superficial em vampiros; fogo, luz solar e garras ou presas sobrenaturais causam Agravado.
+> - Tracker cheio é Impaired: -2 dados nas pools físicas (Health) ou sociais e mentais (Willpower); dano sofrido nesse estado converte Superficial em Agravado.
+> - Health toda em dano Agravado leva o vampiro ao torpor; dano com Health cheia exige a tabela de Crippling Injuries (d10 + dano Agravado).
 
 # Introdução
 

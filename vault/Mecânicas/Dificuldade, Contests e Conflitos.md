@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "dificuldade-contests-e-conflitos"
+publico: jogador
+livro: "Core"
+tipo: regra
+nivel: iniciante
+---
+
 #rules #important #dice #combat
 
 ![[Pasted image 20241124095608.png]]

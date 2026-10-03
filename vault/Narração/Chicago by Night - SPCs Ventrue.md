@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "chicago-by-night-spcs-ventrue"
+publico: narrador
+livro: "Chicago by Night"
+grupo: "Chicago by Night"
+rotulo: "SPCs Ventrue"
+tipo: narração
+---
+
 #mecânica #narrador #spc #chicago-by-night #suplemento #ventrue #prince
 
 # Chicago by Night - SPCs Ventrue

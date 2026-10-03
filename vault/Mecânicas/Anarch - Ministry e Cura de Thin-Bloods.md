@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "anarch-ministry-e-cura-de-thin-bloods"
+publico: jogador
+livro: "Anarch"
+grupo: "Anarch"
+rotulo: "Ministry e Cura de Thin-Bloods"
+tipo: regra
+---
+
 #mecânica #suplemento #anarch #clãs #sangue-fraco
 
 # Anarch - Ministry e Cura de Thin-Bloods

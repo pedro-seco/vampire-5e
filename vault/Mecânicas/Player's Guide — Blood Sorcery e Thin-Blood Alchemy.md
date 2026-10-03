@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "player-s-guide-blood-sorcery-e-thin-blood-alchemy"
+publico: jogador
+livro: "Player's Guide"
+grupo: "Player's Guide"
+rotulo: "Blood Sorcery e Thin-Blood Alchemy"
+tipo: regra
+---
+
 #mecânica #disciplinas #blood-sorcery #rituais #thin-blood #alquimia #player-guide #suplemento
 
 # Player's Guide — Blood Sorcery e Thin-Blood Alchemy

@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "book-of-nod-prompts-de-aventura"
+publico: narrador
+livro: "Book of Nod"
+grupo: "Book of Nod"
+rotulo: "Prompts de Aventura"
+tipo: narração
+---
+
 #mecânica #narrador #suplemento #aventura #ganchos #book-of-nod #apocrypha
 
 # Book of Nod — Prompts de Aventura

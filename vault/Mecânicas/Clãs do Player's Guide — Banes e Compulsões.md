@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "clas-do-player-s-guide-banes-e-compulsoes"
+publico: jogador
+livro: "Player's Guide"
+grupo: "Player's Guide"
+rotulo: "Clãs — Banes e Compulsões"
+tipo: regra
+---
+
 #mecânica #clãs #bane #compulsão #player-guide #suplemento
 
 # Clãs do Player's Guide — Banes e Compulsões

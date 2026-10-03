@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "player-s-guide-oblivion-e-cerimonias"
+publico: jogador
+livro: "Player's Guide"
+grupo: "Player's Guide"
+rotulo: "Oblivion e Cerimônias"
+tipo: regra
+---
+
 #mecânica #disciplinas #oblivion #cerimônias #necromancia #player-guide #suplemento
 
 # Player's Guide — Oblivion e Cerimônias

@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "children-of-the-blood-merits-and-flaws"
+publico: jogador
+livro: "Children of the Blood"
+grupo: "Children of the Blood"
+rotulo: "Merits and Flaws"
+tipo: regra
+---
+
 #jogador #merits #flaws #advantages
 
 # Children of the Blood — Merits and Flaws

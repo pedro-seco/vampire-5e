@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "blood-sigils-a-cena-blood-craft"
+publico: narrador
+livro: "Blood Sigils"
+grupo: "Blood Sigils"
+rotulo: "A Cena Blood Craft"
+tipo: regra
+---
+
 #mecânica #narrador #blood-craft #suplemento #blood-sigils
 
 # Blood Sigils — A Cena Blood Craft

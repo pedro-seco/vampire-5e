@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-cronicas-planejamento-e-estilos"
+publico: narrador
+livro: "Core"
+rotulo: "Crônicas - Planejamento e Estilos"
+tipo: narração
+---
+
 #narrador #core #crônica #planejamento #estilos
 
 # Core - Crônicas - Planejamento e Estilos

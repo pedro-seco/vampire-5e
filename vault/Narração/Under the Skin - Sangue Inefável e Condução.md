@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "under-the-skin-sangue-inefavel-e-conducao"
+publico: narrador
+livro: "Under the Skin"
+grupo: "Under the Skin"
+rotulo: "Sangue Inefável e Condução"
+tipo: narração
+---
+
 #mecânica #narrador #aventura #supplement #under-the-skin
 
 # Under the Skin - Sangue Inefável e Condução

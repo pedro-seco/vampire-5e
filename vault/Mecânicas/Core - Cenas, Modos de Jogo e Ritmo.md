@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-cenas-modos-de-jogo-e-ritmo"
+publico: jogador
+livro: "Core"
+rotulo: "Cenas, Modos de Jogo e Ritmo"
+tipo: regra
+---
+
 #mecânica #rules #core #cenas #modos-de-jogo #hunger #opcional
 
 # Core - Cenas, Modos de Jogo e Ritmo

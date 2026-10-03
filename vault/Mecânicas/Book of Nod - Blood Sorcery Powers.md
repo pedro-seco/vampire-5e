@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "book-of-nod-blood-sorcery-powers"
+publico: jogador
+livro: "Book of Nod"
+grupo: "Book of Nod"
+rotulo: "Blood Sorcery Powers"
+tipo: regra
+---
+
 #mecânica #blood-sorcery #disciplinas #suplemento #apocrypha
 
 # Book of Nod — Blood Sorcery Powers

@@ -1,3 +1,11 @@
+---
+publicar: true
+publico: jogador
+livro: "Lore"
+tipo: lore
+nivel: iniciante
+---
+
 #lore #concept
 ![[Pasted image 20241127221511.png]]
 

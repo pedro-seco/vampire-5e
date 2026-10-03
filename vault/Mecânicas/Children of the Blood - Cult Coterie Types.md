@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "children-of-the-blood-cult-coterie-types"
+publico: jogador
+livro: "Children of the Blood"
+grupo: "Children of the Blood"
+rotulo: "Cult Coterie Types"
+tipo: regra
+---
+
 #jogador #coteries #structure
 
 # Children of the Blood — Cult Coterie Types

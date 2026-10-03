@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-loresheets-parte-2"
+publico: jogador
+livro: "Core"
+rotulo: "Loresheets (parte 2)"
+tipo: regra
+---
+
 #mecânica #rules #core #loresheets #advantages
 
 # Core - Loresheets (parte 2)

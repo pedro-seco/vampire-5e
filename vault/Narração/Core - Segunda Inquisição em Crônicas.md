@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-segunda-inquisicao-em-cronicas"
+publico: narrador
+livro: "Core"
+rotulo: "Segunda Inquisição em Crônicas"
+tipo: narração
+---
+
 #mecânica #narrador #core #segunda-inquisição #crônica #antagonistas
 
 # Core - Segunda Inquisição em Crônicas

@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-jogo-consciente-considerate-play"
+publico: jogador
+livro: "Core"
+rotulo: "Jogo Consciente (Considerate Play)"
+tipo: regra
+---
+
 #mecânica #core #mesa #segurança #apêndice
 
 # Core - Jogo Consciente (Considerate Play)

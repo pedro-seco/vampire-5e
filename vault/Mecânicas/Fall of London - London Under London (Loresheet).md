@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "fall-of-london-london-under-london-loresheet"
+publico: jogador
+livro: "Fall of London"
+grupo: "Fall of London"
+rotulo: "London Under London (Loresheet)"
+tipo: regra
+---
+
 #mecânica #loresheet #nosferatu #suplemento
 
 # Fall of London — London Under London (Loresheet)

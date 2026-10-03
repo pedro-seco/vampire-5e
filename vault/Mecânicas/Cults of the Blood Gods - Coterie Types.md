@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "cults-of-the-blood-gods-coterie-types"
+publico: jogador
+livro: "Cults of the Blood Gods"
+grupo: "Cults of the Blood Gods"
+rotulo: "Coterie Types"
+tipo: regra
+---
+
 #mecânica #coteries #coterie-types #advantages #cults-of-blood-gods #suplemento
 
 # Cults of the Blood Gods — New Coterie Types

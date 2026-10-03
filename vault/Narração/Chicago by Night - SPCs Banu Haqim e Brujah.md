@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "chicago-by-night-spcs-banu-haqim-e-brujah"
+publico: narrador
+livro: "Chicago by Night"
+grupo: "Chicago by Night"
+rotulo: "SPCs Banu Haqim e Brujah"
+tipo: narração
+---
+
 #mecânica #narrador #spc #chicago-by-night #suplemento #banu-haqim #brujah #anarch
 
 # Chicago by Night - SPCs Banu Haqim e Brujah

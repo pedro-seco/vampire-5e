@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "segunda-inquisicao-armas-municao-e-xtechnology"
+publico: narrador
+livro: "Segunda Inquisição"
+grupo: "Segunda Inquisição"
+rotulo: "Armas, Munição e XTechnology"
+tipo: regra
+---
+
 #mecânica #narrador #suplemento #armas #segunda-inquisição
 
 # Segunda Inquisição — Armas, Munição e XTechnology

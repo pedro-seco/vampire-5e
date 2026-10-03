@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "chicago-by-night-loresheets-personagens"
+publico: jogador
+livro: "Chicago by Night"
+grupo: "Chicago by Night"
+rotulo: "Loresheets (Personagens)"
+tipo: regra
+---
+
 #mecânica #loresheets #advantages #chicago-by-night #suplemento #personagens
 
 # Chicago by Night - Loresheets (Personagens)

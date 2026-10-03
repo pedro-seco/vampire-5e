@@ -1,4 +1,20 @@
+---
+publicar: true
+id: "advantages-e-flaws"
+titulo: "Advantages e Flaws"
+publico: jogador
+livro: "Core"
+tipo: regra
+---
+
 #rules #character #important
+
+> [!resumo] Em 30 segundos
+> - Na criação, escolha até 7 dots de Advantages (Merits e Backgrounds) e pelo menos 2 pontos de Flaws.
+> - Merits são traços internos e constantes; Backgrounds são externos, discretos (o mesmo pode ser comprado mais de uma vez) e podem ser perdidos, roubados ou removidos pelo Narrador.
+> - Todo Background precisa de justificativa de como foi obtido e deve ter relevância à existência vampírica.
+> - Allies são mortais; Mawla é um Kindred que cuida de você e espera reciprocidade.
+> - O Narrador pode restringir Advantages, exigir Backgrounds (como um haven da coterie) e decide quais Loresheets existem.
 
 ```table-of-contents
 ```

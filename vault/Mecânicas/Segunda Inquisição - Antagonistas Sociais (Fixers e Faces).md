@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "segunda-inquisicao-antagonistas-sociais-fixers-e-faces"
+publico: narrador
+livro: "Segunda Inquisição"
+grupo: "Segunda Inquisição"
+rotulo: "Antagonistas Sociais (Fixers e Faces)"
+tipo: regra
+---
+
 #mecânica #narrador #antagonistas #segunda-inquisição #suplemento
 
 # Segunda Inquisição — Antagonistas Sociais (Fixers e Faces)

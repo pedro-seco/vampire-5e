@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "segunda-inquisicao-opfor-e-construcao-de-forcas-de-caca"
+publico: narrador
+livro: "Segunda Inquisição"
+grupo: "Segunda Inquisição"
+rotulo: "OPFOR e Construção de Forças de Caça"
+tipo: regra
+---
+
 #mecânica #narrador #antagonistas #segunda-inquisição #suplemento
 
 # Segunda Inquisição — OPFOR e Construção de Forças de Caça

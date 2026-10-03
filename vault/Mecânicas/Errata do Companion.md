@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "errata-do-companion"
+publico: jogador
+livro: "Companion"
+grupo: "Companion"
+rotulo: "Errata"
+tipo: regra
+---
+
 #mecânica #rules #errata #suplemento
 
 # Errata e Regras Opcionais do Companion

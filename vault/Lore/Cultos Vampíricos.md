@@ -1,3 +1,10 @@
+---
+publicar: true
+publico: jogador
+livro: "Lore"
+tipo: lore
+---
+
 #lore #cultos #religiões
 
 # Cultos e Religiões Vampíricas

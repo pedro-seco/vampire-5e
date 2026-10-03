@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "children-of-the-blood-loresheet-the-ashfinders"
+publico: jogador
+livro: "Children of the Blood"
+grupo: "Children of the Blood"
+rotulo: "Loresheet The Ashfinders"
+tipo: regra
+---
+
 #jogador #loresheet #thin-blood
 
 # Children of the Blood — Loresheet: The Ashfinders

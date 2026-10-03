@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "fall-of-london-personagens-pre-gerados"
+publico: narrador
+livro: "Fall of London"
+grupo: "Fall of London"
+rotulo: "Personagens Pré-gerados"
+tipo: narração
+---
+
 #narrador #personagens-pregerados #memoriam #suplemento
 
 # Fall of London — Personagens Pré-gerados

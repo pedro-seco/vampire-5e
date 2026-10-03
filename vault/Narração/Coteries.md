@@ -1,3 +1,11 @@
+---
+publicar: true
+id: "coteries"
+publico: narrador
+livro: "Core"
+tipo: narração
+---
+
 #rules #character #important #concept
 
 ```table-of-contents

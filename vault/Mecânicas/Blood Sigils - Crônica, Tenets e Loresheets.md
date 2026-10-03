@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "blood-sigils-cronica-tenets-e-loresheets"
+publico: narrador
+livro: "Blood Sigils"
+grupo: "Blood Sigils"
+rotulo: "Crônica, Tenets e Loresheets"
+tipo: regra
+---
+
 #mecânica #loresheets #narrador #crônica #suplemento #blood-sigils
 
 # Blood Sigils — Crônica, Tenets e Loresheets

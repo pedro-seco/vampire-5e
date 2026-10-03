@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "camarilla-conflito-institucional"
+publico: narrador
+livro: "Camarilla"
+grupo: "Camarilla"
+rotulo: "Conflito Institucional"
+tipo: regra
+---
+
 #mecânica #camarilla #conflito #influence #suplemento
 
 # Camarilla - Conflito Institucional

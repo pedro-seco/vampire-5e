@@ -1,4 +1,20 @@
+---
+publicar: true
+id: "xp-e-avanco"
+titulo: "XP e Avanço"
+publico: jogador
+livro: "Core"
+tipo: regra
+---
+
 #mecânica #referência #avanço
+
+> [!resumo] Em 30 segundos
+> - O Narrador concede 1 XP por sessão jogada e +1 ao fim de cada história (2 por sessão em crônicas curtas, se quiser).
+> - Atributo: novo rating x 5. Skill: novo rating x 3. Especialidade: 3 XP.
+> - Disciplina: novo rating x 5 no clã, x 7 fora do clã e x 6 para Caitiff; Ritual ou Fórmula: nível x 3.
+> - Blood Potency: novo nível x 10. Humanidade: novo rating x 10, a critério do Narrador. Advantage: 3 XP por dot.
+> - Willpower não é comprada (sobe com Composure e Resolve), e não se pulam níveis ao comprar.
 
 # Experiência (XP)
 

@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "fall-of-london-loresheets"
+publico: jogador
+livro: "Fall of London"
+grupo: "Fall of London"
+rotulo: "Loresheets"
+tipo: regra
+---
+
 #mecânica #loresheets #suplemento
 
 # Fall of London — Loresheets

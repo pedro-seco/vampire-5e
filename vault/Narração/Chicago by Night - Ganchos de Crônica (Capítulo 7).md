@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "chicago-by-night-ganchos-de-cronica-capitulo-7"
+publico: narrador
+livro: "Chicago by Night"
+grupo: "Chicago by Night"
+rotulo: "Ganchos de Crônica (Capítulo 7)"
+tipo: narração
+---
+
 #mecânica #narrador #chicago-by-night #suplemento #ganchos #aventura
 
 # Chicago by Night - Ganchos de Crônica (Capítulo 7)

@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "children-of-the-blood-loresheet-starfall-ranch"
+publico: jogador
+livro: "Children of the Blood"
+grupo: "Children of the Blood"
+rotulo: "Loresheet Starfall Ranch"
+tipo: regra
+---
+
 #jogador #loresheet #malkavian
 
 # Children of the Blood — Loresheet: Starfall Ranch

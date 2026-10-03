@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-memoriam"
+publico: jogador
+livro: "Core"
+rotulo: "Memoriam"
+tipo: regra
+---
+
 #mecânica #rules #core #memoriam #projects #opcional
 
 # Core - Memoriam

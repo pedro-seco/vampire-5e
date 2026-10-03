@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "diablerie-blood-bond-e-ghouls"
+titulo: "Diablerie, Blood Bond e Ghouls"
+publico: jogador
+livro: "Core"
+tipo: regra
+---
+
 #lore #concept #blood #rules
 
 ![[Pasted image 20241127204855.png]]

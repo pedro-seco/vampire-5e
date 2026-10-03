@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "companion-conceitos-arquetipos-e-conducao-de-mortais-e-ghouls"
+publico: jogador
+livro: "Companion"
+grupo: "Companion"
+rotulo: "Conceitos, Arquétipos e Condução de Mortais e Ghouls"
+tipo: regra
+---
+
 #mecânica #rules #character #mortais #ghouls #suplemento #companion
 
 # Companion - Conceitos, Arquétipos e Condução de Mortais e Ghouls

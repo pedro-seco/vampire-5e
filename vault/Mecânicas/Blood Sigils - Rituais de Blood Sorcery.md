@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "blood-sigils-rituais-de-blood-sorcery"
+publico: jogador
+livro: "Blood Sigils"
+grupo: "Blood Sigils"
+rotulo: "Rituais de Blood Sorcery"
+tipo: regra
+---
+
 #mecânica #blood-sorcery #rituais #suplemento #blood-sigils
 
 # Blood Sigils — Rituais de Blood Sorcery

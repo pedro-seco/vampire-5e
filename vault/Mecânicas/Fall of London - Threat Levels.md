@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "fall-of-london-threat-levels"
+publico: narrador
+livro: "Fall of London"
+grupo: "Fall of London"
+rotulo: "Threat Levels"
+tipo: regra
+---
+
 #mecânica #narrador #operation-antigen #suplemento #regras-de-operacao
 
 # Fall of London — Threat Levels

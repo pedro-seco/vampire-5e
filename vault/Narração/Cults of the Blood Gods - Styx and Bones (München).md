@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "cults-of-the-blood-gods-styx-and-bones-munchen"
+publico: narrador
+livro: "Cults of the Blood Gods"
+grupo: "Cults of the Blood Gods"
+rotulo: "Styx and Bones (München)"
+tipo: narração
+---
+
 #narração #aventura #crônica #hecata #münchen #antagonistas #styx-and-bones #cults-of-blood-gods #suplemento
 
 # Cults of the Blood Gods — Styx and Bones (München)

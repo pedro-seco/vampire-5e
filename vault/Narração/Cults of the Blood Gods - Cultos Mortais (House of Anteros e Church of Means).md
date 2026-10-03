@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "cults-of-the-blood-gods-cultos-mortais-house-of-anteros-e-church-of-means"
+publico: narrador
+livro: "Cults of the Blood Gods"
+grupo: "Cults of the Blood Gods"
+rotulo: "Cultos Mortais (House of Anteros e Church of Means)"
+tipo: narração
+---
+
 #narração #cultos #cultos-mortais #antagonistas #npc #house-of-anteros #church-of-means #cults-of-blood-gods #suplemento
 
 # Cults of the Blood Gods — Cultos Mortais (House of Anteros e Church of Means)

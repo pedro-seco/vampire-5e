@@ -1,3 +1,11 @@
+---
+publicar: true
+id: "dyscrasias"
+publico: jogador
+livro: "Core"
+tipo: regra
+---
+
 #concept #resonance #blood #feeding 
 
 ![[Pasted image 20241122190542.png]]

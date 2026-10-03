@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "children-of-the-blood-loresheet-cleopatras"
+publico: jogador
+livro: "Children of the Blood"
+grupo: "Children of the Blood"
+rotulo: "Loresheet Cleopatras"
+tipo: regra
+---
+
 #jogador #loresheet #nosferatu
 
 # Children of the Blood — Loresheet: Cleopatras

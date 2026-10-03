@@ -1,6 +1,23 @@
+---
+publicar: true
+id: "predator-types"
+titulo: "Predator Types"
+publico: jogador
+livro: "Core"
+tipo: regra
+---
+
 #concept #character #hunting 
 
 ![[Pasted image 20241122150750.png]]
+
+> [!resumo] Em 30 segundos
+> - Predator Type é escolhido na criação e descreve como o personagem costuma caçar, sem ditar seu comportamento em jogo.
+> - Cada tipo dá uma especialidade, um dot em uma Disciplina e Advantages ou Flaws próprios; alguns alteram a Humanidade.
+> - Os dez tipos do Core: Alleycat, Bagger, Cleaver, Consensualist, Farmer, Osiris, Headhunter/Blood Leech, Sandman, Scene-Queen e Siren.
+> - Ventrue não podem ser Bagger nem Farmer, e Farmer também não está disponível com Blood Potency 3 ou mais.
+> - Headhunter/Blood Leech soma 1 de Blood Potency e tira 1 de Humanidade.
+> - Os seis tipos adicionais do Player's Guide só valem se a crônica permitir.
 
 Predator Type é um dos features do seu personagem, e é uma coisa que você escolhe no momento da criação. Suas preferências de caça alimentam seu Sangue, e seu Sangue molda quais Habilidades e até [[Disciplinas]] que você desenvolve como vampiro.
 

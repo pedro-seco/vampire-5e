@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "book-of-nod-oblivion-ceremonies"
+publico: narrador
+livro: "Book of Nod"
+grupo: "Book of Nod"
+rotulo: "Oblivion Ceremonies"
+tipo: narração
+---
+
 #mecânica #oblivion #cerimônias #necromancia #suplemento #apocrypha #narrador
 
 # Book of Nod — Oblivion Ceremonies

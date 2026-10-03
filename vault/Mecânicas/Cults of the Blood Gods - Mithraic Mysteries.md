@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "cults-of-the-blood-gods-mithraic-mysteries"
+publico: jogador
+livro: "Cults of the Blood Gods"
+grupo: "Cults of the Blood Gods"
+rotulo: "Mithraic Mysteries"
+tipo: regra
+---
+
 #mecânica #cultos #mithras #mithraic #bull-god #dominate #fortitude #cults-of-blood-gods #suplemento
 
 # Cults of the Blood Gods — Mithraic Mysteries

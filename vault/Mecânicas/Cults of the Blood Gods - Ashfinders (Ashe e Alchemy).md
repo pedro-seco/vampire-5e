@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "cults-of-the-blood-gods-ashfinders-ashe-e-alchemy"
+publico: jogador
+livro: "Cults of the Blood Gods"
+grupo: "Cults of the Blood Gods"
+rotulo: "Ashfinders (Ashe e Alchemy)"
+tipo: regra
+---
+
 #mecânica #cultos #ashfinders #ashe #thin-blood #alchemy #cults-of-blood-gods #suplemento #jogador
 
 # Cults of the Blood Gods — Ashfinders (Ashe e Alchemy)

@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "children-of-the-blood-bloodline-rossellini-little-siblings"
+publico: jogador
+livro: "Children of the Blood"
+grupo: "Children of the Blood"
+rotulo: "Bloodline Rossellini (Little Siblings)"
+tipo: regra
+---
+
 #jogador #bloodline #hecata
 
 # Children of the Blood — Bloodline Rossellini (Little Siblings)

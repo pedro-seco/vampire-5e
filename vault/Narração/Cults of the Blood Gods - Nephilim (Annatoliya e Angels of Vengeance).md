@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "cults-of-the-blood-gods-nephilim-annatoliya-e-angels-of-vengeance"
+publico: narrador
+livro: "Cults of the Blood Gods"
+grupo: "Cults of the Blood Gods"
+rotulo: "Nephilim (Annatoliya e Angels of Vengeance)"
+tipo: narração
+---
+
 #narração #cultos #nephilim #antagonistas #npc #toreador #cults-of-blood-gods #suplemento
 
 # Cults of the Blood Gods — Nephilim (Annatoliya e Angels of Vengeance)

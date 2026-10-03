@@ -38,7 +38,7 @@ A vault é uma **referência rápida**, para dois públicos ao mesmo tempo: o jo
 | Player's Guide | Bem coberto | Variantes de Bane dos 16 clãs (conferir), Coterie Sheet, lore de clã em 1 parágrafo. |
 | Companion | Coberto | Só 1 parágrafo de lore por clã (Ravnos, Salubri, Tzimisce). |
 | Storyteller Toolkit | Removido a pedido; não reavaliado | 100 Sites e Omens seriam úteis na mesa, mas foi decisão sua. |
-| Anarch | **Prioridade** | Traitor Clans (variantes de clã com Disciplinas e Bane próprios), Duskborn, diferenças dos Free Clans: são opções de personagem. O restante, em resumo de Lore. |
+| Anarch | Coberto (conferido no texto) | Traitor Clans, Free Clans Brujah/Gangrel e Duskborn são só narrativa: o `.txt` não traz Disciplinas, Bane nem números novos. Loresheets e Ministry já estão na vault. Só vale lore em resumo. |
 | Camarilla | Seletivo | The Court (cargos) e Loyalty and Order, em 1 nota de Lore. Resto não. |
 | Sabbat — The Black Hand | Seletivo | Pack Patterns, títulos e Lexicon numa nota curta; domínios (surge, strongholds) como apoio de Narrador. |
 | Second Inquisition | Parar | Já tem 6 notas; mais seria detalhe de aventura. |
@@ -55,9 +55,8 @@ A vault é uma **referência rápida**, para dois públicos ao mesmo tempo: o jo
 
 1. **Glossário** com Rouse Check, Blush of Life, Blood Surge, Máscara, Abraço, Jyhad, Kindred, Hunger, Humanity, Stain: resolve ~90 links quebrados e é a maior ajuda para iniciantes.
 2. **Guia rápido de 1 página**: montar a pool, rolar, ler Hunger dice, Messy Critical e Bestial Failure, quando fazer Rouse Check.
-3. **Opções de personagem do Anarch**: Traitor Clans, Duskborn, Free Clans.
-4. **Lore curto publicado**: Kindred, Camarilla, Anarquistas, Sabbat, Segunda Inquisição, Cultos Vampíricos, Abraço, Jyhad (as notas existem em `Lore/`, só não são publicadas).
-5. **Arquétipos Hecata** (Cults) e variantes de Bane (Player's Guide), se ainda não estiverem.
+3. **Lore curto publicado**: Kindred, Camarilla, Anarquistas, Sabbat, Segunda Inquisição, Cultos Vampíricos, Abraço, Jyhad (as notas existem em `Lore/`, só não são publicadas).
+4. **Arquétipos Hecata** (Cults) e variantes de Bane (Player's Guide), se ainda não estiverem.
 
 ## Como os dados estão estruturados e o que mudar
 
@@ -85,7 +84,7 @@ A vault é uma **referência rápida**, para dois públicos ao mesmo tempo: o jo
 - Uma página por poder (~160) ou por ritual (~120): uma tabela filtrável é mais rápida de consultar.
 - Reescrever as notas ou traduzir nomes de jogo: as notas já foram auditadas e os nomes em inglês são o que se busca nos livros.
 
-**Ordem sugerida:** 2 (glossário e guia rápido) → 1 (frontmatter) → 3 (iniciante/avançado) → 4 e 5 (dados estruturados e divisão de Disciplinas) → conteúdo novo do Anarch.
+**Ordem sugerida:** 2 (glossário e guia rápido) → 1 (frontmatter) → 3 (iniciante/avançado) → 4 e 5 (dados estruturados e divisão de Disciplinas).
 
 ---
 
@@ -213,6 +212,9 @@ A vault é uma **referência rápida**, para dois públicos ao mesmo tempo: o jo
 - **Observações:** Sumário com colunas misturadas; algumas páginas (Abrek Blight, Gehenna War subseções) estão aproximadas. Não conferi se `Camarilla.md` cobre os temas listados.
 
 ## Anarch (VTM 5e, 2018)
+
+> [!info] Conferido no texto
+> As "possíveis lacunas" de Traitor Clans, Free Clans e Duskborn abaixo foram conferidas no `.txt`: são só narrativa (cartas, relatórios, diálogos), sem Disciplinas, Bane, Compulsão nem Merits novos. Não há mecânica a acrescentar à vault.
 - **Do que trata:** Livro da seita Anarquista, em formato de colagem de zines, fóruns, entrevistas e contos ("Nights of the Unbound"). Cobre história, ideologias, Free States, clãs rebeldes, jogo de crônica anarquista e o Response Algorithm.
 - **Sumário:** o .txt não traz o início do sumário (só da p. 101 em diante); capítulos iniciais reconstruídos pelos títulos, sem páginas.
   - Introdução: The Anarchs, A World of Darkness, The Experience, Invisible Monsters, What Are We (Humans, Wise, What Now), Monsters of the Recent Past, The City on the Sea (sem pág.)

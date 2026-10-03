@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "fall-of-london-ganchos-de-historia-stories-told-by-night"
+publico: narrador
+livro: "Fall of London"
+grupo: "Fall of London"
+rotulo: "Ganchos de História (Stories Told by Night)"
+tipo: narração
+---
+
 #mecânica #narrador #fall-of-london #ganchos #aventura #suplemento
 
 # Fall of London — Ganchos de História (Stories Told by Night)

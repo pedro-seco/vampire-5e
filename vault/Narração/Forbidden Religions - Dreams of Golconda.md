@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "forbidden-religions-dreams-of-golconda"
+publico: narrador
+livro: "Forbidden Religions"
+grupo: "Forbidden Religions"
+rotulo: "Dreams of Golconda"
+tipo: narração
+---
+
 #mecânica #narrador #suplemento #cultos #antagonistas #golconda #forbidden-religions
 
 # Forbidden Religions — Dreams of Golconda

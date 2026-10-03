@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "segunda-inquisicao-estruturas-de-cronica-e-temas-cap-5"
+publico: narrador
+livro: "Segunda Inquisição"
+grupo: "Segunda Inquisição"
+rotulo: "Estruturas de Crônica e Temas (Cap. 5)"
+tipo: narração
+---
+
 #mecânica #narrador #segunda-inquisição #crônica #ferramentas-de-condução #suplemento
 
 # Segunda Inquisição — Estruturas de Crônica e Temas (Cap. 5: Mirror Mazes)

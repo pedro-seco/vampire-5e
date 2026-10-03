@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "forbidden-religions-eschatological-thought"
+publico: narrador
+livro: "Forbidden Religions"
+grupo: "Forbidden Religions"
+rotulo: "Eschatological Thought"
+tipo: narração
+---
+
 #mecânica #narrador #suplemento #cultos #antagonistas #gehenna #forbidden-religions
 
 # Forbidden Religions — Eschatological Thought

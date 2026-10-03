@@ -1,6 +1,23 @@
+---
+publicar: true
+id: "entendendo-dados-e-ficha"
+publico: jogador
+livro: "Core"
+tipo: regra
+nivel: iniciante
+---
+
 #rules #important #dice 
 
 ![[Pasted image 20241127023407.png]]
+
+> [!resumo] Em 30 segundos
+> - A pool mais comum é Atributo + Habilidade; sem a Habilidade, rola-se só o Atributo, e nenhuma pool cai abaixo de 1 dado.
+> - No d10, 6 ou mais é sucesso; um par de 10 é sucesso crítico e vale 4 sucessos.
+> - Cada nível de Fome troca um dado regular por um dado de Fome (vermelho); Checks, Willpower e Humanity nunca usam dados de Fome.
+> - Messy Critical: sucesso crítico com um 10 em dado de Fome. Bestial Failure: teste falho com um 1 em dado de Fome.
+> - Uma especialidade na Skill do teste soma +1 dado.
+> - Rouse Check é um d10: 6 ou mais mantém a Fome, 5 ou menos soma +1 Fome.
 
 # Introdução
 

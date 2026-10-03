@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "blood-sigils-antagonistas-e-criaturas"
+publico: narrador
+livro: "Blood Sigils"
+grupo: "Blood Sigils"
+rotulo: "Antagonistas e Criaturas"
+tipo: regra
+---
+
 #mecânica #narrador #antagonistas #criaturas #suplemento #blood-sigils
 
 # Blood Sigils — Antagonistas e Criaturas

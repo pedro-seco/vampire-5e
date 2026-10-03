@@ -1,3 +1,10 @@
+---
+publicar: true
+publico: narrador
+livro: "Lore"
+tipo: lore
+---
+
 #lore #cultos #minor-cults #kindred-religions #cults-of-blood-gods #suplemento
 
 # Cults of the Blood Gods — Minor Cults & Fringe Faiths

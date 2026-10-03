@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "fall-of-london-cenas-e-testes-cap-6-e-epilogo"
+publico: narrador
+livro: "Fall of London"
+grupo: "Fall of London"
+rotulo: "Cenas e Testes (Cap. 6 e Epílogo)"
+tipo: narração
+---
+
 #mecânica #narrador #fall-of-london #aventura #testes #suplemento
 
 # Fall of London — Cenas e Testes (Cap. 6 — Gods and Monsters, e Epílogo)

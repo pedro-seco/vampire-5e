@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "segunda-inquisicao-farm-teams-cap-4"
+publico: narrador
+livro: "Segunda Inquisição"
+grupo: "Segunda Inquisição"
+rotulo: "Farm Teams (Cap. 4)"
+tipo: narração
+---
+
 #mecânica #narrador #segunda-inquisição #antagonistas #estatísticas #suplemento
 
 # Segunda Inquisição — Farm Teams (Cap. 4)

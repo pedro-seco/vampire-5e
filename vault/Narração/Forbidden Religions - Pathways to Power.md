@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "forbidden-religions-pathways-to-power"
+publico: narrador
+livro: "Forbidden Religions"
+grupo: "Forbidden Religions"
+rotulo: "Pathways to Power"
+tipo: narração
+---
+
 #mecânica #narrador #suplemento #cultos #antagonistas #forbidden-religions
 
 # Forbidden Religions — Pathways to Power

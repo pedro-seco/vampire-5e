@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "player-s-guide-dominio-e-merits-de-cla-de-coterie"
+publico: jogador
+livro: "Player's Guide"
+grupo: "Player's Guide"
+rotulo: "Domínio e Merits de Clã de Coterie"
+tipo: regra
+---
+
 #mecânica #coterie #domínio #player-guide #suplemento
 
 # Player's Guide — Domínio e Merits de Clã de Coterie

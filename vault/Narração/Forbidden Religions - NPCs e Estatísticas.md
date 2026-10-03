@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "forbidden-religions-npcs-e-estatisticas"
+publico: narrador
+livro: "Forbidden Religions"
+grupo: "Forbidden Religions"
+rotulo: "NPCs e Estatísticas"
+tipo: narração
+---
+
 #mecânica #narrador #suplemento #npc #antagonistas #forbidden-religions
 
 # Forbidden Religions — NPCs e Estatísticas

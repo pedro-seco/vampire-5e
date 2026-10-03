@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "chicago-by-night-spcs-nosferatu-toreador-e-tremere"
+publico: narrador
+livro: "Chicago by Night"
+grupo: "Chicago by Night"
+rotulo: "SPCs Nosferatu, Toreador e Tremere"
+tipo: narração
+---
+
 #mecânica #narrador #spc #chicago-by-night #suplemento #nosferatu #toreador #tremere
 
 # Chicago by Night - SPCs Nosferatu, Toreador e Tremere

@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "fall-of-london-artefatos-de-mithras"
+publico: narrador
+livro: "Fall of London"
+grupo: "Fall of London"
+rotulo: "Artefatos de Mithras"
+tipo: narração
+---
+
 #narrador #antagonistas #mithras #artifacts #suplemento
 
 # Fall of London — Artefatos de Mithras

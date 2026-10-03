@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "player-s-guide-poderes-de-disciplina"
+publico: jogador
+livro: "Player's Guide"
+grupo: "Player's Guide"
+rotulo: "Poderes de Disciplina"
+tipo: regra
+---
+
 #mecânica #disciplinas #poderes #player-guide #suplemento
 
 # Player's Guide — Poderes de Disciplina

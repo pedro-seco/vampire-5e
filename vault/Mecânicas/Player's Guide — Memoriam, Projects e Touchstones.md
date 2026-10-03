@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "player-s-guide-memoriam-projects-e-touchstones"
+publico: jogador
+livro: "Player's Guide"
+grupo: "Player's Guide"
+rotulo: "Memoriam, Projects e Touchstones"
+tipo: regra
+---
+
 #mecânica #memoriam #projects #touchstones #convictions #formas-de-jogo #player-guide #suplemento
 
 # Player's Guide — Memoriam, Projects e Touchstones

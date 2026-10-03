@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "forbidden-religions-merits-e-flaws"
+publico: jogador
+livro: "Forbidden Religions"
+grupo: "Forbidden Religions"
+rotulo: "Merits e Flaws"
+tipo: regra
+---
+
 #mecânica #merit #flaw
 
 # Forbidden Religions — Merits e Flaws

@@ -1,9 +1,25 @@
+---
+publicar: true
+id: "regras-avancadas"
+publico: jogador
+livro: "Core"
+tipo: regra
+---
+
 #combat #rules #dice 
 ![[Pasted image 20241123015626.png]]
 
 pág. 289
 
 
+
+> [!resumo] Em 30 segundos
+> - Extended Tests acumulam sucessos em várias rolagens: standard, series, hard, cascading e extended contest.
+> - Manobra dá de 1 a 3 dados na próxima ação ou posição vantajosa; Block se opõe à ação de outro; Minor Actions subtraem dados da ação principal.
+> - All-Out Attack dá +1 de dano, mas você não se defende; All-Out Defense dá +1 dado nas defesas.
+> - One-Roll resolve o conflito com uma rolagem por jogador contra Dificuldade fixa (2, 4 ou 6), sem re-roll de Willpower.
+> - Close combat: Strength + Brawl desarmado, Dexterity + Melee com arma de uma mão, Strength + Melee com duas mãos; defesa com a mesma pool ou Dexterity + Athletics.
+> - Em ataque-surpresa (Dexterity + Stealth contra o melhor Wits + Awareness), o primeiro ataque é resolvido contra Dificuldade 1.
 
 # Extended Tests
 

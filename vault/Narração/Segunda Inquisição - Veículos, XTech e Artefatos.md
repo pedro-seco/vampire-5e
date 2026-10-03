@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "segunda-inquisicao-veiculos-xtech-e-artefatos"
+publico: narrador
+livro: "Segunda Inquisição"
+grupo: "Segunda Inquisição"
+rotulo: "Veículos, XTech e Artefatos"
+tipo: narração
+---
+
 #mecânica #narrador #segunda-inquisição #equipamento #xtech #artefatos #suplemento
 
 # Segunda Inquisição — Veículos, XTech e Artefatos

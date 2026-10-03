@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "merits-de-coterie-por-cla"
+publico: jogador
+livro: "Companion"
+grupo: "Companion"
+rotulo: "Merits de Coterie por Clã"
+tipo: regra
+---
+
 #mecânica #rules #advantages #coterie #suplemento
 
 # Merits de Coterie por Clã

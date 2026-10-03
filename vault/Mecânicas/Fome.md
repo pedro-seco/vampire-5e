@@ -1,6 +1,22 @@
+---
+publicar: true
+id: "fome"
+publico: jogador
+livro: "Core"
+tipo: regra
+nivel: iniciante
+---
+
 #concept #rules #character #important #blood #feeding
 
 ![[Pasted image 20241127075909.png]]
+
+> [!resumo] Em 30 segundos
+> - Fome vai de 0 (saciado) a 5 (faminto ao extremo) e dá um dado de Fome por nível nos seus testes.
+> - Messy Critical é sucesso selvagem com complicação; Bestial Failure faz o vampiro agir sob uma Compulsão.
+> - Compulsões (Faminto, Dominância, Destruição, Paranoia e a do clã) dão -2 dados nas ações fora do tema e não podem ser ignoradas gastando Willpower.
+> - Beber sangue reduz a Fome, mas só drenar e matar um humano leva a 0; vampiros jovens conseguem chegar a 1 sem matar.
+> - Sangue animal e de bolsa não sacia quem tem Blood Potency acima de 2; sem Iron Gullet, vampiros não se sustentam de sangue processado.
 
 ## Sumário
 - [[#Introdução: O que é "A Fome"?|Introdução: O que é "A Fome"?]]

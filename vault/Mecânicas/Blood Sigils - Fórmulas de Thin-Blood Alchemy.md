@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "blood-sigils-formulas-de-thin-blood-alchemy"
+publico: jogador
+livro: "Blood Sigils"
+grupo: "Blood Sigils"
+rotulo: "Fórmulas de Thin-Blood Alchemy"
+tipo: regra
+---
+
 #mecânica #thin-blood-alchemy #fórmulas #suplemento #blood-sigils
 
 # Blood Sigils — Fórmulas de Thin-Blood Alchemy

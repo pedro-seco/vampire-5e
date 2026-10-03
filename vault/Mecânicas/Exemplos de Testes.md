@@ -1,3 +1,11 @@
+---
+publicar: true
+id: "exemplos-de-testes"
+publico: jogador
+livro: "Core"
+tipo: regra
+---
+
 # Sumário
 
 - [[#Testes Variados|Testes Variados]]

@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "children-of-the-blood-loresheet-amaranthan"
+publico: jogador
+livro: "Children of the Blood"
+grupo: "Children of the Blood"
+rotulo: "Loresheet Amaranthan"
+tipo: regra
+---
+
 #jogador #loresheet
 
 # Children of the Blood — Loresheet: Amaranthan

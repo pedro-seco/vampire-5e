@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "chicago-by-night-loresheets-organizacoes-e-locais"
+publico: jogador
+livro: "Chicago by Night"
+grupo: "Chicago by Night"
+rotulo: "Loresheets (Organizações e Locais)"
+tipo: regra
+---
+
 #mecânica #loresheets #advantages #chicago-by-night #suplemento #organizações
 
 # Chicago by Night - Loresheets (Organizações e Locais)

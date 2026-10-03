@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "cults-of-the-blood-gods-cult-of-shalim"
+publico: narrador
+livro: "Cults of the Blood Gods"
+grupo: "Cults of the Blood Gods"
+rotulo: "Cult of Shalim"
+tipo: regra
+---
+
 #mecânica #cultos #cult-of-shalim #nihilism #oblivion #lasombra #cults-of-blood-gods #suplemento
 
 # Cults of the Blood Gods — Cult of Shalim

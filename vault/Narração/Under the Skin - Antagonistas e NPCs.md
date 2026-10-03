@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "under-the-skin-antagonistas-e-npcs"
+publico: narrador
+livro: "Under the Skin"
+grupo: "Under the Skin"
+rotulo: "Antagonistas e NPCs"
+tipo: narração
+---
+
 #mecânica #narrador #npc #supplement #under-the-skin
 
 # Under the Skin - Antagonistas e NPCs

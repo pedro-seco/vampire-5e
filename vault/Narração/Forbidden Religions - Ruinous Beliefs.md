@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "forbidden-religions-ruinous-beliefs"
+publico: narrador
+livro: "Forbidden Religions"
+grupo: "Forbidden Religions"
+rotulo: "Ruinous Beliefs"
+tipo: narração
+---
+
 #mecânica #narrador #suplemento #cultos #antagonistas #diablerie #forbidden-religions
 
 # Forbidden Religions — Ruinous Beliefs

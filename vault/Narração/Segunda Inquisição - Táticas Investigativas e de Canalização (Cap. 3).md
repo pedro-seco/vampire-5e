@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "segunda-inquisicao-taticas-investigativas-e-de-canalizacao-cap-3"
+publico: narrador
+livro: "Segunda Inquisição"
+grupo: "Segunda Inquisição"
+rotulo: "Táticas Investigativas e de Canalização (Cap. 3)"
+tipo: narração
+---
+
 #mecânica #narrador #segunda-inquisição #táticas #antagonistas #suplemento
 
 # Segunda Inquisição — Táticas Investigativas e de Canalização (Cap. 3)

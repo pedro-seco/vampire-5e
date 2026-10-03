@@ -1,3 +1,11 @@
+---
+publicar: true
+id: "sangue-fraco"
+publico: jogador
+livro: "Core"
+tipo: regra
+---
+
 #mecânica #concept #thin-blood
 
 # Sangue Fraco (*Thin-Bloods / Duskborn*)

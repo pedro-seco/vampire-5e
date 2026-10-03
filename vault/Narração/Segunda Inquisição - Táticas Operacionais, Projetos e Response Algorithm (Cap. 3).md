@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "segunda-inquisicao-taticas-operacionais-projetos-e-response-algorithm-cap-3"
+publico: narrador
+livro: "Segunda Inquisição"
+grupo: "Segunda Inquisição"
+rotulo: "Táticas Operacionais, Projetos e Response Algorithm (Cap. 3)"
+tipo: narração
+---
+
 #mecânica #narrador #segunda-inquisição #táticas #projetos #antagonistas #suplemento
 
 # Segunda Inquisição — Táticas Operacionais, Projetos e Response Algorithm (Cap. 3)

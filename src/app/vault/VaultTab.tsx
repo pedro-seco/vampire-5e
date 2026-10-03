@@ -6,6 +6,7 @@ import { noteHash, useVaultRoute } from './route';
 import './vault.css';
 
 type Tab = 'jogador' | 'narrador';
+type Level = 'tudo' | 'iniciante';
 type SidebarEntry =
   | { kind: 'link'; entry: VaultEntry }
   | { kind: 'group'; name: string; children: VaultEntry[] };
@@ -23,8 +24,10 @@ const HEADING_SCORE = 500;
 const MAX_COUNTED_MATCHES = 200;
 const BACK_TO_TOP_THRESHOLD = 400;
 const TAB_STORAGE_KEY = 'vault-tab';
+const LEVEL_STORAGE_KEY = 'vault-level';
 const TAB_LABELS: Record<Tab, string> = { jogador: 'Jogador', narrador: 'Narrador' };
-const PART_LABELS = { base: 'Livro base', extras: 'Livros extras' } as const;
+const LEVEL_LABELS: Record<Level, string> = { tudo: 'Tudo', iniciante: 'Iniciante' };
+const PART_LABELS = { base: 'Livro base', catalogo: 'Catálogo (gerado dos dados da ficha)', lore: 'Lore', extras: 'Livros extras' } as const;
 
 function buildSidebarEntries(list: VaultEntry[]): SidebarEntry[] {
   const result: SidebarEntry[] = [];
@@ -66,6 +69,14 @@ function rankResults(list: VaultEntry[], texts: Record<string, VaultSearchEntry>
 
 const resultHash = (result: SearchResult) => noteHash(result.entry.id, result.headingId);
 
+function readStoredLevel(): Level {
+  try {
+    return localStorage.getItem(LEVEL_STORAGE_KEY) === 'iniciante' ? 'iniciante' : 'tudo';
+  } catch {
+    return 'tudo';
+  }
+}
+
 function readStoredTab(): Tab {
   try {
     return localStorage.getItem(TAB_STORAGE_KEY) === 'narrador' ? 'narrador' : 'jogador';
@@ -89,6 +100,7 @@ export function VaultTab() {
   const route = useVaultRoute();
   const searchInput = useRef<HTMLInputElement>(null);
   const [tab, setTab] = useState<Tab>(readStoredTab);
+  const [level, setLevel] = useState<Level>(readStoredLevel);
   const [query, setQuery] = useState('');
   const [search, setSearch] = useState('');
   const [texts, setTexts] = useState<Record<string, VaultSearchEntry> | null>(null);
@@ -97,7 +109,10 @@ export function VaultTab() {
   const [openGroups, setOpenGroups] = useState<Set<string>>(new Set());
   const [showBackToTop, setShowBackToTop] = useState(false);
 
-  const tabEntries = useMemo(() => entries.filter((entry) => tab === 'narrador' || entry.audience === 'jogador'), [tab]);
+  const tabEntries = useMemo(
+    () => entries.filter((entry) => (tab === 'narrador' || entry.audience === 'jogador') && (level === 'tudo' || entry.level === 'iniciante')),
+    [tab, level]
+  );
   const requested = entries.find((entry) => entry.id === route.noteId);
   const activeEntry = requested ?? tabEntries[0];
   const activeId = activeEntry?.id;
@@ -116,6 +131,15 @@ export function VaultTab() {
       return;
     }
   }, []);
+
+  const chooseLevel = (next: Level) => {
+    setLevel(next);
+    try {
+      localStorage.setItem(LEVEL_STORAGE_KEY, next);
+    } catch {
+      return;
+    }
+  };
 
   const clearSearch = () => {
     setQuery('');
@@ -229,6 +253,20 @@ export function VaultTab() {
               onClick={() => chooseTab(key)}
             >
               {TAB_LABELS[key]}
+            </button>
+          ))}
+        </div>
+        <div className="vault-tabs vault-levels" role="tablist">
+          {(Object.keys(LEVEL_LABELS) as Level[]).map((key) => (
+            <button
+              key={key}
+              type="button"
+              role="tab"
+              aria-selected={level === key}
+              className={'vault-tab' + (level === key ? ' active' : '')}
+              onClick={() => chooseLevel(key)}
+            >
+              {LEVEL_LABELS[key]}
             </button>
           ))}
         </div>

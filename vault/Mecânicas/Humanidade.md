@@ -1,6 +1,23 @@
+---
+publicar: true
+id: "humanidade"
+publico: jogador
+livro: "Core"
+tipo: regra
+nivel: iniciante
+---
+
 #important #rules #concept #character
 
 ![[Pasted image 20241128130643.png]]
+
+> [!resumo] Em 30 segundos
+> - Vampiros começam com Humanidade 7 (fledglings 8); Stains são marcadas na trilha da direita para a esquerda.
+> - No fim da sessão, quem tem Stains faz o teste de Remorso: rola os pontos não marcados da trilha (mínimo 1); um sucesso remove as Stains, falha total perde 1 de Humanidade.
+> - Stains além das caixas vazias causam Degeneration: Impaired (-2 dados) e dano Agravado em Willpower.
+> - Cada personagem tem de 1 a 3 Convictions e um Touchstone (humano vivo) por Conviction; agir em nome de uma Conviction reduz as Stains ganhas.
+> - Humanidade 5 ou menos impõe penalidade crescente de dados em interações com humanos; Humanidade 0 vira Wight, controlado pelo Narrador.
+> - Ambição recupera Willpower Agravado; o Desejo (opcional) recupera Willpower Superficial.
 
 ```table-of-contents
 ```

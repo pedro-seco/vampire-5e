@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-cidades-e-dominios"
+publico: narrador
+livro: "Core"
+rotulo: "Cidades e Domínios"
+tipo: narração
+---
+
 #mecânica #narrador #cidade #domínio #core
 
 # Core - Cidades e Domínios

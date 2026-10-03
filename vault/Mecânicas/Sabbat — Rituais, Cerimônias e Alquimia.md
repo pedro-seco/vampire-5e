@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "sabbat-rituais-cerimonias-e-alquimia"
+publico: jogador
+livro: "Sabbat"
+grupo: "Sabbat"
+rotulo: "Rituais, Cerimônias e Alquimia"
+tipo: regra
+---
+
 #mecânica #sabbat #rituais #blood-sorcery #oblivion #alchemy #suplemento
 
 # Sabbat — Rituais, Cerimônias e Alquimia

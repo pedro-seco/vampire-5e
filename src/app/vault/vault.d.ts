@@ -5,7 +5,8 @@ declare module 'virtual:vault-index' {
     group?: string;
     label?: string;
     audience: 'jogador' | 'narrador';
-    part: 'base' | 'extras';
+    part: 'base' | 'catalogo' | 'lore' | 'extras';
+    level?: 'iniciante';
   }
 
   export const entries: VaultEntry[];

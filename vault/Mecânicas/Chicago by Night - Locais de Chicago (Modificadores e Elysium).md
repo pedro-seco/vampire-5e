@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "chicago-by-night-locais-de-chicago-modificadores-e-elysium"
+publico: jogador
+livro: "Chicago by Night"
+grupo: "Chicago by Night"
+rotulo: "Locais de Chicago (Modificadores e Elysium)"
+tipo: regra
+---
+
 #mecânica #chicago-by-night #suplemento #cidade #homesteading #elysium
 
 # Chicago by Night - Locais de Chicago (Modificadores e Elysium)

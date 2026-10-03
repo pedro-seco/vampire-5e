@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "cults-of-the-blood-gods-nephilim-vitae-de-michael-e-convictions"
+publico: jogador
+livro: "Cults of the Blood Gods"
+grupo: "Cults of the Blood Gods"
+rotulo: "Nephilim (Vitae de Michael e Convictions)"
+tipo: regra
+---
+
 #mecânica #cultos #nephilim #toreador #nosferatu #convictions #cults-of-blood-gods #suplemento #jogador
 
 # Cults of the Blood Gods — Nephilim (Vitae de Michael e Convictions)

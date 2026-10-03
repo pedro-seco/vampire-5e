@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-antagonistas"
+publico: narrador
+livro: "Core"
+rotulo: "Antagonistas"
+tipo: narração
+---
+
 #mecânica #narrador #npc #antagonistas #core
 
 # Core - Antagonistas

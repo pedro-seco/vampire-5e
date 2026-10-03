@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "sabbat-ritae"
+publico: jogador
+livro: "Sabbat"
+grupo: "Sabbat"
+rotulo: "Ritae"
+tipo: regra
+---
+
 #mecânica #sabbat #ritae #suplemento
 
 # Sabbat — Ritae

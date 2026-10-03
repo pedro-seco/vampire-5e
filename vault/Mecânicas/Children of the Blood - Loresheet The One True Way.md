@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "children-of-the-blood-loresheet-the-one-true-way"
+publico: jogador
+livro: "Children of the Blood"
+grupo: "Children of the Blood"
+rotulo: "Loresheet The One True Way"
+tipo: regra
+---
+
 #jogador #loresheet
 
 # Children of the Blood — Loresheet: The One True Way

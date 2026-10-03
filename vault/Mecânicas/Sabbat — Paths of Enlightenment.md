@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "sabbat-paths-of-enlightenment"
+publico: jogador
+livro: "Sabbat"
+grupo: "Sabbat"
+rotulo: "Paths of Enlightenment"
+tipo: regra
+---
+
 #mecânica #sabbat #paths #suplemento
 
 # Sabbat — Paths of Enlightenment

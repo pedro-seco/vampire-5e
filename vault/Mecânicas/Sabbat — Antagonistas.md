@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "sabbat-antagonistas"
+publico: narrador
+livro: "Sabbat"
+grupo: "Sabbat"
+rotulo: "Antagonistas"
+tipo: regra
+---
+
 #mecânica #sabbat #npc #antagonistas #suplemento
 
 # Sabbat — Antagonistas

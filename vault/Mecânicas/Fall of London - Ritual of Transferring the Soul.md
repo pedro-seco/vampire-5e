@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "fall-of-london-ritual-of-transferring-the-soul"
+publico: jogador
+livro: "Fall of London"
+grupo: "Fall of London"
+rotulo: "Ritual of Transferring the Soul"
+tipo: regra
+---
+
 #mecânica #blood-sorcery #ritual #suplemento
 
 # Ritual of Transferring the Soul

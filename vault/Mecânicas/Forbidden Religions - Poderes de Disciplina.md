@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "forbidden-religions-poderes-de-disciplina"
+publico: jogador
+livro: "Forbidden Religions"
+grupo: "Forbidden Religions"
+rotulo: "Poderes de Disciplina"
+tipo: regra
+---
+
 #mecânica #discipline
 
 # Forbidden Religions — Poderes de Disciplina

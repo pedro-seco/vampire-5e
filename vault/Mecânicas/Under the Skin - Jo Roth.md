@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "under-the-skin-jo-roth"
+publico: jogador
+livro: "Under the Skin"
+grupo: "Under the Skin"
+rotulo: "Jo Roth"
+tipo: regra
+---
+
 #mecânica #personagens #pregerados #supplement #under-the-skin
 
 # Under the Skin — Jo Roth "The Rot"

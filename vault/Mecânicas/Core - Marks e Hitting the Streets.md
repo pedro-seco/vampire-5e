@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-marks-e-hitting-the-streets"
+publico: jogador
+livro: "Core"
+rotulo: "Marks e Hitting the Streets"
+tipo: regra
+---
+
 #mecânica #rules #core #marks #investigação #cidade
 
 # Core - Marks e Hitting the Streets

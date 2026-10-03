@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "camarilla-loresheets"
+publico: jogador
+livro: "Camarilla"
+grupo: "Camarilla"
+rotulo: "Loresheets"
+tipo: regra
+---
+
 #mecânica #loresheets #advantages #camarilla #suplemento
 
 # Camarilla - Loresheets

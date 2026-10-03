@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "player-s-guide-coteries"
+publico: jogador
+livro: "Player's Guide"
+grupo: "Player's Guide"
+rotulo: "Coteries"
+tipo: regra
+---
+
 #mecânica #coterie #player-guide #suplemento
 
 # Player's Guide — Coteries

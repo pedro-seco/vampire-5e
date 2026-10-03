@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "cults-of-the-blood-gods-predator-types"
+publico: jogador
+livro: "Cults of the Blood Gods"
+grupo: "Cults of the Blood Gods"
+rotulo: "Predator Types"
+tipo: regra
+---
+
 #mecânica #predator-types #advantages #feeding #cults-of-blood-gods #suplemento
 
 # Cults of the Blood Gods — Predator Types

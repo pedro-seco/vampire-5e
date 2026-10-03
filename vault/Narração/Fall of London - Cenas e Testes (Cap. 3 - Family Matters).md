@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "fall-of-london-cenas-e-testes-cap-3-family-matters"
+publico: narrador
+livro: "Fall of London"
+grupo: "Fall of London"
+rotulo: "Cenas e Testes (Cap. 3 - Family Matters)"
+tipo: narração
+---
+
 #mecânica #narrador #fall-of-london #aventura #testes #suplemento
 
 # Fall of London — Cenas e Testes (Cap. 3 — Family Matters)

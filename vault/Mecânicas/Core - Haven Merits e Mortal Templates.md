@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-haven-merits-e-mortal-templates"
+publico: jogador
+livro: "Core"
+rotulo: "Haven Merits e Mortal Templates"
+tipo: regra
+---
+
 #mecânica #rules #character #advantages #haven #mortais #core
 
 # Core - Haven Merits e Mortal Templates

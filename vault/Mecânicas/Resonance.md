@@ -1,6 +1,22 @@
+---
+publicar: true
+id: "resonance"
+publico: jogador
+livro: "Core"
+tipo: regra
+nivel: iniciante
+---
+
 #resonance #concept #blood #feeding #hunting  
 
 ![[Pasted image 20241122190633.png]]
+
+> [!resumo] Em 30 segundos
+> - Resonance é o "humor" do sangue mortal: Choleric, Melancholy, Phlegmatic ou Sanguine (mais Animal Blood).
+> - O temperamento pode ser Fleeting, Intense ou Acute.
+> - Intense dá +1 dado em pools de uma Disciplina correspondente até a próxima alimentação diluir o bônus ou a Fome chegar a 5; Acute dá o mesmo bônus e ainda uma Dyscrasia.
+> - Choleric favorece Celerity e Potence; Melancholy, Fortitude e Obfuscate; Phlegmatic, Auspex e Dominate; Sanguine, Blood Sorcery e Presence; Animal Blood, Animalism e Protean.
+> - Para justificar gastar XP em uma Disciplina, o personagem precisa se alimentar da Resonance correspondente.
 
 O tipo sanguínio é expresso como Resonance. A não ser que esteja buscando sobrevivência ou "combustível", aquele que se alimenta deve ligar para aquilo que consome. Vampiros bebem sangue. Mortais comem comida. Resonance saboreia o sangue, e torna o consumo um banquete.  
 

@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "player-s-guide-criacao-rapida-e-referencias-de-personagem"
+publico: jogador
+livro: "Player's Guide"
+grupo: "Player's Guide"
+rotulo: "Criação Rápida e Referências de Personagem"
+tipo: regra
+---
+
 #mecânica #criação #instant-vampires #predator-type #xp #player-guide #suplemento
 
 # Player's Guide — Criação Rápida e Referências de Personagem

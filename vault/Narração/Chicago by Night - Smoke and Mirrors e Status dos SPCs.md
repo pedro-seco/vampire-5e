@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "chicago-by-night-smoke-and-mirrors-e-status-dos-spcs"
+publico: narrador
+livro: "Chicago by Night"
+grupo: "Chicago by Night"
+rotulo: "Smoke and Mirrors e Status dos SPCs"
+tipo: narração
+---
+
 #mecânica #narrador #chicago-by-night #suplemento #cidade #tabelas #status
 
 # Chicago by Night - Smoke and Mirrors e Status dos SPCs

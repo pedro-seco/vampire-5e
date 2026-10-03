@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "book-of-nod-blood-sorcery-rituals"
+publico: jogador
+livro: "Book of Nod"
+grupo: "Book of Nod"
+rotulo: "Blood Sorcery Rituals"
+tipo: regra
+---
+
 #mecânica #blood-sorcery #rituais #disciplinas #suplemento #apocrypha
 
 # Book of Nod — Blood Sorcery Rituals

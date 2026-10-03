@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "anarch-loresheets"
+publico: jogador
+livro: "Anarch"
+grupo: "Anarch"
+rotulo: "Loresheets"
+tipo: regra
+---
+
 #mecânica #suplemento #anarch #loresheets #advantages
 
 # Anarch - Loresheets

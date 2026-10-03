@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "clas-do-companion"
+publico: jogador
+livro: "Companion"
+grupo: "Companion"
+rotulo: "Clãs"
+tipo: regra
+---
+
 #mecânica #rules #clãs #suplemento
 
 # Clãs do Companion: Ravnos, Salubri e Tzimisce

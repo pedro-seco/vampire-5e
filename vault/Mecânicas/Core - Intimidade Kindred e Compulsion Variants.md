@@ -1,3 +1,12 @@
+---
+publicar: true
+id: "core-intimidade-kindred-e-compulsion-variants"
+publico: jogador
+livro: "Core"
+rotulo: "Intimidade Kindred e Compulsion Variants"
+tipo: regra
+---
+
 #mecânica #rules #core #blood-bond #compulsions #opcional
 
 # Core - Intimidade Kindred e Compulsion Variants

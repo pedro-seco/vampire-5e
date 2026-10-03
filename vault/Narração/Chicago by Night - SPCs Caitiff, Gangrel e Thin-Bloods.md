@@ -1,3 +1,13 @@
+---
+publicar: true
+id: "chicago-by-night-spcs-caitiff-gangrel-e-thin-bloods"
+publico: narrador
+livro: "Chicago by Night"
+grupo: "Chicago by Night"
+rotulo: "SPCs Caitiff, Gangrel e Thin-Bloods"
+tipo: narração
+---
+
 #mecânica #narrador #spc #chicago-by-night #suplemento #caitiff #gangrel #thin-blood
 
 # Chicago by Night - SPCs Caitiff, Gangrel e Thin-Bloods
