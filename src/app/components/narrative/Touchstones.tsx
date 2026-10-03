@@ -2,8 +2,9 @@ import { useCharacter } from '../../context/CharacterContext';
 import { useConfirm } from '../../context/ConfirmContext';
 import type { Touchstone } from '../../types/character';
 import { Editable } from '../shared/Editable';
+import { ImageSlot } from './ImageSlot';
 
-const NEW_TOUCHSTONE: Touchstone = { name: 'New Touchstone', summary: '', linkedConviction: '', description: '' };
+const NEW_TOUCHSTONE: Touchstone = { name: 'Novo Touchstone', summary: '', linkedConviction: '', description: '' };
 
 const CONVICTION_SELECT_STYLE = {
   background: 'var(--bg-dsc)',
@@ -29,7 +30,7 @@ function LinkedConviction({ touchstone, onChange }: LinkedConvictionProps) {
   return (
     <span className="ts-link">
       <select style={CONVICTION_SELECT_STYLE} value={selected} onChange={(event) => onChange(event.target.value)}>
-        <option value="">— no conviction —</option>
+        <option value="">— sem Conviction —</option>
         {character.convictions.map((conviction, index) => (
           <option key={index} value={conviction}>→ {conviction}</option>
         ))}
@@ -38,28 +39,35 @@ function LinkedConviction({ touchstone, onChange }: LinkedConvictionProps) {
   );
 }
 
-function TouchstoneItem({ touchstone, index }: { touchstone: Touchstone; index: number }) {
+function TouchstoneStory({ touchstone, index }: { touchstone: Touchstone; index: number }) {
   const { editMode, update } = useCharacter();
   const { confirmDelete } = useConfirm();
 
-  const setField = (field: keyof Touchstone) => (value: string) =>
+  const setField = (field: 'name' | 'summary' | 'linkedConviction' | 'description') => (value: string) =>
     update((draft) => { draft.touchstones[index][field] = value; });
 
+  const setImage = (image: string | undefined) =>
+    update((draft) => {
+      if (image) draft.touchstones[index].image = image;
+      else delete draft.touchstones[index].image;
+    });
+
   const remove = () =>
-    confirmDelete('Remove touchstone "' + touchstone.name + '"?', () =>
+    confirmDelete('Remover o Touchstone "' + touchstone.name + '"?', () =>
       update((draft) => { draft.touchstones.splice(index, 1); })
     );
 
   return (
-    <div className="touchstone-item">
-      <div>
-        <Editable className="ts-name" value={touchstone.name} editable={editMode} onCommit={setField('name')} />
-        <Editable className="ts-summary" value={touchstone.summary} editable={editMode} onCommit={setField('summary')} />
+    <article className={'paper-story' + (index % 2 === 1 ? ' is-flipped' : '')}>
+      <ImageSlot image={touchstone.image} onChange={setImage} />
+      <div className="paper-text">
+        <h2><Editable className="ts-name" value={touchstone.name} editable={editMode} onCommit={setField('name')} /></h2>
+        <Editable as="div" className="ts-summary" value={touchstone.summary} editable={editMode} onCommit={setField('summary')} />
+        <LinkedConviction touchstone={touchstone} onChange={setField('linkedConviction')} />
+        <Editable as="div" className="ts-desc" value={touchstone.description} editable={editMode} onCommit={setField('description')} />
       </div>
-      <LinkedConviction touchstone={touchstone} onChange={setField('linkedConviction')} />
-      <Editable as="div" className="ts-desc" value={touchstone.description} editable={editMode} onCommit={setField('description')} />
       <button className="btn-delete" onClick={remove}>×</button>
-    </div>
+    </article>
   );
 }
 
@@ -72,16 +80,14 @@ export function Touchstones() {
   };
 
   return (
-    <div>
+    <section className="paper-touchstones">
       <div className="sh">
         Touchstones
-        <button className="sh-add" title="Add touchstone" onClick={addTouchstone}>＋</button>
+        <button className="sh-add" title="Adicionar Touchstone" onClick={addTouchstone}>＋</button>
       </div>
-      <div id="touchstones-list">
-        {character.touchstones.map((touchstone, index) => (
-          <TouchstoneItem key={index} touchstone={touchstone} index={index} />
-        ))}
-      </div>
-    </div>
+      {character.touchstones.map((touchstone, index) => (
+        <TouchstoneStory key={index} touchstone={touchstone} index={index} />
+      ))}
+    </section>
   );
 }

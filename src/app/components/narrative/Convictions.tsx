@@ -5,7 +5,7 @@ import { Editable } from '../shared/Editable';
 import { focusAndSelect } from '../shared/selectAll';
 
 const MAX_CONVICTIONS = 5;
-const NEW_CONVICTION_TEXT = 'New conviction.';
+const NEW_CONVICTION_TEXT = 'Nova Conviction.';
 const ROMAN_NUMERALS = ['I', 'II', 'III', 'IV', 'V'];
 
 const toRoman = (position: number) => ROMAN_NUMERALS[position - 1] || String(position);
@@ -32,13 +32,13 @@ export function Convictions() {
   const editConviction = (index: number) => (text: string) => update((draft) => { draft.convictions[index] = text; });
 
   const removeConviction = (index: number) =>
-    confirmDelete('Remove this conviction?', () => update((draft) => { draft.convictions.splice(index, 1); }));
+    confirmDelete('Remover esta Conviction?', () => update((draft) => { draft.convictions.splice(index, 1); }));
 
   return (
     <div>
       <div className="sh">
         Convictions
-        <button className="sh-add" title="Add conviction" onClick={addConviction}>＋</button>
+        <button className="sh-add" title="Adicionar Conviction" onClick={addConviction}>＋</button>
       </div>
       <div id="convictions-list" ref={list}>
         {character.convictions.map((conviction, index) => (
