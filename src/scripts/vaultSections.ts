@@ -6,6 +6,8 @@ export interface VaultSection {
   id: string;
   title: string;
   html: string;
+  text: string;
+  headings: { id: string; text: string }[];
   group?: string;
   label?: string;
   audience: 'jogador' | 'narrador';
@@ -253,10 +255,11 @@ class LinkResolver {
     return this.notesByName.get(name.toLowerCase());
   }
 
-  anchorFor(note: VaultNote, heading?: string): string {
-    if (!heading) return note.id;
+  routeFor(note: VaultNote, heading?: string): string {
+    const base = '#/vault/' + note.id;
+    if (!heading) return base;
     const slug = slugify(heading);
-    return this.headingsByNote.get(note.id)?.has(slug) ? note.id + '-' + slug : note.id;
+    return this.headingsByNote.get(note.id)?.has(slug) ? base + '/' + note.id + '-' + slug : base;
   }
 }
 
@@ -269,7 +272,7 @@ function renderWikilinks(markdown: string, currentNote: VaultNote, links: LinkRe
     const destination = noteName ? links.findNote(noteName) : currentNote;
 
     if (!destination) return `<span class="wiki-ref">${label}</span>`;
-    return `<a class="wiki-link" href="#${links.anchorFor(destination, heading?.trim())}">${label}</a>`;
+    return `<a class="wiki-link" href="${links.routeFor(destination, heading?.trim())}">${label}</a>`;
   });
 }
 
@@ -400,6 +403,22 @@ function compareSections(first: VaultSection, second: VaultSection): number {
   return sortKey(first.label ?? first.title).localeCompare(sortKey(second.label ?? second.title));
 }
 
+const HTML_ENTITIES: Record<string, string> = { '&amp;': '&', '&lt;': '<', '&gt;': '>', '&quot;': '"', '&#39;': "'", '&nbsp;': ' ' };
+
+function plainTextOf(html: string): string {
+  return html
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/&(?:amp|lt|gt|quot|#39|nbsp);/g, (entity) => HTML_ENTITIES[entity])
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+const HEADING_TAG = /<h[1-6] id="([^"]+)">([\s\S]*?)<\/h[1-6]>/g;
+
+function headingsOf(html: string): { id: string; text: string }[] {
+  return Array.from(html.matchAll(HEADING_TAG), (match) => ({ id: match[1], text: plainTextOf(match[2]) }));
+}
+
 export function buildVaultSections(vaultDir: string): VaultSection[] {
   const links = new LinkResolver(vaultDir);
 
@@ -407,6 +426,6 @@ export function buildVaultSections(vaultDir: string): VaultSection[] {
     const markdown = renderWikilinks(stripObsidianOnlySyntax(readNote(vaultDir, note.file)), note, links);
     const html = markdownRenderer(note).parse(markdown, { async: false });
     const grouping = groupOf(note.title);
-    return { id: note.id, title: note.title, html, audience: audienceOf(note.title), part: partOf(grouping.group), ...grouping };
+    return { id: note.id, title: note.title, html, text: plainTextOf(html), headings: headingsOf(html), audience: audienceOf(note.title), part: partOf(grouping.group), ...grouping };
   }).sort(compareSections);
 }

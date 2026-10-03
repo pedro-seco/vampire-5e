@@ -1,12 +1,12 @@
 # App — Ficha & Vault (React)
 
-React + TypeScript + Vite. Gera duas páginas: a ficha de personagem (`index.html`) e a vault
-web (`vault/index.html`), cujo conteúdo é convertido dos `.md` em `../vault` no build.
+React + TypeScript + Vite. Uma só página (`index.html`) com a ficha de personagem e a vault
+web como aba, cujo conteúdo é convertido dos `.md` em `../vault` no build, uma nota por chunk.
 Spec completa em [`SPEC.md`](SPEC.md).
 
 ```
 npm install
-npm run dev      # http://localhost:5173 (ficha) · /vault/ (vault)
+npm run dev      # http://localhost:5173 (ficha) · /#/vault (vault)
 npm run build    # tsc -b && vite build → dist/
 npm run lint
 ```
@@ -45,5 +45,5 @@ Dois bugs da versão antiga não foram reproduzidos:
 | `app/components/shared/` | Peças reutilizadas: `Editable`, `Modal`, `SearchDropdown`, `PlusMinus` e utilitários. |
 | `app/context/` | Estado do personagem: `CharacterContext` (React), `characterStore` (operações), `characterFiles` (importar/exportar), `storage` (localStorage). |
 | `app/types/`, `app/data/` | Schema do personagem e dados de regras (disciplinas, vantagens, Blood Potency, prompt). |
-| `app/vault/` | Página da vault web: `VaultApp` e a busca com destaque (`highlight.ts`). |
-| `scripts/vaultSections.ts` | Conversão das notas do Obsidian em HTML, usada pelo plugin do `vite.config.ts`. |
+| `app/vault/` | Aba da vault: `VaultTab` (lista lateral, uma nota por vez, busca), `route.ts` (rota por hash) e `highlight.ts`. |
+| `scripts/vaultSections.ts` | Conversão das notas do Obsidian em HTML, usada pelo plugin do `vite.config.ts` (módulos virtuais `virtual:vault-index`, `vault-note/<id>` e `vault-search`). |

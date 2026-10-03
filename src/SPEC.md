@@ -9,7 +9,7 @@ O build gera duas páginas:
 | Página | Entrada | URL publicada |
 | --- | --- | --- |
 | Ficha de personagem | `index.html` → `app/main.tsx` | `/vampire-5e/` |
-| Vault (regras) | `vault/index.html` → `app/vault/main.tsx` | `/vampire-5e/vault/` |
+| Vault (regras), aba da ficha | `app/vault/VaultTab.tsx` (carregado sob demanda) | `/vampire-5e/#/vault/<nota>/<subtítulo>` |
 
 ---
 
@@ -17,8 +17,8 @@ O build gera duas páginas:
 
 ```
 src/
-  index.html, vault/index.html      entradas do Vite (multi-page)
-  vite.config.ts                    plugin `vault-sections` + entradas
+  index.html                        entrada do Vite
+  vite.config.ts                    plugin `vault-notes` (módulos virtuais da vault)
   scripts/vaultSections.ts          conversão .md (Obsidian) → HTML, roda no build
   app/
     App.tsx, main.tsx, sheet.css    ficha
@@ -28,7 +28,7 @@ src/
     context/                        CharacterContext, characterStore, characterFiles, ConfirmContext, storage
     types/character.ts              schema do personagem
     data/                           disciplines.json, advantages.json, bp.json, defaultCharacter.ts, creationPrompt.ts
-    vault/                          VaultApp.tsx, highlight.ts, vault.css
+    vault/                          VaultTab.tsx, route.ts, highlight.ts, vault.css
 ```
 
 ---
@@ -50,7 +50,7 @@ modo de edição (✏), exportar (⬆), importar (⬇).
 ### Aba Mechanics
 Layout em volta do símbolo do ankh. O ankh é uma "janela" recortada na imagem de fundo
 (a mesma foto do fundo, sem o blur), com o retrato do personagem dentro do laço ou, sem
-retrato, o ícone do clã (game-icons.net, CC BY 3.0).
+retrato, o laço vazio.
 
 - **Desktop (> 820px):** palco fixo de 1440px, escalado para caber na largura. O texto abraça
   o contorno do ankh (tabela de meia-largura em `ankh/geometry.ts`). Esquerda: atributos e
@@ -118,10 +118,14 @@ importar adiciona (ou substitui, se o `id` já existir) e ativa.
 
 - Conteúdo gerado no build a partir de `../vault/Mecânicas/*.md` (lista e ordem em
   `VAULT_NOTES`, em `scripts/vaultSections.ts`). Em `npm run dev`, editar um `.md` recarrega a página.
-- Wikilinks viram links para a seção/subtítulo certo; links para notas fora da vault web
+- Uma nota por vez: o índice leve (`virtual:vault-index`) sai no chunk da aba e cada nota é um
+  chunk próprio (`virtual:vault-note/<id>`). O texto para busca (`virtual:vault-search`) só é
+  baixado na primeira busca. A rota é por hash: `#/vault/<nota>` e `#/vault/<nota>/<subtítulo>`.
+- Wikilinks viram links para a nota/subtítulo certo; links para notas fora da vault web
   aparecem como texto (`.wiki-ref`). Imagens embutidas e blocos `table-of-contents` são omitidos;
   linhas só de tags são removidas; `==destaque==` vira negrito.
-- Barra lateral com a seção ativa, busca com destaque dos termos e contagem de seções.
+- Barra lateral com a nota ativa, busca (filtra a lista, destaca os termos e conta as notas)
+  e abas Jogador/Narrador.
 
 ---
 

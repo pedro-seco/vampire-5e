@@ -1,8 +1,21 @@
 const SKIPPED_TAGS = ['SCRIPT', 'STYLE', 'INPUT'];
 
+const ACCENT_CLASSES: Record<string, string> = {
+  a: 'aàáâãäå', e: 'eèéêë', i: 'iìíîï', o: 'oòóôõö', u: 'uùúûü', c: 'cç', n: 'nñ',
+};
+
+const stripAccents = (text: string) => text.normalize('NFD').replace(/[̀-ͯ]/g, '');
+const escapeCharacter = (character: string) => character.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
 export function searchPattern(query: string): RegExp {
-  const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  return new RegExp(escaped, 'gi');
+  const words = stripAccents(query).toLowerCase().split(/\s+/).filter(Boolean);
+  const source = words
+    .map((word) => Array.from(word, (character) => {
+      const accents = ACCENT_CLASSES[character];
+      return accents ? `[${accents}]` : escapeCharacter(character);
+    }).join(''))
+    .join('\\s+');
+  return new RegExp(source, 'gi');
 }
 
 export function containsMatch(text: string, pattern: RegExp): boolean {
