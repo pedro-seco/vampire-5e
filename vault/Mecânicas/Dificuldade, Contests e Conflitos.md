@@ -11,6 +11,13 @@ nivel: iniciante
 
 ![[Pasted image 20241124095608.png]]
 
+> [!resumo] Em 30 segundos
+> - A Dificuldade é o número de sucessos necessários (de 1, Routine, a 7 ou mais, Nearly Impossible); cada dado continua precisando de 6 ou mais.
+> - Margem é o número de sucessos acima da Dificuldade; dano e efeitos de poderes usam a margem.
+> - Para modificar uma ação, mude a dice pool (circunstância do personagem) ou a Dificuldade (circunstância da ação); 2 dados equivalem a 1 de Dificuldade, e improvisos do Narrador ficam em +2/-2 de Dificuldade ou no máximo 3 dados.
+> - Em um Contest cada lado rola a própria pool, que não precisa ser a mesma (por exemplo Dexterity + Stealth contra Wits + Awareness).
+> - Um turno de Conflito termina quando todos agiram uma vez; cada jogador declara sua intenção no início, e a ordem é: corpo a corpo em andamento, à distância, corpo a corpo iniciado no turno, outras ações.
+
 ## Dificuldade
 
 O Narrador determina a Dificuldade da ação que você está tentando realizar, *settando* um número alvo de sucessos que você tem de alcançar.
