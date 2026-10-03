@@ -18,7 +18,7 @@ function noteLoaderLines(sections: VaultSection[]): string {
 }
 
 function indexModule(sections: VaultSection[]): string {
-  const entries = sections.map((section) => ({ id: section.id, title: section.title, group: section.group, label: section.label, audience: section.audience, part: section.part, level: section.level }))
+  const entries = sections.map((section) => ({ id: section.id, title: section.title, group: section.group, label: section.label, audience: section.audience, part: section.part }))
   return [
     `export const entries = ${JSON.stringify(entries)};`,
     `const noteLoaders = {\n${noteLoaderLines(sections)}\n};`,
