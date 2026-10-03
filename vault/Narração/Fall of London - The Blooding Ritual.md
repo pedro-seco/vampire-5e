@@ -100,4 +100,4 @@ Alguns meses antes, operários que cavavam as fundações da nova sede da **Bloo
 
 [[Fall of London - Ritual of Transferring the Soul]]
 [[Fall of London - Personagens Pré-gerados]]
-[[Disciplinas#Blood Sorcery|Blood Sorcery]]
+[[Disciplinas - Blood Sorcery#Blood Sorcery|Blood Sorcery]]

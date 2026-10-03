@@ -293,7 +293,7 @@ O livro inclui cinco personagens jogáveis com flashbacks integrados:
 
 - Segunda Inquisição como ameaça sistêmica → [[Lore/Segunda Inquisição]]
 - Operação Antígeno (origem de Londres) → [[Lore/Segunda Inquisição#FIRSTLIGHT SO13 Reino Unido|FIRSTLIGHT/SO13]]
-- Ritual de transferência de alma (Oblivion + Blood Sorcery) → [[Mecânicas/Disciplinas#Oblivion|Oblivion]], [[Mecânicas/Disciplinas#Blood Sorcery|Blood Sorcery]]
+- Ritual de transferência de alma (Oblivion + Blood Sorcery) → [[Disciplinas - Oblivion#Oblivion|Oblivion]], [[Disciplinas - Blood Sorcery#Blood Sorcery|Blood Sorcery]]
 - Thin-bloods de Londres (Najma Elmi) → [[Sangue Fraco]]
 - Tremere House Carna → [[Mecânicas/Clãs#Tremere|Tremere]]
 - Operação Antígeno como modelo de campanha de caça → [[Narração/Guia do Narrador]]

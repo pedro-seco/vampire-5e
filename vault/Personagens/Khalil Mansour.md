@@ -68,19 +68,19 @@
 
 ## Disciplinas
 
-[[Mecânicas/Disciplinas#Animalism\|Animalism]] ●●●
+[[Disciplinas - Animalism#Animalism|Animalism]] ●●●
 - Bond Famulus — famulus: enxame de aranhas aninhado no corpo
 - Feral Whispers
 - Unliving Hive
 
-[[Mecânicas/Disciplinas#Obfuscate\|Obfuscate]] ●●
+[[Disciplinas - Obfuscate#Obfuscate|Obfuscate]] ●●
 - Silence of Death
 - Unseen Passage
 
-[[Mecânicas/Disciplinas#Celerity\|Celerity]] ●
+[[Disciplinas - Celerity#Celerity|Celerity]] ●
 - Rapid Reflexes
 
-[[Mecânicas/Disciplinas#Potence\|Potence]] ●
+[[Disciplinas - Potence#Potence|Potence]] ●
 - Lethal Body
 
 ---

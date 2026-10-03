@@ -35,7 +35,7 @@ A **Revolta Anarquista** (*Anarch Revolt*) nasceu quase simultaneamente à forma
 
 Os Anarchs enfrentam seus desafios com métodos criativos e descentralizados:
 
-- **Mobilidade e Tecnologia:** Usam celulares descartáveis, disfarces e redes online para evitar rastreamento. Muitos recorrem a hackers, manipulação de identidades e *[[Disciplinas#Dominate|Dominações]]* para garantir segurança.
+- **Mobilidade e Tecnologia:** Usam celulares descartáveis, disfarces e redes online para evitar rastreamento. Muitos recorrem a hackers, manipulação de identidades e *[[Disciplinas - Dominate#Dominate|Dominações]]* para garantir segurança.
 - **Presença Mortal:** Diferente da [[Camarilla]], os Anarchs se integram mais profundamente na sociedade humana, mantendo famílias, trabalhos ou identidades secretas, tornando-os simultaneamente mais vulneráveis e difíceis de rastrear.
 - **Autenticidade Cultural:** Em vez de se esconderem atrás de ornamentos excessivos, muitos Anarchs mantêm estilos simples que refletem suas origens e personalidades, desde gangues de rua até DJs ou líderes de cultos.
 
