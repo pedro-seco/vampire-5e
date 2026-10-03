@@ -18,7 +18,7 @@
     "level": 5,
     "source": "Cults of the Blood Gods, p. 85",
     "cost": "sem rolagem, mas causa 2 de dano Agravado de Health ao remover (nenhum poder mitiga esse dano); recolocar o coração exige 2 Rouse Checks",
-    "pool": "",
+    "pool": "Nenhuma (sem rolagem)",
     "duration": "permanente (ou até o coração ser destruído ou devolvido)",
     "prerequisite": "",
     "amalgam": "Fortitude 2",
@@ -113,7 +113,7 @@
     "duration": "uma cena",
     "prerequisite": "",
     "amalgam": "",
-    "body": "",
+    "body": "Os olhos do vampiro ficam negros, permitindo-lhe enxergar com clareza na escuridão total e perceber fantasmas que não estejam escondendo ativamente a própria presença.",
     "system": "Olhos pretos. Ignora todas as penalidades de baixa luz, inclusive sobrenaturais (ainda precisa dos olhos: vendas funcionam). Fantasmas presentes que não se escondam tornam-se visíveis (aparecem como desejam: humanos com ferimentos, monstruosidades etc.); eles não sabem automaticamente que foram vistos. Não permite contato físico com fantasmas. Os olhos pretos dão -2 dados em interações sociais com mortais."
   },
   {
@@ -126,7 +126,7 @@
     "duration": "passivo",
     "prerequisite": "",
     "amalgam": "",
-    "body": "",
+    "body": "Aplicando sutilmente a influência de Oblivion às sombras ambientes, o usuário mascara sua aparência ou parece mais sinistro e ameaçador.",
     "system": "Bônus de +2 dados em Stealth e em Intimidation contra mortais. Passivo."
   },
   {
@@ -226,7 +226,7 @@
     "level": 3,
     "source": "Player's Guide, p. 89",
     "cost": "1 Rouse Check",
-    "pool": "",
+    "pool": "Nenhuma",
     "duration": "uma cena",
     "prerequisite": "",
     "amalgam": "Auspex 1",

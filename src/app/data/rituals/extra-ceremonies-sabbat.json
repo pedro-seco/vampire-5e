@@ -12,7 +12,7 @@
     "process": "O usuário passa uma cena isolado, contata o espectro e o vincula à tela, que então é guardada num recipiente à prova de luz. O efeito começa quando a tela é retirada e presa a um pedaço visível de pele ou roupa.",
     "duration": "Uma cena inteira ou até a tela ser removida",
     "prerequisite": "Shadow Cast",
-    "body": "",
+    "body": "Selando um pacto com um espírito da morte, o conjurador compra para si um curto período de imunidade à vigilância, enquanto a entidade de outro mundo embaralha as câmeras ao redor do vampiro.",
     "system": "Não se faz a rolagem do Ritual até a ativação; se possível o resultado deve ser mantido em segredo do jogador. Se bem-sucedido, câmeras ao redor do conjurador embaralham a imagem dele (captam o resto normalmente). Dura uma cena inteira ou até a tela ser removida."
   },
   {
@@ -28,7 +28,7 @@
     "process": "Começa com uma festa: mortais são confinados ao local e torturados até a morte. Os restos de suas almas são ligados ao local, os ossos enterrados, e eles passam a dividir o tormento com quem entra sem convite.",
     "duration": "",
     "prerequisite": "Aura of Decay",
-    "body": "",
+    "body": "Alguns lugares parecem assombrados, arrepiando mortais e vampiros. Um lugar sob Harrowhaunt é de outra categoria: os locais submetidos a esta Cerimônia transmitem uma sensação tão miasmática de pavor que a maioria das criaturas que respiram tem dificuldade de, bem, respirar, quanto mais ficar. Vampiros do Sabbat costumam usá-la para desencorajar visitantes indesejados de se demorar perto de seus refúgios comunitários. Embora não afugente vampiros invasores, a maioria dos mortais dará inconscientemente a volta mais longa, ou inventará desculpas para verificar os boatos sobre o lugar \"amanhã... provavelmente\".",
     "system": "Mortais que entram na vizinhança (até um prédio de dois andares) sofrem um terror irracional e precisam passar em Composure + Resolve a cada turno para permanecer. Se falham, aceitam qualquer desculpa para sair; em falha total fogem aos gritos. Vampiros são menos afetados, mas cada cena passada no local exige um teste de frenesi de terror. Não afasta vampiros invasores."
   },
   {
@@ -44,7 +44,7 @@
     "process": "Basta pôr uma gota de saliva na pele da vítima, alimentando-se dela ou esfregando por contato físico.",
     "duration": "",
     "prerequisite": "Necrotic Touch",
-    "body": "",
+    "body": "Embora muitos dos efeitos entrópicos de Oblivion se restrinjam a mortais, esta Cerimônia permite ao usuário infectar o sangue de um vessel, transformando um mortal de aparência saudável em puro veneno para os filhos de Caine.",
     "system": "A vítima não mostra sintomas e não sabe do perigo que representa. Quem se alimenta dela só nota um gosto rançoso e estranho (o Narrador generoso pode permitir Wits + Survival, Dificuldade 3, para perceber e abortar). Terminada a alimentação, o vampiro ganha Hunger em vez de saciar, 1 para 1 (quem saciaria 3 Hunger ganha 3), com risco provável de frenesi de fome (Core, p. 220). De qualquer forma, o mortal infectado morre durante o sono na noite seguinte, deixando como pista apenas um bolor e suor ácido."
   }
 ]

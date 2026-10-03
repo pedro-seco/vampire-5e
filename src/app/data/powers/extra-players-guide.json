@@ -71,7 +71,7 @@
     "source": "Player's Guide, p. 70",
     "cost": "1 Rouse Check e Willpower adicional conforme as circunstâncias",
     "pool": "Composure + Auspex, Dificuldade 2",
-    "duration": "",
+    "duration": "N/A",
     "prerequisite": "",
     "amalgam": "Fortitude 1",
     "body": "Acalma turbulência mental ou emocional do sujeito e restaura Willpower.",
@@ -126,7 +126,7 @@
     "duration": "Uma cena",
     "prerequisite": "",
     "amalgam": "",
-    "body": "",
+    "body": "O vampiro realiza tarefas demoradas com velocidade ofuscante: seus dedos e mãos viram um borrão ao escrever, consertar ou construir coisas em tempo recorde. Embora a concentração exigida o impeça de usar essa velocidade para atacar, ela permite alcançar fins não violentos mais depressa quando está sob pressão ou sob ataque direto.",
     "system": "O vampiro conclui em segundos tarefas de Skill que levariam turnos e pode tratar uma ação completa como minor action (Core, p. 298). Não acelera ataques, defesas nem tarefas ativamente resistidas, mas permite, por exemplo, arrombar uma fechadura e atirar (com -2 dados, como nas minor actions)."
   },
   {
@@ -135,11 +135,11 @@
     "level": 3,
     "source": "Player's Guide, p. 72",
     "cost": "1 Rouse Check",
-    "pool": "",
+    "pool": "N/A",
     "duration": "Uma cena",
     "prerequisite": "Rapid Reflexes",
     "amalgam": "",
-    "body": "",
+    "body": "Um vampiro com este poder se move rápido o bastante para perceber projéteis, como facas de arremesso ou balas, em câmera lenta, e pode se esquivar deles à vontade.",
     "system": "O usuário não sofre pools decrescentes ao defender contra múltiplos ataques à distância com Dexterity + Athletics e soma o rating de Celerity a essas defesas."
   },
   {
@@ -148,11 +148,11 @@
     "level": 4,
     "source": "Player's Guide, p. 72",
     "cost": "1 Rouse Check por turno (1 para ativar, +1 por turno mantido)",
-    "pool": "",
+    "pool": "N/A",
     "duration": "Até o usuário deixar cessar",
     "prerequisite": "",
     "amalgam": "",
-    "body": "",
+    "body": "O movimento do vampiro se torna um borrão trêmulo, tornando extremamente difícil acertá-lo mesmo quando ele não percebe o oponente ou não está se defendendo ativamente.",
     "system": "Ataques que obtenham menos sucessos que o rating de Celerity do usuário sempre erram, independentemente de defesa ou esquiva; funciona contra ataques surpresa e contra ataques que não permitem defesa, como Lightning Strike."
   },
   {
@@ -178,7 +178,7 @@
     "duration": "Passivo",
     "prerequisite": "",
     "amalgam": "Fortitude 1",
-    "body": "",
+    "body": "Aqueles que já estão sob o domínio mental do vampiro têm a mente fortalecida contra interferência de outros Kindred.",
     "system": "Qualquer tentativa de terceiro de usar Dominate em quem já está sob o Dominate do vampiro sofre penalidade igual ao Fortitude do vampiro."
   },
   {
@@ -231,7 +231,7 @@
     "prerequisite": "",
     "amalgam": "",
     "body": "O vampiro só se move se escolher mover-se; não protege contra dano (pode ser esmagado ou despedaçado, assim como o chão onde pisa).",
-    "system": ""
+    "system": "Quando este poder é ativado, o vampiro só se move se escolher fazê-lo por conta própria. Isso não o torna resistente a dano: um vampiro ainda pode ser esmagado, dilacerado ou feito em pedaços, assim como o piso em que está."
   },
   {
     "name": "Invigorating Vitae",
@@ -239,11 +239,11 @@
     "level": 2,
     "source": "Player's Guide, p. 75",
     "cost": "Nenhum além dos Rouse Checks de dar sangue",
-    "pool": "",
+    "pool": "N/A",
     "duration": "Passivo",
     "prerequisite": "",
     "amalgam": "Auspex 1",
-    "body": "",
+    "body": "O vampiro consegue fortalecer a capacidade de seu Sangue de recompor carne mortal e curar doenças. Seres vivos que bebem sua vitae se recuperam com velocidade surpreendente.",
     "system": "Usar vitae para curar os vivos (ver p. 139) cura 3 níveis de dano Agravado por Rouse Check em vez de 1. Outros efeitos (virar ghoul, risco de Blood Bond) permanecem."
   },
   {
@@ -253,7 +253,7 @@
     "source": "Player's Guide, p. 75",
     "cost": "1 Rouse Check e Health adicional conforme as circunstâncias",
     "pool": "Intelligence + Fortitude, Dificuldade 2",
-    "duration": "",
+    "duration": "N/A",
     "prerequisite": "",
     "amalgam": "Auspex 1",
     "body": "Cura o corpo de outro vampiro.",
@@ -265,7 +265,7 @@
     "level": 4,
     "source": "Player's Guide, p. 75",
     "cost": "1 Rouse Check",
-    "pool": "",
+    "pool": "N/A",
     "duration": "Até o fim da cena ou até a Resonance ser perdida",
     "prerequisite": "",
     "amalgam": "",
@@ -330,11 +330,11 @@
     "level": 2,
     "source": "Player's Guide, p. 79",
     "cost": "1 Rouse Check",
-    "pool": "",
+    "pool": "N/A",
     "duration": "Uma cena",
     "prerequisite": "",
     "amalgam": "",
-    "body": "",
+    "body": "O aperto do vampiro se torna impossivelmente forte e, uma vez que ele agarre algo, é quase impossível fazê-lo soltar, a não ser por desmembramento.",
     "system": "Soma o rating de Potence como sucessos automáticos a qualquer tentativa de segurar algo, incluindo manter um grapple (não vale no teste inicial de agarrar)."
   },
   {
@@ -343,11 +343,11 @@
     "level": 3,
     "source": "Player's Guide, p. 79",
     "cost": "Grátis",
-    "pool": "",
+    "pool": "N/A",
     "duration": "Como Prowess",
     "prerequisite": "Prowess",
     "amalgam": "",
-    "body": "",
+    "body": "O vampiro consegue exercer força violenta e indiscriminada sobre um objeto estático para estilhaçá-lo, esmagá-lo e destruí-lo. Embora o tempo necessário para reunir essa força torne a habilidade inútil numa luta, ela é útil sempre que uma porta barra o caminho, um carro precisa ser imobilizado ou é preciso dar o exemplo a uma estátua ofensiva.",
     "system": "Conta o rating de Potence duas vezes ao usar Prowess para feitos de força que danifiquem ou destruam objetos inanimados. Inútil em luta (tempo de preparo)."
   },
   {
@@ -357,10 +357,10 @@
     "source": "Player's Guide, p. 79",
     "cost": "1 Rouse Check",
     "pool": "Strength + Potence",
-    "duration": "",
+    "duration": "N/A",
     "prerequisite": "Soaring Leap",
     "amalgam": "",
-    "body": "",
+    "body": "Tendo aprimorado suas capacidades, o vampiro agora crava o pouso do Soaring Leap de forma estrondosa. Pode parar de maneira irrefreável onde está, causando dano a quem estiver sob ele ou ao redor.",
     "system": "Ao usar Soaring Leap, o vampiro pode ativar Crash Down: quem estiver num raio de 3 metros sofre ataque de Strength + Potence contra Dexterity + Athletics, levando dano Superficial igual à margem. Quem sofrer 3 ou mais níveis de dano ou falha total na defesa cai (Core, p. 122)."
   },
   {
@@ -369,11 +369,11 @@
     "level": 5,
     "source": "Player's Guide, pp. 79-80",
     "cost": "Grátis",
-    "pool": "",
+    "pool": "N/A",
     "duration": "Passivo",
     "prerequisite": "",
     "amalgam": "",
-    "body": "",
+    "body": "Impregnado de proeza sobre-humana, cada parte do corpo do vampiro passa a projetar a soma de sua força. Um estalar de dedo pode transmitir o poder de um soco de corpo inteiro, e uma ponta de pé se torna um chute capaz de quebrar concreto. Note que este poder não torna o vampiro mais forte, mas permite usar a força que tem por meio de movimentos mínimos e sutis.",
     "system": "Ataques desarmados e feitos de força passam a contar como minor actions de 2 dados (Core, p. 298). Só uma minor action Subtle Hammer por turno, e sem outros ataques no turno. Feitos de força com movimento limitado (ex.: romper amarras) recebem +4 dados ou mais, a critério do Narrador."
   },
   {
@@ -386,7 +386,7 @@
     "duration": "Até o contato visual cessar ou a cena acabar",
     "prerequisite": "",
     "amalgam": "Protean 1",
-    "body": "",
+    "body": "Os olhos do vampiro se transformam em órbitas fendidas, como as de uma serpente, capazes de paralisar no lugar um mortal que encontre seu olhar. O usuário pode até hipnotizar outros vampiros com este poder, embora o efeito seja de curta duração e provavelmente provoque a ira da vítima.",
     "system": "Ao prender o olhar de um mortal (Core, p. 255), imobiliza-o enquanto o usuário mantiver contato visual. Só uma vítima por vez; termina se a vítima sofrer dano ou for removida. A vítima ainda fala, mas não grita. Para paralisar um vampiro, o usuário deve vencer o contest Charisma + Presence vs Wits + Composure; o vampiro pode escapar em qualquer turno após o primeiro gastando 1 Willpower."
   },
   {
@@ -395,11 +395,11 @@
     "level": 2,
     "source": "Player's Guide, p. 80",
     "cost": "Grátis",
-    "pool": "",
-    "duration": "",
+    "pool": "N/A",
+    "duration": "N/A",
     "prerequisite": "",
     "amalgam": "",
-    "body": "",
+    "body": "A voz do usuário se torna como a de uma sereia, capaz de enfeitiçar ou aterrorizar por si só, sem que o usuário precise estar presente. A voz afeta qualquer um ao alcance do ouvido, mas não mantém a capacidade se for gravada ou transmitida eletronicamente.",
     "system": "Permite usar Awe, Daunt, Dread Gaze, Entrance e Majesty só pela voz, sem ver o alvo; o alvo só precisa estar ao alcance da voz. Não funciona gravada ou transmitida eletronicamente."
   },
   {
@@ -408,11 +408,11 @@
     "level": 3,
     "source": "Player's Guide, p. 80",
     "cost": "1 Rouse Check; sem rolagem além disso",
-    "pool": "",
+    "pool": "N/A",
     "duration": "Uma cena",
     "prerequisite": "",
     "amalgam": "Auspex 1",
-    "body": "",
+    "body": "O vampiro faz sua voz emanar de qualquer ponto à vista, seja como sussurro ou grito. A voz é audível como se o vampiro estivesse naquele local e pode ser ouvida por qualquer um ao alcance, conforme a intensidade. A voz também pode ser deixada em um lugar, continuando a atrair ou aterrorizar quem se aproximar, dependendo do poder usado.",
     "system": "A voz (sussurro ou grito) sai de qualquer ponto à vista e pode ser deixada no local para atrair ou aterrorizar. Se combinada com Irresistible Voice, Melpominee ou similares, rola-se normalmente."
   },
   {
@@ -422,10 +422,10 @@
     "source": "Player's Guide, pp. 80-81",
     "cost": "N/A",
     "pool": "Como o poder transmitido",
-    "duration": "",
+    "duration": "Conforme o poder transmitido",
     "prerequisite": "",
     "amalgam": "",
-    "body": "",
+    "body": "Estando presente em um prédio ou local semelhante, o vampiro consegue estender os poderes de Awe, Daunt e Majesty pela própria estrutura. Quem estiver no prédio ou olhando para ele será afetado por esses poderes, reagindo ao prédio como se o próprio vampiro estivesse presente.",
     "system": "Dentro de um prédio, estende Awe, Daunt e Majesty pela estrutura: quem estiver no prédio ou olhar para ele reage como se o vampiro estivesse presente. Os bônus se aplicam às reações da vítima ao local. Use Majesty com cuidado (efeitos espetaculares e voláteis)."
   },
   {
@@ -464,7 +464,7 @@
     "duration": "Uma cena, a menos que encerrada antes",
     "prerequisite": "Vicissitude",
     "amalgam": "Dominate 2",
-    "body": "",
+    "body": "Com um domínio do corpo tão completo que supera os limites naturais, o vampiro pode assumir uma forma verdadeiramente monstruosa, com garras cruéis, presas salientes, feições encrespadas e músculos retesados. Embora os traços exatos possam variar entre ocasiões, a forma costuma ter uma aparência individual e específica que se manifesta toda vez que o poder é usado, uma visão da Beast do usuário feita carne. Alguns parecem animais infernalmente deformados, outros demoníacos ou atávicos, e outros desafiam qualquer familiaridade mundana. Muitos incorporam traços de vampiros da natureza, como sanguessugas, morcegos, carrapatos e mosquitos, ampliados a proporções grotescas.",
     "system": "Leva um turno inteiro para ativar (só pode defender, com as pools pré-forma). Concede um número de mudanças de Vicissitude gratuitas (sem perda de dots) igual ao rating de Protean, gastas em Redistribution, Weapons e Armor; Narradores generosos podem aceitar membranas planadoras, membros alongados etc. Críticos rolados em Horrid Form são messy criticals e testes de frenzy têm +2 Dificuldade. Aparência inconfundivelmente inumana; só grunhidos, silvos e rugidos."
   },
   {
@@ -477,7 +477,7 @@
     "duration": "Um dia ou mais, ou até ser perturbado fisicamente",
     "prerequisite": "Earth Meld",
     "amalgam": "Animalism 2",
-    "body": "",
+    "body": "O Kindred possui tamanho domínio sobre a própria forma que pode estendê-la até o seu domínio. Além de afundar na própria terra, o vampiro mantém uma consciência sobrenatural dos eventos que ocorrem dentro do domínio.",
     "system": "Como Earth Meld (Core, p. 270), mas sem limite pela composição da superfície (paredes de uma mansão, assoalho, poça de \"água morta\"). Num raio de cerca de 1 km, o vampiro pode escolher perceber estímulos sensoriais da área, pela presença de animais (mesmo minúsculos). Eventos discretos ou escondidos exigem Wits + Animalism contra a pool oposta relevante. Para sair antes do anoitecer do dia seguinte ao início, exige Resolve + Protean, Dificuldade 4, e pode levar até uma hora para emergir completamente; vitória crítica permite emergir instantaneamente."
   }
 ]

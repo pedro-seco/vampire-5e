@@ -12,7 +12,7 @@
     "process": "",
     "duration": "Uma noite, ou até se alimentar de alguém com a mesma língua nativa do alquimista.",
     "prerequisite": "",
-    "body": "",
+    "body": "O alquimista pode falar a língua nativa do mortal cujo sangue usou na fórmula, e as línguas nativas daqueles de quem se alimentar até dormir de novo.",
     "system": "O alquimista fala a língua nativa do mortal cujo sangue usou. Gastando 1 Willpower e se alimentando de outro mortal, pode trocar para a língua desse mortal."
   },
   {
@@ -28,7 +28,7 @@
     "process": "",
     "duration": "Iluminando um cômodo, uma cena; carregando um dispositivo, até metade da carga.",
     "prerequisite": "",
-    "body": "",
+    "body": "O alquimista consegue produzir uma corrente elétrica de baixa intensidade a partir do próprio corpo, alimentando luzes, carregadores ou outros dispositivos.",
     "system": "O alquimista enche-se de corrente elétrica e alimenta dispositivos pequenos (smartphone, computador, lâmpada) por toque; perde a energia ao cessar o contato."
   },
   {
@@ -44,7 +44,7 @@
     "process": "",
     "duration": "Uma cena.",
     "prerequisite": "",
-    "body": "",
+    "body": "Esta fórmula permite ao alquimista ver as conexões entre mortais e Kindred. Elas aparecem como um fio prateado e fino que liga os dois, dando ao alquimista uma ideia de com quem um mortal pode ter ligação.",
     "system": "O alquimista vê um fio prateado ligando um mortal ao vampiro com quem tem conexão (nenhum fio se não há conexão com Kindred). Pode seguir o fio se o vampiro não estiver perto. Conexões fortes exigem menos sucessos (um ghoul talvez 1; um contato ou aliado distante até 5). Quem tem várias relações mostra o fio mais forte primeiro; com sucessos suficientes vê todos."
   },
   {
@@ -76,7 +76,7 @@
     "process": "",
     "duration": "Uma cena, e depois até alguém contradizer de forma persuasiva.",
     "prerequisite": "",
-    "body": "",
+    "body": "Alquimistas costumam usar esta fórmula em negociações para tentar trazer ao menos uma pessoa para o seu lado; porém, é fácil de notar se alguém estiver prestando atenção suficiente. Rumor permite ao alquimista fazer uma afirmação e convencer uma pessoa a concordar com ela.",
     "system": "O alquimista faz uma afirmação e convida o alvo a concordar. Em vitória, o alvo concorda e acredita que concordou por vontade própria. Para agir de fato (ex.: assinar papéis) costuma exigir outro contest (Manipulation + Subterfuge ou similar), no qual o alquimista soma a margem do contest de Alchemy."
   },
   {
@@ -92,7 +92,7 @@
     "process": "",
     "duration": "Até sofrer dano ou fim da cena.",
     "prerequisite": "",
-    "body": "",
+    "body": "O alquimista pode usar esta fórmula para reforçar sua resistência a dano, embora só temporariamente.",
     "system": "A primeira vez que o alquimista sofre dano na cena, reduza o dano em 5; a fórmula então expira."
   },
   {
@@ -106,9 +106,9 @@
     "ingredients": "Sangue do alquimista, ácido de bateria, sangue melancólico (melancholy) e água salgada.",
     "pool": "",
     "process": "",
-    "duration": "",
+    "duration": "N/A",
     "prerequisite": "",
-    "body": "",
+    "body": "Um alquimista pode usar esta fórmula para sobrecarregar as baterias de qualquer equipamento eletrônico ou elétrico, inclusive baterias de carro ou os fusíveis de um prédio.",
     "system": "Fazendo o Rouse Check e tocando o equipamento (ou metal ligado a ele), o alquimista o danifica automaticamente e em silêncio (ex.: apagão num prédio ao tocar uma tomada; pane num carro)."
   },
   {
@@ -124,7 +124,7 @@
     "process": "",
     "duration": "Uma cena.",
     "prerequisite": "",
-    "body": "",
+    "body": "O alquimista secreta uma bile cáustica e poderosa pelos poros e orifícios, corroendo metais, madeira e tecido vivo. O alquimista que ativa esta habilidade pode tocar e manipular a bile sem ser afetado por ela.",
     "system": "O toque corrói qualquer material em segundos e dá +2 de dano em ataques de Brawl; as roupas dele normalmente não são afetadas. A bile é mais potente que a de Corrosive Vitae (Core, p. 273); o Narrador define a extensão do dano. Com um segundo Rouse Check, pode vomitar a bile como ataque (Strength + Alchemy em melee, Dexterity + Alchemy à distância); em sucesso causa margem + 3 de dano Superficial de Health (Agravado para mortais).\nAthanor Corporis ou Calcinatio: após destilação, só pode ser guardada por uma semana antes de o alquimista ou vaso parecer doente (veias azuis, pele flácida); após um mês, a bile corrói o vaso Calcinatio se não for usada.\nFixatio: o recipiente se corrói em Alchemy + 4 semanas."
   },
   {
@@ -156,7 +156,7 @@
     "process": "",
     "duration": "Uma cena.",
     "prerequisite": "",
-    "body": "",
+    "body": "O alquimista consegue submergir temporariamente seus instintos vampíricos, usando o poder da Besta para apoiar, em vez de perturbar, sua acuidade mental. Por um breve período, pode alcançar níveis sobre-humanos de intelecto e concentração, evitando também a interferência bestial em suas ações.",
     "system": "O alquimista ganha clareza mental e a Beast é temporariamente saciada: +4 dados em pools Mentais ou de Skill de Disciplina, e +4 dados em testes de resistência Mental contra Disciplinas que os exigem (Dominate, Animalism, Presence, Auspex e amálgamas). Fica imune a messy criticals e a frenzy, se suscetível."
   }
 ]
