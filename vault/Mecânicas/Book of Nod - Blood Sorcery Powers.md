@@ -2,7 +2,7 @@
 
 # Book of Nod — Blood Sorcery Powers
 
-> Poderes de Blood Sorcery vinculados ao conhecimento noddista e às maquinações de Tremere em torno dos textos antigos. Inclui um poder novo (Shape the Sanguine Sacrament) e confirmação das regras de Scour Secrets.
+> Poderes de Blood Sorcery do capítulo Disciplines do livro: Shape the Sanguine Sacrament (nível 1) e Scour Secrets (nível 2). O livro avisa que Scour Secrets também aparece no Player's Guide e Shape the Sanguine Sacrament em Winter's Teeth Volume 1.
 
 > [!warning] Material de suplemento
 > Conteúdo do *Vampire: The Masquerade — The Book of Nod Apocrypha*. Só vale se a crônica permitir. Regras gerais de Blood Sorcery estão em [[Disciplinas]]; esta nota traz os poderes específicos do livro.
@@ -29,7 +29,7 @@ Para usos mais utilitários (localizar, coletar ou limpar sangue), adicione seus
 
 **Duração:** Uma cena ou até ser alterada pelo usuário.
 
-Fonte: *The Book of Nod Apocrypha*, p. 454–455.
+Fonte: *The Book of Nod Apocrypha*, p. 33 (índice do livro); VTM 5e - The Book Of Nod Apocrypha.txt:452-459.
 
 ---
 
@@ -43,7 +43,7 @@ O feiticeiro libera rivulets de Sangue preparado para buscar informações sobre
 
 **Duração:** Uma noite ou até a informação ser encontrada/a busca ficar infrutífera, o que vier primeiro.
 
-Fonte: *The Book of Nod Apocrypha*, p. 460–461 (também em *Players Guide*, p. 98).
+Fonte: *The Book of Nod Apocrypha*, p. 33 (índice do livro); VTM 5e - The Book Of Nod Apocrypha.txt:460-465. Também no *Player's Guide*, p. 98 (referência "Scour Secrets (p. 98)" nos personagens-modelo do próprio Player's Guide).
 
 ---
 

@@ -4,6 +4,8 @@
 
 Material de suplemento (*Forbidden Religions*). Vale só se a crônica permitir.
 
+O livro permite comprar Merits e Loresheets depois da criação por 3 XP por dot; dots de Flaw tomados depois da criação concedem dots de Advantage equivalentes (*Forbidden Religions*, VTM 5e - Forbidden Religions.txt:1233).
+
 ## Sumário
 
 - [[#Merits|Merits]]
@@ -31,7 +33,7 @@ Ao tomar este Merit, você pode escolher um methuselah específico de seu clã d
 
 Cada dot neste Merit concede um dado adicional em testes de dados para impressionar, intimidar ou atrair a atenção daqueles que reconhecem e temem ou respeitam o progenitor que se assemelha. Cada dot neste Merit também pode adicionar aos seus dots de Status dentro de seu clã durante reuniões ou cerimônias oficiais ou dentro de um cult que venerava o methuselah que se assemelha. Se você tem o azar de encontrar o methuselah em questão, cada dot neste Merit também concede um dado adicional para qualquer teste social ao interagir com eles, embora dependendo do ancestral em questão, isso possa enfurecê-los de ver tal similaridade.
 
-**Fonte:** *Forbidden Religions*, p. 1240
+**Fonte:** *Forbidden Religions*, p. 85 (índice do livro); VTM 5e - Forbidden Religions.txt:1238-1240
 
 ---
 
@@ -46,9 +48,9 @@ Para cada dot que você possui neste Merit, você pode flagelar-se uma vez por s
 
 **Flaw Variant (1 dot): Horrible Scars of Penitence.** Sua devoção está escrita em sua carne em uma massa de cicatrizes hediondas, as marcas cicatrizadas de sua fé, ou evidência de outras ferramentas de auto-mortificação inscrita em seu corpo. Você é extremamente distintivo neste aspecto, e qualquer um que o olhe pode reconhecer imediatamente os sinais de fé levada a um extremo — mesmo se você cessar realizar tais atos físicos de penitência. Este Flaw é equivalente ao Repulsive Flaw (*Vampire: The Masquerade*, p. 179), mas apenas quando você está entre vampiros e mortais não de dentro de seu cult.
 
-**Flaw Variant (2 dots): Groveling Worm.** Você não recebe afirmação de autoflagelação; em vez disso, sua auto-aversão total e terror abeto de ofender algum poder superior exige que realize tais atos regularmente apenas para funcionar. Você deve encontrar tempo em uma sessão para flagelar-se uma vez por sessão, sofrendo dois pontos de Superficial Health damage, ou sofrerá um ponto de Aggravated Willpower damage no início da próxima sessão. Personagens com o Merit Penitence não podem tomar este Flaw.
+**Flaw Variant (2 dots): Groveling Worm.** Você não recebe afirmação de autoflagelação; em vez disso, sua auto-aversão total e terror abjeto de ofender algum poder superior exige que realize tais atos regularmente apenas para funcionar. Você deve encontrar tempo em uma sessão para flagelar-se uma vez por sessão, sofrendo dois pontos de Superficial Health damage, ou sofrerá um ponto de Aggravated Willpower damage no início da próxima sessão. Personagens com o Merit Penitence não podem tomar este Flaw.
 
-**Fonte:** *Forbidden Religions*, p. 1242–1246
+**Fonte:** *Forbidden Religions*, p. 86 (índice do livro); VTM 5e - Forbidden Religions.txt:1242-1246
 
 ---
 
@@ -67,7 +69,7 @@ De uma forma ou outra, como anjo ou demônio, os sinais e formas de True Faith n
 
 **Flaw Variant (1 dot): Beacon of Profanity.** O poder escuro dentro de você vaza. Mortais com qualquer quantidade de True Faith podem sentir sua presença, não apenas aqueles com True Faith 3 ou superior.
 
-**Fonte:** *Forbidden Religions*, p. 1248–1250
+**Fonte:** *Forbidden Religions*, p. 86 (índice do livro); VTM 5e - Forbidden Religions.txt:1247-1250
 
 ---
 
@@ -82,7 +84,7 @@ Para cada dot neste Merit, uma vez por sessão após rolar um sucesso normal em 
 
 **Flaw Variant (1 dot): Crisis of Faith.** Você tem terror de perder controle, especialmente para a Fera que ameaça fazer uma sátira de sua fé. Sempre que suas ações resultam em um bestial failure, você sofre um ponto de superficial Willpower damage além de qualquer outro efeito do teste.
 
-**Fonte:** *Forbidden Religions*, p. 1251–1253
+**Fonte:** *Forbidden Religions*, p. 86 (índice do livro); VTM 5e - Forbidden Religions.txt:1251-1253
 
 ---
 
@@ -95,7 +97,7 @@ Quando faminto, sua Fera é uma coisa fraca e quiescente; ainda o urge para auto
 
 Adicione dois dados aos seus testes para resistir a Hunger frenzy.
 
-**Fonte:** *Forbidden Religions*, p. 1259–1261
+**Fonte:** *Forbidden Religions*, p. 87 (índice do livro); VTM 5e - Forbidden Religions.txt:1259-1261
 
 ---
 
@@ -108,7 +110,7 @@ Sua sede pela essência corrompida de outros vampiros é horrivelmente intensa. 
 
 Além disso, quando você ajuda outro a consumir a alma completa e se eles são bem-sucedidos, você também ganha 5 experience points para gastar em elevar Blood Potency ou disciplinas conhecidas pela vítima, como se você mesmo tivesse cometido diablerie e alcançado um sucesso no teste de Humanity + Blood Potency.
 
-**Fonte:** *Forbidden Religions*, p. 1262–1263
+**Fonte:** *Forbidden Religions*, p. 87 (índice do livro); VTM 5e - Forbidden Religions.txt:1262-1263
 
 ---
 
@@ -125,7 +127,7 @@ O sangue e a carne de Kindred interagem com doenças de formas estranhas. Muitos
 - Em 1 dot: a doença é menor, mas expressa traços visíveis como rash, feridas, tosse ou espirro, ou mucus oozing.
 - Em 2 dots: a doença é potencialmente severa se você deixá-la sem tratamento, embora não seja necessariamente fatal. Além disso, não precisa deixar sintomas visíveis em você. Em qualquer caso, vítimas mortais de sua mordida que são suscetíveis à doença a contrairão.
 
-**Fonte:** *Forbidden Religions*, p. 1254–1257
+**Fonte:** *Forbidden Religions*, p. 86 (índice do livro); VTM 5e - Forbidden Religions.txt:1254-1257
 
 ---
 

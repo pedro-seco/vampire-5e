@@ -1,246 +1,133 @@
 #narração #aventura #crônica #hecata #münchen #antagonistas #styx-and-bones #cults-of-blood-gods #suplemento
 
-# Cults of the Blood Gods — Styx and Bones (München Chronicle)
+# Cults of the Blood Gods — Styx and Bones (München)
 
-> A crônica **"Styx and Bones"** do *Cults of the Blood Gods*: aventura de **5 capítulos** em **München (Munich)** envolvendo **Hecata, religião, morte, e rituais**. Inclui NPCs prontos, antagonistas, hooks de jogador.
+> A aventura **Styx and Bones** do *Cults of the Blood Gods* (capítulo 8): cinco capítulos mais prólogo e epílogo em **Munique (München)**, centrada nos Hecata, na ressurreição de uma elder e numa série de assassinatos assinados com o símbolo dos Hecata.
 
 > [!warning] Material de narrador
-> Conteúdo do *Vampire: The Masquerade — Cults of the Blood Gods*. Capítulo 8: "Styx and Bones" (pp. 231–296). **Spoilers para a história; apenas para Narradores.**
+> **Spoilers completos**; só para o Narrador. Conteúdo do *Vampire: The Masquerade — Cults of the Blood Gods*. Só vale se a crônica permitir.
+
+> **Sobre as páginas:** o `.txt` do livro (`VTM 5e - Cult Of The Blood Gods.txt`) não tem numeração no corpo; as páginas vêm do índice do livro (a seção começa na p. 231 e as últimas entradas, "Sample Cultists", chegam à p. 274) e as linhas aparecem como `arquivo.txt:linha`. O texto do capítulo vai de VTM 5e - Cult Of The Blood Gods.txt:3173 a 3900+. Em alguns pontos o `.txt` tem colunas fundidas ou trechos faltando; está indicado onde.
 
 # Sumário
 
-- [[#Visão Geral da Crônica|Visão Geral da Crônica]]
-- [[#Setup e Localização|Setup e Localização]]
-- [[#Estrutura de 5 Capítulos|Estrutura de 5 Capítulos]]
-- [[#NPCs Principais|NPCs Principais]]
-- [[#Personagens Prontos|Personagens Prontos]]
-- [[#Ganchos de Jogador|Ganchos de Jogador]]
+- [[#Visão Geral|Visão Geral]]
+- [[#Munique no livro|Munique no livro]]
+- [[#Estrutura da aventura|Estrutura da aventura]]
+- [[#NPCs principais|NPCs principais]]
+- [[#Personagens prontos|Personagens prontos]]
+- [[#Ganchos Matters of Faith|Ganchos Matters of Faith]]
 - [[#Ver Também|Ver Também]]
 
 ---
 
-## Visão Geral da Crônica
+## Visão Geral
 
-**Styx and Bones** é uma **aventura de horror e mistério** ambientada em **München (Munich)**, Alemanha. Os personagens jogadores são **Hecata**—possivelmente recém-chegados à cidade ou residentes locais. A crônica começa com a **ressurreição ritual de uma anciã Hecata** e escala para revelações sobre **morte, controle, e as verdadeiras agendas** da Hecata e seus rivais em München.
+Os Hecata, recém-formados como clã, sofrem pressão da Camarilla e do Movimento Anarch. Em Munique, sob o Prince **Ursula Eisenstadt** (Ventrue), a Mother **Anja Giovanni** conseguiu território para um complexo; enquanto agirem pacificamente, a família estendida pode se reunir ali em relativa segurança. Quando os corpos começam a se acumular, os Hecata precisam lidar com um novo inimigo enquanto a Camarilla mantém a bota no pescoço deles.
 
-### Tema Central
+- **Jogadores:** 4 a 6. **Duração:** 10 a 15 horas.
+- **Personagens:** provavelmente Hecata, mas **sem restrição de clã**; podem ter afiliação à Camarilla, aos Anarchs ou a outro culto. Os PCs têm de se conhecer ao menos de leve antes do prólogo. Podem ser locais (convidados ao jantar de família) ou de fora, convocados. O livro oferece **seis personagens prontos** e ganchos extras (Matters of Faith).
+- **Transposição:** o livro diz que a história pode ser levada a outro domínio (sugere escolher uma dúzia de locais notáveis), que os nomes e clãs dos NPCs podem mudar (o Prince virar Malkavian; os Hecata virarem Ministry ou Tremere) e que a necromancia poderia virar Blood Sorcery.
 
-**Morte não é o fim—é uma ferramenta.** A crônica explora como vampiros manipulam espíritos, ressuscitam guerreiros antigos, e usam morte como meio de **poder político e religioso**.
-
-### Nível de Jogo
-
-Recomendado para **neonates a ancillae** (Blood Potency 1–3). Ambiente urbano + sobrenaturalismo.
-
-Fonte: Cults of the Blood Gods, pp. 231–296.
+Fonte: Cults of the Blood Gods, p. 231 (VTM 5e - Cult Of The Blood Gods.txt:3173–3187, 3215–3218).
 
 ---
 
-## Setup e Localização
+## Munique no livro
 
-### München (Munich)
+- **População:** 1,5 milhão de habitantes e **cerca de 100 Kindred**, a maioria sob a Camarilla. A Segunda Inquisição varreu a cidade em 2007 (a GSG 10 matou metade dos Kindred em um dia); Eisenstadt, uma jovem Ventrue "vinte anos morta", assumiu e manteve a cidade escondida.
+- **Camarilla:** Prince Eisenstadt (governa por inteligência e negociação, não por medo); Seneschal **Mehmet Sumal** (Tremere turco); Sheriff **Gerhard Röhrich** (Nosferatu); Herald **Pearl** (Toreador americana). Cerca de vinte outros cidadãos a critério do Narrador.
+- **Hecata:** Anja Giovanni, Mother do Cult of Death and Undeath local; **Hiromitsu Asano**, recém-chegado do Japão com fortes laços industriais; **Mora the Death Seer**, Cappadocian misterioso e andrógino. Asano e Mora eram rivais e se reconciliaram sob o olhar dos Giovanni, que abriram espaço para a nova família menor (os Asano). O templo fica em Au-Haidhausen, numa igreja protestante abandonada, hoje templo e mausoléu.
+- **Anarchs:** laços com a Red Liberation de Berlim, três ou quatro gangues, controlam o leste de Munique; **Dieter Straub** age como Baron sem nunca ter reivindicado o título. Convivem em paz instável com o Prince.
+- **Segunda Inquisição:** a **GSG 10** (derivada da GSG 9) caça Kindred na Alemanha; sua base fica em Olympiageländen (comando, alojamento, treinamento e laboratório forense).
 
-**População:** ~1.5 milhão (mortal); estimado ~500–800 Kindred na região.
-
-**Controlantes:** 
-- **Camarilla** domina a margem **oeste do Isar** (rio principal).
-- **Anarchs** controlam a margem **leste**.
-- **Hecata** mantêm **neutralidade** em Au-Haidhausen (entre as duas).
-
-**Atmosfera:** Cidade de museus, cervejarias, e história. Possui forte presença ocultista e academica (LMU — Ludwig Maximilian University).
-
-### Hecata Temple (Au-Haidhausen)
-
-A **sede local Hecata** em München é uma **Igreja Gótica Reformada** com:
-- **Andar superior:** Aparência de templo/santuário religioso legítimo.
-- **Porão/Subterrâneo:** Santuário real com **piscina circular**, altar, e espaço para cerimônias.
-
-**Liderada por:** **Mother Anja Giovanni** (elders; patriarca local Hecata).
-
-Fonte: Cults of the Blood Gods, pp. 232–242.
+Fonte: Cults of the Blood Gods, pp. 232–235 (VTM 5e - Cult Of The Blood Gods.txt:3188–3251).
 
 ---
 
-## Estrutura de 5 Capítulos
+## Estrutura da aventura
 
-### Capítulo 1: Body of Lies
+### Prólogo: A Family Dinner (p. 236)
 
-**Setup:** Os PCs são recrutados para recuperar um **corpo intacto** de um mortal específico (**Günter Hildebrant**, procurador público) e transportá-lo para um leilão secreto onde a **Venetian Jar** (artefato antigo) será vendido.
+Jantar no porão da igreja que o Hecata reformou, para saudar os **Asano** como nova família menor. Mora pede desculpas a Asano pela morte do sire dele, **Heinrich König**, e os dois trocam presentes. Mother Anja propõe aos PCs um trabalho: um Autark (Cassel) vai fazer um leilão privado de uma **burial jar** que se acredita capaz de chamar uma alma da **Tempest** (lugar de tempestades do Underworld). Mora poderia colocar essa alma num "recipiente"; assim ressuscitariam **Constancia, Priestess of Bones**, e só falta um vaso digno ("jovem, viril e merecedor da morte").
 
-**Antagonistas:**
-- **Terrence Rusk** (Perses da Cult of Mithras) — potencial comprador da Jar.
-- **Mathieu Cassel** (Autark francês) — anfitrião do leilão.
-- **Various Kindred** (Herald, Anarch Baron) como competidores.
+### Capítulo 1: Body of Lies (p. 237)
 
-**Objetivo:** Os PCs devem decidir **como procurar Hildebrant** (negoação em leilão, assassinato, infiltração).
+Anja entrega aos PCs um dossiê do corpo desejado e um convite do leilão, além de **um major boon** para ajudar a comprar a jar. Os PCs podem dividir o grupo.
 
-**Recompensa:** Minor boon from Mother Anja; acesso ao templo Hecata.
+- **O corpo:** **Günter Hildebrant** (nascido em 28/10/1983; ex-sargento da Bundeswehr, cientista político, do think tank de esquerda Leon Group; caçador com seis mortes confirmadas, em sua maioria Anarchs e Hecata, tolerado pela Camarilla). A nota do dossiê exige o corpo **intacto**, sem membros removidos e com o rosto intocado. Rotina descrita no dossiê: sai do escritório na Denkmal Avenue entre 21h e 22h; nos fins de semana vai ao bar Zum Wolf, em Glockenbach, e sai entre meia-noite e 1h. Entrar no apartamento: Intelligence + Larceny (Dificuldade 4).
+- **O leilão (p. 239):** num galpão em Feldkirchen, anfitrião **Mathieu Cassel** (Autark francês). Presentes: **Pearl**, **Dieter Straub** e **Terrence Rusk** (Perses do Cult of Mithras local), além de ghouls. A **Venetian Jar** (cerâmica romana do século III, achada sob o antigo haven de Augustus Giovanni) começa em um major boon. Os lances finais: Straub dois major boons e dinheiro de dois pontos de Resources; Pearl três major, dois minor e três pontos de Resources; Rusk quatro major, um minor e três pontos de Resources. Ganhar o leilão exige superar Rusk; Resources gastos se perdem pelo resto da história. Roubar o leilão "não vai bem"; emboscar Rusk depois é possível.
+- **O ritual (p. 241):** no santuário de mármore com piscina circular do templo; Mora e Anja conduzem; Constancia, **childe de Japheth**, desperta dentro do corpo de Hildebrant. Anja dá a cada PC um **minor boon** e acesso livre ao templo enquanto estiverem em Munique.
 
-Fonte: Cults of the Blood Gods, pp. 236–253.
+### Capítulo 2: Grave Digging (p. 241)
 
-### Capítulo 2: Grave Digging
+Os PCs têm alguns dias para se instalar (testes sugeridos: Intelligence + Security ou Streetwise, Dificuldade 2, para achar abrigo diurno). No terceiro dia após o ritual, todos têm o **primeiro pesadelo** comum: um assassinato num torre chinesa coberta de neve. Ao acordarem, o Sheriff Röhrich e um grupo armado os levam ao Prince, no restaurante Hänsel und Gretel; Eisenstadt mostra fotos da morte de **Stefan Schaumann** (promotor público) e o símbolo Hecata em sangue, e dá aos PCs a tarefa de achar o culpado ("caution and restraint"). O livro sugere **ameaças a Touchstones** dos PCs, escalando nos capítulos seguintes. Respostas dos Hecata: Anja apoia a investigação e prepara uma saída; **Mora** diz ter tido a mesma visão e suspeita de um spectre ou algo que usou o "portal"; **Asano** não está disponível; Constancia não sabe nada. O assassino aparece nas pistas como silhueta humanoide de quatro braços de sombra com acesso a Oblivion, atacando entre 3h e 4h (a "hora das bruxas").
 
-**Setup:** Após obter o corpo e a Jar, Mother Anja realiza um **ritual de ressurreição** para trazer de volta **Constancia, Priestess of Bones** (anciã Hecata que foi perdida).
+### Capítulo 3: The Price We Pay (p. 245)
 
-**Pesadelo Compartilhado:** Naquela noite, todos os PCs têm um **sonho/visão comun** de **violência extrema**. Pela manhã, descobrem que um procurador foi **morto exatamente da maneira vista no sonho**—usando **símbolo Hecata** em sangue.
+Segundo pesadelo: no **Nordfriedhof** (cemitério do norte), um casal (**Finn Laubenstein** e **Hannah Hagen**) é morto. Terrence Rusk (ou **Anna Fleischer**, se Rusk morreu) já está na cena e leva os PCs a uma propriedade em Milbertshofen-Am Hart; ele fala em "Risen" (fantasma preso num corpo) e propõe: entregar a Venetian Jar em 24 h em troca da rede do culto. Mora se recusa a entregar a jar. Os Touchstones sofrem uma nova rodada de ataques (incêndio, agressão, prisão, atirador); se um Touchstone for ferido, teste de frenzy Dificuldade 3, se morto, Dificuldade 4, mais Stains (Core, p. 240). Os PCs precisam ver duas operativas alemãs profissionais, que têm de reaparecer no Capítulo 4.
 
-**Investigação:** Prince Ursula Eisenstadt blames a coterie; exige que encontrem o real culpado (ou enfrente execução).
+### Capítulo 4: A Family Affair (p. 249)
 
-**Antagonistas:**
-- **Hiromitsu Asano** (Hecata elder; visitante)
-- **Ora the Death Seer** (aliado questionável)
-- Vários **NPCs München** (investigadores, rivais)
+Terceiro e quarto pesadelos: **Leon Hummel** (professor, em Dinniger Anger) e **Martina Rittberger** (sem-teto, na ilha do Deutsches Museum). A GSG 10 cerca as cenas e leva os cinco corpos à base em Olympiagelände. Para investigar no leste, os PCs precisam da permissão de Straub (opções: combate, suborno acima de dois pontos de Resources, manipulação). Para ver os corpos, precisam invadir o laboratório da GSG 10 (Stealth Dif. 6 ou Wits + Technology Dif. 5; manipulação Dif. 7; combate leva até 20 agentes em dois minutos). Entre meia-noite e 3h, **Asano emboscaria os PCs** com quatro ghouls (os dois operativos dos ataques aos Touchstones e mais dois): perdeu seu Touchstone (**Günter Hildebrant**, neto do melhor amigo dele) e está "meio louco de luto". Um teste de manipulação (Charisma + Persuasion ou Manipulation + Intimidation, Dif. 4) pode encerrar o capítulo.
 
-**Objetivo:** Investigar a cidade, seguir pistas, descobrir quem está **matando em nome da Hecata**.
+### Capítulo 5: Rise and Fall (p. 252)
 
-Fonte: Cults of the Blood Gods, pp. 337–376.
+Os PCs descobrem nos papéis do quarto de **Mora** (que fugiu com Constancia) cinco locais marcados formando um X sobre Munique; as mortes eram o **meio** de um círculo de Oblivion (os ataques visavam os locais, não as vítimas). O quinto local é **Saint Barbara's** em Schwabing-West. O assassino, um **Risen** com o corpo de Hildebrant movido por Constancia "ou algo fingindo ser ela", ataca entre 3h e 4h; começa com Stygian Shroud e usa Feral Weapons, Arms of Ahriman, Celerity, Fortitude e Potence; quando perde o último nível de Health, morre e as sombras viram cinzas. O livro menciona que Asano, se vivo e informado, ajuda, e que Rusk/Fleischer ajudam se a jar foi entregue ao culto.
 
-### Capítulo 3: The Price We Pay
+### Epílogo: Death is Certain, Life is Not (p. 252)
 
-**Setup:** Enquanto investigam, os PCs enfrentam **segundo e terceiro ataques** — mais mortos, mais símbolos Hecata. Começa a emergir que **someone is framing the Hecata** ou **using Hecata rituals**.
+Funeral de Hildebrant no Waldfriedhof; Asano jura proteger a irmã, Laura. Os PCs recebem um **Handout #3**, carta de Mora: ela admite ter enganado Asano e usado Hildebrant para fins que julga em benefício do clã (vigiar uma cidade inteira e viajar pelas sombras). Ela segue "seu grande trabalho".
 
-**Revelaçãos:** Os PCs aprendem sobre a **Cult of Mithras local** (Terrence Rusk é um operador-chave) e seu interesse no Hecata.
-
-**Confrontação:** Os PCs podem tentar negociar com Rusk, investigar seu templo (Mithraeum em Edinburgh), ou confessar ao Prince.
-
-**Antagonistas:**
-- **Terrence Rusk** & **Cult of Mithras** operatives.
-- **Anna Fleischer** (aliada de Rusk; Mithraist).
-
-**Objetivo:** Descobrir conexão entre Mithraists e os ataques.
-
-Fonte: Cults of the Blood Gods, pp. 377–406.
-
-### Capítulo 4: A Family Affair
-
-**Setup:** Revelação crucial: **Hiromitsu Asano** (o elder Hecata visitante) está usando os ataques para **cobertura política**. Quer eliminar rivais locais (Mithraists, certos Camarilla) enquanto culpa a **coterie** pelos crimes.
-
-**Showdown:** Asano tenta **ambuscar a coterie**, vários combates, confrontação com his ghoul army.
-
-**Maiores Antagonistas:**
-- **Hiromitsu Asano** (Hecata elder; true antagonist)
-- **GSG 10** (German special forces unit; pode ser involuntariamente involved)
-
-**Objetivo:** Sobreviver a Asano; descobrir proof de sua culpa antes de serem executados pelo Prince.
-
-Fonte: Cults of the Blood Gods, pp. 407–433.
-
-### Capítulo 5: Rise and Fall
-
-**Setup:** Climax. Os PCs enfrentam **Asano ou são salvos por outro elder Hecata**. Revelações finais sobre por que Constancia foi ressuscitada (seu conhecimento antigo era necessário).
-
-**Epilogo:** **Asano's final death** (diablerizado, executado, ou exilado). Os PCs ganham reconhecimento; Mother Anja recompensa sua lealdade.
-
-**Objetivo:** Conclusão da aventura; setup para futuras campanhas.
-
-Fonte: Cults of the Blood Gods, pp. 434–461.
+Fonte: Cults of the Blood Gods, pp. 236–253 (VTM 5e - Cult Of The Blood Gods.txt:3252–3545).
 
 ---
 
-## NPCs Principais
+## NPCs principais
 
-### Mother Anja Giovanni
-
-**Epitáfio:** Anciã Hecata; Príncipe de Facto de München.
-
-**Descrição:** Mulher aparente de 60+ anos; pele pálida; roupas sempre negras. Fala com autoridade calma. Rara em demonstração de emoção.
-
-**Objetivo:** Estabilidade da Hecata em München; proteção da comunidade Kindred.
-
-**Relação com PCs:** Benevolente but demanding. Os recompensa se forem leais; os destroi se traírem.
-
-Fonte: Cults of the Blood Gods, pp. 254–255.
-
-### Hiromitsu Asano
-
-**Epitáfio:** Hecata Elder; Antagonista Principal.
-
-**Descrição:** Homem aparente de 40–50 anos; roupa cara; broche de graveto (pin) no paletó. Compostamente ofensivo; presença magnética.
-
-**Objetivo:** Consolidar poder político em München; usar ressurreição de Constancia para seus próprios fins.
-
-**Antagonismo:** Quer eliminar **Terrence Rusk** e **Cult of Mithras**; usa a coterie como ferramentas descartáveis.
-
-**Encontros:** Capítulo 1 (encontro social), Capítulo 4 (confrontação direta).
-
-Fonte: Cults of the Blood Gods, pp. 254–255.
-
-### Prince Ursula Eisenstadt
-
-**Epitáfio:** Prince de München; Autoridade Final da Cidade.
-
-**Descrição:** Mulher de aparência média; tattoo de teia de aranha em um braço; olhar duro. Fala secamente; sem paciência para incompetência.
-
-**Objetivo:** Mantém Máscara; controla Kindred de München através de **caution e restraint**.
-
-**Relação com PCs:** Suspeitosa inicialmente; neutraliza se provarem usefulness.
-
-Fonte: Cults of the Blood Gods, pp. 3382–3393.
-
-### Constancia, Priestess of Bones
-
-**Epitáfio:** Hecata Anciã Ressuscitada.
-
-**Descrição:** Mulher de aparência avançada; olhos vazios; voz fraca mas autoritative. Pouco fala; quando o faz, carry weight.
-
-**Objetivo:** Descobrir por que foi ressuscitada; reestabelecer contato com sua linhagem.
-
-**Dinamica:** Frequentemente uma figura de background na adventure; revela verdades críticas em Capítulo 5.
-
-Fonte: Cults of the Blood Gods, pp. 3332–3336.
-
-### Terrence Rusk
-
-**Epitáfio:** Perses da Cult of Mithras; Operador Local.
-
-**Descrição:** Homem de cabelo salt-and-pepper; terno cinza; azul safira tie. Respeitável; faz negócios com educação.
-
-**Objetivo:** Expandir influência Mithratic em München; obter poder através de alianças políticas.
-
-**Relação com PCs:** Inicialmente neutro; potencial aliado ou rival conforme a coterie interaja.
-
-Fonte: Cults of the Blood Gods, p. 3311.
+- **Anja Giovanni**, Mother dos Hecata de Munique: alta e magra, cabelo grisalho de aço; matron "do culto de morte e não-morte"; aparece como sire de Christof e Franziska. Mantém a aliança frágil com a Camarilla. Fonte: p. 231 e 234 (VTM 5e - Cult Of The Blood Gods.txt:3177, 3223, 3254).
+- **Mora the Death Seer**: Cappadocian andrógino, usa "they" no livro; matou os Königs de Munique, incluindo Heinrich, sire de Asano; é a verdadeira mente por trás do plano (carta de Mora, Handout #3). Fonte: pp. 234, 236, 252–253 (VTM 5e - Cult Of The Blood Gods.txt:3223, 3257, 3522–3545).
+- **Hiromitsu Asano** (epitaph "Ruthless Entrepreneur"): nascido em 1920, Embraced em 1956 por Heinrich König; Geração 11, Blood Potency 2, Humanity 4; Touchstone Günter Hildebrant; Convicção "Never leave a debt unpaid". Domina um negócio de transporte; **rival de Mora**, a quem culpa pela morte do sire, e planeja secretamente contra ela. Ambição: assumir o comércio de exportação em Munique. Fonte: p. 254 (VTM 5e - Cult Of The Blood Gods.txt:3549–3580).
+- **Prince Ursula Eisenstadt**: Ventrue, cabelo ruivo curto, tatuagem de teia no braço esquerdo, fala de "caution and restraint". Fonte: p. 243 (VTM 5e - Cult Of The Blood Gods.txt:3382–3392).
+- **Constancia, Priestess of Bones**: childe de Japheth; lembra de seus childer Ambrogino e "de Camden" e da traição de Augustus; no corpo de Hildebrant. Fonte: p. 244 (VTM 5e - Cult Of The Blood Gods.txt:3406).
+- **Terrence Rusk**, Perses do Cult of Mithras: Ventrue (Geração 7, Blood Potency 3, Embraced 1880), cabelo grisalho, terno cinza, gravata azul safira; seu Pater é **Roger de Camden**. **Anna Fleischer** (Ventrue, Geração 10) é a investigadora do culto e substitui Rusk se ele morrer. Fonte: p. 256 (VTM 5e - Cult Of The Blood Gods.txt:3311, 3583–3595).
+- **Dieter Straub**, Gangrel (Geração 8 por diablerie, Blood Potency 3), Baron de fato dos Anarchs; **Peter Bohn**, Anarch Brujah (ambição: mediar um tratado). Fonte: p. 256 (VTM 5e - Cult Of The Blood Gods.txt:3596–3605).
+- **The Risen:** a estatística da p. 257 está truncada e misturada no `.txt` (VTM 5e - Cult Of The Blood Gods.txt:3606–3611); só aparecem fragmentos (Oblivion 5, Auspex 2, Celerity 2, Fortitude 2, Potence 2, Protean 2, dificuldades gerais 7/5). **Não confirmado**.
+- **Mortais:** GSG 10 (Physical 5, Social 3, Mental 3; armadura tática 6; dificuldades gerais 4/3); Police and Wayward Muscle (Physical 4, Social 2, Mental 3; 4/2); Lieschen Müller (3/2). Fonte: p. 258 (VTM 5e - Cult Of The Blood Gods.txt:3612–3630).
 
 ---
 
-## Personagens Prontos
+## Personagens prontos
 
-O livro oferece **oito personagens prontos** para jogar diretamente:
+O livro traz **seis** personagens prontos (pp. 259–264). Cada um com Mortal Days, Kindred Nights, Background, Convictions e Touchstone:
 
-1. **Christof Giovanni** (Hecata; Giovanni bloodline)
-2. **Franziska (Hollander) Giovanni** (Hecata; Giovanni bloodline)
-3. **Jan Puttanesca** (Hecata; Puttanesca bloodline)
-4. **Heather Milliner** (Hecata; Samedi)
-5. **Marlene Drake** (Hecata; ambígua)
-6. **Jürgen Schweiger** (Hecata; Harbinger)
-7–8. **Others** com builds variados.
+1. **Christof Giovanni** (Hecata; "Wallet behind the Throne"; Alleycat; sire Anja Giovanni).
+2. **Franziska (Hollander) Giovanni** (Hecata; "Cult Leader"; Osiris; sire Anja Giovanni).
+3. **Jan Puttanesca** (Hecata; "Stalwart Defender"; Alleycat; sire Niklas Puttanesca).
+4. **Heather Milliner** (Hecata; "Methodical Problem-Solver"; Bagger; sire Fenway Milliner).
+5. **Marlene Drake** (**Toreador**; "Broken Beauty"; Osiris; sire Alice Pike).
+6. **Jürgen Schweiger** (**Thin-Blood**; "Street Survivor"; Thin-Blood Alchemist com Flaw Bestial Temper).
 
-Cada personagem tem:
-- Atributos e Skills completos.
-- Convictions e Touchstones específicos.
-- Hooks pessoais na adventure.
-
-Fonte: Cults of the Blood Gods, pp. 259–296.
+Fonte: Cults of the Blood Gods, pp. 259–264 (VTM 5e - Cult Of The Blood Gods.txt:3631–3764).
 
 ---
 
-## Ganchos de Jogador
+## Ganchos Matters of Faith
 
-O livro oferece ~30 **story hooks** em pp. 265–296 para expandir ou variar a adventure:
+Doze ganchos curtos (pp. 265–273), para uma coterie ligada a um mesmo culto, usáveis como histórias rápidas:
 
-Exemplos:
-- **"Matters of Faith"** — Investigar cultos rivais (Setitas, Mithraists).
-- **"Idle Hands"** — Vampiros jovens causando problemas na Hecata.
-- **"Blood Trade"** — Circulatory System (rede de tráfico humano) oferece deal.
-- **"Gladius Domini"** — Caçadores humanos procuram Kindred.
+- **The Sleeping Sword of War:** The Ghosts of Carthage (Mago, Cult of Carthage); Resignation of the Righteous (os Romero Twins, Cult of the Fallen Kingdom); Idle Hands (Hellhounds of Satan); Family Feud (Cult of Helena e os Meneleans).
+- **Shades of Gray:** The Hunt Club (Prince Vaughn, sacerdote de Enkidu); Blood Trade (Agents of the Circulatory System); Absolution (Ethan Clare); First Change Fiasco (Karen Shaw).
+- **Tolerance and Persecution:** The Trinity (Prince Bruno, Descendant of Michael); Praise (the Church of) Caine!; Gladius Domini (Reverend Alfred Murray); High and Low.
+- **Sample Cultists** (p. 273–274): Naive Lay Member, Inducted Initiate, Loyal Acolyte, Trusted Templar, Grand Inquisitor, Devout Clergy, Charismatic Prophet.
 
-Cada hook pode ser integrado na campanha ou usar como side-quests.
-
-Fonte: Cults of the Blood Gods, pp. 265–296.
+Fonte: Cults of the Blood Gods, pp. 265–274 (índice em VTM 5e - Cult Of The Blood Gods.txt:58; texto em 3764–3900).
 
 ---
 
 ## Ver Também
 
-- Cults of the Blood Gods - Hecata Clan Overview (contexto Hecata)
-- [[Cults of the Blood Gods - Mithraic Mysteries]] (rival Mithratic)
-- [[Cults of the Blood Gods - Hecata Bloodlines e Family Reunion]] (bloodlines dos PCs prontos)
+- [[Cults of the Blood Gods - Hecata Bloodlines e Family Reunion]]
+- [[Cults of the Blood Gods - Mithraic Mysteries]] (o Cult of Mithras de Rusk e Fleischer)
+- [[Cults of the Blood Gods - Coterie Types]] (Family e Gatekeepers, coteries Hecata)
+- [[Cults of the Blood Gods - Predator Types]]

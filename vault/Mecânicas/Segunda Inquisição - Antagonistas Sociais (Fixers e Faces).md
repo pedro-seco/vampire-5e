@@ -22,7 +22,8 @@
 ## Como ler os perfis
 
 - **Pools**: Físico / Social / Mental (a ordem do livro). **Saúde/WP** = Health/Willpower. **Pools excepcionais** substituem o pool padrão quando a perícia se aplica.
-- Para clérigos comuns use *Clergy* do Core (p. 371); para o tipo "Face" clássico há também o Faith Hunter (Core p. 371).
+- Para clérigos comuns use *Clergy* do Core (p. 371). O Faith Hunter (Core p. 371) é citado pelo livro como o clérigo caçador "genérico" na seção de Warlocks and Clerics, não nesta.
+- Seção do livro: Fixers and Faces: Social, p. 13 (índice do livro).
 - Chefes de Fixers operam de safehouses ou escritórios bem guardados.
 
 *Fonte: Second Inquisition, cap. 1, txt:144-152.*

@@ -2,16 +2,20 @@
 
 # Cults of the Blood Gods — New Coterie Types
 
-> Novos tipos de coterie conforme apresentados no *Cults of the Blood Gods*: **Nemeses, Saboteurs, Envoys, Think Tank**. Incluem Backgrounds específicos de coterie.
+> Os tipos de coterie novos do *Cults of the Blood Gods*: **Nemeses** (Bahari), **Saboteurs** (Church of Set), **Family** e **Gatekeepers** (Hecata), **Envoys** e **Think Tank** (construção de cultos). Cada um traz Domain e Backgrounds de coterie com pontos.
 
 > [!warning] Material de suplemento
 > Conteúdo do *Vampire: The Masquerade — Cults of the Blood Gods*. Só vale se a crônica permitir.
+
+> **Sobre as fontes:** o `.txt` do livro (`VTM 5e - Cult Of The Blood Gods.txt`) não tem numeração no corpo; as páginas vêm do índice do livro e as linhas aparecem como `arquivo.txt:linha`. Os pontos (●) aparecem no `.txt` como caracteres de substituição, um por ponto.
 
 # Sumário
 
 - [[#Visão Geral|Visão Geral]]
 - [[#Nemeses|Nemeses]]
 - [[#Saboteurs|Saboteurs]]
+- [[#Family|Family]]
+- [[#Gatekeepers|Gatekeepers]]
 - [[#Envoys|Envoys]]
 - [[#Think Tank|Think Tank]]
 - [[#Ver Também|Ver Também]]
@@ -20,104 +24,110 @@
 
 ## Visão Geral
 
-As coteries tradicionais (do *Vampire: The Masquerade* core) incluem agrupamentos por tipo social (Scourge, Graverobber, Occultist, etc.). Os *Cults of the Blood Gods* adiciona **quatro novos tipos** refletindo as dinâmicas religiosas e políticas do livro.
+Cada tipo aparece no capítulo do culto ou clã ao qual está ligado, com uma lista de Backgrounds de coterie (Domain com seus componentes, Contacts, Resources etc.) e "possible extras" que o grupo pode somar.
 
-Fonte: Cults of the Blood Gods, pp. 1925–1946 (coterie section); novas coteries espalhadas ao longo dos capítulos de cultos específicos.
+| Tipo | Capítulo | Página (índice) |
+| --- | --- | --- |
+| Nemeses | Bahari | p. 55 |
+| Saboteurs | Church of Set | p. 84 |
+| Family, Gatekeepers | Hecata | p. 150 |
+| Envoys, Think Tank | Cult Construction | p. 195 (Think Tank continua na p. 196) |
 
 ---
 
 ## Nemeses
 
-**Conceito:** Coteries formadas de vampiros mantidos na escuridão ou desigualdade, agora unindo-se para destruir seus opressores e melhorar sua própria sorte.
+Formada por Kindred mantidos para baixo em vida ou na morte; existe para arruinar seus inimigos e melhorar a sorte de quem sofreu como eles. Longe de altruísta, a maioria age assim como catarse, e muitas vezes a escalada de vingança consome o grupo até esquecer a busca por igualdade. O livro diz que, embora muitas coteries religiosas virem blood cults (Core, p. 197), os Bahari têm esse tipo próprio, nascido da união entre os oprimidos, marginalizados e vingativos.
 
-### Identidade
+- **Domain:** Chasse (●●), Portillon (●)
+- **Contacts** (●●): kine oprimidos (downtrodden)
+- **Influence** (●●): mortais marginalizados
+- **Enemy** (●): um mortal que a coterie deseja arruinar
+- **Status Flaw** (●): Suspect
+- **Extras possíveis:** Herd (sobreviventes), Retainers (sobreviventes)
 
-Vampiros que **sofreram**, seja sob domínio de um prince tirano, abandono de sires, ou exclusão de status, encontram-se uns aos outros. Sua obsessão: **ruína dos inimigos** e **elevação dos que sofrem**. Frequentemente perdem o foco em igualdade quando a vingança consome seus objetivos.
-
-### Backgrounds Coterie
-
-- **Chasse** (●●): Território onde a coterie caça; frequentemente áreas marginalizadas.
-- **Portillon** (●): Pontos de entrada/saída secretos ou "espaços liminares."
-- **Contacts** (●●): **Kine downtrodden** (desabrigados, presos, vítimas).
-- **Influence** (●●): **Marginalized mortals** (comunidades excluídas pela sociedade).
-- **Enemy** (●): Um mortal específico que a coterie quer **destruir sistematicamente**.
-- **Status Flaw** (●): A coterie é **Suspect** ou notoriamente problemática.
-
-**Possíveis extras:** Herd (survivors), Retainers (survivors).
-
-Fonte: Cults of the Blood Gods, p. 1926.
+Fonte: Cults of the Blood Gods, p. 55 (VTM 5e - Cult Of The Blood Gods.txt:626–635).
 
 ---
 
 ## Saboteurs
 
-**Conceito:** Coteries sem raízes em um domain específico; enviadas para **espiar, assassinar, ou desestabilizar** um alvo por um vampiro mais poderoso.
+Coterie sem base de poder imediata nem raízes no novo domínio, mas com alcance provavelmente impressionante entre os kine. Costuma ter o apoio de um vampiro que a encarregou de espionagem, assassinato ou disrupção política. A Church of Set, mestra em infiltrar membros em outras seitas e domínios, usa o tipo sbirri (Core, p. 199) ou este, mais agressivo.
 
-### Identidade
+- **Contacts** (●●): desfavorecidos, outsiders etc.
+- **Influence** (●): empresas de vigilância
+- **Mawla** (●●): o vampiro que as encarregou da tarefa
+- **Mask** (●): identidades de cobertura
+- **Resources** (●●): dinheiro vivo para sustentar a história de cobertura
+- **Adversaries** (●●): ao menos um vampiro que se oporia à missão com violência
+- **Extras possíveis:** Domain (se a coterie estiver incorporada ao local atual), Status Flaw: Suspect
 
-Operacionais. Sem lar permanente. Sua lealdade é ao **patrão que as designou** (frequentemente um elder ou príncipe). Podem trabalhar como **spies para Camarilla**, operários para **assassinato profissional**, ou agentes de **disrupção política**. Frequentemente operam em segredo; sua verdadeira natureza é ocultada.
+Fonte: Cults of the Blood Gods, p. 84 (VTM 5e - Cult Of The Blood Gods.txt:1044–1057).
 
-### Backgrounds Coterie
+---
 
-- **Contacts** (●●): **Disenfranchised outsiders** que fornecem informação (hackers, prostitutas, homeless).
-- **Influence** (●): **Surveillance companies** ou agências de segurança que facilitem sua operação.
-- **Mawla** (●●): O vampiro que as designou para a missão; fonte de ordens e recursos.
-- **Mask** (●): **Cover identities**; cada membro tem história falsa e papéis de documento.
-- **Resources** (●●): **Liquid cash** para sustentar operações e cobertura.
-- **Adversaries** (●●): Pelo menos um vampiro que se **oporia violentamente** à sua missão.
+## Family
 
-**Possíveis extras:** Domain (se embarcadas), Status Flaw: Suspect.
+Coterie de dependência, conexão e redes de apoio; os vampiros podem ser parentes em sentido mortal e pelo Sangue, e provavelmente recrutam parentes mortais da família estendida.
 
-Fonte: Cults of the Blood Gods, pp. 1050–1057.
+- **Domain:** Chasse (●), Lien (●), Portillon (●●●)
+- **Ally** (●): um familiar mortal bem relacionado
+- **Contacts** (●●): família e família estendida
+- **Resources** (●●): dinheiro e bens emprestados pela família
+- **Enemies** (●●): um ou mais mortais que se opõem aos negócios da família
+- **Extras possíveis:** Herd (familiares), Influence (negócio da família), Mawla (vampiro da mesma família), Retainers (um ghoul da família), Fame Flaw: Dark Secret (ligações criminosas da família)
+
+Fonte: Cults of the Blood Gods, p. 150 (VTM 5e - Cult Of The Blood Gods.txt:1925–1935).
+
+---
+
+## Gatekeepers
+
+Coterie que usa a comunhão com os mortos (e talvez controle sobre eles), comum entre os Hecata e outros usuários de Oblivion: oferece auxílio e aconselhamento espiritual a uns e assaltos espectrais e sabotagem a outros, com cadáveres animados e ghosts como servos.
+
+- **Domain:** Chasse (●●), Lien (●), Portillon (●)
+- **Contacts** (●●): sepultureiros (graverobbers), agentes funerários
+- **Resources** (●●●): roubado dos mortos
+- **Retainers** (●●●): um servo wraith e espião
+- **Enemies** (●●): um caçador de vampiros que reconhece a coterie lidando com os mortos
+- **Status Flaw** (●): Notorious (lida com entidades sombrias)
+- **Extras possíveis:** Mawla (necromante experiente)
+
+Fonte: Cults of the Blood Gods, p. 150 (VTM 5e - Cult Of The Blood Gods.txt:1936–1946).
 
 ---
 
 ## Envoys
 
-**Conceito:** Coteries designadas para **negociar entre facções** ou servir como **mensageiras religiosas/políticas**.
+Servem em missões diplomáticas, como negociadores e mediadores entre partes distintas. Na maioria das vezes se formam após conflitos entre facções em guerra; quando dois ou mais cultos chegam a um acordo, às vezes encarregam seus membros mais jovens de formar a coterie, para que serviço e causas comuns superem velhas rixas.
 
-### Identidade
+- **Domain:** Chasse (●), Lien (●●●)
+- **Contacts** (●●●): mortais de origens e profissões variadas
+- **Resources** (●●): dinheiro e bens reunidos
+- **Status Flaw** (●): Suspect
+- **Extras possíveis:** Mask (identidades de cobertura para domínios diferentes), No Haven (sempre em movimento)
 
-Diplomáticas. Representam um culto, prince, ou covenant maior. Sua força não é marcial—é **carisma, conhecimento, e confiança daqueles que as enviaram**. Frequentemente navegam entre múltiplas lealdades. Podem ser **padres viajantes** disseminando doutrina, ou **negociadores clandestinos** resolvendo conflitos entre vampiros.
-
-### Backgrounds Coterie
-
-Não detalhado especificamente no livro, mas sugere-se baseado em **Saboteurs** com ênfase em:
-
-- **Contacts** (●●): Líderes religiosos/políticos em múltiplas cidades.
-- **Influence** (●–●●●): Amplo em múltiplos domínios.
-- **Status** (●●+): Reconhecidas como **representantes oficiais**.
-- **Resources** (●●): Fundos para viagem e diplomacia.
-- **Haven** (●–●●): Residências em múltiplos cidades (menos seguras que domínio único).
-
-Fonte: Cults of the Blood Gods, p. 1946 (nota breve em "An Accord Between Faiths").
+Fonte: Cults of the Blood Gods, p. 195 (VTM 5e - Cult Of The Blood Gods.txt:2641–2648). Também em [[Cults of the Blood Gods - Construção de Cultos (Estrutura e Backgrounds)]].
 
 ---
 
 ## Think Tank
 
-**Conceito:** Coteries académicas ou estratégicas dedicadas a **pesquisa, planejamento, ou entendimento** de assuntos ocultos/políticos.
+Kindred mais velhos e estabelecidos que atuam como assessores, estrategistas e pesquisadores de um culto; de preferência, um grupo pequeno de membros, embora líderes às vezes os contratem para levar a fé a outro nível. Pesquisam o melhor recrutamento por cidade, como disseminar informação e como usar as leis locais; têm acesso quase ilimitado à logística da igreja para criar procedimentos e políticas em benefício da liderança. Muitos são aliados de longa data; alguns se juntam para uma tarefa e se dissolvem. Membros típicos: especialistas em processos, eficiência, ex-burocratas, gênios de marketing ou especialistas num tema crítico ao culto.
 
-### Identidade
+- **Domain:** Chasse (●) e Lien (●●●)
+- **Allies** (●●●): analistas, burocratas, soldados etc.
+- **Haven** (●): pequeno escritório como base de operações
+- **Extras possíveis:** Resources (lucros da venda de serviços), Retainers (bibliotecários, estudiosos)
 
-Intellectuais. Podem ser **pesquisadores Tremere**, **estudiosos de Oblivion**, **estrategistas políticos**, ou **arquivos vivos de lore**. Dedicadas a **acumular conhecimento** em vez de poder direto. Sua arma é **informação**; sua defesa é a utilidade que fornecem a vampiros mais poderosos.
-
-### Backgrounds Coterie
-
-Não detalhado especificamente, mas sugere-se:
-
-- **Contacts** (●●+): Acadêmicos, arquivistas, pesquisadores.
-- **Resources** (●–●●): Fundos para pesquisa/viagem a bibliotecas.
-- **Haven** (●●+): Local de estudo; frequentemente fortemente protegido/oculto.
-- **Herd** (●): Mortais fornecendo assistência (arquivos, acesso a instituições).
-- **Library/Archives** (●–●●●): Custo de Background customizado para representar acesso a conhecimento.
-
-Fonte: Cults of the Blood Gods, p. 1946.
+Fonte: Cults of the Blood Gods, pp. 195–196 (VTM 5e - Cult Of The Blood Gods.txt:2649–2672; a lista de Backgrounds vem após o texto da carta "An Accord Between Faiths", fundida no `.txt`).
 
 ---
 
 ## Ver Também
 
 - [[Player's Guide — Coteries]] (tipos de coterie do Player's Guide)
-- [[Cults of the Blood Gods - Bahari e Rituals]] (contexto de algumas coteries religiosas)
-- [[Cults of the Blood Gods - Mithraic Mysteries]] (exemplo de organizações que podem formar coteries)
+- [[Cults of the Blood Gods - Bahari e Rituals]]
+- [[Cults of the Blood Gods - Church of Set (Serpents)]]
+- [[Cults of the Blood Gods - Hecata Bloodlines e Family Reunion]]
+- [[Cults of the Blood Gods - Construção de Cultos (Estrutura e Backgrounds)]]

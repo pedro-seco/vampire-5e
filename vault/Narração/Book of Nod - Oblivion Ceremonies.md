@@ -2,7 +2,7 @@
 
 # Book of Nod — Oblivion Ceremonies
 
-> Cerimônias de Oblivion conectadas à preservação de restos vampíricos e ao conhecimento dos mortos. Ferramenta para Narradores explorarem temas de Hecata, arqueologia vampírica e a Segunda Inquisição. **Nota de Narrador: mecânicas que afetam PCs devem ser revisadas com a mesa.**
+> Duas Cerimônias de Oblivion do capítulo Disciplines do livro: Ashen Relic (nível 2) e Wisdom of the Dead (nível 3). O livro remete ao Player's Guide para o Oblivion e as Cerimônias em geral.
 
 > [!warning] Material de suplemento
 > Conteúdo do *Vampire: The Masquerade — The Book of Nod Apocrypha*. Só vale se a crônica permitir. Regras gerais de Cerimônias de Oblivion estão em [[Player's Guide — Oblivion e Cerimônias]]; esta nota traz as cerimônias específicas do livro.
@@ -20,9 +20,9 @@
 
 ## Ashen Relic
 
-**Nível 2 Cerimônia** · **Pré-requisito:** Ashes to Ashes ou Oblivion's Sight · **Custo:** Rolagem de Cerimônia
+**Nível 2 Cerimônia** · **Pré-requisito:** Ashes to Ashes ou Oblivion's Sight · **Custo e pool:** não informados no texto do livro além do teste de Cerimônia
 
-Esta cerimônia permite a preservação de pedaços do corpo de um Kindred mesmo após sua destruição. A cerimônia tornou-se mais perigosa na era da Segunda Inquisição, já que prova tangível da existência Kindred apresenta mais perigo do que nunca. Muitos da Hecata e do Ministry caçam essas relíquias, temendo que o segredo desta cerimônia antiga atraia atenção indesejada de Kindred da Camarilla ou da Segunda Inquisição. Ainda assim, alguns Kindred mórbidos encontram alívio cercando-se com os restos de seus ancestrais (ou descendentes), e praticantes de Oblivion ocasionalmente encontram outros usos para tais relíquias.
+Esta cerimônia permite a preservação de pedaços do corpo de um Kindred mesmo após sua destruição. A cerimônia tornou-se mais perigosa na era da Segunda Inquisição, já que prova tangível da existência Kindred apresenta mais perigo do que nunca. Muitos da Hecata e do Ministry caçam essas relíquias, temendo que o segredo desta cerimônia antiga atraia atenção indesejada de Kindred da Camarilla ou da Segunda Inquisição. Ainda assim, alguns Kindred mórbidos encontram alívio cercando-se com os restos de seus ancestrais (ou descendentes), e praticantes de Oblivion ocasionalmente encontram outros usos para tais relíquias. Para os mercurians dos thin-bloods, tais relíquias são objeto de especulação e um ingrediente de poder desconhecido para sua alquimia.
 
 **Ingredientes:** O corpo em decomposição de um vampiro, mais sal e ervas associadas a embalsamamento.
 
@@ -32,9 +32,9 @@ Esta cerimônia permite a preservação de pedaços do corpo de um Kindred mesmo
 
 Uma vez criada, a relíquia (usualmente forma de mão mumificada, crânio, fêmur ou olho dessecado) persiste até ser destruída ou exposta à luz solar. A critério do Narrador, uma rolagem particularmente alta ou vitória crítica pode conceder à relíquia o poder de persistir apesar da luz solar.
 
-**Duração:** Indefinida, até destruição ou luz solar direta.
+**Duração:** o livro não traz linha de Duração; diz que a relíquia persiste até ser destruída ou exposta à luz solar.
 
-Fonte: *The Book of Nod Apocrypha*, p. 471–477.
+Fonte: *The Book of Nod Apocrypha*, p. 35 (índice do livro); VTM 5e - The Book Of Nod Apocrypha.txt:471-478.
 
 ---
 
@@ -46,26 +46,19 @@ Esta cerimônia permite ao Kindred extrair habilidades e conhecimento do crânio
 
 **Ingredientes:** A cabeça ou crânio do falecido, água pura e uma pequena chama.
 
-**Sistema:** O cerimoniante deve possuir um crânio ou cabeça. Após rolar Resolve + Oblivion (**Dificuldade 2** para uma cabeça principalmente intacta, ou **3** para um crânio), o Kindred começa a extrair conhecimento do falecido. O Narrador nomeia uma skill em que o falecido era mais versado em vida (ou unmorte, se um crânio Kindred) e uma skill adicional por ponto de margem de sucesso. Pelo resto da noite, o usuário pode usar o conhecimento do falecido: cada vez que rola uma das skills do falecido, desde que ainda esteja carregando seu crânio ou cabeça, pode adicionar **2 dados ao pool de dados**. Isto só se aplica se o falecido tinha um rating de skill superior ao do usuário.
+**Sistema:** O cerimoniante deve possuir um crânio ou cabeça. Após rolar Resolve + Oblivion (**Dificuldade 2** para uma cabeça principalmente intacta, ou **3** para um crânio), o Kindred começa a extrair conhecimento do falecido. O Narrador nomeia uma skill em que o falecido era mais versado em vida (ou unmorte, se um crânio Kindred) e uma skill adicional por ponto de margem de sucesso. Pelo resto da noite, o usuário pode usar o conhecimento do falecido: cada vez que rola uma das skills do falecido, desde que ainda esteja carregando seu crânio ou cabeça, pode adicionar **2 dados** ao pool. Isto só se aplica se o falecido tinha um rating de skill superior ao do usuário.
 
-Ao amanhecer, role um dado para cada rolagem de skill potenciada: uma falha em qualquer desses dados indica o crânio ou cabeça se desintegra em cinzas conforme a cerimônia termina e **não pode ser reconstituída por meios algum**.
+Ao amanhecer, role um dado para cada rolagem de skill potenciada: uma falha em qualquer desses dados indica o crânio ou cabeça se desintegra em cinzas conforme a cerimônia termina e **não pode ser reconstituída por meio algum**.
 
 **Duração:** Até o amanhecer ou o crânio/cabeça ser destruído.
 
-Fonte: *The Book of Nod Apocrypha*, p. 478–483.
+Fonte: *The Book of Nod Apocrypha*, p. 35 (índice do livro); VTM 5e - The Book Of Nod Apocrypha.txt:479-486.
 
 ---
 
 ## Contexto Narrativo
 
-### Motivações dos Hecata
-Os fragmentos que circulam sugerem que rituais como Ashen Relic estão sendo pesquisados para fins que vão além da reverência aos ancestrais. Relíquias podem servir como ancoradouros para wraiths, como componentes para rituais maiores, ou como prova arquivística do poder de Clãs antigas.
-
-### Ameaça da Segunda Inquisição
-Um crânio ou osso preservado é prova forense tangível. PCs que descobrem relíquias podem se encontrar em dilema ético: reportar à Camarilla (arriscando que sejam destruídas e que elders troquem favores), tentar escondê-las, ou explorá-las secretamente.
-
-### Uso como Recurso de Aventura
-Uma relíquia notória (ex.: crânio de um Antediluviano mítico, mão de um metusálen famoso) pode servir como MacGuffin político ou ocultista. Múltiplas facções podem disputá-la.
+Do texto do livro sobre Ashen Relic: a prova tangível da existência de um Kindred é mais perigosa na era da Segunda Inquisição; Hecata e Ministry caçam essas relíquias; os thin-bloods as veem como ingrediente de poder desconhecido para a alquimia. Fora isso, o livro não desenvolve usos adicionais; ganchos de aventura com relíquias ficam por conta do Narrador.
 
 ---
 

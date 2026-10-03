@@ -1,8 +1,8 @@
-#mecânica #loresheet #nosferatu #narrador #suplemento
+#mecânica #loresheet #nosferatu #suplemento
 
 # Fall of London — London Under London (Loresheet)
 
-Este é material de suplemento: **Fall of London** (2018). Este Loresheet é **apenas para Nosferatu**. Valem na sua crônica apenas se o Narrador permitir.
+Este é material de suplemento: **Fall of London** (2018). Este Loresheet é **apenas para Nosferatu** (o livro marca "Nosferatu characters only"). Valem na sua crônica apenas se o Narrador permitir.
 
 ## Sumário
 
@@ -11,13 +11,11 @@ Este é material de suplemento: **Fall of London** (2018). Este Loresheet é **a
 
 ## Descrição
 
-A paisagem subterrânea de Londres poderia ser considerada uma **cidade inteira e separada**. Os túneis do sistema de metrô, escavados há mais de um século, correm ao lado de criptas e porões de estruturas mais antigas, além de poços modernos para água, energia, telecomunicações.
+A paisagem subterrânea de Londres poderia ser considerada uma **cidade inteira e separada**. Os túneis do sistema de trens subterrâneos, escavados há mais de um século, correm ao lado de criptas e porões de estruturas muito mais antigas, além de poços mais modernos para água, energia e telecomunicações.
 
-Na **Zone 1** (centro de cidade), a infraestrutura subterrânea é particularmente densa. O **Crossrail project** (ainda incompleto em 2012) escavou milímetros de outras estruturas existentes. Essas passagens subterrâneas permitem traversar as partes mais antigas da cidade sem nunca pisar na rua.
+Na região central, aproximadamente a **Zone 1** dos mapas de transporte, a infraestrutura subterrânea é particularmente densa. O trabalho de escavação do **Crossrail project** (ainda incompleto na época em que o livro foi escrito) chegou a **centímetros** de outras estruturas existentes. Essas passagens permitem atravessar as partes mais antigas da cidade sem nunca pisar na rua.
 
-**Nosferatu naturalmente dominam esses espaços**, tendo passado séculos mapeando túneis cobertos, esgotos, basements abandonados, tunéis de Tube obsoletos, abrigos de era de guerra.
-
-**Fonte:** Fall of London, p. 232, 1984–1997
+**Fonte:** Fall of London, p. 232 (índice do livro); texto em `VTM 5e - Fall Of London.txt:1984-1997`. No .txt o texto introdutório deste Loresheet aparece fora de ordem, depois dos benefícios (linhas 1994-1997).
 
 ## Benefícios por Dot
 
@@ -25,56 +23,54 @@ Na **Zone 1** (centro de cidade), a infraestrutura subterrânea é particularmen
 
 ### ● (1 Dot): Tube Safety
 
-Você conhece o layout de cada estação de Tube e onde estão **todas as câmeras de CCTV**. Não pode controlá-las, mas sabe os **blind spots** da cobertura.
+Você conhece o layout de cada estação de Tube e onde estão **todas as câmeras de CCTV**. Não pode controlá-las, mas sabe evitar mostrar o rosto a elas e conhece os **blind spots** da cobertura.
 
 - **Teste:** Wits + Stealth contra **Difficulty 3**
-- **Sucesso:** Passa por/caça em estação de Tube sem ser detectado
-- **Aliados:** Qualquer um viajando com você se beneficia do seu conhecimento (desde que concorde)
+- **Sucesso:** Passa por/caça em qualquer estação de Tube sem ser detectado
+- **Aliados:** Quem viajar com você também se beneficia do seu conhecimento, se você escolher compartilhá-lo
 
-**Fonte:** Fall of London, p. 1984
+**Fonte:** `VTM 5e - Fall Of London.txt:1984`
 
 ### ●● (2 Dots): Somewhere to Hide
 
-Você pode se esconder em infraestrutura subterrânea em situações desesperadas (fuga, abrigo pré-amanhecer).
+Você pode se esconder em situações desesperadas (perseguição, ou longe demais do haven perto do amanhecer).
 
 - **Teste:** Wits + Larceny contra **Difficulty 3**
-- **Sucesso:** Encontra esconderijo seguro (tubo de esgoto, hatch de manutenção, seção menos usada de Tube)
-- **Narrador decide:** Tamanho do esconderijo, tempo que pode ficar seguro
+- **Sucesso:** Encontra um esconderijo subterrâneo que será ignorado por quem não tem conhecimento semelhante (cano de esgoto antigo, hatch de manutenção, seção pouco usada do metrô)
+- **Narrador decide:** Tamanho do esconderijo e por quanto tempo é seguro ficar
 
-**Fonte:** Fall of London, p. 1985–1986
+**Fonte:** `VTM 5e - Fall Of London.txt:1985-1986`
 
 ### ●●● (3 Dots): Network of Vermin
 
-Passou tempo suficiente underground para se familiarizar com **vermes e criadores** que vivem lá. Estão mais dispostos a fazer seu comando e defendê-lo.
+Você passou tempo suficiente no subsolo de Londres para se familiarizar com a multidão de **vermin e outras criaturas rastejantes** que vivem lá. Elas estão mais disponíveis para obedecê-lo e mais dispostas a defendê-lo de intrusos.
 
-- **Bonus:** +1 dado em **Animalism powers** relacionadas a criaturas subterrâneas:
+- **Bonus:** +1 dado em **Animalism powers** que envolvam interação com criaturas bestiais abaixo da superfície de Londres, incluindo:
   - Bond Famulus
   - Feral Whispers
   - Unliving Hive
   - Animal Dominion
-- Chances de encontrar criaturas úteis aumentadas em cenas underground
+- Aumentam as chances de encontrar criaturas úteis em qualquer cena passada no subsolo
 
-**Fonte:** Fall of London, p. 1987–1988
+**Fonte:** `VTM 5e - Fall Of London.txt:1987-1988`
 
 ### ●●●● (4 Dots): Personal Bolt-Hole
 
-Além de seu haven normal acima do solo, você mantém **um esconderijo secreto underground** onde ninguém consegue encontrá-lo. É mundano (sem proteção sobrenatural contra Auspex/Blood Sorcery), mas seguro de luz solar e intrusão física.
+Além do haven normal acima do solo, você mantém **um esconderijo subterrâneo secreto** onde nenhum outro Kindred consegue encontrá-lo e onde pode guardar itens valiosos que não ousa deixar em outro lugar. É inteiramente mundano: protege dos meios tradicionais de descoberta (e do sol), mas **não** de quem rastreie por meios sobrenaturais, como Auspex ou Blood Sorcery.
 
-- Use raramente (risco de descoberta)
-- Armazene itens valiosos ali
-- **Proteção:** Contra meios tradicionais (cerco, busca), não contra rastreamento sobrenatural
+- Não use com frequência, pois isso arriscaria a descoberta do local
 
-**Fonte:** Fall of London, p. 1989–1990
+**Fonte:** `VTM 5e - Fall Of London.txt:1989-1990`
 
 ### ●●●●● (5 Dots): Freedom of the City
 
-Seu conhecimento da paisagem subterrânea permite **atravessar Londres sem nunca pisar acima do solo**.
+Seu conhecimento da paisagem subterrânea permite **viajar e acessar locais importantes sem nunca pisar acima do solo**.
 
-- **Uso:** Uma vez por story, transporte entre dois locais em superfície usando rotas underground sem ser detectado em nível de rua
-- **Limite:** Não protege contra medidas de segurança **dentro** dos prédios que está acessando (bancos, edifícios seguros, etc.)
-- **Exemplo:** Acessar vault de banco ilicitamente via tunéis, mas ainda deve lidar com segurança interna
+- **Uso:** Uma vez por story, desloque-se entre dois locais de superfície por rotas subterrâneas, sem ser detectado por quem observe no nível da rua
+- **Limite:** Não protege contra medidas de segurança **dentro** do prédio acessado
+- **Exemplos do livro:** cofre de banco, escritório seguro ou o Haven de outro Kindred
 
-**Fonte:** Fall of London, p. 1991–1992
+**Fonte:** `VTM 5e - Fall Of London.txt:1991-1992`
 
 ---
 

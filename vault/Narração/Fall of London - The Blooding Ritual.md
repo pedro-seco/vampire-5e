@@ -2,130 +2,92 @@
 
 # Fall of London — The Blooding Ritual
 
-Este é material de **narrador apenas**: ritual de Blood Sorcery criado por Mithras para produzir "Heralds of the Sun" — vampiros guerreiros absolutamente leais. Valem na sua crônica se o Narrador permitir.
+Este é material de **narrador apenas**: ritual de Blood Sorcery criado por Mithras para produzir "Heralds of the Sun", vampiros guerreiros absolutamente leais. Valem na sua crônica se o Narrador permitir.
 
 ## Sumário
 
 - [[#Overview|Overview]]
 - [[#Processo Ritual|Processo Ritual]]
 - [[#Consequências|Consequências]]
-- [[#Os Heralds PC|Os Heralds (PCs)]]
+- [[#Os Heralds (PCs)|Os Heralds (PCs)]]
 
 ## Overview
 
-**The Blooding** é um ritual de Blood Sorcery especial criado por **Mithras** (methuselah Ventrue) há mais de um milênio para criar guerreiros vampíricos absolutamente leais. É similar à **Vaulderie** dos Sabbat, mas com intenção de criar escravos emocionais permanentes.
+**The Blooding** é um ritual especial de Blood Sorcery criado por **Mithras** (methuselah Ventrue) há mais de um milênio para criar guerreiros Kindred inquestionavelmente leais a ele. O processo é parecido com a **Vaulderie** dos Sabbat, em que o sangue de um grupo é misturado e bebido por todos para criar um vínculo. O ritual foi usado **pelo menos uma vez por século** desde então; os assassinos devotados criados assim são chamados de **Heralds of the Sun** pelos membros dos Mysteries.
 
-Mithras usou este ritual pelo menos uma vez a cada século. Durante a **Segunda Guerra Mundial** (London Blitz, ~1940), ele criou uma coorte de **6 Heralds** para futuros serviços — esses Heralds foram colocados em torpor voluntário em sarcófagos em Walbrook, Londres, e foram descobertos em 2012 quando as escavações do Bloomberg Building os desenterraram.
+Os PCs são Heralds criados por esse processo, "um pouco às pressas", durante a **London Blitz** (Segunda Guerra). Depois do ritual cada um entrou em torpor voluntário, para esperar até que Mithras precisasse deles.
 
-**Os personagens dos PCs são esses Heralds despertados.**
-
-**Fonte:** Fall of London, p. 133–140
+**Fonte:** `VTM 5e - Fall Of London.txt:132-140`
 
 ## Processo Ritual
 
-### Etapa 1: Imersão em Banho de Vitae
+### Etapa 1: Imersão em banho de vitae
 
-O processo começa imergindo um Kindred alvo **repetidamente em um banho de vitae** coletada de membros do Cult.
+O processo envolve **imergir repetidamente o Kindred em um banho de vitae** de membros do Cult. Os Kindred escolhidos são geralmente membros de **alta patente** do Cult, que consideram a escolha uma bênção e uma honra; quem contribui com vitae ao banho também costuma ser de alta patente e confiável.
 
-O Kindred escolhido é normalmente um membro de **alta patente** no Cult (Mithras o vê como honra, não punição).
+**Efeito:** o sujeito desenvolve um **vínculo emocional** com os membros do Cult e sente um forte desejo de não agir contra eles.
 
-Qualquer outro Kindred convidado a contribuir vitae também é membro alto-patente e confiável do Cult.
+**Fonte:** `VTM 5e - Fall Of London.txt:134-137`
 
-**Efeito:** O sujeito desenvolve um **vínculo emocional** aos membros do Cult e sente um desejo forte de **não agir contra eles**.
+### Etapa 2: Torpor voluntário
 
-(Semelhante à mecânica de Vaulderie, mas intencional e duradoura.)
+Depois do ritual cada Herald foi colocado em **torpor voluntário**. Os sarcófagos foram enterrados fundo no sítio de **Walbrook** para não serem descobertos por acidente. O ritual de Blood Sorcery da "incarceração" também serve para impedir um despertar acidental ou não planejado (`VTM 5e - Fall Of London.txt:268`). Na Segunda Guerra o sítio foi bombardeado e o acesso à cripta ficou destruído e soterrado; escavações dos anos 1950 passaram perto dos sarcófagos sem encontrá-los, e foram descobertos pela reurbanização do início do século XXI.
 
-**Fonte:** Fall of London, p. 134–137
+**Fonte:** `VTM 5e - Fall Of London.txt:138`
 
-### Etapa 2: Torpor Voluntário
+### Etapa 3: Despertar (Capítulo 1)
 
-Após o ritual, o Kindred é colocado em **torpor voluntário** para aguardar quando seria necessário.
+No Capítulo 1 os PCs acordam um a um, presos a mesas de metal no porão de um armazém em Docklands. Os dois vampiros que os acordam são **Mickey Wheeler** e **Adelino Da Silva**, membros iniciantes da mesma célula do Cult que **Darius Shirazi**. Eles trouxeram um **cálice antigo** adornado com símbolos dos Mysteries, usado em incontáveis rituais e dado por **Pater Thomas** a pedido de Mithras. **Adelino** pinga vitae do cálice na boca de cada PC, murmurando uma oração em latim a Mithras. Adelino é do clã **Brujah**; o clã de Mickey não é dado no trecho lido.
 
-Os sarcófagos dos Heralds foram enterrados profundamente em Walbrook, protegidos contra descoberta acidental.
+Cada personagem começa com **Hunger 4** por causa dessa refeição escassa. Um teste de Intelligence + Occult (Difficulty 2) reconhece símbolos mithraicos no cálice; Difficulty 4 reconhece símbolos mais arcanos ligados a Blood Sorcery.
 
-**Fonte:** Fall of London, p. 137–138
-
-### Etapa 3: Despertar Ritual
-
-Para despertar um Herald, é necessário um **objeto ritualístico de grande importância** (um artefato previamente imbuído com essência de Mithras) e **vitae vampírica**.
-
-No início da crônica, **Adelino Da Silva** e **Mickey Wheeler** (Brujah, ambos membros do Cult) despertam os PCs usando uma **goblet mithraic ancient** e vitae do Cult, cantando em latim e realizando a cerimônia de despertar.
-
-Os PCs despertam com **Hunger 4**.
-
-**Fonte:** Fall of London, p. 273–290
+**Fonte:** `VTM 5e - Fall Of London.txt:269-287`
 
 ## Consequências
 
-### Perda de Memória/Identidade (O Blooming)
+### Perda de identidade
 
-Uma **consequência crítica** do Blooding é que os sujeitos **perdem seu senso de identidade própria**. Suas mentes ficam "consumidas pelas memórias daqueles que contribuíram vitae ao ritual."
+Uma consequência do Blooding é que os sujeitos **perdem seu senso de identidade**: as mentes são "consumidas pelas memórias" de quem contribuiu com vitae no ritual.
 
-**O que isso significa no jogo:**
+**No jogo:**
 
-- Os PCs começam com **fragmentos de memórias que não lhes pertencem** — flashbacks de eventos históricos em Londres, memórias de Elder Cult members
-- Não conseguem lembrar bem de suas próprias vidas mortais, Embraces, ou razões originais de entrar para o Cult
-- Sofrem **Memoriam experiences** (flashbacks) conforme a crônica avança para recuperar suas memórias pessoais e identidade verdadeira
+- Conforme a crônica avança e os PCs encontram ex-membros dos Mysteries, sofrem **flashbacks coletivos** do passado de Londres que representam os efeitos do ritual
+- Durante a história podem usar **Memoriam** para recuperar memórias da própria vida e personalidade
+- O Narrador usa o background do personagem para decidir os **Memoriam points** que ele recebe (ver [[Fall of London - Personagens Pré-gerados#Memoriam — Estrutura|Memoriam]])
 
-**Mecanismo de Recuperação: Memoriam Points**
+**Fonte:** `VTM 5e - Fall Of London.txt:139-140` e `VTM 5e - Fall Of London.txt:2033-2035`
 
-Os PCs podem usar **Memoriam points** para recuperar fragmentos de suas memórias próprias. O Narrador oferece memórias em pontos críticos da história (ver seção character backgrounds).
+### Elder Drive e Ambition
 
-**Fonte:** Fall of London, p. 139–140, 2051–2119
+O Blooding tentou sobrescrever a personalidade dos PCs com a de um elder leal do Cult. O Narrador deve **anotar quando os personagens agem conforme a personalidade imprinted do elder e quando conforme a própria**, pois isso **determina seu destino pessoal perto do fim da crônica**.
 
-### Ambigüidade Roleplaying
-
-Conforme a crônica avança, os PCs devem escolher entre:
-
-1. **Agir de acordo com a personalidade imprinted do Elder** (obedecendo Mithras implicitamente)
-2. **Agir de acordo com sua própria identidade recuperada** (rejeitando lealdade a Mithras)
-
-O **Storyteller rastreia quando personagens agem conforme Elder personality vs. própria identidade**, pois isso determina seu **destino pessoal no final da crônica**.
-
-**Nota Narrativa:** Se os PCs se alienarem de Mithras repetidamente ou conscientemente, seus destinos divergem daqueles que permanecem leais (mais poderosos, mas espiritualmente presos).
-
-**Fonte:** Fall of London, p. 140, 2033–2035
+**Fonte:** `VTM 5e - Fall Of London.txt:140`
 
 ## Os Heralds (PCs)
 
-### Criação Durante Blitz (1940)
+### Criação durante a Blitz
 
-Os seis Heralds originais foram criados durante o **London Blitz** (bombardeio alemão da Segunda Guerra):
-- Foram colocados em torpor em sarcófagos romanos em Walbrook
-- Permaneceram dormindo por ~70 anos (1940–2012)
+Os Heralds foram criados durante a Blitz, **cerca de 70 anos** antes de 2012. Os sarcófagos ficaram no sítio de Walbrook, onde era o templo mithraico original e um local usado pelo Cult até a Segunda Guerra.
 
 ### Despertar em 2012
 
-Escavações para Bloomberg Building descobriram os sarcófagos (tratados como artefatos arqueológicos romanos). **Darius Shirazi** (Malkavian, membro do Cult) trabalha no Museum of London e arranjou desviar os sarcófagos para um warehouse em Docklands.
+Alguns meses antes, operários que cavavam as fundações da nova sede da **Bloomberg** em Walbrook Square acharam sarcófagos romanos intactos; arqueólogos patrocinados pelo Museum of London os estudaram e depois foram transportados. O Malkavian **Darius Shirazi**, ligado ao Museum of London, desviou o transporte do depósito principal do museu em Hackney para outro armazém do Museum of London Docklands. Ele recebeu ordem de **Pater Thomas** de recuperar os sarcófagos e acordar os Kindred, e não sabe da missão que os PCs receberão depois.
 
-No início da crônica, **Adelino Da Silva** e **Mickey Wheeler** despertam os sarcófagos (do grupo de PCs que estavam enterrados).
+**Fonte:** `VTM 5e - Fall Of London.txt:109-110` e `VTM 5e - Fall Of London.txt:269-274`
 
-### Backgrounds
+### Backgrounds e Touchstones
 
-Cada Herald tem:
-- **Nome e profissão mortal** (ver abaixo)
-- **Elder Drive:** Qual Elder do Cult domina sua mente imprinted
-- **Ambition (Elder's):** Objetivo do Elder
-- **Actual Ambition:** Verdadeiro objetivo pessoal do Herald (recuperado via Memoriam)
-- **Touchstones:** Devem ser formados rapidamente (Cena 1) ou morte Humanity ameaça
+- **Elder Drive, Ambition e Actual Ambition:** ver [[Fall of London - Personagens Pré-gerados#Memoriam — Estrutura|Personagens Pré-gerados]]
+- **Touchstones:** os antigos provavelmente já se foram. Os PCs precisam fazer novas conexões rapidamente se quiserem preservar a Humanity; no fim da primeira cena têm a oportunidade de criá-las
 
-**Cinco personagens pré-gerados fornecidos:**
+**Cinco personagens pré-gerados** (nomes do livro): Alice Mockingdale, Tommy Smith, Tony Castelli, Lady Catherine Montague e Doctor Henry Banerjee. Ver [[Fall of London - Personagens Pré-gerados]] para os detalhes que o .txt permite verificar.
 
-1. **Alice Mockingdale** — Fortune Teller/Hedge Witch (Tremere)
-2. **Tommy Smith** — Soldier (Nosferatu)
-3. **Tony Castelli** — Black Marketeer (Brujah)
-4. **Catherine Montague** — Philanthropist (Toreador)
-5. **Doctor Henry Banerjee** — Occultist Physician (Tremere)
-
-(Ver **Fall of London - Personagens Pré-gerados** para detalhes completos)
-
-**Fonte:** Fall of London, p. 237–242, 2027–2119
+**Fonte:** `VTM 5e - Fall Of London.txt:2036-2037`
 
 ---
 
 ## Ver Também
 
 [[Fall of London - Ritual of Transferring the Soul]]
-Mithras
 [[Fall of London - Personagens Pré-gerados]]
 [[Disciplinas#Blood Sorcery|Blood Sorcery]]

@@ -4,7 +4,7 @@
 
 > Material de suplemento. Vale só se a crônica permitir.
 
-Tipos de coteries alternativos aos apresentados em Vampire: The Masquerade, especificamente projetados para cultistas vampíricos. Você e sua Storyteller devem discutir se querem formar uma coterie usando um desses pontos de partida. Cada tipo descreve domínio, backgrounds, backgrounds relacionados à fé, e possíveis modificações.
+Tipos de coterie alternativos e adicionais aos apresentados em Vampire: The Masquerade. Jogadores devem discutir com o Storyteller se querem formar uma coterie usando um desses pontos de partida. Cada tipo traz um conceito, os Backgrounds (e, às vezes, Flaws) sugeridos para a coterie, com a justificativa de cada um, e possíveis extras.
 
 ## Sumário
 
@@ -36,7 +36,7 @@ A coterie representa a liderança do culto em um território. Desde reuniões se
 
 **Possíveis extras:** Allies, Resources, Retainer, Status, shared relic (significante ao culto), Adversary, Suspect
 
-**Fonte:** Children of the Blood, p. 1419-1437
+**Fonte:** VTM 5e - Children Of The Blood.txt:1419-1438 (página não confirmada: o índice do .txt tem colunas fundidas)
 
 ---
 
@@ -52,13 +52,13 @@ Em qualquer religião há aqueles que falham ou caem. Aprendem demais rápido de
 |-----------|--------|-----------|
 | Contacts | ●●● | Culto pode ter forçado você a purgar conhecidos outsiders, mas qualquer um que reteve é leal ou muito assustado para rebelar. Talvez um permaneça no culto, alertando quando estão fechando. |
 | Loresheet | ●●● | Segredos descobertos que levaram o culto a virar contra você. Uma má tradução ou erro de sequência que muda irrevogavelmente a narrativa. |
-| Mask | ●● | Documentos, driver's license, passaporte que o culto forneceu antes de declarar você excomunhungado. |
+| Mask | ●● | Documentos, driver's license, passaporte que o culto forneceu antes de declarar você excomungado. |
 
-**Flaws obrigatórios:** Excommunicates sempre têm um ou mais Flaws (geralmente **Excommunicated**) relacionados ao culto que escapou, como Adversary, Enemy, ou Despised. Podem ser aplicados individualmente para grupos de múltiplos cultos ou como background de coterie para grupo de um culto único.
+**Especial (Flaws):** coteries de Excommunicates sempre têm um ou mais Flaws (geralmente **Excommunicated**) relacionados ao culto que escapou, como Adversary, Enemy, ou Despised. Podem ser aplicados individualmente para grupos de múltiplos cultos ou como background de coterie para grupo de um culto único.
 
 **Possíveis extras:** Adversary, Destitute, Influence (outside the cult), No Haven, Shunned
 
-**Fonte:** Children of the Blood, p. 1439-1444
+**Fonte:** VTM 5e - Children Of The Blood.txt:1439-1444 (página não confirmada: o índice do .txt tem colunas fundidas)
 
 ---
 
@@ -79,7 +79,7 @@ Cada Diocese começa com uma missão — membros confiáveis do culto espalham a
 
 **Possíveis extras:** Mask, Retainer, Suspect
 
-**Fonte:** Children of the Blood, p. 1446-1454
+**Fonte:** VTM 5e - Children Of The Blood.txt:1446-1454 (página não confirmada: o índice do .txt tem colunas fundidas)
 
 ---
 
@@ -99,7 +99,7 @@ Cultos da noite são tão vulneráveis a cisma quanto as fés dos mortais. Mente
 
 **Possíveis extras:** Influence, Fame, Adversary, Despised, Excommunicated
 
-**Fonte:** Children of the Blood, p. 1455-1461
+**Fonte:** VTM 5e - Children Of The Blood.txt:1455-1461 (página não confirmada: o índice do .txt tem colunas fundidas)
 
 ---
 
@@ -107,7 +107,7 @@ Cultos da noite são tão vulneráveis a cisma quanto as fés dos mortais. Mente
 
 **Conceito:** "By distilling the common elements of the cults of the night we may usher in a new dawn of understanding."
 
-A coterie é um culto de cultistas buscando verdade universal. Comparando as várias maneiras que Kindred adoram, podem desbloquear um poder escuro ou caminho para verdadeira redenção. Essa é entre as mais perigosas de coteries — os SPCs permanecem embutidos em seus cultos, mas é um misstep breve para se tornar caçados excomunhungados.
+A coterie é um culto de cultistas buscando verdade universal. Comparando as várias maneiras que Kindred adoram, podem desbloquear um poder escuro ou caminho para verdadeira redenção. Essa é entre as mais perigosas de coteries — os SPCs permanecem embutidos em seus cultos, mas é um misstep breve para se tornar excomungados caçados.
 
 **Backgrounds de Coterie:**
 
@@ -119,7 +119,7 @@ A coterie é um culto de cultistas buscando verdade universal. Comparando as vá
 
 **Possíveis extras:** Allies, Contacts, Suspect
 
-**Fonte:** Children of the Blood, p. 1462-1469
+**Fonte:** VTM 5e - Children Of The Blood.txt:1462-1469 (página não confirmada: o índice do .txt tem colunas fundidas)
 
 ---
 
@@ -129,31 +129,31 @@ Essa Background representa a posição coletiva da coterie dentro de sua Diocese
 
 ### Flaws
 
-**Condemnation (●●):** Uma transgressão ou insulto contra seus superiores torna o Kindred ou coterie párias. Um grande espetáculo de devoção é requerido para ganhar melhor posição. Falha adicional risca substituição, expulsão, ou excomunhão.
+**Condemnation (●●):** Uma transgressão ou insulto contra seus superiores torna o Kindred ou coterie párias. Um grande espetáculo de devoção é requerido para ganhar melhor posição. Falha adicional arrisca substituição, expulsão, ou excomunhão.
 
 **Out of Favor (●):** Sua performance ficou aquém de expectativas e seus superiores estão infelizes. Qualquer pedido por resources/favors da hierarquia do culto sofre **-2 dados**.
 
-**Fonte:** Children of the Blood, p. 1472-1473
+**Fonte:** VTM 5e - Children Of The Blood.txt:1472-1473 (página não confirmada: o índice do .txt tem colunas fundidas)
 
 ### Merits
 
 **Devout Following (●):** A congregação pode ser mobilizada para um propósito verdadeiro aos ensinamentos do culto. Adoradores mortais despertados para protesto público ou Kindred levantados para caçar herege.
 
-**Charitable Offerings (●●):** Doações de congregações ricas e numerosas permitem à Diocese operar auto-suficientemente. Concede um Haven equivalentemente classificado como lugar de reunião e cada membro da coterie pode, uma vez por sessão, contar um dot adicional de recursos pessoais.
+**Charitable Offerings (●●):** Doações de congregações ricas e numerosas permitem à Diocese operar auto-suficientemente. Concede um Haven de classificação equivalente como lugar de reunião e cada membro da coterie pode, uma vez por story, contar um dot adicional de recursos pessoais.
 
-**Extremist Cell (●●●):** Um grupo de humanos habilidosos ou neonatos recrutados para agir como célula sabotadora pelos propósitos da Diocese (Cults of the Blood Gods, p. 84). Coterie deve fazer provisão para financiar atividades da célula e estar preparada para consequências das ações da célula que autorizar.
+**Extremist Cell (●●●):** Um grupo de humanos habilidosos ou neonatos recrutados para agir como célula sabotadora pelos propósitos da Diocese (Cults of the Blood Gods, p. 84). A coterie deve prover o financiamento das atividades da célula e estar preparada para as consequências das ações que autorizar, a critério do Storyteller.
 
-**Well-Integrated (●●●●):** Alguém no culto local é influente o suficiente em círculos tanto mortais quanto imortais para providenciar imunidade completa de autoridades mundanas ou imunidade parcial da Camarilla local. Uma vez por sessão, você pode chamar um favor para uma stay of execution ou perdão similar. Abuso de tal influência provável atrairá atenção.
+**Well-Integrated (●●●●):** Alguém no culto local é influente o suficiente em círculos tanto mortais quanto imortais para providenciar imunidade completa de autoridades mundanas ou imunidade parcial da Camarilla local. Uma vez por story, você pode chamar um favor para uma stay of execution ou perdão similar. Abuso de tal influência provável atrairá atenção.
 
 **The Next in Line (●●●●●):** Sucesso vê os justos elevados a synod council ou mesmo liderança do culto uma dessas noites. Há aqueles que esperam esse dia e cortejam favor, mas também há aqueles planejando contra isso. Qualquer teste para diplomacia dentro do culto recebe **+2 dados**, mas você ganha o Flaw **Adversary (●)**.
 
-**Fonte:** Children of the Blood, p. 1474-1479
+**Fonte:** VTM 5e - Children Of The Blood.txt:1474-1479 (página não confirmada: o índice do .txt tem colunas fundidas)
 
 ---
 
 ## Ver Também
 
-- Coteries
+- Coteries (ver a nota de Narração Coteries)
 - [[Loresheets]]
 - [[Advantages]]
-- Cults of the Blood Gods — Extremist Cells
+- Cults of the Blood Gods, p. 84 (Extremist Cell; o livro remete a ela, sem nota própria na vault)

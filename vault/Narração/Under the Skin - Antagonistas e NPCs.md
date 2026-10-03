@@ -2,7 +2,7 @@
 
 # Under the Skin - Antagonistas e NPCs
 
-Estatísticas dos NPCs de *Under the Skin* (Renegade Game Studios, 2024). Material de suplemento: vale só se a crônica permitir. **Público: Narrador.** Formato do livro: "General Difficulty" = Dificuldade geral (primeiro valor para tarefas gerais, segundo para tarefas que o NPC domina, conforme o formato do Core). Interpretação do par de valores: ambígua no texto do suplemento; confira no Core.
+Estatísticas dos NPCs de *Under the Skin* (Renegade Game Studios, 2024). Material de suplemento: vale só se a crônica permitir. **Público: Narrador.** Formato do livro: "General Difficulty" traz dois valores (ex.: 5 / 4). *Under the Skin* não explica o par; o Blood Sigils (VTM 5e - Blood Sigils.txt:175) usa o mesmo formato, remete aos Simple Antagonists do Core (p. 370) e diz que o número antes da barra é a Dificuldade para vencer a habilidade mais forte do NPC e o depois da barra a Dificuldade para superá-lo nos demais testes.
 
 # Sumário
 
@@ -20,20 +20,20 @@ Estatísticas dos NPCs de *Under the Skin* (Renegade Game Studios, 2024). Materi
 
 ## Peter, Evangelista
 
-Mortal; vessel com Sangue Inefável (ver [[Under the Skin - Sangue Inefável e Condução]]). Jovem bonito, devoto, frequentador da Igreja Evangélica Reformada do Redentor. Seu sangue tem aroma quase religioso — descrito por quem o prova como promessas de desejos satisfeitos, frutas em seu ponto, algodão doce, sexo adolescente. Vista limpa e convencional: cabelo penteado na lateral, camisa branca recém-passada, colete azul.
+Mortal; vessel com Sangue Inefável (ver [[Under the Skin - Sangue Inefável e Condução]]). Jovem de aparência limpa e ingênua, devoto, frequentador da Igreja Evangélica Reformada do Redentor. Seu sangue tem aroma quase religioso — descrito por quem o prova como promessas de desejos satisfeitos, frutas em seu ponto, algodão doce, sexo no banco de trás de um Cadillac 1974 aos 19 anos. Vista limpa e convencional: cabelo penteado na lateral, camisa branca recém-passada, colete azul.
 
-Comportamento: Peter reconhece automaticamente vampiros (não especificado como) e se mostra indiferente à ideia de ser bebido, até ansioso — mas se assusta rapidamente se mais de dois bebem dele ou se beberem demais, tentando se livrar com fraqueza e gemidos aflitos.
+Comportamento: Peter parece ciente dos vampiros (o livro não diz como) e não se incomoda de ser bebido, mas só quer falar de Deus; tolera um ou dois Kindred bebendo dele e se assusta se mais que isso bebem ou se bebem por muito tempo, tentando se livrar fracamente e choramingando.
 
 - General Difficulty: 3 / 2
 - Standard Dice Pools: Physical 4, Social 3, Mental 3
 - Secondary: Health 4, Willpower 3
 - Exceptional Pools: Performance 5 (piano), Persuasion 4, Academics 6 (estudos bíblicos)
 
-Fonte: Under the Skin, pp. 8–9.
+Fonte: Under the Skin, pp. 8–9 (Feeding p. 8 e An Appointment p. 9, pelo índice do livro).
 
 ## Emerie Alveston
 
-Mawla da coterie, feiticeira da corte Tremere. Mulher alta, cabelos escuros, aparentando final dos 30 anos. Veste-se com excentricidade semiformal de pesquisadora acadêmica; frequentemente parece estar sendo interrompida enquanto faz algo bem mais importante. Severa mas (até agora) benevolente com a coterie.
+Mawla da coterie, "Court Sorcerer" (feiticeira da corte), clã Tremere. Mulher alta, cabelos escuros, aparentando final dos 30 anos. Veste-se com excentricidade semiformal de pesquisadora acadêmica; frequentemente parece estar sendo interrompida enquanto faz algo bem mais importante. Severa mas (até agora) benevolente com a coterie.
 
 - Clã Tremere, Generation 11, Blood Potency 2
 - General Difficulty: 5 / 4
@@ -46,7 +46,7 @@ Mawla da coterie, feiticeira da corte Tremere. Mulher alta, cabelos escuros, apa
 
 *Descritos no Player's Guide, ou troque por outra opção adequada.
 
-Fonte: Under the Skin, p. 10.
+Fonte: Under the Skin, pp. 9–10 (a ficha fica entre An Appointment, p. 9, e a Part Two, p. 11).
 
 ## Mikayla
 
@@ -58,11 +58,11 @@ Duskborn (thin-blood) novata sob os cuidados de Emerie; serve de proxy dos efeit
 - Exceptional Pools: Awareness 6, Persuasion 6, Stealth 6, Distillations 4
 - Thin-Blood Alchemy 1: Formulae Far Reach, Haze
 
-Fonte: Under the Skin, p. 10.
+Fonte: Under the Skin, pp. 9–10 (mesma seção de Emerie).
 
 ## Clara Laurent
 
-Tremere de coterie do culto; ainda tem Blood Bond com o sire, o que atenuou os piores efeitos do Sangue Inefável. Valoriza a taumaturgia e pode não ver soluções não mágicas. Pequena, mulher quieta que aparenta 22 anos, mantendo a moda esperada para alguém dessa aparência. Entrou na vidinha no final dos anos 1990 quando foi à universidade na grande cidade e acabou se envolvendo demais. Recentemente abraçada por Benedict e sua coterie (originária de Chicago, Nova York, Nova Orleans ou outra grande metrópole distante). Sua dúvida sobre o culto começou quando encontraram o efígio — antes disso era leal.
+Tremere da coterie do culto; ainda tem Blood Bond com o sire (o livro não diz quem é), o que atenuou os piores efeitos do Sangue Inefável. Tem a taumaturgia do clã em alta conta e pode ser míope demais para ver soluções não feiticeiras. Garota de cidade pequena que se meteu em encrenca no final dos anos 1990, ao ir estudar na cidade grande; aparenta 22 anos e acompanha a moda esperada. Quieta, quer manter a cabeça baixa, mas desde que se envolveu com Benedict tem dúvidas. Juntou-se a ele recentemente, antes de acharem o efígio; a coterie vem de Chicago, Nova York, Nova Orleans ou outra grande cidade distante (a comunicação é difícil por causa da Segunda Inquisição).
 
 - Clã Tremere, Generation 12, Blood Potency 1
 - General Difficulty: 4 / 3
@@ -72,11 +72,11 @@ Tremere de coterie do culto; ainda tem Blood Bond com o sire, o que atenuou os p
 - Auspex 3: Heightened Senses, Sense the Unseen, Scry the Soul
 - Blood Sorcery 4: A Taste for Blood, Extinguish Vitae, Blood of Potency, Blood Aegis*. Rituais: Clinging of the Insect, As Fog on Water*, Ward against Spirits, Ward against Cainites
 
-Fonte: Under the Skin, p. 13.
+Fonte: Under the Skin, p. 13 (página citada pelo próprio livro).
 
 ## Father Benedict Castillo
 
-Líder do culto vampírico, morto há mais de 100 anos. Magro e óssudo, veste vestes de padre brancas simples com qualquer símbolo de denominação cuidadosamente removido. Aparenta ser um ancião distinto, mas seu sotaque incomum de europa central/meridional e escolha de palavras revelam sua grande idade. Clã: Malkavian (um assunto que ele não gosta de discutir).
+Líder do culto vampírico, morto há mais de 100 anos. Magro e óssudo, veste vestes de padre brancas simples com qualquer símbolo de denominação cuidadosamente removido. Aparenta ser um ancião distinto, mas seu sotaque (catalão, um pouco incomum) e sua escolha de palavras podem revelar que está morto há mais de 100 anos. Clã: Malkavian (um assunto que ele não gosta de discutir).
 
 - Generation 11, Blood Potency 2
 - General Difficulty: 5 / 4
@@ -91,7 +91,7 @@ Fonte: Under the Skin, p. 17.
 
 ## Alvaro
 
-"O Fiel" — o primeiro a descobrir o efígio. Clã Banu Haqim, Generation 12, Blood Potency 1. Homem aparentando seus 30 anos, cabelo preto curto bem cortado e bigode fino. Veste túnicas brancas do culto sobre calças e camiseta brancas simples.
+"O Fiel" — o primeiro a descobrir o efígio. Clã Banu Haqim, Generation 12, Blood Potency 1. Homem aparentando meados dos 30 anos, cabelo preto curto bem cortado e bigode fino. Veste túnicas brancas do culto sobre calças escuras e camisa branca simples.
 
 - General Difficulty: 5 / 4
 - Standard Dice Pools: Physical 8, Social 6, Mental 7, Disciplines 6
@@ -132,7 +132,7 @@ Fonte: Under the Skin, p. 17.
 
 ## Observações
 
-- A coterie do culto é forte demais para um confronto direto, sobretudo reunida e cheia de Sangue Inefável; porém, absorta em espalhar o próprio vitae, deixa a fuga fácil (p. 17).
+- A coterie do culto é forte demais para um confronto direto, sobretudo reunida e cheia de Sangue Inefável; porém, absorta em espalhar o próprio vitae, deixa a fuga fácil (nota ao fim da cena Deterioration, Part Three).
 - Benedict e Clara reconhecem Kindred graças ao Auspex.
 - O metusálen (Tzimisce de 5ª geração, "o Redentor") não tem estatísticas.
 - Em Alvaro, a Discipline Blood Sorcery 1 (Corrosive Vitae) e a lista de poderes seguem o texto do livro como impresso.

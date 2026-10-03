@@ -2,10 +2,12 @@
 
 # Cults of the Blood Gods — Predator Types
 
-> Dois novos **Predator Types** conforme apresentados no *Cults of the Blood Gods*: **Extortionist** e **Graverobber**. Substituem ou complementam os tipos do core.
+> Dois **Predator Types** que o *Cults of the Blood Gods* apresenta na seção "New Predator Types" do capítulo da Hecata: **Extortionist** e **Graverobber**. Os dois já constam no *Player's Guide* (ver [[Predator Type]]); aqui está o que o `.txt` deste livro traz.
 
 > [!warning] Material de suplemento
 > Conteúdo do *Vampire: The Masquerade — Cults of the Blood Gods*. Só vale se a crônica permitir.
+
+> **Sobre as fontes:** o `.txt` do livro (`VTM 5e - Cult Of The Blood Gods.txt`) tem dois índices; o de colunas separadas por tabulação põe "New Predator Types", "Extortionist" e "Graverobber" na **p. 150** (VTM 5e - Cult Of The Blood Gods.txt:35–37). O texto está em VTM 5e - Cult Of The Blood Gods.txt:1947–1967. Os pontos (●) aparecem no `.txt` como caracteres de substituição, um por ponto.
 
 # Sumário
 
@@ -18,83 +20,43 @@
 
 ## Visão Geral
 
-Predator Types refletem **como um vampiro se alimenta** e sua relação com presas. O *Cults of the Blood Gods* introduce dois tipos novos particularmente relevantes para vampiros religiosos e Hecata:
+Os Hecata têm modos preferidos de se alimentar, passados de sire para childe. Com o Bane do clã (ver o capítulo da Hecata) impedindo um Kiss prazeroso, o Clã da Morte precisa de outros métodos para extrair sangue. Alguns viram **baggers** (Core, p. 176); outros tipos surgem entre os necromantes. **Baggers Hecata** costumam ganhar um ponto de **Oblivion** no lugar de Blood Sorcery na criação: ao escolher o Predator Type Bagger, o jogador pode escolher Oblivion em vez de Blood Sorcery para o ponto adicional de Discipline.
 
-Fonte: Cults of the Blood Gods, pp. 1947–1950.
+Fonte: Cults of the Blood Gods, p. 150 (VTM 5e - Cult Of The Blood Gods.txt:1947–1949).
 
 ---
 
 ## Extortionist
 
-**Conceito:** Um vampiro que alimenta-se de vítimas sob coerção financeira/emocional.
+Você força suas vítimas a sangrarem por você. Em tese, o sangue vem em troca de serviços como segurança ou vigilância, mas, tantas vezes quanto a necessidade de proteção é real, ela é igualmente uma ficção criada para fazer o acordo parecer aceitável.
 
-### Método de Alimentação
+- **Especialidade:** Intimidation (Coercion) ou Larceny (Security).
+- **Um ponto em:** Dominate ou Potence.
+- **Três pontos** divididos entre os Backgrounds **Contacts** e **Resources**.
+- **Flaw:** **Enemy** (●●): a polícia ou uma vítima que escapou da sua extorsão e quer vingança.
+- **Predator Pool:** Strength ou Manipulation + Intimidation (você se alimenta por coerção, sutil ou dolorosamente óbvia).
 
-O Extortionist não simplesmente caça—**força vítimas a se submeter** através de **chantagem, ameaça de expor segredos, ou destruição de bens**. As vítimas sentem **humilhação profunda** durante a alimentação, frequentemente retornando porque acreditam não ter escolha.
-
-### Vantagens Mecânicas
-
-- **Herd (●●+):** Vítimas extorquidas. Frequentemente vítimas de **Status Flaw** (indebted) ou **Trauma Condition**.
-- **Contacts (●●+):** Informação sobre alvo potencial; infiltração em círculos sociais/profissionais.
-- **Influence (●+):** Leverage em comunidades (documentos comprometedores, segredos públicos).
-
-### Resonance e Stains
-
-Sangue de vítimas sob duress leva a **Resonance: Resigned** (resignado). Frequentemente causa **Stains** dependendo de Conviction do Predator.
-
-Exemplo de Conviction para Extortionist:
-- **"Aqueles que se recusam a ceder são dignos de destruição."**
-- **"Aqueles com poder mal ganho merecem ser punidos."**
-
-### Rolagens Associadas
-
-- **Intimidation + Occult** para identificar pressão psicológica.
-- **Intelligence + Streetwise** para encontrar leverage.
-- **Manipulation + Subterfuge** para refinhar extorsão.
-
-Fonte: Cults of the Blood Gods, pp. 1947–1950.
+Fonte: Cults of the Blood Gods, p. 150 (VTM 5e - Cult Of The Blood Gods.txt:1950–1958).
 
 ---
 
 ## Graverobber
 
-**Conceito:** Um vampiro que alimenta-se de **cadáveres e restos mortais** em vez de presas vivas.
+Graverobbers costumam se alimentar de cadáveres frescos, mas, apesar do nome, preferem enlutados em cemitérios e visitantes e pacientes tristes e assustados em hospitais. Resonance Melancholic no sangue da vítima atrai mais que qualquer outro humor. O tipo costuma exigir um Haven (ou conexões) numa igreja, hospital ou necrotério.
 
-### Método de Alimentação
+- **Especialidade:** Occult (Grave Rituals) ou Medicine (Cadavers).
+- **Um ponto em:** Fortitude ou Oblivion.
+- **Merit de alimentação:** **Iron Gullet** (●●●).
+- **Background:** **Haven** (●).
+- **Flaw:** **Herd** (●●) **Obvious Predator** (sua frieza o faz agir de modo profundamente perturbador ao caçar).
+- **Predator Pool:** Resolve + Medicine, vasculhando os mortos quietos atrás de um corpo com sangue rançoso; Manipulation + Insight ao circular entre mortais infelizes atrás de uma mordida vulnerável. Um cadáver frio sacia até **3 Hunger**, mas com as mesmas penalidades de sangue ensacado; um corpo alimentado há pouco antes da morte, drenado depois ou com partes faltando sacia menos.
 
-O Graverobber viola cemitérios, necrotérios, morgues, e locais de morte. **Não bebe de corpos frescos normalmente**—em vez disso, alimenta-se de **resíduos de morte**: ossos, sangue residual em tecido preservado, ou até mesmo animais necrófilos próximos ao cadáver.
-
-Alguns praticam **necrofilia ritual** ou **desmembramento** como parte de sua fé religiosa (comum entre Hecata).
-
-### Vantagens Mecânicas
-
-- **Haven (●●+):** Frequentemente localizado próximo a cemitérios, mausoléus, ou criptófilos.
-- **Resources (●+):** Subornos para sepultureiros, funcionários de morgue, ou guardas.
-- **Contacts (●●):** Conexões com morte profissional (funeral directors, pathologists).
-
-### Resonance e Stains
-
-Sangue de cadáveres leva a **Resonance: Chilled** (gelado, desolado). Frequentemente causa **Stains** pela violação de descanso dos mortos.
-
-Exemplo de Conviction para Graverobber:
-- **"Os mortos merecem respeito através do consumo ritualístico."** (Hecata perspective)
-- **"Devolver os mortos à vida é uma abominação que devo impedir."**
-
-### Rolagens Associadas
-
-- **Occult + Survival** para localizar cemitérios/restos.
-- **Stealth + Streetwise** para evitar detecção durante violação de sepultura.
-- **Medicine + Occult** para avaliar qualidade do sangue residual.
-
-### Relação com Hecata
-
-Graverobbers frequentemente trabalham **com ou sob supervisão** de **Hecata**, especialmente membros que praticam **Oblivion Ceremonies**. Alguns Hecata autênticos são Graverobbers por tradição religiosa.
-
-Fonte: Cults of the Blood Gods, pp. 1947–1950.
+Fonte: Cults of the Blood Gods, p. 150 (VTM 5e - Cult Of The Blood Gods.txt:1959–1967).
 
 ---
 
 ## Ver Também
 
-- [[Predator Type|Predator Types]] (visão geral e tipos do core)
-- Cults of the Blood Gods - Hecata Clan Overview (contexto Hecata)
+- [[Predator Type|Predator Types]] (tipos do Core e do Player's Guide)
+- [[Cults of the Blood Gods - Hecata Bloodlines e Family Reunion]]
+- [[Cults of the Blood Gods - Coterie Types]]

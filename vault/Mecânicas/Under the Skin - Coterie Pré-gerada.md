@@ -29,7 +29,7 @@ Coterie de 4 a 6 childer recém-estabelecidos. Vantagens compartilhadas: **Haven
 | Nikita "Nickie" | Pursuer | Brujah |
 | Stephen "Just Stephen" Benson | Sandman | Tremere |
 
-Fonte: Under the Skin, p. 22. Veja [[Mecânicas/Predator Type]] e [[Mecânicas/Clãs]].
+Fonte: Under the Skin, p. 22 (Appendix, Table 1). Veja [[Mecânicas/Predator Type]] e [[Mecânicas/Clãs]].
 
 ## Bjarne "The Bear"
 
@@ -46,16 +46,16 @@ Ex-presidiário, viciado em heroína que superou, agora obcecado por sangue. Pri
 - Advantages: Contacts 4 (traficante de armas, policial corrupto), Herd 1, Mask 2 (Zeroed 1), Resources 1, Status 1
 - Flaws: Haunted 1, Long Bond 1
 
-Fonte: Under the Skin, p. 23.
+Fonte: Under the Skin, p. 23 (índice do livro).
 
 ## Elena "The Butterfly"
 
-Ex-ghoul de um namorado controlador; matou-o. Primal Fear: Losing Her Identity.
+Ex-ghoul de um domitor (o chefe do namorado, a quem ele a levou) e ex-namorada de um homem controlador (Philip), que ela matou e devorou depois que ele matou sua gata. Primal Fear: Losing Her Identity.
 
 - Clã Nosferatu, Embraced 2021 (nascida 1989), Sire Mike Branson, Generation 13, Blood Potency 1, Humanity 6. Predator: Pursuer (maus homens e quem parece preso à própria vida)
 - Ambition: estar à altura do próprio potencial. Desire: diversão fácil e sem complicação
 - Convictions: algumas pessoas valem ser salvas
-- Touchstone: David Matthews (veterinário gentil com sua gata)
+- Touchstone: David Matthews (veterinário gentil que fez o que pôde pela gata dela, Cleocatra)
 - Atributos: Strength 2, Dexterity 2, Stamina 2; Charisma 1, Manipulation 2, Composure 4; Intelligence 3, Wits 3, Resolve 3
 - Health 5, Willpower 7
 - Skills: Craft 2 (Mending), Firearms 2, Larceny 2, Melee 1, Stealth 3; Etiquette 2, Insight 3 (Detect Anger), Intimidation 1, Streetwise 1, Subterfuge 1; Awareness 2, Investigation 3 (Profiling), Medicine 1, Politics 1, Technology 1
@@ -63,7 +63,7 @@ Ex-ghoul de um namorado controlador; matou-o. Primal Fear: Losing Her Identity.
 - Advantages: Bloodhound 1, Contacts 1 (pronto-socorro), Domain-Cell 1, Eat Food 2, Mask 2 (Zeroed 1), Resources 1
 - Flaws: Folkloric Block 1 (imagens da Virgem Maria), Long Bond 1
 
-Fonte: Under the Skin, p. 26.
+Fonte: Under the Skin, p. 26 (índice do livro).
 
 ## Mary Lee "Love"
 
@@ -80,7 +80,7 @@ Romântica obsessiva, apaixonada pela Mawla. Primal Fear: Being Unlovable.
 - Advantages: Beautiful 2, Contacts 1 (Cindy, amiga do bar de strip), High-functioning addict 1 (MDMA), Iron Gullet 3, Mask 1, Resources 1
 - Flaws: Bond Junkie 1, Disliked 1 (funcionários e clientes de hotéis/motéis locais), Enemy 1 (Carl, ex-amante)
 
-Fonte: Under the Skin, p. 35.
+Fonte: Under the Skin, p. 32 (índice do livro).
 
 ## Nikita "Nickie"
 
@@ -97,7 +97,7 @@ Ex-ginasta pressionado pela mãe. Primal Fear: Losing his Freedom.
 - Advantages: Beautiful 2, Bloodhound 1, Contacts 1 (Jason, bartender duvidoso), Linguistics 1 (Francês; nativo Russo), Mask 2, Retainer 1 (Chris, ghoul acidental apaixonado)
 - Flaws: Known Corpse 1, Dark Secret 1 (namorado Anarch)
 
-Fonte: Under the Skin, p. 38.
+Fonte: Under the Skin, p. 35 (índice do livro).
 
 ## Stephen "Just Stephen" Benson
 
@@ -114,15 +114,15 @@ O "forasteiro" do grupo, abraçado pela própria Emerie. Primal Fear: Being Left
 - Advantages: Contacts 2 (bibliotecas e segurança universitárias), Linguistics 2 (Aramaico, Grego), Mask 1, Resources 1, Status 1
 - Flaws: Long Bond 1, Bond Junkie 1
 
-*Scour Secrets está no Player's Guide.
+*Scour Secrets está no Player's Guide (nota do próprio livro).
 
-Fonte: Under the Skin, p. 38.
+Fonte: Under the Skin, p. 38 (índice do livro).
 
 ## Observações
 
-- **Jo Roth "The Rot" (Ventrue, Consensualist):** o texto do arquivo `.txt` não contém a ficha (páginas 29 a 31 ausentes da extração). Só consta na tabela de resumo (p. 22). Consulte o PDF ou monte a ficha com as regras de criação do Core.
-- Stephen é de **12ª geração**; os demais são de 13ª.
-- Várias Advantages e Flaws vêm do Core e do Player's Guide (por exemplo, Bond Junkie, Long Bond, Folkloric Block, Iron Gullet); veja [[Mecânicas/Advantages]] e [[Mecânicas/Player's Guide — Backgrounds, Merits e Flaws]] para o efeito de cada uma.
+- **Jo Roth "The Rot" (Ventrue, Consensualist):** o `.txt` não contém a ficha: o índice do livro põe Jo Roth na p. 29 e Mary Lee na p. 32, mas no arquivo a ficha de Elena é seguida direto pela de Mary Lee (VTM 5e - Under The Skin.txt:418-452). Jo só consta na tabela de resumo (p. 22). Consulte o PDF ou monte a ficha com as regras de criação do Core.
+- Stephen é de **12ª geração**; Bjarne, Elena, Mary Lee e Nikita são de 13ª (a de Jo Roth não consta no texto).
+- Várias Advantages e Flaws aparecem também no Player's Guide (por exemplo, Bond Junkie, Long Bond, Folkloric Block, Known Corpse); veja [[Mecânicas/Advantages]] e [[Mecânicas/Player's Guide — Backgrounds, Merits e Flaws]] para o efeito de cada uma.
 - O livro sugere manter os personagens inexperientes na sociedade vampírica para a história não se resolver rápido, e dar a cada um uma razão forte para preservar sua individualidade (ou um desejo profundo de se perder).
 
 # Ver Também

@@ -17,7 +17,7 @@ Este é material de **narrador apenas**: regras para escalonar a atividade de **
 
 ## Overview
 
-O **Threat Level** mede a intensidade e visibilidade da operação de **Operation Antigen** em Londres. Começa em **Level 1** no início de Fall of London.
+O **Threat Level** mede a intensidade e visibilidade da operação de **Operation Antigen** em Londres. Começa em **Level 1** no início de Fall of London. Além do sistema abaixo, cada capítulo traz no início uma lista de Threat Levels e das mudanças resultantes no cenário. O livro diz que o sistema também serve de modelo para a escalada da Segunda Inquisição em outra cidade.
 
 Cada nível afeta:
 - Atividades de Antigen no terreno
@@ -26,7 +26,7 @@ Cada nível afeta:
 
 O Narrador pode escalar o nível conforme a campanha avança, especialmente se os PCs atraem atenção para si mesmos ou para a comunidade Kindred.
 
-**Fonte:** Fall of London, p. 239–257
+**Fonte:** Fall of London, seção "Threat Levels" da Introdução (após "Operation Antigen", que começa na p. 20 pelo índice do livro); `VTM 5e - Fall Of London.txt:236-257`. No .txt as colunas dos Levels 3 a 5 estão fundidas e o trecho entre "closed without notice" e "to trap unsuspecting Kindred travelers" (Level 3, linhas 251-256) está faltando; o Level 3 abaixo omite essa parte.
 
 ## Level 0 — Baseline
 
@@ -42,7 +42,7 @@ Antigen está em seu estágio inicial de vigilância.
 
 **Operation Antigen Activity:**
 - Vigilância estabelecida em um pequeno número de locais e indivíduos
-- Agências normais do governo (polícia) são avisadas para fazer *raids* ou fechar propriedades com pretexto legal (legitimamente ou com evidência fabricada)
+- Onde há pretexto razoável, agências normais do governo são avisadas para fazer *raids*, fechar propriedades ou prender retainers, allies e contacts sem importância sob acusações criminais (legitimamente ou com evidência fabricada)
 - Vampiros nas margens (autarkis não-registrados, Anarquistas, thin-bloods) são alvo
 
 **Kindred Awareness:**
@@ -64,12 +64,13 @@ Vigilância se expande; comunicações eletrônicas monitoradas.
 - Programas de vigilância expandidos (voz, eletrônicos)
 - Warrants para CCTV (Transport for London, conselhos de boroughs)
 - Acusações criminais contra alvos mais influentes
-- Havens de alvos menores são invadidos diretamente por Antigen
+- Havens de alvos IC0 menores são invadidos diretamente por agentes de Antigen
 
 **Kindred Awareness:**
-- Retainers confiáveis relatam estar sendo seguidos
+- Retainers confiáveis e atentos relatam estar sendo seguidos
 - Oficiais descaracterizados questionam associados
-- Neonatos/ancilla importantes não comparecem a reuniões, não respondem a comunicações
+- Outros associados mortais e ghouls importantes ficam inacessíveis por prisão ou por não responderem
+- Vários neonatos e ancillae conhecidos da Corte não comparecem e não respondem a comunicações
 - Kindred discutem preocupações compartilhadas; coincidência parece improvável
 - Tentativas de investigar/corroborar são em vão
 
@@ -84,75 +85,74 @@ Vigilância se expande; comunicações eletrônicas monitoradas.
 Vigilância se expande ainda mais; suspeitas de monitoramento de comunicações em tempo real.
 
 **Operation Antigen Activity:**
-- Vigilância massivamente expandida (suspeita de GCHQ monitorando em tempo real)
-- Detector vans implantados
-- Celulares clonados covertamente
-- Unidades de polícia armada em todos os transportes maiores
-- Estações de Tube fechadas temporariamente sem aviso prévio
+- Vigilância expandida ainda mais; muitas comunicações suspeitas são monitoradas em tempo real pelo GCHQ
+- Detector vans implantadas
+- Celulares clonados às escondidas para coletar mais dados
+- Unidades de polícia armada em todos os principais hubs de transporte
+- Estações de Tube fechadas temporária e repentinamente, sem aviso (o .txt perde um trecho aqui, ver Fonte)
+- Equipes de Antigen, em conjunto com a British Transport Police, a British Telecom e a Thames Water, vão ao subsolo para mapear e proteger espaços subterrâneos
+- Quem está ligado aos alvos anteriores de Antigen é o próximo a ter o haven invadido
+- Novos procedimentos de segurança e triagem são adotados por departamentos do governo e empresas-chave
 
 **Kindred Awareness:**
 - Influência sobre instituições mortais vastamente reduzida (Masquerade em risco)
-- Contatos mortais leais relatam mudanças em management, anti-corrupção, testes psicométricos/biométricos
+- Contatos leais ainda não descobertos por Antigen relatam mudanças na gerência, iniciativas anticorrupção e testes psicométricos e biométricos
 - Kindred que usam transporte público desaparecem de reuniões
-- Schreknet comprometido; internet não é segura para assuntos Kindred
-- Reuniões públicas movem para locais mais seguros; códigos adotados
-- Sensação de que ameaça é manejável e pode ser revertida (mais velhos)
+- Nosferatu relatam SchreckNET comprometida; a internet não deve ser usada para assuntos Kindred
+- Reuniões públicas de Kindred mudam para locais mais seguros e discretos; códigos são adotados nas comunicações
+- Os elders da cidade sentem que, apesar do esforço concertado das autoridades mortais, a situação pode ser administrada e revertida
 - Vampiros paranoides começam a planejar fuga
 
 **Mechanics:**
-- **Todos os hunting rolls no centro e locais públicos:** +2 Dificuldade (messy crit ou bestial failure flagga o personagem para Antigen)
+- **Todos os hunting rolls no centro e locais públicos movimentados:** +2 Dificuldade (messy critical ou bestial failure faz o personagem ser flagged por Antigen)
 - **Testes com Allies, Contacts, Influence:** +1 Dificuldade
 
 ---
 
 ## Level 4 — Panic
 
-A perseguição é quase total; os códigos de Antigen foram quebrados.
+A vigilância é quase total; a maioria dos códigos da conspiração IC0 foi quebrada.
 
 **Operation Antigen Activity:**
 - Vigilância quase total
-- Maioria dos códigos de IC0 quebrados
-- Checkpoints de segurança endurecida em todas as estações de trem, motorways, aeroportos
-- Recursos adicionais em apoio
-- Todos os suspeitos conhecidos são alvo/emboscada
-- Novos suspeitos identificados por comunicação aberta são atacados
-- Equipes de Antigen vão underground (Tube, água, energia) para limpar espaços
-- Áreas limpas por Antigen são seladas e armadilhadas
+- A maioria dos códigos usados pela conspiração IC0 foi quebrada
+- Checkpoints de segurança reforçados em todas as estações ferroviárias nacionais, motorways e aeroportos
+- Recursos adicionais apoiam Antigen no terreno
+- Todos os suspeitos conhecidos ainda livres são alvos; novos suspeitos identificados por movimento ou comunicação abertos são emboscados imediatamente
+- A varredura de segurança no subsolo continua; áreas limpas por Antigen são seladas e armadilhadas
 
 **Kindred Awareness:**
-- Tentativas de re-estabelecer influência falharam ou tiveram efeito reverso
-- **Rainha Anne dissolve a Corte; nenhuma reunião planejada**
-- Maioria dos Kindred tenta deixar a cidade; muitos são destruídos no processo
-- Quem fica fica completamente invisível
-- Sem confiança no mundo mortal; cada vampiro para si mesmo
-- Sobreviventes vivos são contados nos dedos
+- Tentativas concertadas de restabelecer influência sobre governo, polícia e mídia falharam e até saíram pela culatra
+- **Queen Anne é forçada a declarar a ameaça grande demais e dissolve a Corte, sem novas reuniões planejadas**
+- A maioria dos Kindred que restam tenta deixar a cidade; um número significativo é destruído no processo
+- Quem decide ficar some completamente para evitar detecção
+- Sem confiança no mundo mortal; cada vampiro por si
 
 **Mechanics:**
-- **Todos os hunting rolls no centro e locais públicos:** +3 Dificuldade (messy crit ou bestial failure flagga o personagem)
-- **Uso de Allies, Contacts, Influence Backgrounds:** Requer teste bem-sucedido de Manipulation + Leadership ou Manipulation + Intimidation contra Difficulty = dot value do Background
+- **Todos os hunting rolls no centro e locais públicos movimentados:** +3 Dificuldade (messy critical ou bestial failure faz o personagem ser flagged por Antigen)
+- **Qualquer uso de Allies, Contacts e Influence Backgrounds:** requer teste bem-sucedido de Manipulation + Leadership ou Manipulation + Intimidation contra Difficulty igual ao valor em dots do Background
 
 ---
 
 ## Level 5 — Disaster
 
-Londres é purga da ameaça vampírica. Operação Antigen permanece vigilante; atenção passa para outras cidades do UK.
+Londres é expurgada da ameaça vampírica. Operation Antigen permanece vigilante; a atenção passa para outras cidades do Reino Unido, onde operações semelhantes começam.
 
 **Operation Antigen Activity:**
-- Acesso total à governo, transporte, comunicações da cidade
-- Dossiê abrangente coletado sobre todos os suspeitos/associados
-- Londres declarada "livre" da conspiração IC0
-- Antigen permanece em place para evitar ressurgência
-- Atenção volta para cidades no UK (operações similares começam)
+- Acesso total ao governo, transporte e comunicações da cidade
+- Dossiê abrangente de inteligência coletado sobre todos os suspeitos e seus associados
+- Londres considerada livre da conspiração sobrenatural
+- Preocupada com contágio e possível ressurgimento do problema IC0, Antigen permanece vigilante
+- Atenção volta para outras cidades do Reino Unido
 
 **Kindred Awareness:**
-- Populace Kindred e liderança eliminadas
-- Londres não é mais domínio de prêmio
-- Palavra se espalha para comunidades vampíricas (EUA, Europa) que Londres é **insegura**
-- Poucos sobreviventes se mantêm invisíveis
+- A população Kindred e sua liderança foram eliminadas
+- Londres não é mais um domínio cobiçado
+- A notícia se espalha entre comunidades vampíricas dos EUA e da Europa de que visitar Londres não é mais seguro
+- Os poucos Kindred residentes que sobreviveram ao expurgo ficam o mais quietos e inócuos possível
 
 **Mechanics:**
-- **Como Level 4, mais:**
-- **Todos os Allies, Contacts, Influence ratings:** Reduzidos permanentemente em 1 nível
+- **Como Level 4, e além disso:** todos os ratings de Allies, Contacts e Influence de qualquer Kindred são reduzidos permanentemente em 1 nível
 
 ---
 
@@ -160,20 +160,17 @@ Londres é purga da ameaça vampírica. Operação Antigen permanece vigilante; 
 
 **Início da crônica (Capítulo 1):** Level 1
 
-**Recomendação:** Aumentar nível em **pelo menos 1** a cada dois capítulos
+**Recomendação:** Aumentar o nível em **pelo menos 1 passo a cada dois capítulos** da história
 
-**Capítulo 6 (final):** Level 4 ou 5
+**Início do Capítulo 6 (final):** Level 4 ou 5
 
-**Aceleração:** Se PCs atraem atenção para si mesmos ou para os Kindred de Londres, esca
+**Aceleração:** Se os PCs atraem ou incentivam a atenção das autoridades para si mesmos ou para outros Kindred de Londres, a ameaça escala **muito mais rapidamente**
 
-le **muito mais rapidamente**
-
-**Fonte:** Fall of London, p. 239–242
+**Fonte:** `VTM 5e - Fall Of London.txt:240`
 
 ---
 
 ## Ver Também
 
-Operation Antigen
 [[Fall of London - Operation Antigen]]
 [[Segunda Inquisição]]

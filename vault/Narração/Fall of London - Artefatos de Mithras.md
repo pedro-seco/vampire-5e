@@ -2,7 +2,7 @@
 
 # Fall of London — Artefatos de Mithras
 
-Este é material de **narrador apenas**: os quatro artefatos que Mithras imbuiu com sua essência e que são críticos para o [[Fall of London - Ritual of Transferring the Soul|Ritual of Transferring the Soul]]. Valem na sua crônica se o Narrador permitir.
+Este é material de **narrador apenas**: os quatro artefatos em que Mithras imbuiu sua essência e que alimentam o [[Fall of London - Ritual of Transferring the Soul|Ritual of Transferring the Soul]]. Valem na sua crônica se o Narrador permitir.
 
 ## Sumário
 
@@ -11,109 +11,84 @@ Este é material de **narrador apenas**: os quatro artefatos que Mithras imbuiu 
 - [[#The Ruby Ring|The Ruby Ring]]
 - [[#The Egyptian Dagger|The Egyptian Dagger]]
 - [[#The Seal|The Seal]]
+- [[#Implicações Narrativas|Implicações Narrativas]]
 
 ## Overview
 
-Em 1940, quando Valerius planejava destruir Mithras, o methuselah disseminou quatro artefatos entre seus servos fiéis para safekeeping. Esses objetos foram imbuídos ritualísticas com porções da própria essência espiritual de Mithras.
+Para o Ritual of Transferring the Soul, Mithras imbuiu objetos com sua essência e os **disseminou entre seus servos para guarda**. O livro descreve quatro: o Phrygian Cap, o Ruby Ring, o Egyptian Dagger e o Seal.
 
-Se Mithras completar o **Ritual of Transferring the Soul**, cada artefato retornado:
-- Restaura parte de sua **Blood Potency** perdida
-- Melhora seu controle sobre o corpo hospedeiro
-- Aumenta seu poder geral
+Cada objeto devolvido ao novo corpo no ritual **restaura parte da Blood Potency original** de Mithras e **melhora seu controle sobre o corpo hospedeiro**. Se os PCs o ajudarem a completar o ritual por inteiro, ele fica em peak Blood Potency (desfecho "Mithras as King").
 
-A campanha **Fall of London** é parcialmente sobre localizar esses quatro artefatos antes de Mithras recuperá-los todos.
+Os PCs, Heralds of the Sun de Mithras, são enviados para recuperar os artefatos; cada capítulo-chave gira em torno de um deles.
 
-**Fonte:** Fall of London, p. 123–131
+**Fonte:** `VTM 5e - Fall Of London.txt:106` e `VTM 5e - Fall Of London.txt:123-131` (descrições dos objetos); `VTM 5e - Fall Of London.txt:1758` (desfecho)
 
 ## The Phrygian Cap
 
-**Aparência:** Uma tampa cônica macia feita de tecido vermelho fino, ápice pontiagudo dobrável.
+**Aparência:** Gorro cônico macio com ápice pontiagudo tradicionalmente dobrado, de tecido vermelho finamente costurado (período romano tardio). No museu aparece como um barrete de cor vermelha enferrujada, sem adornos.
 
-**História:** Presente de **Bindusara** (Ventrue scholar) a Mithras em Alexandria, em seu primeiro encontro.
+**História:** Presente do erudito Ventrue **Bindusara** a Mithras no primeiro encontro dos dois, em Alexandria.
 
-**Significado:** Mithras apenas a usava em ocasiões especiais em seu Templo, o que garantiu sua preservação em bom estado.
+**Significado:** Mithras só o usava em ocasiões especiais em seu Templo, o que explica a boa conservação.
 
-**Guardião (1940):** **Pater Gwenllian Arwyn** (Brujah, líder Cult)
+**Guardião:** **Pater Gwenllian Arwyn** (Brujah, ex-Pater do Cult of Mithras), a quem foi dado para guarda.
 
-**Localização Atual (2012):** Desconhecida; pode estar ainda com Arwyn ou ter sido movida. Foco de capítulo **RED LISTS & RED CAPS**.
+**Localização no cenário (2012):** Arwyn o escondeu no **British Museum**, na galeria do Império Romano, em uma vitrine trancada e climatizada, com um leitor de íris escondido em painel lateral (Wits + Awareness, Difficulty 4, para achar) ligado a ela. A repressão de Antigen ao museu prendeu Arwyn e o barrete lá dentro. Capítulo **Red Lists and Red Caps**.
 
-**Fonte:** Fall of London, p. 123–124
+**Fonte:** `VTM 5e - Fall Of London.txt:123-124`; `VTM 5e - Fall Of London.txt:1315`; `VTM 5e - Fall Of London.txt:1329-1340`
 
 ## The Ruby Ring
 
-**Aparência:** Banda de prata única, incrustada com grande rubi oval que brilha como sangue fresco. Inscrição interior em escrita hierática egípcia: *"From Goddess to God, cursed and blessed forever."*
+**Aparência:** Banda simples de prata fundida em uma peça só, com um grande rubi oval perfeito que brilha como sangue fresco. Inscrição interna em escrita hierática egípcia que se traduz aproximadamente por *"From Goddess to God, cursed and blessed forever."*
 
-**História:** Presente de **Kementiri** (Setite) a Mithras durante período em que eram amantes, antes de Mithras se estabelecer na Britannia.
+**História:** Presente da Setita **Kementiri** a Mithras durante o período em que eram amantes, antes de Mithras se estabelecer na Britannia. O anel tem aproximadamente a idade do barrete.
 
-**Significado Posterior:** Quando a conspiração de Kementiri foi exposta (século XIX, usando disfarce de Lady Ophelia Merritt), a Tremere desempenhou papel crucial em destruir a trama. Mithras, agradecido, deu o anel a **Sri Sansa** como token de apreciação quando o convidou para juntar-se ao Cult.
+**Significado posterior:** Na era vitoriana, uma conspiração para corromper os Kindred de Londres foi exposta e Kementiri foi revelada como a falsa Lady Ophelia Merritt; os Tremere tiveram papel crucial. Depois que Mithras baniu os Setites de Londres e convidou **Sri Sansa** para o Cult, deu a ele o anel como sinal de apreço.
 
-**Guardião (1940):** **Sri Sansa** (Hecata, membro honrado do Cult)
+**Guardião:** **Sri Sansa** (Tremere da House Carna, domínio em Southall).
 
-**Localização Atual (2012):** Com Sri Sansa, em Southall, Londres. Foco de capítulo **FAMILY MATTERS**.
+**Localização no cenário (2012):** Sri Sansa se dispõe a entregá-lo, mas o anel acaba sumido de seu cofre de joias e é encontrado no dedo da sobrinha-neta Satsinram. Capítulo **Family Matters**.
 
-**Fonte:** Fall of London, p. 125–127
+**Fonte:** `VTM 5e - Fall Of London.txt:125-127`; `VTM 5e - Fall Of London.txt:69`; `VTM 5e - Fall Of London.txt:897-910`
 
 ## The Egyptian Dagger
 
-**Aparência:** Lâmina reta e larga, típica de armas egípcias do Médio Império. Bronze fundido/martelado, cabo entalhado em marfim. Lâmina embaçada pelo negligência — nunca foi usada em combate.
+**Aparência:** Lâmina reta e larga com cabo fino, típica de armas egípcias do Médio Império; lâmina fundida e martelada em bronze, cabo de marfim entalhado. A lâmina está embotada por falta de uso, mas nunca foi usada em combate.
 
-**História:** Presente de **Horus the Avenger** (guerreiro renomado) a Mithras após sua batalha no século XIII.
+**História:** Presente do poderoso guerreiro **Horus the Avenger** a Mithras após a batalha entre os dois no século XIII.
 
-**Uso Ritual:** Mithras usou o punhal em cerimônias do Cult durante séculos, como rituais de sacrifício de touros.
+**Uso ritual:** Mithras usou o punhal em cerimônias do Cult por vários séculos, como no sacrifício ritual de touros.
 
-**Significado Posterior:** Quando **Richard de Worde** foi promovido a rank de Perses no Cult (século XIX), Mithras o presenteou como marca de respeito. De Worde posteriormente o usou para anclar suas próprias Blood Sorceries. Mithras nunca pediu de volta — talvez relutância sentimental.
+**Significado posterior:** Quando **Richard de Worde** subiu ao posto de Perses no Cult, no século XIX, Mithras o presenteou com o punhal como sinal de respeito. Mithras nunca o pediu de volta depois do rompimento, talvez por relutar em admitir tal sentimentalismo, e de Worde o usa para ancorar suas próprias feitiçarias de sangue.
 
-**Guardião (1940):** **Richard de Worde** (Nosferatu elder, ex-Spymaster de Mithras)
+**Guardião:** **Richard de Worde** (Nosferatu elder, ex-spy master de Mithras).
 
-**Localização Atual (2012):** Com de Worde, em tunéis subterrâneos de Londres. Foco de capítulo **WHAT HIDES BENEATH**.
+**Localização no cenário (2012):** Com de Worde, no metrô de Londres (Underground), onde ele lançou Web of Hunger. Capítulo **What Hides Beneath**.
 
-**Fonte:** Fall of London, p. 128–129
+**Fonte:** `VTM 5e - Fall Of London.txt:128-129`; `VTM 5e - Fall Of London.txt:924`; `VTM 5e - Fall Of London.txt:1027`
 
 ## The Seal
 
-**Aparência:** Lacre (seal) oficial para marcar documentos relativos ao Domínio de Avalon e Corte de Londres.
+**Aparência:** Selo oficial para marcar documentos relativos ao Domain of Avalon e à Corte de Londres. É o primeiro de vários feitos para Mithras na Idade Média. Importante para o Mithraic Mysteries.
 
-**História:** Primeiro de vários lacres feitos para Mithras na Idade Média para uso administrativo.
+**Histórico:**
+- **Século XIX:** concedido a **Valerius**, que o usou para criar documentos oficiais durante a longa ausência de Mithras da cidade
+- **Retorno de Mithras:** quando ele voltou e rebaixou Valerius, mandou recuperar o selo e entregá-lo a **Anne** como nova Seneschal
+- **Anne como Prince:** nunca o usou; mandou fazer um selo próprio para mostrar que era Prince de Londres e não apenas guardava a cadeira de Mithras, mas jamais o destruiu, por superstição de que Mithras talvez não estivesse morto
 
-**Uso Histórico:**
-- **Século XIX (ausência de Mithras):** Concedido a **Valerius** para criar documentos oficiais durante longa ausência de Mithras
-- **1885 (retorno de Mithras):** Retirado quando Mithras demitiu Valerius e passou para **Anne Bowesley** (sua childe) como nova Seneschal
-- **1940–2012:** Anne o mantém; nunca o usou desde que se tornou Prince de Londres
+**Guardião:** **Anne Bowesley** (Ventrue, Queen of London).
 
-**Significado Político:** Símbolo de autoridade executiva legítima no Domínio de Avalon. Aquele que o possuir tem justificativa para emitir decretos.
+**Localização no cenário (2012):** Em um cofre (panic room) num pequeno apartamento-safehouse na borda do distrito financeiro, perto da estação Mansion House, que nem é um dos Havens principais de Anne. Anne revela o endereço e o código se os PCs lhe provarem que Valerius está morto; Valerius também conhece o endereço, mas não o código. Capítulo **Sunset of Flames**, Scene Six.
 
-**Guardião (1940):** **Anne Bowesley** (Ventrue, agora Queen of London)
-
-**Localização Atual (2012):** No palácio de Anne, em Londres. Acesso = desafio político/diplomático ou roubo direto.
-
-**Fonte:** Fall of London, p. 130–131
+**Fonte:** `VTM 5e - Fall Of London.txt:130-131`; `VTM 5e - Fall Of London.txt:592-601`; `VTM 5e - Fall Of London.txt:635-671`
 
 ---
 
 ## Implicações Narrativas
 
-### Captura Progressiva
-
-Conforme a campanha avança, os PCs (ou Mithras) podem recuperar esses artefatos:
-
-- **Cada um retornado:** Restaura parte da Blood Potency de Mithras
-- **Todos os quatro:** Mithras atinge seu pico de poder anterior ao exílio
-
-### Conflitos
-
-Atualmente, cada artefato está guardado por um Kindred significativo:
-- Sri Sansa (generoso, pode negociar)
-- Gwenllian Arwyn (rebelde contra Mithras, pode aliar-se aos PCs)
-- Richard de Worde (antagonista formidável, defende o artefato)
-- Anne Bowesley (rainha de Londres, proteção política/militar)
-
-### Alternativas Narrativas
-
-Os PCs podem:
-1. **Recuperar para Mithras** — aumentar seu poder; futuro incerto
-2. **Recuperar contra Mithras** — impedir seu retorno ao poder
-3. **Vender/Negociar** — usar artefatos como moeda política
-4. **Destruir** — impedir qualquer uso (se for possível)
+- **Cada objeto devolvido:** restaura parte da Blood Potency de Mithras.
+- **Ritual completo:** Mithras fica em peak Blood Potency; se sobrevive sem completá-lo, é menos poderoso (`VTM 5e - Fall Of London.txt:1758-1760`).
+- **Guardiões:** Sri Sansa (disposto a entregar), Gwenllian Arwyn (quer se rebelar contra Mithras), Richard de Worde (antagonista), Anne Bowesley (negocia o selo, ver capítulo 2).
 
 ---
 
@@ -121,4 +96,3 @@ Os PCs podem:
 
 [[Fall of London - Ritual of Transferring the Soul]]
 [[Fall of London - The Blooding Ritual]]
-Mithras

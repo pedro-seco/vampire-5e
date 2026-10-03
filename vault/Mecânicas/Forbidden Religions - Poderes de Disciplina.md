@@ -6,14 +6,33 @@ Material de suplemento (*Forbidden Religions*). Vale só se a crônica permitir.
 
 ## Sumário
 
+- [[#Ghost's Passing|Ghost's Passing (Obfuscate 2)]]
 - [[#Seal the Beast's Maw|Seal the Beast's Maw (Fortitude 3)]]
+
+---
+
+## Ghost's Passing
+
+**Disciplina:** Obfuscate **Nível:** 2  
+**Amalgam:** Animalism 1  
+**Grupo:** Withered Ones (culto)
+
+O vampiro pode conceder uma medida de sutileza aos animais sob sua influência, mascarando seus passos de métodos mundanos de rastreamento.
+
+**Custo:** One Rouse Check
+
+**Sistema:** Animais sob a influência do usuário que ele escolhe como alvo deste poder não deixam rastro nem vestígio que possa ser visto por meios mundanos. *Sense the Unseen* (Auspex 1) ainda pode discernir sinais da passagem de uma criatura afetada, conforme as regras gerais de Obfuscate.
+
+**Duração:** One session
+
+**Fonte:** *Forbidden Religions*, p. 18 (índice do livro); VTM 5e - Forbidden Religions.txt:253-258. Também transcrito em [[Disciplinas]].
 
 ---
 
 ## Seal the Beast's Maw
 
 **Disciplina:** Fortitude **Nível:** 3  
-**Grupo:** Eremites
+**Grupo:** Eremites (culto)
 
 Através de disciplina rigorosa e treinamento, este indivíduo aprendeu a exercer sua vontade para atrasar o chamado da Fome por um curto período. Concentrando-se na morte do desejo, força a Fera a recuar, permitindo que ignore suas demandas insaciáveis. Fazê-lo é um risco, pois pode aumentar a Fome de um vampiro na tentativa.
 
@@ -23,7 +42,7 @@ Através de disciplina rigorosa e treinamento, este indivíduo aprendeu a exerce
 
 **Duração:** One scene
 
-**Fonte:** *Forbidden Religions*, p. 648
+**Fonte:** *Forbidden Religions*, p. 44 (índice do livro); VTM 5e - Forbidden Religions.txt:645-649
 
 ---
 

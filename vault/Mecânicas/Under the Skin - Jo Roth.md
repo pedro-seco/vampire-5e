@@ -6,12 +6,11 @@ Personagem pronto do apêndice de *Under the Skin* (Renegade Game Studios, 2024)
 
 ## Sinopse
 
-Jo Roth é o membro **Consensualist** da coterie de neófitos. Pouco se sabe sobre sua personalidade e histórico no texto disponível — a extração de PDF não incluiu a ficha completa (originalmente nas páginas 29–31).
+Jo Roth é o membro **Consensualist** da coterie de neófitos. O texto disponível não traz a ficha dela: o índice do livro indica Jo Roth na p. 29, mas o `.txt` pula da ficha de Elena para a de Mary Lee (VTM 5e - Under The Skin.txt:418-452). Só a tabela de resumo (Clã e Predator Type) está disponível.
 
 # Sumário
 
 - [[#O que se Sabe|O que se Sabe]]
-- [[#Atributos Básicos|Atributos Básicos]]
 - [[#Nota|Nota]]
 
 ---
@@ -19,20 +18,15 @@ Jo Roth é o membro **Consensualist** da coterie de neófitos. Pouco se sabe sob
 ## O que se Sabe
 
 - **Clã:** [[Mecânicas/Clãs#Ventrue|Ventrue]]
-- **Predator Type:** Consensualist (alimenta-se de quem consente, frequentemente através de acordo ou contrato)
-- **Geração:** 13ª (como os demais membros da coterie)
-- **Blood Potency:** 1 (como os demais)
-- **Advantages Compartilhados:** Haven 2, Mawla (Emerie Alveston) 3, Domain (Chasse 2, Lien 1)
-
-## Atributos Básicos
-
-Por integrar em uma sessão de jogo, siga as regras de [[Mecânicas/Character]] do Core Rulebook e ajuste conforme necessário. Ventrue costumam ter Composure ou Leadership elevados. Consensualist sugere Skills sociais altas (Persuasion, Subterfuge, Insight).
+- **Predator Type:** Consensualist (ver [[Mecânicas/Predator Type#Consensualist]])
+- **Geração, Blood Potency e demais números:** não constam no texto disponível (Stephen é de 12ª geração e os outros quatro de 13ª; não dá para inferir os de Jo)
+- **Vantagens compartilhadas da coterie:** Haven 2, Mawla (Emerie Alveston) 3, Domain (Chasse 2, Lien 1)
 
 ## Nota
 
-A ficha completa de Jo Roth não está disponível na extração de texto de *Under the Skin*. Consulte o PDF oficial (páginas 29–31) ou use as regras de criação do Core para montar a ficha seguindo o padrão dos outros cinco personagens pré-gerados (ver [[Under the Skin - Coterie Pré-gerada]]).
+A ficha de Jo Roth (Primal Fear, Touchstones, atributos etc.) não está no texto de *Under the Skin* disponível aqui. Consulte o livro impresso/PDF (a partir da p. 29, segundo o índice) ou monte a ficha com as regras de [[Mecânicas/Character]] (escolha sua, não do livro), usando como referência os outros cinco personagens (ver [[Under the Skin - Coterie Pré-gerada]]).
 
-Fonte: Under the Skin, p. 22 (tabela); páginas 29–31 não extraídas.
+Fonte: Under the Skin, p. 22 (Table 1) e índice do livro (Jo Roth, p. 29); ficha ausente do `.txt`.
 
 ---
 

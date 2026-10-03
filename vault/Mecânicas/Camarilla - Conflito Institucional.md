@@ -20,7 +20,7 @@
 
 O conflito institucional serve para transferir poder e controle local de um vampiro/coterie a outro, ou como pano de fundo para um drama pessoal. Posicionar os PCs para controlar uma instituição pode exigir semanas ou meses de jogo e muita **Influence** (Core p. 187), obtida em história, comprada com XP ou dada por loresheet/decisão do Narrador. *Fonte: Camarilla, p. 192 (linhas 2125-2135).*
 
-- Use o modelo **Three Rounds and Out** (melhor de três) ou o **One-Roll Conflict** (Core p. 298). As três rolagens podem ocorrer no começo, meio e fim da story, permitindo aos PCs alterar o rumo; ou uma One-Roll no clímax.
+- Use o modelo que o livro Camarilla chama de **Three Rounds and Out** ("melhor de três", contando quem vence mais rolagens) ou o **One-Roll Conflict** (Core p. 298). No Core, a regra de encerrar o conflito após cerca de três turnos, premiando quem venceu mais disputas, chama-se **Three Turns and Out** (Core p. 130; ver também o item **Three, Two, Done**, Core p. 295, no Advanced Conflict). As três rolagens podem ocorrer no começo, meio e fim da story, permitindo aos PCs alterar o rumo; ou uma One-Roll no clímax.
 - Troupe e Narrador devem definir **o que está em jogo**. Rivalidades podem durar décadas com ganhos apenas locais e condicionais.
 
 ## Escala institucional

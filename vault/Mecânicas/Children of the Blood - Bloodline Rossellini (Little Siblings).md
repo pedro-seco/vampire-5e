@@ -4,7 +4,7 @@
 
 > Material de suplemento. Vale só se a crônica permitir.
 
-Os Rossellini e os Giovanni foram rivais em necromancia por séculos. Enquanto os Giovanni buscaram ambição política, os Rossellini desenvolveram um controle sádico sobre wraiths — o domínio dos espíritos é sua arma única. Diferente dos Giovanni, que coagem e ameaçam, os Rossellini começam com ameaças brutas e dominação absoluta.
+Os Rossellini e os Giovanni foram rivais em necromancia. Os Rossellini tinham mais talento, mas os Giovanni tinham mais ambição, e acabaram sendo o Clã da Morte por 500 anos, enquanto os Rossellini viraram uma bloodline menor. As duas famílias compartilham quase tudo, exceto a manipulação de fantasmas: os Giovanni persuadem e aliciam, com uma ameaça ocasional; os Rossellini começam com ameaças, intimidação e dominação dos wraiths, e a Família sente prazer sádico ao usar Oblivion.
 
 ## Sumário
 
@@ -26,7 +26,7 @@ Sua experiência comandando wraiths te deu uma certeza: todos os Kindred eventua
 
 **Benefício:** Em qualquer teste para te intimidar ou manipular, seus agressores sofrem penalidade de um dado (acumula com outras penalidades).
 
-**Fonte:** Children of the Blood, p. 1779
+**Fonte:** VTM 5e - Children Of The Blood.txt:1779 (p. 101 pelo índice do livro)
 
 ### Ghostly Dominance (●●)
 
@@ -34,7 +34,7 @@ Você não tolera os lamentos ou ameaças de espíritos intangíveis. Eles são 
 
 **Benefício:** Quando você causa dano ao Fetter, entes queridos ou forma ectoplásmica de um wraith, recebe +3 dados em qualquer teste para comandá-los.
 
-**Fonte:** Children of the Blood, p. 1780
+**Fonte:** VTM 5e - Children Of The Blood.txt:1780 (p. 101 pelo índice do livro)
 
 ### Necromantic Expertise (●●●)
 
@@ -42,25 +42,25 @@ Seus irmãos Giovanni veem Oblivion como meio para um fim. Você sabe que é mai
 
 **Benefício:** Quando realiza uma Cerimônia de Oblivion, diminui a Dificuldade em um nível.
 
-**Fonte:** Children of the Blood, p. 1781
+**Fonte:** VTM 5e - Children Of The Blood.txt:1781 (p. 101 pelo índice do livro)
 
 ### Stolen Will (●●●●)
 
 Wraiths são bundles de emoção em casca ectoplásmica. Enquanto alguns Hecata bebem dos wraiths para saciar sua fome, você conhece um uso mais sustentável.
 
-**Benefício:** Quando morde o Fetter de um wraith sob seu comando com força suficiente para danificá-lo, o Fetter sangra ectoplasmma. Consumir esta substância amarga repara Dano de Willpower (Aggravated ou Superficial) equivalente ao valor de Willpower do wraith.
+**Benefício:** Quando morde o Fetter de um wraith sob seu comando com força suficiente para danificá-lo, o Fetter sangra ectoplasma tirado do corpus do wraith. Consumir esta substância amarga repara Dano de Willpower (Aggravated ou Superficial) equivalente ao valor de Willpower do wraith.
 
-**Fonte:** Children of the Blood, p. 1782
+**Fonte:** VTM 5e - Children Of The Blood.txt:1782 (p. 101 pelo índice do livro)
 
 ### Purge (●●●●●)
 
-Você destroi corpuses com facilidade. Qualquer ataque contra um wraith causa sempre Aggravated Damage, mesmo fora do Shadowlands. Você também consegue acertá-los quando intangíveis.
+Você destrói corpuses com facilidade. Qualquer ataque contra um wraith causa sempre Aggravated Damage, mesmo fora do Shadowlands. Você também consegue acertá-los quando intangíveis.
 
 **Benefício:** 
 - Ataques contra wraiths causam sempre Aggravated Health damage
 - Pode acertar wraiths em forma intangível
 
-**Fonte:** Children of the Blood, p. 1783
+**Fonte:** VTM 5e - Children Of The Blood.txt:1783 (p. 101 pelo índice do livro)
 
 ## Ver Também
 

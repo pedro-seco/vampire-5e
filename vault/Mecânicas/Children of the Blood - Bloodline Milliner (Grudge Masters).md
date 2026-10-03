@@ -4,7 +4,7 @@
 
 > Material de suplemento. Vale só se a crônica permitir.
 
-Nos anos 1950, a família Milliner aderiu ao clã Giovanni por despeito. Não eram conhecidos por maestria em Oblivion, mas suas conexões ajudaram o clã a sobreviver. Porém, receberam mais responsabilidades e menos respeito. Agora que todos são "uma grande família feliz", chegou a hora de expor todas aquelas rivalidades antigas.
+Nos anos 1950, a família Milliner aderiu ao clã Giovanni por despeito. Não eram conhecidos por proeza em Oblivion, mas suas conexões ajudaram o clã a atravessar as grandes mudanças do crime organizado e a ascensão da Segunda Inquisição. A única recompensa foi mais trabalho e restrições mais apertadas à alimentação e ao Embrace, algo que o Family Reunion pouco resolveu: os Milliners têm mais responsabilidades e menos respeito. Agora que todos são "uma grande família feliz", chegou a hora de expor todas aquelas rivalidades antigas.
 
 ## Sumário
 
@@ -24,24 +24,24 @@ Nos anos 1950, a família Milliner aderiu ao clã Giovanni por despeito. Não er
 
 Os Milliners são uma verdadeira dinastia americana. O nome carrega poder mesmo fora dos EUA.
 
-**Benefício:** Uma vez por sessão, ao invocar o legado Milliner, adicione +3 dados a um teste Social.
+**Benefício:** Uma vez por story, ao invocar o legado Milliner, adicione +3 dados a um teste Social.
 
-**Fonte:** Children of the Blood, p. 1796
+**Fonte:** VTM 5e - Children Of The Blood.txt:1796 (p. 102 pelo índice do livro)
 
 ### Family Bank (●●)
 
-A família tem muito dinheiro, mas quem pede esse favor precisa repagar em dinheiro, sangue ou trabalho. Uma vez por sessão, você pode pedir emprestado a um SPC Milliner novo ou existente.
+A família tem muito dinheiro, mas quem pede esse favor precisa repagar em dinheiro, sangue ou trabalho. Uma vez por story, você pode pedir emprestado a um SPC Milliner novo ou existente.
 
 **Benefício:** 
-- Você tem Resources 5 pelo resto da sessão
-- Deve cumprir um favor que o Storyteller nomeará antes do fim da sessão
-- Falha em cumprir o favor antes do final da sessão traz consequências
+- Você tem Resources 5 pelo resto da story
+- Deve cumprir um favor que o Storyteller nomeará antes do fim da story
+- O Storyteller também define as consequências caso a dívida não seja paga até o fim da story
 
-**Fonte:** Children of the Blood, p. 1797
+**Fonte:** VTM 5e - Children Of The Blood.txt:1797 (p. 102 pelo índice do livro)
 
 ### Perfect Grudges (●●●)
 
-Os Milliners são conhecidos por suas vinganças. Você é o poster child. Quando é superado em um teste por um SPC, pode criar um Project (V5, p. 415) dedicado à vingança.
+Os Milliners são conhecidos por suas vinganças. Você é o poster child. Quando é ofendido (slighted) ou superado em um teste por um SPC, pode criar um Project (V5, p. 415) dedicado à vingança.
 
 **Benefício:**
 - O Launch Roll do Project automaticamente sucede
@@ -49,27 +49,26 @@ Os Milliners são conhecidos por suas vinganças. Você é o poster child. Quand
 - Pode ter quantos Grudge Projects forem seus pontos de Composure
 - Vinganças além desse limite são Projects regulares
 
-**Fonte:** Children of the Blood, p. 1798
+**Fonte:** VTM 5e - Children Of The Blood.txt:1798 (p. 102 pelo índice do livro)
 
 ### You Owe Me (●●●●)
 
-Os Milliners sempre conseguem suas dívidas, nos piores momentos possíveis. Uma vez por sessão, gaste um Willpower e declare que um SPC na cena lhe deve um favor em segredo — e agora vence.
+Os Milliners sempre conseguem suas dívidas, nos piores momentos possíveis. Uma vez por story, gaste um Willpower e declare que um SPC na cena lhe deve um favor em segredo — e agora vence.
 
 **Benefício:**
-- O SPC deve cumprir o favor até o final da sessão, conforme decidido pelo Storyteller
-- Isso garante o cumprimento da dívida
+- O SPC deve cumprir o favor, da melhor forma que puder, até o final da story, conforme decidido pelo Storyteller
 
-**Fonte:** Children of the Blood, p. 1799
+**Fonte:** VTM 5e - Children Of The Blood.txt:1799 (p. 102 pelo índice do livro)
 
 ### Friends in High Places (●●●●●)
 
-As conexões Milliner em aplicação da lei os protegem de caçadores vampíricos. Isso é mais difícil hoje, mas você ainda tem as famosas agendas secretas. Escolha uma facção da Segunda Inquisição (FIRSTLIGHT, Entity, agência local, etc.).
+As conexões dos Milliners na aplicação da lei os voltaram contra aspirantes a caçadores de vampiros. Isso é mais difícil hoje, mas você ainda tem as cadernetas pretas ("little black books"). Escolha uma facção da Segunda Inquisição (FIRSTLIGHT, a Entity, uma agência de inteligência local etc.).
 
 **Benefício:**
-- Uma vez por sessão, quando essa facção age contra você, redirecione automaticamente a ação para qualquer SPC inimigo Kindred
+- Uma vez por story, quando essa facção age contra você, redirecione automaticamente a ação para qualquer SPC inimigo Kindred
 - Se o SPC inimigo sobreviver, saberá que você é culpado
 
-**Fonte:** Children of the Blood, p. 1800
+**Fonte:** VTM 5e - Children Of The Blood.txt:1800 (p. 102 pelo índice do livro)
 
 ## Ver Também
 

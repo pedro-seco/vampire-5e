@@ -56,7 +56,7 @@ Praticante de magia folclórica (feitiçaria, bênçãos, maldições, familares
 | --- | --- | --- | --- | --- |
 | 4/2 | 4/4/5 | 7/9 | Animal Ken 8, Investigation 6, Occult 8 | Ferramentas rituais, faca, protetor de pescoço, ração animal |
 
-*Fonte: Second Inquisition, cap. 1, txt:640-674.*
+*Fonte: Second Inquisition, cap. 1, `VTM 5e - Second Inquisition.txt:640-674`.*
 
 ### Faithful e Flagellant
 
@@ -94,15 +94,15 @@ Locais que absorvem energia espiritual de devotos intensamente ou por longo temp
 | --- | --- |
 | ● | Edifício religioso de bairro, cemitério consagrado |
 | ●● | Grande mesquita, catedral, templo, sinagoga |
-| ●●● | Monte Atos, Mesquita Azul, túmulo de santo/imã, Six Grandfathers (Black Hills, SD), Wudang Temple (Hubei, China), Uluru (Austrália) |
-| ●●●● | Notre Dame (Paris), Dakshineswar (Kolkata), Al-Kadhimiya (Bagdá), Monte Kurama (Quioto), Santuários principais |
-| ●●●●● | Muro das Lamentações, Igreja do Santo Sepulcro, Domo da Rocha (Jerusalém), Caaba (Meca), Ghat em Varanasi, Monte Kailasa (Himalaias), Palácio do Oní (Ilê-Ifé, Nigéria) |
+| ●●● | Venerated Site: Monte Atos, Mesquita Azul, túmulo de santo ou imã, Six Grandfathers (Black Hills, Dakota do Sul) |
+| ●●●● | Major Holy Site: Catedral de Notre Dame (Paris), Dakshineswar (Kolkata), Mesquita Al-Kadhimiya (Bagdá), Monte Kurama (perto de Quioto), Wudang Temple Complex (Hubei, China), Uluru (Território do Norte, Austrália) |
+| ●●●●● | Holy of Holies: Muro das Lamentações, Igreja do Santo Sepulcro, Domo da Rocha (Jerusalém), Caaba (Meca), Ghat em Varanasi, Monte Kailasa (Himalaias), Palácio do Oní (Ilê-Ifé, Nigéria) |
 
 **Efeito mecânico:** sem efeito em vampiros/criaturas (exceto Folkloric Block Flaw, Core p. 182), a menos que alguém com True Faith esteja presente. Então: Faithful **adiciona dots de Holy Ground à sua própria True Faith**.
 
 **Restrição:** Faithful de tradição diferente da do Ground (padre católico em templo hindu) normalmente não pode adicionar. Atividades perturbadoras (tiroteio em estupa budista) podem interferir. Narrador decide compatibilidade.
 
-**Desecração:** vampiro tenta profanar Holy Ground. Contest **Resolve + Occult do vampiro vs. Holy Ground + True Faith do defensor**. **+1 dado ao vampiro por ponto de Stain**; se defensor vence, cada sucesso extra = **1 dano Agravado** ao vampiro.
+**Desecração:** vampiros, sobretudo do Sabbat, podem tentar profanar Holy Ground. Os detalhes ficam com o Narrador, mas em geral envolvem um contest (por exemplo, **Resolve + Occult**) contra **Holy Ground + True Faith** do defensor mais fiel. Adicione **1 dado à pool dos vampiros por Stain** incorrida na tentativa; se o fiel vence, cada vampiro sofre **1 dano Agravado por sucesso extra**.
 
 *Fonte: Second Inquisition, cap. 1, txt:691-703.*
 
@@ -114,9 +114,9 @@ Praticante que cria zona nula sobrenatural. Akritai/Leopoldites usam oração e 
 | --- | --- | --- | --- | --- |
 | 3/2 | 3/4/5 | 6/9 | Awareness 7, Occult 7, Stealth 6 | Colete Kevlar, pistola semiautomática, kit de primeiros socorros |
 
-**Mecânica:** escolhe impedir Discipline vampírica. Custa **1 Willpower** para ativar, mais **1 Willpower** por uso + teste **Resolve + Occult vs. Discipline pool vampiro**. Cada 2 sucessos reduz sucessos do vampiro em 1. Se Nullifier vence, a Discipline falha.
+**Mecânica:** o Nullifier pode simplesmente impedir que as Disciplines de um blankbody funcionem e estender o efeito, como um campo, aos colegas. É cansativo mental e fisicamente: ativar um dos poderes custa **1 Willpower** e causa **2 pontos de dano Superficial** ao Nullifier.
 
-**Efeito de campo:** estende proteção a colegas. Mentalmente cansativo e fisicamente desgastante: cada ativação causa **2 dano Superficial** ao Nullifier além do Willpower.
+Quando um blankbody tenta usar **Dominate, Obfuscate ou Presence**, o Nullifier gasta **1 Willpower adicional** e rola **Resolve + Occult** contra a pool de Discipline do blankbody. A cada **2 sucessos**, reduz em 1 os sucessos do blankbody. Se o Nullifier vence o contest, a Discipline simplesmente falha.
 
 **Fora de combate:** senta próximo a mortal em risco. Vampiro não consegue apagar memória de alimentação, seduzir vítima ou se aproximar sem aviso.
 
@@ -144,11 +144,11 @@ Praticante que cria zona nula sobrenatural. Akritai/Leopoldites usam oração e 
 | 4/2 | 5/4/5 | 6/7 | Awareness 8, Science (Parapsychology) 6 | Colete Kevlar, capacete, medicamentos psicotrópicos experimentais |
 
 **Abilities:**
-- **Telekinetic Pull/Push/Throw:** objeto em linha de vista, **Resolve + Awareness** + 1 Willpower. Cada sucesso = 1 dot de Strength telecinética (usar Feats of Strength table, Core p. 411). Uma vez por turn.
-- **Telekinetic Blast:** **Resolve + Awareness** + 1 Willpower. Range ~1 metro por ponto de Intelligence. Criaturas dentro contestam com **Strength + Stamina**. Se perdem, caem prone + **2 dano Superficial por marginal success**. Uma vez por turn.
+- **Telekinetic Pull/Push/Throw:** objeto em linha de vista, **Resolve + Awareness** + 1 Willpower. Cada sucesso = 1 dot de Strength telecinética (usar Feats of Strength table, Core p. 411).
+- **Telekinetic Blast:** **Resolve + Awareness** + 1 Willpower. Range ~1 metro por ponto de Intelligence. Criaturas dentro contestam com **Strength + Stamina**. Se perdem, caem prone + **2 níveis de dano Superficial por marginal success**.
 - **Emotional Bleed:** permanecer perto de Pstriker por cena causa: mortais e criaturas sobrenaturais perdem **1 dado de Composure** até estar longe por ≥1 dia.
 
-**Variante - Pyrokinetic:** controla calor/fogo em vez de telekinesis. **Resolve + Awareness** + 1 Willpower por ataque. Blast é círculo expandindo de fogo = **Aggravated damage**. Pode conjurar fogo em objetos inflamáveis (roupas), **1 Agravado/round** até apagado (turn de apagar). Mesmo emotional bleed que Pstriker.
+**Variante - Pyrokinetic:** controla calor/fogo em vez de telekinesis. O livro não repete o teste do Pstriker (presume-se Resolve + Awareness + 1 Willpower, como o Pstriker). O blast é um círculo de fogo em expansão que causa dano **Agravado**. Gastando **1 Willpower** pode acender objetos inflamáveis (roupas), causando **1 nível de dano Agravado por round** a quem estiver em contato até alguém gastar um turno apagando o fogo. Stats iguais aos do Pstriker (Awareness 8, Science (Parapsychology) 6); equipamento inclui cigarros, sem isqueiro. Mesmo emotional bleed que Pstriker.
 
 *Fonte: Second Inquisition, cap. 1, txt:728-765.*
 
@@ -171,7 +171,7 @@ Sorcerers com poderes divinos muitas vezes têm True Faith; adicionam True Faith
 - **HEAL:** **Composure + Occult** (Difficulty 4, ou 5 para Aggravated). Cura Health levels iguais aos sucessos; 1 Willpower por injury.
 - **HIDE FROM THE HAWK:** 1 cena, imperceptível aos rituals Blood Sorcery *Illuminate the Trail of Prey* (Core p. 277) e *Eyes of the Nighthawk* (p. 279); imune a Disciplines usadas via Nighthawk.
 - **INSIGHT:** sente pensamentos/intenções superficiais de 1 sujeito. Flashes de pensamentos conscientes fortes ou imagens (intenção de resistir vs. cooperar, quem vem à mente se ameaçado alguém caro, flash de Touchstone). Sabe se sujeito mente/é enganoso. Sujeito contesta com **Resolve + Subterfuge** (Difficulty = sucessos do Sorcerer).
-- **LIGHT:** 1 Willpower, **Resolve + Occult** (Difficulty 4), cria farol/flashlight-bright por cena. +Willpower = esfera de luz med-room, funciona como sunlight (**1 dano Agravado/round**), dura 1 turno.
+- **LIGHT:** 1 Willpower, **Resolve + Occult** (Difficulty 4), cria uma faísca de luz tão forte quanto uma lanterna, por até uma cena. Gastando mais Willpower, a luz vira uma esfera grande o bastante para encher uma sala média e funciona como luz do sol, causando **1 nível de dano Agravado a vampiros por ponto adicional de Willpower gasto**; apaga-se após 1 turno.
 - **PERCEIVE THE OBFUSCATED:** +1 Willpower, **Resolve + Occult vs. vampiro Wits + Obfuscate**. Percebe Obfuscated por resto da cena.
 - **RESIST OBLIVION:** imune a Shadow Cloak e Stygian Shroud (Chicago By Night pp. 293–295). Detecta automaticamente Shadow Perspective/Shadow Cast; gastar +1 Willpower nega por few seconds/1 turno de combate ou +3 Willpower nega cena inteira. +2 Willpower impede Shadow Step.
 - **SCRY:** com item pessoal do alvo, vitae o suficiente para encher test tube, ou Touchstone, espia atividade atual do alvo. Vê/ouve localização atual como olhando por-cima-do-ombro. Dura cena; não penetra wards/barriers arcanas. Vampiro com Auspex ou spy Discipline sabe que está sendo scried (mesmo se não for alvo declarado).

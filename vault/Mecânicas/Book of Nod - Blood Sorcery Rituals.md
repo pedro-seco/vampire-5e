@@ -2,7 +2,7 @@
 
 # Book of Nod — Blood Sorcery Rituals
 
-> Rituais de Blood Sorcery ligados à preservação de mensagens em sangue e à herança noddista. Inclui Blood Apocrypha, um ritual ocultista que empodera comunicação vampírica através de intermediários sangue-marcados.
+> Ritual de Blood Sorcery do capítulo Disciplines do livro: Blood Apocrypha (nível 1), que codifica cerca de um minuto de fala em uma dose de sangue.
 
 > [!warning] Material de suplemento
 > Conteúdo do *Vampire: The Masquerade — The Book of Nod Apocrypha*. Só vale se a crônica permitir. Regras gerais de Rituais estão em [[Disciplinas]]; esta nota traz os rituais específicos do livro.
@@ -28,11 +28,11 @@ Feiticeiros de sangue aprenderam a encaixotar mensagens em seu sangue—ou num v
 
 **Sistema:** O ritualist encoda cerca de um minuto de fala em uma dose de sangue (1 Rouse Check) em um tigela ritual. O ritualist então designa um ou mais receptores pretendidos cuja vitae ele provou. Como parte do ritual, um Kindred, mortal, ou criatura mensageira deve consumir o sangue para transferir a mensagem para seu próprio corpo—caso contrário, o sangue (e a mensagem) estraga rapidamente.
 
-A primeira pessoa a consumir o sangue ensorcelled recebe a mensagem mentalmente **automaticamente se for receptor pretendido ou possuir A Taste for Blood** (Merit). Qualquer outro bebedor deve suceder num teste **Wits + Occult (Dificuldade 3)** para entender a mensagem.
+A primeira pessoa a consumir o sangue ensorcelled recebe a mensagem mentalmente **automaticamente se for receptor pretendido ou possuir o poder A Taste for Blood** (Blood Sorcery 1). Qualquer outro bebedor deve suceder num teste **Wits + Occult (Dificuldade 3)** para entender a mensagem.
 
-**Duração:** Um mês, mais um mês adicional para cada ponto de margem de sucesso no ritual.
+**Duração:** Um mês, mais um mês para cada ponto da margem de sucesso.
 
-Fonte: *The Book of Nod Apocrypha*, p. 466–468.
+Fonte: *The Book of Nod Apocrypha*, p. 34 (índice do livro); VTM 5e - The Book Of Nod Apocrypha.txt:466-468.
 
 ---
 

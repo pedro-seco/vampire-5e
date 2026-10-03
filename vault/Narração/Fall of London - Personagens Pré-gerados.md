@@ -1,196 +1,151 @@
-#narrador #personagens-precgerados #backgrounds #memoriam #suplemento
+#narrador #personagens-pregerados #memoriam #suplemento
 
 # Fall of London — Personagens Pré-gerados
 
-Este é material de **narrador e jogadores**: Cinco Heralds of the Sun pré-gerados para Fall of London. Valem na sua crônica se o Narrador permitir.
+Este é material de **narrador**: os cinco Heralds of the Sun pré-gerados de Fall of London (spoilers das memórias). Valem na sua crônica se o Narrador permitir.
+
+**Limite da fonte:** no `VTM 5e - Fall Of London.txt` as fichas de personagem (páginas 250 em diante pelo índice do livro) são imagens e não têm texto. Clã, Elder Drive, Ambition, Actual Ambition, atributos, Disciplinas e Backgrounds de cada personagem **não aparecem no .txt** e por isso não estão nesta nota. O que segue vem das cenas de Memoriam (linhas 2055-2119), dos Predator types das cenas de alimentação do Capítulo 4 (linhas 932-959) e de menções avulsas nos capítulos.
 
 ## Sumário
 
 - [[#Alice Mockingdale|Alice Mockingdale]]
 - [[#Tommy Smith|Tommy Smith]]
 - [[#Tony Castelli|Tony Castelli]]
-- [[#Catherine Montague|Catherine Montague]]
+- [[#Lady Catherine Montague|Lady Catherine Montague]]
 - [[#Doctor Henry Banerjee|Doctor Henry Banerjee]]
 - [[#Memoriam — Estrutura|Memoriam: Como Usar]]
 
 ## Alice Mockingdale
 
-**Clan:** Tremere
-**Profissão Original:** Fortune Teller / Hedge Witch
-**Origem:** Camponesa que curava (mãe Edith curandeira), executada por bruxaria
+**Páginas do livro (índice):** 237
+**Clã:** Tremere (o texto a trata como Tremere: "If Alice reveals herself as Tremere", `VTM 5e - Fall Of London.txt:761`)
+**Predator type:** Osiris
+**Papel no Cult:** "Handmaiden of Mithras" / "Voice of Mithras" (`VTM 5e - Fall Of London.txt:934`, `VTM 5e - Fall Of London.txt:2097`)
 
-**Elder Drive:** Handmaiden of Mithras — sente-se como parte da vontade divina de Mithras, nunca sozinha
+**Memoriam (texto do livro, resumido):**
 
-**Ambition (Elder's):** Servir Mithras incondicionalmente como sacerdotisa do Cult
+- **Mortal Life:** sentada na calçada suja de uma rua apertada, oferecendo ler a sorte de um cavalheiro por um centavo
+- **Past Occupations:** cavando raízes de plantas ao amanhecer, murmurando cânticos e acendendo uma vela; sente que a deusa a abençoa
+- **Past Trauma:** ouve a mãe, **Edith** (que só curava), gritando enquanto vêm buscá-la à noite; o pai a arrasta de volta para casa
+- **The Embrace:** vestida de branco na câmara interna; ajoelha-se e se oferece ao **Clan Tremere**; teme que a nova lealdade supere o que sente por Mithras
+- **Mithras:** lidera os fiéis nos rituais de exaltação; sente-se parte da vontade divina dele
+- **Impressions:** o sorriso de Edith quando aprendeu o primeiro encantamento; a praça da aldeia onde brincava sozinha (chamavam-na de bruxa); a fome nas ruas de Londres, em trapos
 
-**Actual Ambition:** (Recuperável via Memoriam) — Proteger os oprimidos; questionar autoridade religiosa que a vitimizou
-
-**Memoriam Access (por tema):**
-
-- **Mortal Life:** Sentada nas ruas de Londres, mendigando, mãe executada por bruxaria
-- **Past Occupation:** Curandeira — cultivando plantas, cantando incantações de cura sob alvorada
-- **Past Trauma:** Mãe Edith sendo morta pela multidão; pai a arrastando embora
-- **The Embrace:** Iniciada no templo Tremere, oferecendo pescoço ao Patriarch, bebendo vitae
-- **Mithras:** Líder de fiéis em branco; presença de deus ao seu lado sempre
-- **Impressions:** Sorriso de Edith, green da aldeia, fome nas ruas, incantações, lembranças de bênção
-
-**Fonte:** Fall of London, p. 2057–2118
+**Fonte:** `VTM 5e - Fall Of London.txt:2057`, `2068`, `2077-2079`, `2087`, `2097`, `2104-2106`
 
 ---
 
 ## Tommy Smith
 
-**Clan:** Nosferatu
-**Profissão Original:** Soldier (WWI)
-**Origem:** Soldado traumatizado por trincheiras, ferido grave, oferecido "escape" por um Nosferatu em campo hospitalar
+**Páginas do livro (índice):** 238
+**Clã:** não aparece no .txt
+**Predator type:** Alleycat
+**Mortal:** soldado de trincheira (batalha com tiros, granadas e lama; o texto trata de uma guerra anterior à Segunda Guerra)
 
-**Elder Drive:** Sentinela Eterna — sente perpétua obrigação de permanecer em guarda, nunca descansando
+**Memoriam (texto do livro, resumido):**
 
-**Ambition (Elder's):** Servir Mithras como guerreiro perpétuo; defender o Cult eternamente
+- **Mortal Life:** monumento de guerra coberto de sangue invisível; ele traça com o dedo "Lest we forget" e chora pelos que caíram
+- **Past Occupations:** o ritmo de matar na trincheira (mira, atira, recarrega); só quer o fim da lama e do frio
+- **Past Trauma:** um clarão, depois escuridão; um obus próximo, o corpo esmagado e queimado, os colegas assustados ao vê-lo
+- **The Embrace:** na "quiet ward" de um hospital, uma sombra ao lado da cama o poupa se ele lutar por ela; ele aceita, "the war will never end"
+- **Mithras:** só conhece Mithras depois de muitos anos no Cult; ele inspeciona os guardas, toca o rosto de Tommy e todos são dispensados; o prisioneiro nunca mais é visto
+- **Impressions:** ouvir "go home" quando não conhecia outro lar; o respeito das pessoas quando via o uniforme; corpos recolhidos do no man's land
 
-**Actual Ambition:** (Recuperável via Memoriam) — Encontrar paz após décadas de luta; honrar os caídos
-
-**Memoriam Access (por tema):**
-
-- **Mortal Life:** Monumento de soldados mortos; trincheira de barro frio; escuridão e toque de morte
-- **Past Occupation:** Ritmo de matar — mira, disparo, recarregar, mira — à noite contra sombras
-- **Past Trauma:** Explosão de granada próxima; queimaduras; corpo esmagado; vidência negra de morte
-- **The Embrace:** Figura escura na cama hospitalar; promessa de escape e guerra eterna; aceitação
-- **Mithras:** Encontro breve; toque no rosto (compaixão); imediata dispensa; nunca reveir o prisioneiro
-- **Impressions:** Lama das trincheiras, sons de alarme, respeito quando em uniforme, bodys em no man's land, desejo de fim
-
-**Fonte:** Fall of London, p. 2059–2109
+**Fonte:** `VTM 5e - Fall Of London.txt:2059-2062`, `2069`, `2080`, `2088`, `2098`, `2107-2109`; o livro sugere uma Memoriam de Tommy durante uma luta do Capítulo 2 (linha 663)
 
 ---
 
 ## Tony Castelli
 
-**Clan:** Brujah
-**Profissão Original:** Black Marketeer / Dealer (Post-WWII London)
-**Origem:** Italiano exilado; adolescente queer rejeitado; astuto em negócios ilegais
+**Páginas do livro (índice):** 239
+**Clã:** não aparece no .txt; o livro diz que é da linhagem de **Gwenllian Arwyn** (Brujah) e seu bisneto de sangue (linhas 1206 e 1406)
+**Predator type:** Bagger (prefere sangue já coletado a morder)
+**Mortal:** negociante de mercado negro na Londres da Blitz
 
-**Elder Drive:** Executor de Vontade — sente compulsão de cumprir ordens diretamente; não questiona
+**Memoriam (texto do livro, resumido):**
 
-**Ambition (Elder's):** Servir como courier/soldado do Cult; entregar o que é pedido, transportar o que é necessário
+- **Mortal Life:** mesa gasta da família, a mãe serve macarrão com molho vermelho e o chama pelo nome antigo ("asks about boys"); a fome que nunca sentiu antes
+- **Past Occupations:** regatear com um comprador (7 shillings oferecidos, pede 12, fecha em 10) com a polícia por perto, entre bombas e escombros
+- **Past Trauma:** espancado por homens que acham que ele é mulher "vestida de homem"; derrubou dois deles antes de cair
+- **The Embrace:** uma mulher de poder e graça de guerreira o esbofeteia, o ergue pelo pescoço e diz que seu sire ficará satisfeito, e então o morde
+- **Mithras:** transporta caixotes lacrados; desta vez, um rapaz e uma moça belos, bem-vestidos, esperam no cais e perguntam se verão "the master" em breve
+- **Impressions:** a casa de um amigo da escola arrasada por bomba; o cheiro da loja dos pais (comida, doces, sabão); o dinheiro na mão no primeiro negócio
 
-**Actual Ambition:** (Recuperável via Memoriam) — Sobreviver, prosperar como seu próprio ser; estabelecer liberdade contra opressão
+**Observação:** as memórias indicam que Tony é um homem trans (o nome antigo usado pela mãe; os agressores o tomam por mulher). O livro não dá mais detalhes nas linhas lidas.
 
-**Memoriam Access (por tema):**
-
-- **Mortal Life:** Rua com pedir fome e frio; mão estendida a cavalheiro bem-vestido
-- **Past Occupation:** Negociação em preto-mercado; comprar/vender pós-Blitz; cobrar lucro; evitar polícia
-- **Past Trauma:** Ser espancado por homens que pensam que é mulher; feminilidade punida; resistência
-- **The Embrace:** Criatura de poder guerreiro; escapa violentamente; é dominada por pescoço; torção; punho do sire
-- **Mithras:** Transporte de crate; dois adolescentes lindos, bem-vestidos; "vcs vão ver o mestre"
-- **Impressions:** Casa amiga bombardeada, cheiro da loja dos pais, mãos cheias de dinheiro primeira vez, sobrevivência
-
-**Fonte:** Fall of London, p. 2064, 2070–2071, 2081, 2089–2090, 2099
+**Fonte:** `VTM 5e - Fall Of London.txt:2063`, `2070-2071`, `2081`, `2089`, `2099`, `2110-2112`
 
 ---
 
-## Catherine Montague
+## Lady Catherine Montague
 
-**Clan:** Toreador
-**Profissão Original:** Aristocratic Philanthropist
-**Origem:** Nobre britânica; educada em caridade; amor proibido por mulher Toreador (Angelique)
+**Páginas do livro (índice):** 240
+**Clã:** não aparece no .txt
+**Predator type:** Siren
+**Mortal:** aristocrata britânica que participava de uma sociedade de caridade para mulheres, onde conheceu **Angelique**
 
-**Elder Drive:** Muse/Inspiração — sente beleza e propósito em tudo que Mithras faz; devoção estética
+**Memoriam (texto do livro, resumido):**
 
-**Ambition (Elder's):** Preservar a beleza da Corte de Mithras; manter Cult em arte e elegância
+- **Mortal Life:** Angelique coloca um amuleto de safira no pescoço dela; Catherine corre atrás dela por um corredor de painéis de madeira e não a encontra
+- **Past Occupations:** leva comida a crianças de um workhouse com a sociedade de caridade; segura a mão de Angelique e acha o pão e o queijo insuficientes
+- **Past Trauma:** cava entre escombros por horas, com a força do sangue, até achar Angelique num porão destruído, quebrada e torcida, com os olhos fixos no nada, mas de algum modo viva "deep inside"; promessa de eternidade que agora pode se resumir a ficar ao lado dela, em silêncio
+- **The Embrace:** se não podem se casar, "forma seu próprio pacto" e rouba a eternidade; Angelique a morde ("Are you ready?")
+- **Mithras:** acorda toda noite ao lado de Angelique; Angelique sai a serviço do "lord" e lembra que "eternity has a cost, and Mithras owns it"
+- **Impressions:** ouvir "young ladies don't do that" ao brincar com os irmãos; o relógio da sala de visitas; o primeiro encontro com Angelique
 
-**Actual Ambition:** (Recuperável via Memoriam) — Estar com Angelique eternamente; questionar custos do seu amor por Mithras
-
-**Memoriam Access (por tema):**
-
-- **Mortal Life:** Colar de safira presente; rosto amado no espelho; corredor de painéis; riso na escuridão
-- **Past Occupation:** Caridade de mulheres; comida para crianças em workhouse; alma vs. corpo faminto
-- **Past Trauma:** Angelique morta em bombardeio; corpo retorcido, olhos obsos no vazio; promessa de eternidade quebrada (ou apenas dormente)
-- **The Embrace:** Escuro, janela fechada; promessa mútua de eternidade se Angelique a torna vampira; medo e confiança; mordida
-- **Mithras:** Preocupação de que Angelique deva servir Mithras; Angelique indo ao "mestre"; ciúmes, ausência
-- **Impressions:** Noites com Angelique, cidade como caça, tédio de eternidade, custo da devoção
-
-**Fonte:** Fall of London, p. 2064–2065, 2072–2074, 2082–2083, 2091, 2100
+**Fonte:** `VTM 5e - Fall Of London.txt:2064`, `2072-2073`, `2082`, `2090-2091`, `2100`, `2113-2115`
 
 ---
 
 ## Doctor Henry Banerjee
 
-**Clan:** Tremere
-**Profissão Original:** Occultist Physician / Anatomist
-**Origem:** Médico fascinado por máquina de vida; desejo de entender morte/magia; amoralidade científica
+**Páginas do livro (índice):** 242
+**Clã:** não aparece no .txt
+**Predator type:** Sandman (alimenta-se de vítimas adormecidas; atraído por hospitais)
+**Mortal:** estudante e depois médico fascinado pela anatomia e por rituais com cadáveres
 
-**Elder Drive:** Sorcerer-Philosopher — sente curiosidade infinita sobre mecanismo de vida/morte; desejo de experimentar
+**Memoriam (texto do livro, resumido):**
 
-**Ambition (Elder's):** Servir Mithras pesquisando os segredos da vida vampírica; expandir conhecimento ocultista
+- **Mortal Life:** aula de anatomia com cadáver aberto; Henry rasga o aluno à frente e se vê subindo no cadáver em busca de seus mistérios
+- **Past Occupations:** prefere os mortos aos pacientes; entalha marcas na pele de um corpo e canta, esperando um espasmo da mão
+- **Past Trauma:** dissecou um gato que não era querido, mas que várias pessoas amavam; o pai o pune; o olhar de vergonha dos pais o fere
+- **The Embrace:** diante da "última porta" entre vivos e mortos, ele se recusa a oferecer o pulso direito e prepara o diário: "I intend to take notes"
+- **Mithras:** Mithras o visita para ver o trabalho; **de Camden** está presente e prolonga as conversas; o patrocínio financeiro vale a pena
+- **Impressions:** a beleza dos mecanismos da vida ao abrir um animal pela primeira vez; os pais discutindo "what to do with Henry"; vontade de cortar um pequeno animal trêmulo, e resistir
 
-**Actual Ambition:** (Recuperável via Memoriam) — Encontrar beleza em sistema de vida humano; aceitar limitações morais de pesquisa
-
-**Memoriam Access (por tema):**
-
-- **Mortal Life:** Cadáver em mesa de dissecação; órgãos expostos lindamente; multidão em aula de medicina
-- **Past Occupation:** Mais interesse em dissecação que cura; mecanismo de máquina de vida; fascinação, não empatia
-- **Past Trauma:** Gato não-amado dissecado; pais envergonhados; saudade dessa vergonha; ausência de remorso
-- **The Embrace:** Porta final entre vivo e morto; criatura pacienciosa em espera; oferecimento de pulso; notas escritas durante abraço
-- **Mithras:** Visitas de Mithras a experimentos; paciência com conversas longas; patrocínio financeiro; progresso em trabalho
-- **Impressions:** Beleza de mecanismo de vida, argumentos dos pais, vontade de cortar, força de morte, progresso noturno
-
-**Fonte:** Fall of London, p. 2065–2066, 2074–2075, 2083, 2092–2094, 2101
+**Fonte:** `VTM 5e - Fall Of London.txt:2065`, `2074`, `2083`, `2092-2094`, `2101`, `2116-2119`; o livro cita um ghoul dele, Torondo (linha 944), e um Memoriam de infância ligado a Southall (linhas 703 e 883)
 
 ---
 
 ## Memoriam — Estrutura
 
-### O que é Memoriam?
+### O que o livro diz
 
-Os Heralds foram **submetidos ao Blooding ritual**, que sobrescreveu suas mentes com memorias de Elder Cultists. Seus **verdadeiros selfs** foram enterrados.
+O Blooding tentou sobrescrever a memória e a personalidade dos PCs com as de um elder leal do Cult. O livro define (`VTM 5e - Fall Of London.txt:2030-2037`):
 
-Conforme a crônica avança, **Memoriam experiences** permitem que os Heralds recuperem fragmentos de suas próprias vidas, personalidades, e ambições originais.
+- **Character sheet:** pode ser entregue ao jogador, com campos deixados em branco que só o Narrador conhece
+- **Player Information:** o que o personagem lembra ao acordar, nome e ideia da ocupação passada
+- **Background:** só para o Narrador; ajuda a decidir os **Memoriam points** com que o jogador começa a lembrar
+- **Elder Drive, Ambition e Actual Ambition:** o Blooding implantou traços de um elder; isso vira a Ambition (a do elder) e entra em choque com a personalidade original. O Narrador revela a **Actual Ambition** quando o personagem rejeita claramente o serviço a Mithras, tem um momento "aha!" ou explorou várias Memoriams. O jogador então **mantém uma das duas Ambitions ou integra as duas** em uma nova
+- **Touchstones:** os antigos provavelmente já se foram; no fim da primeira cena os PCs têm a chance de criar novos, e o Narrador deve improvisar cenas para isso
 
-### Como o Narrador Oferece Memoriam
+### Como as memórias aparecem
 
-**Espontâneo (recomendado):**
-- Quando PC encontra algo emotivo (local antigo, pessoa importante, objeto familiar)
-- Quando PC toma ação alinhada com Elder drive (resistência/rejeição)
-- Após momentos de trauma ou vitória
+(`VTM 5e - Fall Of London.txt:2052-2054`)
 
-**Deliberado:**
-- Narrador pode oferecer Memoriam entre capítulos (downtime)
-- Um por capítulo é apropriado (fornecidos nesta seção)
+- As memórias são ofertas ao Narrador como possíveis resultados de Memoriam; **nem todas são factuais**, pois o Blooding as rasga e algumas pedem interpretação simbólica
+- Se os PCs não tentarem invocar Memoriam, o cenário sugere pontos onde um deles pode tê-las **espontaneamente**
+- O Narrador também pode dá-las no downtime entre capítulos
+- Há memórias suficientes, agrupadas por tema (Mortal Life, Past Occupations, Past Trauma, The Embrace, Mithras), para uma por capítulo por personagem, mais uma lista de **Impressions** como gancho
+- O livro **não dá** teste, dificuldade ou custo para invocar Memoriam no trecho do .txt; essa é uma decisão do Narrador
 
-**Estrutura de Uso:**
-1. Narrador descreve flashback (2-3 linhas acima)
-2. PC faz teste de **Resolve** contra Difficulty 2-3 (deixada ao Narrador)
-   - Sucesso: Memoriam é claro, PC ganha insight
-   - Falha: Vago, nebuloso, simbólico (requer interpretação)
-3. PC começa a questionar quem realmente é vs. quem Elder quer ser
+O Narrador deve anotar quando o personagem age segundo a personalidade do elder e quando segundo a própria, pois isso determina seu destino pessoal no fim da crônica (`VTM 5e - Fall Of London.txt:140`).
 
-### Ambição Original vs. Elder Drive
-
-Com tempo e Memoriam, PCs podem escolher:
-
-**Opção 1:** Manter Ambition Elder (seguir Mithras, aceitar lealdade imprinted)
-- Mais poderoso ao final (se Mithras completa Ritual of Transferring the Soul)
-- Espiritualmente preso; identidade submersa
-
-**Opção 2:** Rejeitar Elder, Retomar Actual Ambition
-- Libertação; recuperação de identidade verdadeira
-- Confronto com Mithras; possível traição do Cult
-
-**Opção 3:** Síntese (integrar ambos)
-- Próprio objetivo que incorpora lealdade + vontade pessoal
-- Mais nuançado; mais interessante narrativamente
-
-O **Storyteller rastreia qual caminho cada PC escolhe**, pois determina destino pessoal no Épilogue.
-
-**Fonte:** Fall of London, p. 2033–2035, 2051–2054
+**Fonte:** Memoriam, p. 243 (índice do livro); texto em `VTM 5e - Fall Of London.txt:2027-2119`
 
 ---
 
 ## Ver Também
 
 [[Fall of London - The Blooding Ritual]]
-[[Fall of London - Personagens Pré-gerados|Personagens Pré-gerados]]
 [[Clãs#Tremere|Tremere]]
-[[Clãs#Nosferatu|Nosferatu]]
-Brujah
-Toreador

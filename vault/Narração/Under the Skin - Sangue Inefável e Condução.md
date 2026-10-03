@@ -28,7 +28,7 @@ Regras e testes de *Under the Skin* (Renegade Game Studios, 2024), one-shot de 3
 - Sugestão do livro: use Messy Critical ou Bestial Failure para fazer o personagem provar Sangue Inefável por perto.
 - O metusálen não é apresentado em termos de jogo: se acordar, a coterie já perdeu e, no máximo, foge.
 
-Fonte: Under the Skin, p. 6.
+Fonte: Under the Skin, p. 6 (Unfathomable Blood, seção The Truth that Lurks Below, pelo índice do livro).
 
 ## Compulsão Inefável
 
@@ -43,7 +43,7 @@ Provar o sangue ativa na hora a Unfathomable Compulsion, uma Compulsão única q
 - O Sangue Inefável **não cria Blood Bond** por si só; Blood Bonds com vitae de outros Kindred funcionam normalmente.
 - **Detecção:** quem tem Bloodhound ou usa Reveal Temperament (Player's Guide), Scry the Soul ou A Taste for Blood detecta automaticamente, mesmo se o teste falhar.
 
-Fonte: Under the Skin, p. 6.
+Fonte: Under the Skin, pp. 6-7 (o trecho de Detecção vem logo após a quebra de página para "Before You Begin").
 
 ## Antes de Começar
 
@@ -51,7 +51,7 @@ Fonte: Under the Skin, p. 6.
 - Distribua os personagens; cada um se liga aos temas, mas os jogadores usam como quiserem.
 - Explique a coterie e a relação com a Mawla, Emerie Alveston.
 - Escolha os Humanist Chronicle Tenets ou outros.
-- A história começa com uma cena de alimentação: precisa de pelo menos um personagem já alimentando. Sem voluntário, escolha Bjarne, Nickie ou Elena (predator types mais adequados). Quem participa ganha poder a um preço.
+- A história começa com uma cena de alimentação: precisa de pelo menos um personagem já alimentando. Sem voluntário, escolha Bjarne, Nikita (Nickie) ou Elena (predator types mais adequados; o livro grafa "Bjarn" e "Nikta"). Quem participa ganha poder a um preço.
 - Os demais começam com **Hunger 1** e fazem um Rouse Check para ver se a Hunger subiu antes.
 
 Fonte: Under the Skin, p. 7.
@@ -84,11 +84,11 @@ Detalhes úteis de cena:
 
 - **Comunhão (Eat Food):** só personagens com a Advantage Eat Food podem comungar. O vinho sacia 1 Hunger se for o primeiro Sangue Inefável da noite e dá a Compulsão até a Hunger subir a 5 ou o nascer do sol, o que ocorrer primeiro.
 - **Textos na biblioteca:** "Sanguine, Curses" e "Sanguine, Rites" em *The Esoteric Lexicon of Occulted Practices from Myth and Legend Vol. IV: R-T*; *Les Heures de la Comtesse Sanglante* (manuscrito do século XVII); *The Devil's Chalice: The Bloody Black Arts - Origins of the Grail Legend*. A leitura aponta que os sintomas seriam deficiência do humor sanguíneo (humorismo), a tratar limpando o sangue "deficiente" e ingerindo sangue limpo. Não cura Blood Bonds.
-- **Deterioration, formas de resistir:** o livro recompensa criatividade (segurar um ao outro, ligar para um Touchstone num burner phone, beber sangue não contaminado, usar um Folkloric Block). Conceder resistência sem teste fica a critério do Narrador.
+- **Deterioration, formas de resistir:** o livro recompensa criatividade (segurar um ao outro, ligar para um Touchstone num burner phone, beber sangue não contaminado, usar um Folkloric Block). Segundo o livro, essas tentativas devem permitir resistir; caso contrário, vale o teste de Hunger Frenzy Dif. 5 da tabela.
 - **Violência opcional:** se a coterie sacia demais um cultista, ele pode entrar em Hunger Frenzy e atacar ou fugir para atacar mortais; a Masquerade pode exigir caçá-lo. Testemunhas mortais (corredor, bêbado) forçam ação rápida.
 - **Mikayla (opcional):** na Biblioteca, parece abatida, com arranhões nos braços, e pede Sangue Inefável. Só se contém por medo de Emerie.
 
-Fonte: Under the Skin, pp. 8 a 18.
+Fonte: Under the Skin, pp. 8 a 18 (cenas das Parts One a Three).
 
 ## Silenciando o Sangue
 
@@ -106,12 +106,12 @@ Fonte: Under the Skin, pp. 18 a 19.
 
 Montagem opcional: teste de alimentação com a Predator Pool, Dificuldade 4, para saciar **1 Hunger mais até 2 por ponto de margem**, ou toda a Hunger se matar a vítima (provavelmente com Stains). Quem falha precisa abortar a caça para chegar a tempo. Um Messy Critical quase certamente mata o vessel. Personagens com Herd têm pouco problema, a menos que a tenham esgotado antes.
 
-Fonte: Under the Skin, p. 19.
+Fonte: Under the Skin, pp. 18-19 (Feeding Scenes fica na seção Silencing the Blood).
 
 ## Finais no Elysium
 
-- **Sem silenciar, "Admit to Everything":** a coterie é presa sob o Elysium. Os afetados sangram por todos os orifícios; todos os vampiros presentes testam Hunger Frenzy. O Sangue forma uma figura humana e todos entram em torpor ouvindo o caos acima.
-- **Sem silenciar, "Give in":** os afetados abrem as veias e oferecem vitae; o Elysium vira caos. O Sangue forma um ser andrógino que diz que "você nunca mais estará sozinho". Antes disso há a chance de fuga (Composure + Resolve, Dif. 4).
+- **Sem silenciar, "Admit to Everything":** a coterie é presa sob o Elysium. Os afetados sangram por todos os orifícios; todos os vampiros presentes testam Hunger Frenzy. Os que tomaram o Sangue o veem se juntar numa silhueta quase humana e entram em torpor ouvindo o caos acima.
+- **Sem silenciar, "Give in":** os afetados abrem as veias e oferecem vitae; o Elysium vira caos. O Sangue forma um ser andrógino que acaricia o primeiro da coterie que bebeu, diz que fizeram um bom trabalho e que tudo está como deve ser, e conclui "You'll never be alone again". Antes disso há a chance de fuga (Composure + Resolve, Dif. 4).
 - **Silenciado:** Emerie é eleita ao Primogen e cada personagem pode pedir-lhe um favor.
 
 Fonte: Under the Skin, pp. 19 a 21.

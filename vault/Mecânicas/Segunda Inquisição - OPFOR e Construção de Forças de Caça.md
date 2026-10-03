@@ -2,7 +2,7 @@
 
 # Segunda Inquisição — OPFOR e Construção de Forças de Caça
 
-> **Aviso:** material do suplemento *The Second Inquisition* (livro de antagonistas, para o Narrador). Só vale se a crônica permitir. OPFOR = Opposing Force, a equipe que caça os personagens jogador vampiros. Framework para construir força de caça coesa com Reach, Scope, Backgrounds e composição tática.
+> **Aviso:** material do suplemento *The Second Inquisition* (livro de antagonistas, para o Narrador). Só vale se a crônica permitir. OPFOR = Opposing Force, a equipe que caça os vampiros dos personagens jogadores. O livro dá um framework com Reach, Scope, Backgrounds e composição de equipe. "Blankbody" = vampiro, termo dos caçadores; "UTR" = Unusual Threat Response. Os símbolos de pontos (●) dos .txt às vezes saem como caracteres quebrados; os valores abaixo foram lidos do texto e conferidos pela ordem das linhas.
 
 # Sumário
 
@@ -17,65 +17,52 @@
 
 ## OPFOR Backgrounds
 
-OPFORs frequentemente trazem Backgrounds e até Merits/Flaws built-in. Force mantém characteristics em comum, mais dois traits (**Reach** e **Scope**) definindo limites de capability dentro operação. Funcionam como coterie Backgrounds (Core p. 196); geralmente assume team commander tem acesso a dots se needed na rolagem.
+Cada OPFOR costuma vir com Backgrounds e até Merits e Flaws embutidos. A força os tem em comum, além de dois traits (**Reach** e **Scope**) que definem os limites de sua capacidade numa operação. Funcionam como Backgrounds de coterie (Core p. 196); em geral presume-se que o comandante da equipe tem acesso a esses dots quando precisar numa rolagem.
 
-Alguns Backgrounds dependem não do tipo OPFOR mas da parent organization:
-- **FIRSTLIGHT e IAO:** normalmente acessam **Resources ●●●●**
-- **Other Five Torches (JTRG, GRU-N58, BOES, Society of St. Leopold):** mais limitados em budget
-- **Local hunter clubs:** talvez só panel van e shotguns
+Alguns Backgrounds dependem não do tipo de OPFOR, mas da organização-mãe: equipes da **FIRSTLIGHT e da IAO** costumam poder contar com **Resources ●●●●**, enquanto as demais Five Torches têm de vigiar o orçamento e clubes locais de caçadores podem ter só uma van e shotguns.
 
-Regardless, maioria OPFORs equipados com weaponry militar-grade (M4 carbines ou AK-74M), stakes, body armor, sturdy pursuit vehicles. Armas mais avançadas/brinquedos especializados disponíveis por individual Antagonist role; alguns OPFOR types concedem specialized ammo ou vehicles em "Possible Extras."
+Independentemente do tipo ou da organização, a maioria das OPFORs vem com armamento de nível militar (carabinas M4 ou fuzis AK-74M), estacas, armadura corporal e veículos de perseguição robustos. (Em alguns países até Chaff e Monster Squads reúnem bastante poder de fogo.) Armas mais avançadas ou brinquedos especializados ficam com indivíduos conforme o papel de Antagonist; alguns tipos de OPFOR dão munição ou veículos especializados em "Possible Extras".
 
-*Fonte: Second Inquisition, cap. 1, txt:935-946.*
+*Fonte: `VTM 5e - Second Inquisition.txt:935-946`.*
 
 ## Reach e Scope
 
 ### Reach
 
-Define limites operacionais de OPFOR. While pode work outside esse parameter, fazem-no relutantemente: force perde benefits de seu type. Reflete understanding de OPFOR sobre seu papel estratégico.
-
-Pode usar **Reach em qualquer relevant Mental pool** da OPFOR como um todo (briefings, familiarities, training flexibility).
+Define os limites operacionais da OPFOR. Ela pode agir fora desse parâmetro, mas não toma a decisão de ânimo leve: **perde os benefícios que normalmente tem pelo tipo** quando trabalha além do Reach. Também reflete o entendimento da OPFOR sobre seu papel estratégico na Coalition. Pode-se somar o **Reach a qualquer pool Mental relevante** rolada pela OPFOR como um todo (briefings, familiaridade, flexibilidade de treino).
 
 | Reach | Significado |
 | --- | --- |
-| ● | Local: opera apenas dentro city ou province |
-| ●● | Nacional: opera apenas dentro país ou condições muito específicas |
-| ●●● | Regional: opera within grupo de países aliados ou fronteiriços |
-| ●●●● | Global: borders e international law não impedem operations |
+| ● | Local: só opera dentro de uma cidade ou província |
+| ●● | National: só opera dentro de um país ou em condições muito específicas |
+| ●●● | Regional: opera num grupo de países aliados ou vizinhos |
+| ●●●● | Global: fronteiras e direito internacional não impedem as operações |
 
 ### Scope
 
-Define procedimentos táticos e readiness padrão de OPFOR. Escalating além desses limites requer intervenção direta de superior na conspiração, unsettles troopers.
+Define os procedimentos táticos padrão e o nível de prontidão da OPFOR. Escalar além desses limites exige intervenção direta de um superior na conspiração e inquieta os soldados.
 
-**Em combate One-Roll:** adiciona Scope ao combat pool de OPFOR. **Em luta granular:** divide Scope entre hunters.
-
-**Em Social pools contra mortais:** Storyteller pode subtrair Scope (sem alderman gosta de black-ops kill squad no seu district). Wise OPFOR garante Influence first para suavizar, ou mantém visible Scope baixo.
+- **Combate One-Roll** (Core pp. 298-299): some o Scope à pool de combate da OPFOR. Numa luta mais granular, divida o Scope entre os caçadores.
+- **Pools Sociais contra alvos humanos:** o Narrador pode subtrair o Scope (nenhum vereador gosta de ver um esquadrão de black ops na sua região). Uma OPFOR sábia consegue Influence antes, para amortecer o impacto, ou mantém o Scope visível baixo.
 
 | Scope | Significado |
 | --- | --- |
-| ● | Legal: usa bureaucracy, forensics, police/paramilitary forces |
-| ●● | Semi-Legal: public data mining e proportional military force |
-| ●●● | Illegal: hacking, torture, indiscriminate force |
-| ●●●● | Supernatural: occult powers, prophecy, mystical artifacts |
+| ● | Legal: usa burocracia, perícia forense e forças policiais/paramilitares |
+| ●● | Semi-Legal: mineração de dados públicos e força militar proporcional |
+| ●●● | Illegal: hacking, tortura e força indiscriminada |
+| ●●●● | Supernatural: poderes ocultos, profecia e artefatos místicos |
 
-*Fonte: Second Inquisition, cap. 1, txt:947-956.*
+*Fonte: `VTM 5e - Second Inquisition.txt:947-956`.*
 
 ## Composição de Força e Procedimento
 
-**Size padrão:** squad (9–12) até understrength platoon (20–30), tipicamente liderado por Social specialist com large core de Physical operators e supernatural specialists quando possível. Fully fleshed OPFOR tem Fixer/Techie handling logistics, 2–3 investigators (Techie ou Sleuth roles).
+Uma OPFOR de UTR padrão vai de um **squad (9-12)** a um **pelotão incompleto (20-30)**, em geral liderada por um **especialista Social**, com um grande núcleo de operadores **Físicos** e quaisquer especialistas sobrenaturais disponíveis. Uma OPFOR completa também tem um **Fixer ou Techie** cuidando da logística e **dois ou três investigadores**, normalmente de papéis Techie ou Sleuth. O "Common Force Mix" listado para cada tipo mostra só os membros mais prováveis, os mais importantes para a missão; toda OPFOR traz um ou dois **Hitters**, por exemplo.
 
-"Listed Common Force Mix" refere apenas membros mais likely/key para mission listada. Todo OPFOR traz 1–2 Hitters; por exemplo, todos trazem.
+Ao montar uma OPFOR, o livro pede para considerar a que parte da Coalition ela responde e como os PCs entraram no radar dela. Cada OPFOR é um personagem em si, com história e jeito de operar. Ao escolher um tipo da lista (ou inventar o seu), o livro dá um Reach e um Scope sugeridos, algumas vantagens prováveis, os Antagonists mais comuns, as Resonances comuns do sangue deles e "Possible Extras" (elementos de história, equipamento e veículos além do loadout padrão). Os tipos são guias, não uma lista exaustiva.
 
-**Procedimento de Construção:**
-1. Escolha **tipo de OPFOR** (lista abaixo) ou invente custom
-2. Anote **Reach e Scope** sugeridos
-3. Verifique **Backgrounds comuns** e **Resonances** típicas
-4. Determine **Common Force Mix** (antagonista types mais prováveis)
-5. Selecione **Possible Extras** (equipment, vehicles, capabilities)
-6. Fleshout backstory: história que os traz juntos, como players ficaram no radar, valores/táticas
-7. Nome OPFOR; dê personalidade coletiva
+**Exemplo do livro (The Clean Team):** o Narrador usa a GRU e escolhe um **Wet Team** (p. 57 do livro): todo caçador tem Mask 3 e a vantagem Zeroed; Common Force Mix de Warriors e um Black-Bagger; Possible Extras com helicópteros stealth. A equipe tem 15 membros, liderada por um ex-Blackmailer da KGB chamado Sacha, recrutado pela Eighth Direction na prisão; mistura de Warriors, Snipers e Clearance Specialists; um Hacker e um Detective na investigação; o Daywalker thin-blood Pervez às vezes trabalha com eles; e um Politician chamado Michael limpa a bagunça em troca de favores do governo russo.
 
-*Fonte: Second Inquisition, cap. 1, txt:957-962.*
+*Fonte: `VTM 5e - Second Inquisition.txt:936-962`.*
 
 ---
 
@@ -83,7 +70,7 @@ Define procedimentos táticos e readiness padrão de OPFOR. Escalating além des
 
 ### AUDITORS
 
-Ferretam vampire influence em Coalition members e outras mortal institutions. Encontram corruption, arranc rootout, traceback à fonte. Poucas amizades (nem na Coalition, nem elsewhere); vampiros savvy targetam quando sentem sniffing. Auditor teams frequentemente de FIRSTLIGHT, SAD, ou Society of St. Leopold Censors.
+Caçam influência de blankbodies em membros da Coalition e em outras instituições mortais; ao achar, arrancam e rastreiam até a origem. Fazem poucos amigos, dentro e fora da Coalition; vampiros espertos os têm como alvo quando farejam. Costumam vir da FIRSTLIGHT, da SAD ou dos Censors da Society of St. Leopold.
 
 - **Reach:** ●●●
 - **Scope:** ●●
@@ -92,74 +79,70 @@ Ferretam vampire influence em Coalition members e outras mortal institutions. En
 - **Enemies:** ●●
 - **Common Force Mix:** Bear-Leader, Blackmailer, Burrower, Hacker
 - **Common Resonances:** Melancholy, Sanguine
-- **Possible Extras:** XScopes, heavy data mining
+- **Possible Extras:** XScopes, mineração pesada de dados
 
-*Fonte: Second Inquisition, cap. 1, txt:964–973.*
+*Fonte: `VTM 5e - Second Inquisition.txt:964-973`.*
 
 ### CENACLE
 
-Vatican Entity e Society of Leopold usam Cenacles como proving grounds para young hunters e vigilantes unused a modern units. Fresh recruits, vampire hunters years solitários thrust juntos sob seasoned hunter determinado. Often target weaker blankbodies em daytime raids; take qualquer mission serviço Society.
-
-Constant recruit churn = rarely achieve operational excellence, mas constant source of innovation/experimentation.
+A Entity do Vaticano e a Society of St. Leopold usam Cenacles como campo de provas para jovens caçadores e vigilantes sem hábito de unidades modernas: recrutas novos e caçadores que trabalharam sozinhos por anos são reunidos sob um caçador veterano que os transforma numa unidade de combate. Costumam atacar blankbodies mais fracos em raids diurnos, mas aceitam qualquer missão a serviço da Society. Raramente alcançam excelência operacional, mas são fonte constante de inovação e experimentação.
 
 - **Reach:** ● ou ●●
 - **Scope:** ●
 - **Allies:** ●●
 - **Contacts:** ●●●
-- **Special:** High turnover; sem organizational penalties losing/gaining significant new recruits
-- **Common Force Mix:** Amateur, Burrower, Lone Wolf, Nullifier (se available)
+- **Special:** alta rotatividade; sem penalidades organizacionais ao perder ou ganhar muitos recrutas
+- **Common Force Mix:** Amateur, Burrower, Lone Wolf, Nullifier (se disponível)
 - **Common Resonances:** Choleric, Melancholy
-- **Possible Extras:** Safehouses, artifacts (especially regalia, relics)
+- **Possible Extras:** Safehouses, artefatos (sobretudo regalia e relíquias)
 
-*Fonte: Second Inquisition, cap. 1, txt:975–984.*
+*Fonte: `VTM 5e - Second Inquisition.txt:975-984`.*
 
 ### CHAFF
 
-Five Torches não conseguem responder cada alarm com full UTR strike force. Sometimes send 1–2 operatives recrutando local SWAT, militia, ou street gang fighting local blankbodies até grownups chegarem cleanup. Chaff muitas vezes nem sabe fighting vampires... at first.
+As Five Torches não conseguem responder a cada alarme com uma força UTR completa. Às vezes mandam um ou dois operativos para recrutar (ou subornar) uma SWAT local, milícia ou gangue de rua para enfrentar os blankbodies até os "adultos" chegarem para limpar. A OPFOR Chaff muitas vezes nem sabe, no início, que está lutando contra vampiros.
 
 - **Reach:** ●
 - **Scope:** ●
 - **Allies:** ●●
-- **Special:** Poor morale against vampires initially; até properly blooded, OPFOR faz **Willpower test para stay in fight each round** (roll uma vez contra listed Willpower de sample antagonist)
-- **Common Force Mix:** Amateurs, occasional Sniper ou Warrior; led by SI Bear-Leader ou Lone Wolf
+- **Special:** moral baixo contra vampiros no início; até ser "batizada em sangue", a OPFOR faz um **teste de Willpower para continuar na luta a cada round** (rola uma vez contra o Willpower listado de um antagonista de exemplo)
+- **Common Force Mix:** Amateurs, com um Sniper ou Warrior ocasional; liderada por um Bear-Leader ou Lone Wolf da SI
 - **Common Resonances:** Choleric, Melancholy
-- **Possible Extras:** Homemade explosives ou napalm
+- **Possible Extras:** explosivos caseiros ou napalm
 
-*Fonte: Second Inquisition, cap. 1, txt:985–995.*
+*Fonte: `VTM 5e - Second Inquisition.txt:985-995`.*
 
-### MINOTAUR (Guardians)
+### MINOTAUR
 
-Protect important location/secret Coalition. Offensive objective defensivo, mas maioria seek proactively destroy área blankbodies como part of duties. Society Leopold's Condottieri define esse type.
+Também chamados de guardiões, protegem um local importante ou segredo da Coalition. O objetivo é defensivo, mas a maioria procura destruir proativamente os blankbodies da área como parte da guarda. Os Condottieri da Society of Leopold definem esse tipo.
 
 - **Reach:** ●●
 - **Scope:** ●●●●
 - **Influence:** ●●●
-- **Special:** +2 dice OPFOR pools resistir discovery de base/safehouse, ou protect charge em combat/other means
+- **Special:** +2 dados nas pools da OPFOR para resistir à descoberta de sua base ou safehouse, ou para proteger sua carga em combate ou de outro modo
 - **Common Force Mix:** Clearance Specialists, Snipers
 - **Common Resonances:** Melancholy, Phlegmatic
-- **Possible Extras:** Claymore mines, laser tripwires
+- **Possible Extras:** minas Claymore, laser tripwires
 
-*Fonte: Second Inquisition, cap. 1, txt:996–1001.*
+*Fonte: `VTM 5e - Second Inquisition.txt:996-1001`.*
 
 ### MONSTER SQUAD
 
-New to vampire hunting, possibly unaware Coalition como conspiracy, Monster Squad ainda joined Second Inquisition. Pode não saber ameaça, ou hunt múltiplos supernatural creatures. Rarely leave hometown; quest destroy vampiros often start desire proteger neighbors. Band of amateurs teamup try wiping bloodsuckers. Advantages principais: luck e deep home-turf knowledge.
+Novos na caça a vampiros, talvez sem saber que a Coalition é uma conspiração, mas já ligados à Second Inquisition. Podem não saber a natureza da ameaça ou caçar vários tipos de criaturas sobrenaturais. Raramente saem da cidade natal; a busca começa em geral pelo desejo de proteger os vizinhos. É um bando de amadores que se uniu para tentar acabar com os sanguessugas; as únicas vantagens costumam ser sorte e conhecimento profundo do território.
 
 - **Reach:** ●
 - **Scope:** ●
 - **Contacts:** ●●●
-- **Special:** Podem ignore Domain Portillon rating escapando vampires
+- **Special:** podem ignorar o Portillon de um Domain ao fugir de vampiros
 - **Common Force Mix:** Amateurs, Dealer ou Detective, Weaponer
 - **Common Resonances:** Choleric, Sanguine
-- **Possible Extras:** Safehouses, panel van ou powerful SUV, silver bullets
+- **Possible Extras:** Safehouses, van ou SUV potente, balas de prata
 
-*Fonte: Second Inquisition, cap. 1, txt:1002–1010.*
+*Fonte: `VTM 5e - Second Inquisition.txt:1002-1010`.*
 
 ### NIGHT WATCH
 
-Maintain Masquerade remnants para Coalition, não protect vampires mas keep society functioning. Night Watch fairly stationary; travel clean up big messes. Bribes, threats, media manipulation all tools, mas still hunters. Nothing heals Masquerade faster than destroying supernaturals tearing fabric.
-
-UK's SO13 have most effective Night Watch OPFORs, though focus often less mortal protection, more blankbody liquidation. Most important goal: prevent vampire normalization. Allowing blankbodies dominate humankind = bad; allowing integrate/make peace = only thing worse.
+Mantêm o que sobra da Masquerade para a Coalition, não para proteger vampiros mas para impedir que a sociedade pare. Ficam relativamente parados, mas viajam para limpar bagunças grandes. Suborno, ameaça e manipulação da mídia fazem parte do trabalho, mas ainda são caçadores. A SO13 do Reino Unido tem as Night Watch mais eficazes, com foco menor em proteger mortais e maior em liquidar blankbodies. Talvez o objetivo mais importante seja impedir a normalização do vampirismo: pior que deixar blankbodies dominarem a humanidade seria deixá-los se integrar ou fazer as pazes.
 
 - **Reach:** ● ou ●●
 - **Scope:** ●●
@@ -167,53 +150,53 @@ UK's SO13 have most effective Night Watch OPFORs, though focus often less mortal
 - **Influence:** ●●
 - **Common Force Mix:** Snipers, Hackers, Gentrifier ou Politician
 - **Common Resonances:** Melancholy, Phlegmatic
-- **Possible Extras:** Drones, XScopes, fast pursuit vehicles, safehouses
+- **Possible Extras:** drones, XScopes, veículos de perseguição rápidos, safehouses
 
-*Fonte: Second Inquisition, cap. 1, txt:1011–1019.*
+*Fonte: `VTM 5e - Second Inquisition.txt:1011-1019`.*
 
 ### PRAETORIANS
 
-Specialize em VIP protection e places particularly important Coalition. Hedgehog cities (p. 155) have near-permanent Praetorian presence. Very limited operational purview but full Coalition might access. Deadliest implements of war são out of reach; even those can be called if charges em peril. Condottieri St. Leopold serve Entity's Praetorians; FIRSTLIGHT has (não enough) read-in cells within U.S. Secret Service e Diplomatic Security Service.
+Especializados em proteger VIPs e locais de especial importância para a Coalition. As **hedgehog cities** (p. 155 do livro) têm presença quase permanente de Praetorians. Têm alcance operacional muito limitado, mas acesso a todo o poder da Second Inquisition: só os instrumentos de guerra mais letais ficam fora do alcance, e até esses podem ser chamados se os protegidos estiverem em perigo. Os Condottieri de St. Leopold servem como Praetorians da Entity; a FIRSTLIGHT tem (poucas) células infiltradas no Serviço Secreto e no Diplomatic Security Service dos EUA.
 
 - **Reach:** ●
 - **Scope:** ●●●●
 - **Influence:** ●●●
 - **Common Force Mix:** Warrior, Clearance Specialist, Sniper, Socialite
 - **Common Resonances:** Melancholy
-- **Possible Extras:** Drones, MRAPs, safehouses, heavy weapons, XScopes, artifacts, incendiary ammo
+- **Possible Extras:** drones, MRAPs, safehouses, armas pesadas, XScopes, artefatos, munição incendiária
 
-*Fonte: Second Inquisition, cap. 1, txt:1020–1029.*
+*Fonte: `VTM 5e - Second Inquisition.txt:1020-1029`.*
 
-### RECCE (Reconnaissance / Scouts)
+### RECCE
 
-Before eradication teams go in, alguém localiza targets. RECCE also known Recon, Scouts, The Hounds. FIRSTLIGHT, GRU, JTRG insert Recce teams em Kindred-dominated cities ou well-defended hunting grounds (Open Cities, p. 149). BOES e Leopold build Recce around small cadre (1–2) specialists, mostly local hunters knowing cidade well.
+Antes de as equipes de erradicação entrarem, alguém acha os alvos: Recce, também chamados Recon, Scouts ou The Hounds. FIRSTLIGHT, GRU e JTRG os infiltram em cidades dominadas por Kindred ou em terrenos de caça bem defendidos (Open Cities, p. 149 do livro). BOES e Leopold preferem formar a Recce em torno de um pequeno grupo (um ou dois) de especialistas, sobretudo caçadores locais que conhecem a cidade.
 
 - **Reach:** ●●●
 - **Scope:** ●●
-- **Contacts:** ● (adiciona 1 dot per month deployed)
+- **Contacts:** ● (soma um dot por mês de destacamento)
 - **Influence:** ●●
 - **Common Force Mix:** Burrower, Detective, Dealer, Black-Bagger, Tails
 - **Common Resonances:** Sanguine, Phlegmatic
-- **Possible Extras:** Drones, XScopes, safehouses, surveillance net
+- **Possible Extras:** drones, XScopes, safehouses, rede de vigilância
 
-*Fonte: Second Inquisition, cap. 1, txt:1030–1037.*
+*Fonte: `VTM 5e - Second Inquisition.txt:1030-1037`.*
 
 ### ROVERS
 
-FIRSTLIGHT, GRU, Vatican keep muitas private military contractors (PMCs) em speed-dial solve problems em places Five Torches não conseguem easily/immediately. ESOG e Brazil's PMEX often stiffen Rover OPFOR como "target specialist" cadre. Despite reputação mercenaries/vigilantes, one auto-da-fé usually converte Rovers dedicated Second Inquisition upholders. Often deploy clear blankbody nests grown rural areas, ou back up OPFORs badly outgunned.
+FIRSTLIGHT, GRU e até o Vaticano mantêm várias empresas militares privadas (PMCs) "no discador rápido" para problemas em lugares onde as Five Torches não entram fácil ou rápido. A ESOG e a PMEX do Brasil costumam reforçar uma OPFOR Rover como quadro de "especialistas em alvo". Apesar da fama de vigilantes e mercenários, um auto-da-fé costuma converter Rovers em defensores dedicados da Second Inquisition. Costumam ser enviados para limpar ninhos de blankbodies em áreas rurais ou reforçar outras OPFORs em grande inferioridade de armas.
 
 - **Reach:** ●●●●
 - **Scope:** ●●
 - **Contacts:** ●●
 - **Common Force Mix:** Bear-Leader, Breacher, Lone Wolf, Snatcher, Warrior
 - **Common Resonances:** Phlegmatic, Sanguine
-- **Possible Extras:** Pursuit vehicles, armored SUVs, APCs, heavy machine guns, mortars, helicopters
+- **Possible Extras:** veículos de perseguição, SUVs blindados, APCs, metralhadoras pesadas, morteiros, helicópteros
 
-*Fonte: Second Inquisition, cap. 1, txt:1038–1046.*
+*Fonte: `VTM 5e - Second Inquisition.txt:1038-1046`.*
 
 ### SAVIORS
 
-All hunters wish blankbody-cleansed world, Saviors understand vampires symptom very sick world. Unpopular doctrine within Coalition; FIRSTLIGHT e Newburgh Group deprecate least. (Society of St. Leopold's Sanbenito movement embodies type.) Saviors believe podem usar vampires solve underlying world problems: climate change, environmental collapse.
+Todos os caçadores querem um mundo livre de blankbodies, mas os Saviors entendem que vampiros são só um sintoma de um mundo doente. Doutrina impopular na Coalition; a FIRSTLIGHT e o Newburgh Group são os que menos a desaprovam. (Na Society of St. Leopold, o movimento Sanbenito encarna esse tipo.) Acreditam poder usar vampiros para resolver os problemas de fundo do mundo, como mudança climática e colapso ambiental.
 
 - **Reach:** ●●●
 - **Scope:** ●●
@@ -221,140 +204,129 @@ All hunters wish blankbody-cleansed world, Saviors understand vampires symptom v
 - **Enemies:** ●●
 - **Common Force Mix:** Canary, Deprogrammer, Flagellant, Snatchers
 - **Common Resonances:** Choleric, Melancholy
-- **Possible Extras:** Artifacts
+- **Possible Extras:** artefatos
 
-*Fonte: Second Inquisition, cap. 1, txt:1047–1055.*
+*Fonte: `VTM 5e - Second Inquisition.txt:1047-1055`.*
 
 ### SPECIAL DEPLOYMENT TEAM (SDT) / Snatch Squads
 
-Specialize em capturing blankbodies, transport secure locations. Specialized transfer teams render targets black site para processing/interrogation. Put premium acquiring high-value targets mostly intact; use lethal force se necessary. Snatchers often FIRSTLIGHT/FBI SAD, mas GRU Eighth Direction also had rendition success. Regularly operate across borders without legal sanction, plan around hostile local law enforcement.
+Equipes UTR especializadas em capturar blankbodies e levá-los a locais seguros; outras equipes de transferência os enviam a um black site para processamento e interrogatório. Dão prioridade a alvos de alto valor quase intactos, mas usam força letal se necessário. Muitas ligadas à FIRSTLIGHT e à SAD do FBI, mas a Eighth Direction da GRU também teve sucesso com rendition. Como operam com frequência atravessando fronteiras sem sanção legal, planejam em torno de polícias locais hostis.
 
 - **Reach:** ●●●●
 - **Scope:** ●●
 - **Enemies:** ●●
 - **Common Force Mix:** Snatcher, Breacher, Deprogrammer
 - **Common Resonances:** Melancholy, Sanguine
-- **Possible Extras:** Stealth helicopters, armored SUVs, robotic dogs
+- **Possible Extras:** helicópteros stealth, SUVs blindados, cães robóticos
 
-*Fonte: Second Inquisition, cap. 1, txt:1056–1064.*
+*Fonte: `VTM 5e - Second Inquisition.txt:1056-1064`.*
 
 ### TASK FORCE
 
-Highest echelons Coalition charge Task Force com particular mission/quest, usually strictest secrecy. Often have to set aside vampire hunting buscar long-lost artifact ou powerful secret giving conspiracy strategic edge. Unlike OPFORs, Task Force often tries avoid engaging blankbodies stay focused core objective. Gives Storyteller option put hunters on defensive keeping secrets away.
-
-GRU often use Task Forces hunt artifacts/mystical objects.
+Os mais altos escalões da Coalition dão a uma Task Force uma missão particular, em geral sob sigilo estrito. Pode ter de largar a caça a vampiros para buscar um artefato perdido ou um segredo poderoso que dê vantagem estratégica à conspiração. Diferente das demais OPFORs, a Task Force costuma evitar combate com blankbodies para manter o foco no objetivo. Dá ao Narrador a opção de pôr os caçadores na defensiva, tentando manter segredos longe dos PCs. A GRU costuma usar Task Forces para caçar artefatos e objetos místicos.
 
 - **Reach:** ●●●●
 - **Scope:** ●●●
 - **Allies:** ●●●
 - **Common Force Mix:** Black-Bagger, Burrower, Detectives
 - **Common Resonances:** Choleric
-- **Possible Extras:** Drones, stealth helicopters, XScopes
+- **Possible Extras:** drones, helicópteros stealth, XScopes
 
-*Fonte: Second Inquisition, cap. 1, txt:1065–1071.*
+*Fonte: `VTM 5e - Second Inquisition.txt:1065-1071`.*
 
 ### TRAITORS
 
-OPFOR secretly works para vampires, might não even know it. Either blankbody como Cleaver infiltrated team, ou they've been subborned higher level. May never know truth carrying out missions furthering undead agenda. Depois taking tipo, escolha outro como cover type.
+OPFOR que trabalha em segredo para os vampiros, talvez sem saber. Ou um blankbody como um Cleaver (p. 49 do livro) infiltrou a equipe, ou ela foi subornada em nível mais alto. Pode nunca saber a verdade ao cumprir missões que servem à agenda dos mortos-vivos. Depois de escolher este tipo, escolha outro como tipo de fachada.
 
 - **Reach:** ●●●●
 - **Scope:** ●
-- **Special:** Ganham all benefits/drawbacks chosen cover OPFOR type
+- **Special:** ganha todos os benefícios e desvantagens do tipo de OPFOR escolhido como fachada
 - **Common Force Mix:** Amateur, Cleaver, False Flagger
 - **Common Resonances:** Melancholy, Sanguine
-- **Possible Extras:** As chosen cover OPFOR type
+- **Possible Extras:** os do tipo de fachada
 
-*Fonte: Second Inquisition, cap. 1, txt:1072–1080.*
+*Fonte: `VTM 5e - Second Inquisition.txt:1072-1080`.*
 
 ### WET TEAM
 
-Signature OPFOR GRU Eighth Direction e Gladius Dei. UTR squads laser-focused elimination dangerous blankbodies com precision violence. (Term from old Russian slang vampire hunting, "wet work.") Also known Dust Teams. Limit local assets use, rely own skill get close destroy. Unlike OPFORs, não capture quando given chance, usually target only 1–2 blankbodies destruction before pulling out. Wet Team operatives elaborate cover identities, old lives completely digitally zeroed.
+A OPFOR típica da Eighth Direction da GRU e do Gladius Dei: esquadrões UTR focados na eliminação de blankbodies perigosos com violência precisa. (O termo vem da gíria russa antiga para assassinato, "wet work".) Também chamados Dust Teams. Limitam o uso de ativos locais e contam com a própria habilidade para chegar perto e destruir. Diferente de outras OPFORs, **não capturam** quando têm a chance e em geral miram só um ou dois blankbodies antes de sair da área. Os operativos têm identidades de fachada elaboradas e vidas antigas completamente "zeradas" digitalmente.
 
 - **Reach:** ●●●●
 - **Scope:** ●●●
 - **Mask:** ●●● (Zeroed)
 - **Common Force Mix:** Warrior, Flagellant, Black-Bagger
 - **Common Resonances:** Phlegmatic
-- **Possible Extras:** Stealth helicopter, incendiary ammo e explosives
+- **Possible Extras:** helicóptero stealth, munição incendiária e explosivos
 
-*Fonte: Second Inquisition, cap. 1, txt:1081–1089.*
+*Fonte: `VTM 5e - Second Inquisition.txt:1081-1089`.*
 
 ---
 
 ## Exemplos de OPFOR Detalhados
 
+Os dois exemplos do livro trazem personagens nomeados, descritos como um papel de Antagonist deste capítulo mais ajustes. Abaixo, o resumo; histórias de fundo completas estão em `VTM 5e - Second Inquisition.txt:1090-1251`.
+
 ### Exemplo 1: WHITEHORSE (Special Deployment Team)
 
-FIRSTLIGHT provides intelligence taskings para IAO strike forces e UTR teams stationed world bases. Like CIA interpenetrates, FIRSTLIGHT likes own backup paramilitary para operations too special share outside family. WHITEHORSE combines political action team + UTR squad CIA vets, redeployed specops, mercenaries. UTR troopers read blankbody threat mas limited knowledge Coalition's global reach e strategic alliances.
-
-FIRSTLIGHT calls WHITEHORSE close down rogue blankbody efforts expose existence public, ou capture high-value emerging imminent threat targets. WHITEHORSE missions require complex, fluid handling. Se needed just set haven fire, FIRSTLIGHT has IAO teams ou FBI.
-
-Deploys forward operating bases/safehouses putting striking distance targets.
+A FIRSTLIGHT dá tarefas de inteligência às forças de ataque da IAO e a equipes UTR em bases americanas pelo mundo, mas gosta de ter paramilitares próprios para operações "especiais demais" para serem compartilhadas fora da família. A WHITEHORSE combina uma equipe de ação política com um squad UTR de veteranos da CIA, ex-forças especiais redistribuídos e mercenários. Os soldados sabem da ameaça blankbody, mas conhecem pouco o alcance global e as alianças da Coalition. Costuma ser chamada para impedir esforços de blankbodies rebeldes de expor sua existência ao público ou capturar alvos de alto valor que viraram ameaça iminente. Opera de bases avançadas e safehouses a distância de ataque.
 
 - **Reach:** ●●●●
 - **Scope:** ●●
 
-**Operational Procedure:** FIRSTLIGHT standard operating procedures, but WHITEHORSE's field prolonged time e high success rate made comfortable improvisation. Clean up messes, slap down fast-moving enemy plots subvert Coalition cover story. WHITEHORSE activates understanding tactical environment pode quickly shift covert snatch job to open kinetic operations heavily armed supernatural hostiles.
+**Procedimento Operacional** (checklist que seguem "como podem", com atalhos quando a missão exige):
 
-Checklist (best effort):
-1. **Ping:** FIRSTLIGHT analyst determines active threat, vets data Heartbeat algorithm. Low false positive probability = FIRSTLIGHT action order issued Political Liaison. Coords determine operational area prep. Strike Team preps, deploys over-the-horizon staging.
-2. **Mark Targets:** Reads-in Target Analysts, Fixers, Technicians. CIA/NSA careerists usually; US ops = SAD investigators. Using processed Heartbeat data profile/identify blankbodies en route. Three-person probe crew determine target decision-making course.
-3. **Feedback:** Political Liaison prepares local authorities cover story. Work crew observes, penetrates target decision-making. Usually starts bugging vehicles/private areas, eyes-on-street tracking movements. Herds/havens pinpointed, operatives infiltrate inner circles.
-4. **Deployment:** UTR squad deploys safehouse near operational area, briefed targets. Liaisons cut escape routes targeting assets/influences. Operatives briefed coordination.
-5. **Execution:** UTR squad green light. Pullback from operational area. Two armored SUVs ~8 strike team members converge primary blankbody nest early morning. Burn or Bag orders. Liaisons cut power/comms, cover story seeded. Fire Team Alpha/Bravo enter, destroy/restrain. Teams Charlie/Delta overwatch/reserve. Liaisons activate media cover.
-6. **Exfiltration:** Strike Team rendezvous exfiltration point. Bag mission = rendition area inform (usually airstrip Coalition/CIA control). FIRSTLIGHT transfers blankbodies nearest sunny black site by air. Liaisons cover fallout, secure financial records.
+1. **Ping:** analista da FIRSTLIGHT detecta ameaça ativa e valida os dados com o algoritmo **Heartbeat**; se a chance de falso positivo é baixa, a ordem de ação vai à Field Supervisor da CIA, **Lori Olson**, que define com o Political Liaison, **Cesar Ward**, como preparar a área. O Strike Team prepara-se e vai a uma área de espera além do horizonte.
+2. **Mark the Targets:** Olson convoca Target Analysts, Fixers e Technicians (em geral carreiristas da CIA/NSA; em território dos EUA, investigadores da SAD) para perfilar os blankbodies com os dados do Heartbeat. Uma equipe de três pessoas sonda o processo decisório dos alvos na fase seguinte.
+3. **Feedback:** Ward prepara as autoridades locais com uma cover story; Nguyen grampeia veículos e áreas privadas, Hewitt rastreia movimentos, e Kassim se infiltra no círculo íntimo como Blood Doll quando rebanho e havens são localizados.
+4. **Deployment:** o squad UTR vai a um safehouse perto da área, informado por Hewitt. Ward e Olson cortam rotas de fuga atacando ativos e influências dos alvos. Olson instrui Aqsa, que com Kassim contamina o rebanho (e sonda os alquimistas locais). Nguyen desativa os veículos secundários e arma o principal com explosivo. Se precisar de apoio aéreo, Olson requisita um helicóptero.
+5. **Execution:** luz verde ao squad; Kassim e Aqsa saem da área. Dois SUVs blindados com oito membros convergem no ninho principal de madrugada, com ordem de **Burn** ou (mais raramente) **Bag**. Olson corta energia e comunicações. Em Burn, o WH Fire Team Alpha entra e destrói todo alvo de tamanho humano; Bravo é reserva móvel. Em Bag, Bravo entra e Alpha faz o perímetro; os blankbodies são contidos em sunbags (Core p. 378) e postos nos compartimentos reforçados. Em ambos, Delta faz overwatch (e apoio aéreo) e Charlie espera num terceiro SUV. Ward ativa a cover story em várias mídias, culpando uma situação de reféns ou milícia terrorista.
+6. **Exfiltration:** encontro no ponto pré-definido; em Bag, Olson indica a área de rendition (em geral uma pista sob controle da FIRSTLIGHT/CIA) e os blankbodies são levados por ar ao black site ensolarado mais próximo. Ward cobre as consequências; Olson recolhe registros financeiros para os contadores forenses da FIRSTLIGHT.
 
-**Personnel chiave (voir pp. 1108–1171 for full details):**
-- **Lori Olson** (SAC/PAG Team): CIA Field Supervisor, Gentrifier strategist balancing prep vs. quick action
-- **Cesar Ward** (Political Liaison, retired NSA): PR machine, 30 years NSA, now tech investor. (Hidden: daughter Leticia ghoul-ed early 1990s; hunting while protecting family remaining)
-- **Patrick Nguyen** (Field Technician): Car/electronics guy, specialist rigging explosives vehicles
-- **Ming Hewitt** (DIA): Intelligence veteran, insentimental, human intel networks vulnerable communities
-- **Mohammad Kassim** (Operative): Target analyst, wounded/dominated desert 2008, resists mind control somehow, Blood Doll-like bond perverse pleasure
-- **Aqsa** (CIA Ghoul Asset): Captured Society 1998, weaned vitae 2002, FIRSTLIGHT relapsed asset, alchemist problem-solver
-- **SFC Roy Vaughn** (WH Bravo): Clearance Specialist, tactical commander, facial scar, black eye patch, SOCOM
-- **Fatima Maness** (WH Bravo): Young Snatcher, veteran snatch/grab, curious vampires, understands danger
-- **Cliff Carnes** (WH Bravo): Snatcher, ex-Force Recon, grey PMC years, recently KIA squadmate Malcom Freeman rattled
-- **CPL Faris Amer** (WH Bravo): Snatcher, Vienna operation vet, million war stories, squad vampire expert
-- **SGT Leland Moss** (WH Alpha): Breacher, WH Alpha leader, fought Roy Balkans, curt/to-point, doesn't throw unnecessarily
-- **Hiram Contreras** (WH Alpha): Flagellant ESOG, young sour-faced, religious faith hand-to-hand, unpopular family
-- **Clyde Page** (WH Alpha): Firebug Clearance Specialist, fascination fire, meticulously maintains vintage flamethrower M9
-- **Evan Watkins** (WH Alpha): Breacher DEA, dismantling vehicles → vampire havens, gambling addict recovery, hide-and-seek thrill
-- **Omar Daley** (WH Charlie): Warrior CIA, sacrifice morals national defense, boring babysitting, decapitated 3 blankbodies
-- **Eileen Harrison** (WH Charlie): Weaponer, CIA workshop, designed XM11 flamethrowers, stake-launcher shotguns, testing new-generation weaponry, exciting loses sight collateral
-- **SPC Jonathan Luna** (WH Delta): Sniper SOCOM, long-range support, collector WHITEHORSE activities evidence, skeptic vampires exist
-- **CPL Arlene Knudson** (WH Delta): Sniper spotter, alerts targets opportunity, OCD superstition, helicopter pilot rating
+**Pessoal (equivalência ao papel de Antagonist, quando o livro a dá):**
 
-*Fonte: Second Inquisition, cap. 1, txt:1090–1171.*
+- **Lori Olson** (SAC/PAG Team, Field Supervisor da CIA): **Gentrifier**. Chegou à FIRSTLIGHT pela linhagem familiar na divisão de Political Action da CIA; tenta equilibrar ação rápida e preparação
+- **Cesar Ward** (Political Liaison, NSA aposentado): **Hacker com Politics 7, Resources 5, Influence 3 (Tech Community)**. Secretamente (a FIRSTLIGHT não sabe) a filha Leticia virou ghoul no início dos anos 1990 por agentes da Camarilla infiltrados na NSA
+- **Patrick Nguyen** (Field Technician da CIA): **Mechanic (Black-Bagger)**
+- **Ming Hewitt** (operativa da DIA): **Mother Hen (Tail)**; recrutou-a Cesar Ward
+- **Mohammad Kassim** (operativo da CIA): **Blood Doll (Cuckoo)** com algo como uma **Short Bond** (Core p. 181); resistiu à dominação dos blankbodies no deserto em 2008
+- **Aqsa** (ghoul asset da CIA): **Ghoul XTechnician (p. 29 do livro) com Physical 6 e Occult 8 (Alchemy)** no lugar de Science; seu poder cria elixires (rolagem de Occult), não gadgets. Capturada por caçadores Leopoldites perto de Oran em 1998; a FIRSTLIGHT a recebeu em 2002 e ela voltou a beber de um blankbody capturado em 2004
+- **SFC Roy Vaughn** (WH Bravo, SOCOM): **Clearance Specialist com Leadership 7 e Mask 2**; comandante tático; cicatriz no rosto e tapa-olho preto
+- **Fatima Maness** (WH Bravo, CIA): **Snatcher**
+- **Cliff Carnes** (WH Bravo, PMC): **Snatcher**; abalado pela morte recente do colega Malcom Freeman
+- **CPL Faris Amer** (WH Bravo, SOCOM): **Snatcher com Occult (Vampires) 6**; veterano da operação de Viena
+- **SGT Leland Moss** (WH Alpha, SOCOM): **Breacher**; lutou com Roy Vaughn nos Bálcãs
+- **Hiram Contreras** (WH Alpha, ESOG): **Flagellant**
+- **Clyde Page** (WH Alpha, CIA): **Firebug (Clearance Specialist) com lança-chamas M9**
+- **Evan Watkins** (WH Alpha, DEA): **Breacher com Awareness (Concealed Objects) 7**
+- **Omar Daley** (WH Charlie, CIA): **Warrior**; já decapitou três blankbodies
+- **Eileen Harrison** (WH Charlie, CIA): **Weaponer com canhão automático de 20 mm montado em SUV (Damage Value +8, dividido entre vários alvos no arco de fogo)**; também pode ser montado em helicóptero
+- **SPC Jonathan Luna** (WH Delta, SOCOM): **Sniper**
+- **CPL Arlene Knudson** (WH Delta, SOCOM): **Sniper** (spotter), em geral com shotgun e Dragon's Breath; brevê de piloto de helicóptero (**Drive 5**)
 
 ### Exemplo 2: Cenacle of St. Margaret
 
-Faces change, names read memorials grow longer, but Cenacle operating since 17th century. Excellent track record, immense experience seniors. Proving ground talented inexperienced Leopoldite agents. Rotated in/out training up-and-coming, blankbodies don't recognize operatives sight.
-
-Operational command safehouse near city limits; operatives lot field work.
+Em operação desde o século XVII, com ótimo histórico e muita experiência entre os veteranos, é campo de provas para agentes Leopoldites talentosos e inexperientes, que entram e saem em rotação para treinar e para os blankbodies não reconhecerem os operativos de vista. O comando fica num safehouse perto dos limites da cidade; os operativos fazem muito trabalho de campo.
 
 - **Reach:** ●●
 - **Scope:** ●●
 
-**Operational Procedure:** Didn't survive 8 centuries drawing attention. St. Margaret moves slowly, operations steady imperceptible drip. Strong local contact networks, well-established info passing/receiving, pull operational support other organizations affiliated Second Inquisition.
+**Procedimento Operacional:** a Society não sobreviveu oito séculos chamando atenção; o Cenacle avança devagar, em "gotejamento" constante e quase imperceptível, com redes fortes de contatos locais, processos estabelecidos de troca de informação e apoio operacional de outras organizações ligadas à Second Inquisition. Se tudo corre bem:
 
-If all goes well:
+1. **Alert:** informante, notícia ou dica da FIRSTLIGHT (ou agência de inteligência do cenário) inicia a investigação; o primeiro passo é sempre validar a pista, para evitar armadilha ou engano.
+2. **Ground work:** Sister Dorothy ativa sua rede de informantes; Adrian segue boatos na rua, na prefeitura e em subculturas, e usa conexões na política e na alta sociedade.
+3. **Research:** achar monstros comuns é fácil; os poderosos ficam escondidos. David Colón vasculha arquivos locais (genealogia, fluxo de dinheiro) e cruza com as pistas de Dorothy e Adrian. O que não importa para o caso vai ao arquivo do cenacle e vira "conhecimento geral" que acelera investigações futuras.
+4. **Observation:** Matt Lusardi segue, escuta e monitora, documentando movimentos, rotinas, outros membros da coterie, aliados próximos e havens.
+5. **Auto-da-fé:** ataque rápido e direcionado. Raids diurnos contra monstros de poder moderado, às vezes ataques noturnos contra os mais fracos (mais fácil pegar a coterie inteira). A equipe do Gladius Dei prefere capturar retainers e thin-bloods, gente com humanidade e motivo para trair os monstros de verdade.
 
-1. **Alert:** Informant, news report, ou tip from FIRSTLIGHT/agency triggers investigation. First step always vetting lead: cross-check other sources, make sure trap/mistake.
-2. **Ground work:** Sister Dorothy taps informant network, puts meat data. Adrian follows rumors street level, city hall, relevant subcultures. Adrian uses local politics/high society connections.
-3. **Research:** Finding common monsters easy. Powerful ones hidden. David Colon digs local archives. Genealogy, cash flow, cross-reference Dorothy/Adrian leads. Unverified data goes cenacle archives. Become "general knowledge" speeding future investigations. Lots accurate unverified Kindred knowledge cenacle database.
-4. **Observation:** Tailing, listening, monitoring Matt Lusardi. Document movements, routines, identify coterie members/close allies, havens.
-5. **Auto-da-fé:** Rapid targeted strike identified blankbodies. Choose daytime raids moderate-power monsters, night strikes weaker: easier get entire coterie same time. Gladius Dei team captures prisoners, preferably retainers/thin-bloods: humanity left, reason betray real monsters.
+**Pessoal:**
 
-**Personnel chiave:**
-- **Vicar Adrian Clairmont** (Bear-Leader): Officially excommunicated 17-year-ago, loudly queer, PR disaster. Cover perfect hidden bone-deep faith soldier Christ. Trained FIRSTLIGHT, maintains IAO relationships. Real talent bird's eye view—prioritize, assign resources, juggle. Personally involved high society operations. Biggest weakness: visibility. Famous guest list—if anyone connected Inquisition, retreat black site cutting info source. Fame 2.
-- **Sister Dorothy Murphy** (Detective): 67-year-old, con artist, convict, Carmelite mendicant, social worker, Second Inquisition agent simultaneously 30 years. Works unhoused population, soup kitchens, street check-ins. Passionate believer; funding Vatican. Know everyone uses shelters; there day/night. Most service users die for her. Knows everyone city bureaucracy matters. Cenacle's information gatherer, informant manager. Broad network reluctant expose informants to danger, sometimes limits use. Glock-42 + True Faith ●●● = not easy target; backup smartwatch voice command away. Insight 8, Influence 2.
-- **David Colón** (Burrower): Nearly 60, 40 years Vatican/Society, seen unimaginable horror. Field exorcist/assassin days behind. C-PTSD (emotion regulation, nightmares, flashbacks) Seminary training. Cenacle's archivist/historian, digging city archives/university libraries target background. Often reveals vampiric holdings unexpected places. 80+ years continuous records found blankbodies complacent fat parasites. Extremely paranoid—library/archive interactions could be Renfields. New people scare; scared gets obsessive. Contacts 3, Allies 3.
-- **Matteo Lusardi** (Hacker): Sometimes wishes "hacker for Vatican" business card. St. Margaret's tech guy. Phone taps, listening devices, hacking vampiric comm networks, database maintenance. Overstretched; superiors use as excuse rely informants over technical solutions. Usually involved after target identified stage 4. Recruited undergrad private Catholic Uni Milan, never visible public life, never unknown blankbodies. Envies general public blissful ignorance; feels no kinship. Herd animals, shepherd them. Thinks kinship rival vampire predators. Believes capable building alliances professional respect. Very wrong. Willpower 4.
-- **Special Attaché Lisa Klein** (Deprogrammer): Recently Embraced, turned religion way above monstrous nature. Capture = chance salvation, convinced Adrian. Ex-psychiatrist, reskilled deprogrammer. Vampiric cult understanding invaluable; talk captured ghouls/thin-bloods own terms. Empathize/appear to. Own experience promise better future. Doesn't mention most time locked basement. Rest of cenacle view miracle flesh, Lord's power. Doesn't know occasionally resolve weakens, sneaks off-site feed something substantial blood bags. Disciplines: Auspex 2, Fortitude 1, Presence 2. Humanity 7, Blood Potency 1.
-- **Gladius Dei Canons** (Operatives): Society Leopold's front liners. After investigation/plan complete, risk lives taking/taking down blankbodies. High turnover—even best info no getting around vampire deadliness. Live full-time black site; dangerous in city, recognized camera footage/rare monster encounter. PTSD varying degrees/presentations. Chaplain Damian Marshall counsels/supports, takes toll. Several named individuals described in livro (Marina Ferrara, Owen Byrne, Rob Kelly, Damian Marshall, Evan de Witt, Natalie Bassett).
-- **Secondments:** Talented recruits sent training, usually Dorothy/David. Any moment 2–3 operatives Social/Technical focus attached.
-
-*Fonte: Second Inquisition, cap. 1, txt:1173–1251.*
+- **Adrian Clairmont** (Abbé do cenacle): **Bear-Leader com Fame 2**. Oficialmente excomungado há 17 anos, declaradamente queer, um "desastre de RP" para a Igreja, o que serve de cobertura; treinou com a FIRSTLIGHT e a IAO. Vê a situação de cima, prioriza e distribui recursos. Fraqueza: visibilidade; se o ligarem à Inquisição, tem de se recolher ao black site
+- **Sister Dorothy Murphy**: **Detective com Insight 8 e Influence 2 na cidade**. 67 anos, golpista, condenada, freira carmelita mendicante e assistente social; trabalha com a população de rua. Glock-42 e **True Faith ●●●**; o reforço está a um comando de voz do smartwatch. Zela demais dos informantes e às vezes limita o uso deles
+- **David Colón**: **Burrower com Contacts 3 (arquivistas, bibliotecários) e Allies 3 (benfeitor rico de uma biblioteca oculta particular)**. Quase 60 anos, 40 de Vaticano/Society, C-PTSD, arquivista do cenacle. Extremamente paranoico (qualquer um na biblioteca pode ser um Renfield)
+- **Matteo (Matt) Lusardi**: **Hacker com Willpower 4**. Técnico do cenacle; recrutado na faculdade, nunca teve vida pública; pensa nos blankbodies como iguais (uma ilusão perigosa)
+- **Special Attaché Lisa Klein**: **Deprogrammer** com **Auspex 2, Fortitude 1, Presence 2, Humanity 7, Blood Potency 1**. Ex-psiquiatra, Abraçada recentemente; vampira "serva de Deus", e às vezes foge para se alimentar de algo além de bolsas de sangue
+- **Gladius Dei:** a linha de frente da Society, vive em tempo integral no black site. **Marina Ferrara** (chefe, **Warrior**), **Owen Byrne** (subcomandante, ex-assassino da CIA, **Warrior**), **Rob Kelly** (**Clearance Specialist**, lança-chamas), **Damian Marshall** (capelão e especialista em demolição, **Breacher**), **Evan de Witt** (**Nullifier**) e **Natalie Bassett** (**Lone Wolf**)
+- **Secondments:** em qualquer momento, 2 ou 3 operativos adicionais de foco Social ou Técnico são destacados ao cenacle, normalmente para treinar com Dorothy ou David
 
 ---
 

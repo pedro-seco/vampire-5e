@@ -8,7 +8,7 @@ Starfall Ranch é bem conhecida como uma das melhores fazendas do Nordeste dos E
 
 Starr é Kindred. Ele serve **The One Moon**, uma fé que acredita que Clan Malkavian é na verdade **uma única pessoa**, experimentando a si mesma e o mundo através das vidas e perspectivas daqueles que Abraçam.
 
-A fazenda serve como halfway house para Malkavians despojados. Ali, podem trabalhar, se alimentar, e aprender seu lugar como parte de The One Moon. A própria Starfall Ranch é cobertura — uma operação ligítima que gera receita e desvia suspeita.
+A fazenda serve como halfway house para Malkavians despojados. Ali, podem trabalhar, se alimentar, e aprender seu lugar como parte de The One Moon.
 
 Você é parte desta história — talvez trabalhou lá após seu Embrace, ou ainda a chama de lar. Conhece segredos dos vaqueiros de Starr ou filosofias básicas de The One Moon. Talvez tivesse o privilégio de encontrar o Methuselah que dorme sob as terras.
 
@@ -22,11 +22,11 @@ Você é parte desta história — talvez trabalhou lá após seu Embrace, ou ai
 
 ## Detalhes da Loresheet
 
-**Restrição:** Malkavian apenas (preferencial)
+**Restrição:** Malkavian apenas
 
 **Tema:** Mente coletiva; The One Moon; Methuselah ancestral; identidade múltipla; Malkavian perspective
 
-**Local:** Starfall Ranch (Nordeste dos EUA, móvel conforme crônica)
+**Local:** Starfall Ranch (Nordeste dos EUA)
 
 ### Herd Mindset (●)
 
@@ -36,7 +36,7 @@ Seu tempo na fazenda o aproximou demais de seus companheiros Malkavians errantes
 - Você pode tomar **2 pontos em uma Skill que não possui** para um único teste, OU
 - Pedir ao Storyteller um fato sobre um SPC que você não conhece (o Storyteller decide qual fato é recebido)
 
-**Fonte:** Children of the Blood, p. 1887-1888
+**Fonte:** VTM 5e - Children Of The Blood.txt:1887-1888 (p. 108 pelo índice do livro)
 
 ### Clarity of Mind (●●)
 
@@ -44,25 +44,25 @@ Starfall Ranch é um lugar pacífico. Malkavians de todos os níveis sociais pod
 
 **Benefício:** Quando inicia um **Project em Starfall Ranch**, receba **+3 dados no Launch roll**.
 
-**Fonte:** Children of the Blood, p. 1889-1892
+**Fonte:** VTM 5e - Children Of The Blood.txt:1889-1892 (p. 108 pelo índice do livro)
 
 ### New Perspectives (●●●)
 
-Você entende alguns básicos de The One Moon, começando a descobrir como é apenas um aspecto de uma pessoa maior. Você até pode emprestar talentos de outros seguidores de sua fé. Uma vez por sessão:
+Você entende alguns básicos de The One Moon, começando a descobrir como é apenas um aspecto de uma pessoa maior. Você até pode emprestar talentos de outros seguidores de sua fé. Uma vez por story:
 
 **Benefício:** Escolha uma Skill rating e a **substitua pela de outro cultista One Moon** (outro PC ou SPC, conforme escolher). Você pode usar essa Skill como se fosse sua.
 
-**Fonte:** Children of the Blood, p. 1893
+**Fonte:** VTM 5e - Children Of The Blood.txt:1893 (p. 108 pelo índice do livro)
 
 ### Starr and Marta (●●●●)
 
-Você tivera a chance de ver Marta com seus próprios olhos, e isso o mudou para sempre. Você pode tomar **Dr. Starr como um Mawla de 4 pontos**. Uma vez por sessão, Marta fala através dele.
+Você teve a chance de ver Marta com seus próprios olhos, e isso o mudou para sempre. Você pode tomar **Dr. Starr como um Mawla de 4 pontos**. Uma vez por story, Marta fala através dele.
 
 **Benefício:**
-- Você pode fazer qualquer pergunta relevante à sessão a Marta
+- Você pode fazer a Marta qualquer pergunta relevante à story
 - Ela responde verdadeiramente, conforme seu conhecimento
 
-**Fonte:** Children of the Blood, p. 1894
+**Fonte:** VTM 5e - Children Of The Blood.txt:1894 (p. 108 pelo índice do livro)
 
 ### But I Saw You Die (●●●●●)
 
@@ -74,9 +74,7 @@ Starr é infame por enganar a morte. Ele compartilhou seu segredo com você. Uma
 - Suas Skills, Advantages, Flaws, e pontos de Discipline fora do clã **permanecem**
 - Você **redistribui seus Attributes e pontos em-clã de Discipline**
 
-**Consequência:** Sua morte anterior é considerada Final Death para a maioria dos propósitos narrativos, embora seu espírito persista.
-
-**Fonte:** Children of the Blood, p. 1895
+**Fonte:** VTM 5e - Children Of The Blood.txt:1895 (p. 108 pelo índice do livro)
 
 ## Ver Também
 
