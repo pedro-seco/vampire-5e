@@ -157,11 +157,11 @@ Este ritual permite ao conjurador perceber os locais anteriores onde uma pessoa 
 
 >- **Custo**: Um [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check]].
 >- **Casting Time**: 10 minutos
->- **Ingredientes**: Um olho e uma língua frescos de uma pessoa.
+>- **Ingredientes**: Uma fita de cetim branca.
 >- **Teste de Ritual** (Regras gerais de Rituais): 
 > 	 (Intelligence + Blood Sorcery) com Dificuldade 3
 > 
->- **Processo**: Uma fita de cetim branca.
+>- **Processo**: O ritualista embebe a fita no próprio Sangue e a incendeia.
 >  
 >- **System**: 
 >  Se o teste de ritual for bem-sucedido, a fita pega fogo, apesar de estar molhada, queimando intensamente como um pavio. Uma vez consumida, o ritual entra em efeito. 
@@ -178,7 +178,7 @@ Até recentemente conhecido apenas pelos vizires Banu Haqim, este ritual cria um
 
 >- **Custo**: Um [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check]].
 >- **Casting Time**: 10 minutos
->- **Ingredientes**: Um litro de sangue do alvo.
+>- **Ingredientes**: Uma pint (cerca de meio litro) de sangue do alvo.
 >- **Teste de Ritual** (Ver o System deste Ritual em Específico): 
 > 	 (**Resolve + Blood Sorcery**) vs (**Composure + Occult**) para cada afirmação feita pelo alvo.
 > 
@@ -207,7 +207,7 @@ Uma técnica aterrorizante utilizada pelos assassinos dos Banu Haqim, este Ritua
 >- **Casting Time**: 15 minutos + tempo do processo (ler abaixo)
 >- **Ingredientes**: Um punhal cerimonial incrustado de ouro.
 >- **Teste de Ritual** (Regras gerais de Rituais): 
-> 	 (Intelligence + Blood Sorcery) com Dificuldade 4
+> 	 (Resolve + Blood Sorcery) vs (Stamina + Resolve) da vítima, no lugar da rolagem padrão do Ritual
 > 
 >- **Processo**: 
 >  Antes de realizar o Ritual, a vítima deve ser exposta ao Sangue do lançador, seja bebendo-o, tocando-o em uma ferida aberta ou mesmo em contato direto com a pele nua: uma única gota espalhada pelo braço é suficiente. Após uma hora, mas dentro de uma semana, o lançador pode executar o Ritual perfurando sua própria pele com o punhal cerimonial, derramando Sangue. Quando o Sangue toca o chão, o Ritual entra em efeito.
@@ -304,7 +304,7 @@ O executor deste poderoso Ritual pode proteger seu refúgio contra o próprio so
 >- **Casting Time**: 20 minutos + 1h ou mais (ver System)
 >- **Ingredientes**: Apenas o Sangue do caster.
 >- **Teste de Ritual** (Regras gerais de Rituais): 
-> 	 (Intelligence + Blood Sorcery) com Dificuldade 4
+> 	 (Intelligence + Blood Sorcery) com Dificuldade 5
 > 
 >- **Processo**: 
 >  O lançador inscreve diversos símbolos e glifos ao redor e dentro da área a ser protegida. Deve tomar cuidado especial com janelas e portas, mas é possível proteger uma entrada aberta, desde que a área esteja em ambiente interno. (Áreas ambíguas ou em ruínas podem ser protegidas a critério do Narrador.)
@@ -327,12 +327,12 @@ Alguns Tremere passaram anos treinando corvos ou ravens para falar antes de usá
 
 >- **Custo**: Um [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check]].
 >- **Casting Time**: 20 minutos 
->- **Ingredientes**: O lançador alimenta a ave com seu Sangue e entra em transe.
+>- **Ingredientes**: Os olhos da ave usada, retirados ao fim do Ritual.
 >- **Teste de Ritual** (Regras gerais de Rituais): 
-> 	 (Intelligence + Blood Sorcery) com Dificuldade 4
+> 	 (Intelligence + Blood Sorcery) com Dificuldade 5
 > 
 >- **Processo**: 
->  O lançador inscreve diversos símbolos e glifos ao redor e dentro da área a ser protegida. Deve tomar cuidado especial com janelas e portas, mas é possível proteger uma entrada aberta, desde que a área esteja em ambiente interno. (Áreas ambíguas ou em ruínas podem ser protegidas a critério do Narrador.)
+>  O lançador alimenta a ave com seu Sangue e entra em transe.
 >
 >- **System**: 
 >  Em uma rolagem bem-sucedida do Ritual, o lançador pode controlar a ave e enxergar através de seus olhos.
