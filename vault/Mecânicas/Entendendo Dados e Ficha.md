@@ -63,7 +63,7 @@ A maior parte das pool de dados ao jogar *Vampiro: A Máscara* é composta de um
   
 - **Atributo + Atributo**: Um pouco mais incomum. Podem representar testes diretos de um Atributo. O Narrador pode pedir, por exemplo, ***Força + Força*** para levantar uma viga pesada de uma tampa de caixão. Às vezes, dois Atributos são combinados para formar uma pool, como em testes de *Resolve + Composure* (Determinação + Compostura) para resistir a muitas [[Disciplinas]].
 
-- **Atributo + Habilidade ou Atributo + Disciplinas:** Existem casos que o uso de Disciplinas somam na dice pool. Ex: *Heightened Senses* (Auspex 1) soma seus pontos em [[Disciplinas#Auspex|Auspex]] a todos os testes de percepção. Se o personagem possui 2 pontos em Auspex, soma dois dados (Core p. 249).
+- **Atributo + Habilidade ou Atributo + Disciplinas:** Existem casos que o uso de Disciplinas somam na dice pool. Ex: *Heightened Senses* (Auspex 1) soma seus pontos em [[Disciplinas - Auspex#Auspex|Auspex]] a todos os testes de percepção. Se o personagem possui 2 pontos em Auspex, soma dois dados (Core p. 249).
 
 >Um personagem que não possui uma Habilidade rola apenas o Atributo da pool, sem penalidades adicionais.
 
@@ -71,7 +71,7 @@ A maior parte das pool de dados ao jogar *Vampiro: A Máscara* é composta de um
 >
 >*Exemplo*: 
 >	
->	*Um Vampiro com 2 pontos em [[Disciplinas#Celerity|Celeridade]] está em uma perseguição de carros acirrada, e um pedestre surge dentre os carros correndo para atravessar a rua. O Narrador pede um teste de direção (Dex + Drive), e o jogador pergunta se ativar o poder *Fleetness* (Celerity 2, custo de um Rouse Check) ajudaria nessa situação. Como o poder manda somar a Celeridade a testes de Destreza fora de combate, o Narrador julga que sim (Core p. 253), e tem duas opções nesse momento (modificar a [[Dificuldade, Contests e Conflitos#Dificuldade|Dificuldade]] - como previamente expresso nas regras), ou deixar o jogador somar seus pontos de Celeridade na dice pool. Ele opta pela segunda opção.*
+>	*Um Vampiro com 2 pontos em [[Disciplinas - Celerity#Celerity|Celeridade]] está em uma perseguição de carros acirrada, e um pedestre surge dentre os carros correndo para atravessar a rua. O Narrador pede um teste de direção (Dex + Drive), e o jogador pergunta se ativar o poder *Fleetness* (Celerity 2, custo de um Rouse Check) ajudaria nessa situação. Como o poder manda somar a Celeridade a testes de Destreza fora de combate, o Narrador julga que sim (Core p. 253), e tem duas opções nesse momento (modificar a [[Dificuldade, Contests e Conflitos#Dificuldade|Dificuldade]] - como previamente expresso nas regras), ou deixar o jogador somar seus pontos de Celeridade na dice pool. Ele opta pela segunda opção.*
 >	
 >	*O jogador faria então (Dex + Drive + Celeridade). Se ele tem 3 pontos de Dexterity, 2 pontos de Drive e 2 pontos de Celeridade, jogaria 7 dados no total.*  
 

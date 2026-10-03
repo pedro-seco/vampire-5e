@@ -147,7 +147,7 @@ Um ato repudiado pela maioria dos vampiros que reivindicam qualquer forma de civ
 
 - **Aspectos Religiosos:** Vampiros com inclinações religiosas frequentemente descrevem a diablerie como um ato que consome a própria **alma** da vítima.
   
-- **Efeitos Visíveis:** Aqueles que possuem a habilidade de perceber **auras** ([[Disciplinas#Auspex|Auspex]]) podem claramente observar as manchas e corrupções que afligem o perpetrador após cometer o ato.
+- **Efeitos Visíveis:** Aqueles que possuem a habilidade de perceber **auras** ([[Disciplinas - Auspex#Auspex|Auspex]]) podem claramente observar as manchas e corrupções que afligem o perpetrador após cometer o ato.
 
 ## Cometendo Diablerie
 

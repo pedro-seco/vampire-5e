@@ -58,5 +58,5 @@ O texto do ritual no .txt é interrompido no meio de uma frase ("Here is where t
 
 ## Ver Também
 
-[[Disciplinas#Blood Sorcery|Blood Sorcery]]
-[[Disciplinas#Oblivion|Oblivion]]
+[[Disciplinas - Blood Sorcery#Blood Sorcery|Blood Sorcery]]
+[[Disciplinas - Oblivion#Oblivion|Oblivion]]

@@ -82,7 +82,7 @@ Um jogador pode gastar **1 ponto de Willpower** para:
 
 >- **Re-rolar dados**: Você pode usar Willpower para re-rolar até três dados regulares (não os dados de Hunger), em qualquer pool, exceto onde as regras excluem o re-roll (rolagens de tracker, One-Roll Conflict etc.). Isso pode ser a diferença para ajudar você a conseguir passar num teste. Veja [[Regras Fundamentais#Willpower em Testes (After Roll/Re-roll)|Usando Willpower em Teste]] para ver como fazer isso. 
 >  
->- **Retomar o Controle**: É possível obter controle do seu personagem **por UM [[Regras Fundamentais#Turno|turno]]** durante [[Frenzy|frenesis]] ou sob influêncvia de coersão supernatural como [[Disciplinas#Dominate|Dominação]] ou [[Disciplinas#Presence|Presença]]. 
+>- **Retomar o Controle**: É possível obter controle do seu personagem **por UM [[Regras Fundamentais#Turno|turno]]** durante [[Frenzy|frenesis]] ou sob influêncvia de coersão supernatural como [[Disciplinas - Dominate#Dominate|Dominação]] ou [[Disciplinas - Presence#Presence|Presença]]. 
 >    
 >- **Ignorar Impairment**: Para ignorar penalidades de [[Dano|dano]] sofrido na sua Health, como [[Dano#Impairment (Incapacitação)|Incapacitação (Impairment)]] durante **por UM** [[Regras Fundamentais#Turno|turno]].
 >    

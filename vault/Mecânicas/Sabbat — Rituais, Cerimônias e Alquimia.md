@@ -104,7 +104,7 @@ Fonte: p. 52 (arquivo: linhas 622–627).
 
 # Thin-Blood Alchemy
 
-Fórmulas desenvolvidas por Cainites do Path of the Sun (ver [[Sabbat — Paths of Enlightenment#Path of the Sun|Path of the Sun]]). Usam as regras de Thin-Blood Alchemy do Core: [[Disciplinas#Thin-blood Alchemy|Thin-blood Alchemy]].
+Fórmulas desenvolvidas por Cainites do Path of the Sun (ver [[Sabbat — Paths of Enlightenment#Path of the Sun|Path of the Sun]]). Usam as regras de Thin-Blood Alchemy do Core: [[Disciplinas - Thin-blood Alchemy#Thin-blood Alchemy|Thin-blood Alchemy]].
 
 ## Portable Shade (Nível 1)
 
@@ -134,7 +134,7 @@ Fonte: p. 53 (o índice cita só Portable Shade em p. 53; On-Demand Sunburn vem 
 
 # Ver Também
 
-- [[Disciplinas#Rituals (Blood Sorcery)|Rituals (Blood Sorcery)]] · [[Disciplinas#Oblivion|Oblivion]] · [[Disciplinas#Thin-blood Alchemy|Thin-blood Alchemy]]
+- [[Disciplinas - Rituais de Blood Sorcery#Rituals (Blood Sorcery)|Rituals (Blood Sorcery)]] · [[Disciplinas - Oblivion#Oblivion|Oblivion]] · [[Disciplinas - Thin-blood Alchemy#Thin-blood Alchemy|Thin-blood Alchemy]]
 - [[Sabbat — Poderes de Disciplina]]
 - [[Sabbat — Ritae]] — Vaulderie (Communal Vigor depende dele)
 - [[Sabbat — Paths of Enlightenment]]

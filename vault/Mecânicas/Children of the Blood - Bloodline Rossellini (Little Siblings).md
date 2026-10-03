@@ -74,6 +74,6 @@ Você destrói corpuses com facilidade. Qualquer ataque contra um wraith causa s
 
 ## Ver Também
 
-- [[Disciplinas#Oblivion|Oblivion]]
+- [[Disciplinas - Oblivion#Oblivion|Oblivion]]
 - [[Clãs#Hecata|Hecata]]
 - [[Player's Guide — Loresheets e Bloodlines Hecata]]

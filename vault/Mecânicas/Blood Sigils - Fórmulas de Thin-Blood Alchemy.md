@@ -226,7 +226,7 @@ Droga que **quebra Blood Bonds**. Alguns domínios autoritários executam por me
 
 # Ver Também
 
-- [[Disciplinas#Thin-blood Alchemy|Disciplinas — Thin-blood Alchemy]]
+- [[Disciplinas - Thin-blood Alchemy#Thin-blood Alchemy|Disciplinas — Thin-blood Alchemy]]
 - [[Sangue Fraco]] · [[Resonance]] · [[Dyscrasias]] · [[Fome]] · [[Frenzy]]
 - [[Blood Sigils - Criação de Rituais, Fórmulas e Efeitos Colaterais]]
 - [[Blood Sigils - Rituais de Blood Sorcery]]

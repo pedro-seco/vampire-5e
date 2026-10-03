@@ -229,7 +229,7 @@ Nada menos do que a perfeição satisfaz o vampiro. Qualquer desempenho abaixo d
 A necessidade de governar toma conta do vampiro, que faz de tudo para assumir o controle de uma situação. **Alguém deve obedecer a uma ordem direta** dada pelo vampiro.
 
 >- **Penalidade**: Todas as ações que não estejam diretamente relacionadas à liderança sofrem uma **penalidade de dois dados** na [[Entendendo Dados e Ficha#Dice Pool|dice pool]].
->- A Compulsão dura até que uma ordem do vampiro seja obedecida. A obediência, no entanto, **não pode ser forçada sobrenaturalmente**, como por meio de [[Disciplinas#Dominate|Dominate]] ou outros poderes.
+>- A Compulsão dura até que uma ordem do vampiro seja obedecida. A obediência, no entanto, **não pode ser forçada sobrenaturalmente**, como por meio de [[Disciplinas - Dominate#Dominate|Dominate]] ou outros poderes.
 
 ---
 
@@ -500,7 +500,7 @@ Na hierarquia Kindred, são o degrau mais baixo — abaixo dos Caitiff. A maiori
 - Não têm Disciplinas iniciais: a cada alimentação ganham 1 dot em uma Disciplina ligada à Resonance do sangue bebido e um poder de nível 1 dela (se a Resonance for Intense ou mais forte, um dot e um segundo poder adicionais); dura até o Hunger chegar a 5 ou a próxima alimentação
 - Têm Merits e Flaws próprios (sem custo em dots), de um a três de cada na criação
 
-**Thin-blood Alchemy:** A habilidade característica. Misturando a própria vitae com sangue humano de Resonance forte, thin-bloods preparam fórmulas que imitam poderes de Disciplinas. Ver [[Sangue Fraco]], [[Mecânicas/Disciplinas#Thin-blood Alchemy|Thin-blood Alchemy]], [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]] e [[Player's Guide — Castoffs]] (suplemento).
+**Thin-blood Alchemy:** A habilidade característica. Misturando a própria vitae com sangue humano de Resonance forte, thin-bloods preparam fórmulas que imitam poderes de Disciplinas. Ver [[Sangue Fraco]], [[Disciplinas - Thin-blood Alchemy#Thin-blood Alchemy|Thin-blood Alchemy]], [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]] e [[Player's Guide — Castoffs]] (suplemento).
 
 ---
 

@@ -115,7 +115,7 @@ Fonte: Cults of the Blood Gods, p. 56 (VTM 5e - Cult Of The Blood Gods.txt:645�
 
 ## Ver Também
 
-- [[Disciplinas#Oblivion|Oblivion]]
+- [[Disciplinas - Oblivion#Oblivion|Oblivion]]
 - [[Cults of the Blood Gods - Coterie Types]]
 - [[Cultos Vampíricos]]
 - [[Player's Guide — Blood Sorcery e Thin-Blood Alchemy]]

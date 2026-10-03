@@ -28,6 +28,7 @@ interface VaultNote {
   label?: string;
   kind: string;
   level?: 'iniciante';
+  part?: 'base';
 }
 
 const PUBLISHED_FOLDERS = ['Mecânicas', 'Lore', 'Narração', 'Aventuras'];
@@ -72,6 +73,7 @@ export function discoverVaultNotes(vaultDir: string): VaultNote[] {
         label: fields.rotulo || undefined,
         kind: fields.tipo || 'regra',
         level: fields.nivel === 'iniciante' ? 'iniciante' : undefined,
+        part: fields.parte === 'base' ? 'base' : undefined,
       });
     }
   }
@@ -190,6 +192,7 @@ function markdownRenderer(note: VaultNote): Marked {
 }
 
 const partOf = (note: VaultNote): 'base' | 'catalogo' | 'lore' | 'extras' => {
+  if (note.part) return note.part;
   if (note.kind === 'lore') return 'lore';
   return note.group ? 'extras' : 'base';
 };
@@ -203,6 +206,7 @@ function compareSections(first: VaultSection, second: VaultSection): number {
   const firstTop = sortKey(first.group ?? first.title);
   const secondTop = sortKey(second.group ?? second.title);
   if (firstTop !== secondTop) return firstTop < secondTop ? -1 : 1;
+  if (Boolean(first.group) !== Boolean(second.group)) return first.group ? 1 : -1;
   return sortKey(first.label ?? first.title).localeCompare(sortKey(second.label ?? second.title));
 }
 

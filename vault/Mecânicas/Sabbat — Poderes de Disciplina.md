@@ -183,7 +183,7 @@ Consulte o PDF original para completar. Nada foi inventado para preencher essas 
 # Ver Também
 
 - [[Disciplinas]] — regras gerais, amalgams e os poderes do Core
-- [[Disciplinas#Blood Sorcery|Blood Sorcery]] · [[Disciplinas#Oblivion|Oblivion]] · [[Disciplinas#Protean|Protean]]
+- [[Disciplinas - Blood Sorcery#Blood Sorcery|Blood Sorcery]] · [[Disciplinas - Oblivion#Oblivion|Oblivion]] · [[Disciplinas - Protean#Protean|Protean]]
 - [[Sabbat — Rituais, Cerimônias e Alquimia]] — rituais, cerimônias e fórmulas do mesmo livro
 - [[Sabbat — Paths of Enlightenment]] — afinidades de Disciplina por Path
 - [[Diablerie, Blood Bond, Ghouls]] — Blood Bond e ghouls (Transitive Bond, Reclamation of Vitae)

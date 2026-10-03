@@ -110,7 +110,7 @@ Fonte: Cults of the Blood Gods, p. 85 (VTM 5e - Cult Of The Blood Gods.txt:1081�
 
 ## Ver Também
 
-- [[Disciplinas#Obfuscate|Obfuscate]] / [[Disciplinas#Presence|Presence]] / [[Disciplinas#Protean|Protean]]
+- [[Disciplinas - Obfuscate#Obfuscate|Obfuscate]] / [[Disciplinas - Presence#Presence|Presence]] / [[Disciplinas - Protean#Protean|Protean]]
 - [[Cults of the Blood Gods - Coterie Types]]
 - [[Cults of the Blood Gods - Mithraic Mysteries]]
 - [[Cultos Vampíricos]]

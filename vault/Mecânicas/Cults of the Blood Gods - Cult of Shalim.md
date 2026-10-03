@@ -154,7 +154,7 @@ Fonte: Cults of the Blood Gods, pp. 93–94 (VTM 5e - Cult Of The Blood Gods.txt
 
 ## Ver Também
 
-- [[Disciplinas#Oblivion|Oblivion]] (prática central dos Lasombra)
+- [[Disciplinas - Oblivion#Oblivion|Oblivion]] (prática central dos Lasombra)
 - [[Cults of the Blood Gods - Church of Set (Serpents)]] (contraste doutrinário)
 - [[Cults of the Blood Gods - Mithraic Mysteries]]
 - [[Cultos Vampíricos]]

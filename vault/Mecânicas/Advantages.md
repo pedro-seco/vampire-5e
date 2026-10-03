@@ -276,7 +276,7 @@ Uma coterie sem Domain ou caça de forma clandestina (arriscando a ira de quem d
 
 ### Thin-blood Alchemy
 
-*(Apenas [[Sangue Fraco|Thin-Bloods]])* Não é um Background com dots próprios: é a Discipline característica dos thin-bloods. Eles a obtêm pelo Merit de thin-blood **Thin-blood Alchemist**, que dá um dot e uma fórmula (Merits e Flaws de thin-blood não custam dots), e podem comprar dots e fórmulas adicionais com XP. *(Core p. 183)* Ver [[Mecânicas/Disciplinas#Thin-blood Alchemy|Thin-blood Alchemy nas Disciplinas]].
+*(Apenas [[Sangue Fraco|Thin-Bloods]])* Não é um Background com dots próprios: é a Discipline característica dos thin-bloods. Eles a obtêm pelo Merit de thin-blood **Thin-blood Alchemist**, que dá um dot e uma fórmula (Merits e Flaws de thin-blood não custam dots), e podem comprar dots e fórmulas adicionais com XP. *(Core p. 183)* Ver [[Disciplinas - Thin-blood Alchemy#Thin-blood Alchemy|Thin-blood Alchemy nas Disciplinas]].
 
 ---
 

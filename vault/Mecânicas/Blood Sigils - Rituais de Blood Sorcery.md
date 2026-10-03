@@ -287,7 +287,7 @@ O .txt perdeu páginas inteiras destes rituais (aparecem só no índice): **Bind
 
 # Ver Também
 
-- [[Disciplinas#Blood Sorcery|Disciplinas — Blood Sorcery]] (poderes e rituais do Core)
+- [[Disciplinas - Blood Sorcery#Blood Sorcery|Disciplinas — Blood Sorcery]] (poderes e rituais do Core)
 - [[Blood Sigils - Fórmulas de Thin-Blood Alchemy]]
 - [[Blood Sigils - Criação de Rituais, Fórmulas e Efeitos Colaterais]]
 - Blood Sigils - A Cena Blood Craft (furcae, veins of the earth)

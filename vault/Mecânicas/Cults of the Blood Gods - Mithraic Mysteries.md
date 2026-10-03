@@ -144,7 +144,7 @@ Fonte: Cults of the Blood Gods, p. 104 (VTM 5e - Cult Of The Blood Gods.txt:1368
 
 ## Ver Também
 
-- [[Disciplinas#Dominate|Dominate]] / [[Disciplinas#Fortitude|Fortitude]]
+- [[Disciplinas - Dominate#Dominate|Dominate]] / [[Disciplinas - Fortitude#Fortitude|Fortitude]]
 - [[Cults of the Blood Gods - Church of Set (Serpents)]] (rival)
 - [[Cults of the Blood Gods - Coterie Types]]
 - [[Cultos Vampíricos]]
