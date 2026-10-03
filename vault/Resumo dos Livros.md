@@ -4,6 +4,91 @@
 
 Resumo de cada livro baseado no sumário, com o que a vault já cobre e possíveis lacunas, para decidir o que vale incluir. Gerado a partir dos `.txt` em `vault/bibliografia/` (Core pelo PDF). As notas de cobertura foram conferidas por nome de arquivo e por busca, sem ler as notas inteiras: onde diz "possivelmente", confira antes de decidir. Os sumários de Anarch, Second Inquisition, Chicago by Night, Children of the Blood, Cults of the Blood Gods e Forbidden Religions saíram truncados ou sem páginas nos `.txt`, então partes da estrutura foram reconstruídas pelos cabeçalhos.
 
+# Avaliação: o que vale ter na vault
+
+## Critério
+
+A vault é uma **referência rápida**, para dois públicos ao mesmo tempo: o jogador que não conhece o sistema (precisa de vocabulário, do fluxo de uma rolagem e de "o que eu faço agora") e o jogador avançado que quer a mecânica exata (custo, dice pool, sistema, tabelas). Um conteúdo vale a pena quando: (1) é consultado durante a sessão ou na criação do personagem; (2) é regra ou opção objetiva, não narrativa; (3) cabe em poucas linhas ou numa tabela; (4) não depende da crônica. Contos, créditos, arte, índices e cenas de aventura não passam nesse crivo.
+
+## Estado atual (medido no build)
+
+- 178 notas publicadas: 112 de jogador e 66 de Narrador.
+- 51 notas do livro base (811 KB de texto) e 127 de livros extras (1,3 MB). Cerca de 60% do texto vem de suplementos.
+- `Disciplinas.md` sozinha tem 167 KB (8% de todo o texto). Nenhuma outra nota passa de 60 KB.
+- 4.181 wikilinks resolvidos e **235 quebrados**, para 48 destinos. Os mais frequentes: Kindred (31), Camarilla (23), Segunda Inquisição (19), Cultos Vampíricos (19), Máscara (16), Blush of Life (15), Anarquistas (13) e **Rouse Check (13)**. Quase todos apontam para notas de Lore, que não são publicadas, ou para conceitos que não têm verbete (Rouse Check, Blush of Life, Blood Surge, Máscara, Abraço, Jyhad).
+
+## O que vale ter, por tipo de conteúdo
+
+| Tipo | Veredito | Observação |
+| --- | --- | --- |
+| Regras do Core (dados, testes, Hunger, Rouse Check, Frenzy, Humanity, dano, XP, criação) | Manter e polir | É o uso principal. Já está; faltam resumo de 30 segundos e glossário. |
+| Disciplinas, poderes, rituais, cerimônias, fórmulas | Manter, mas vindos de dados estruturados | Já existem como dados na ficha; a vault deve apresentar tabelas e filtros, não só prosa. |
+| Clãs: Bane, Compulsão, Disciplinas | Manter | Lore de clã só em 1 parágrafo por clã. |
+| Opções de personagem de suplementos (Predator Types, Backgrounds, Merits e Flaws, clãs novos, castoffs, loresheets) | Manter | É o que o jogador avançado procura. Loresheets: tabela com requisito e efeito resumido. |
+| Coteries, Memoriam, Projects, Considerate Play | Manter, resumido | Uso de mesa, curto. |
+| Lore de seitas e cidades (Camarilla, Anarquistas, Sabbat, Jyhad, Kindred, Londres, Chicago) | Resumir em 1 nota curta cada e publicar | Resolve os links quebrados; dá contexto ao iniciante. |
+| NPCs, cenas e estatísticas de aventura (SPCs de Chicago, OPFOR, cenas de Fall of London, Styx and Bones) | Não crescer mais; deixar numa seção "Narrador — material de apoio" | É conteúdo de aventura, não de consulta rápida. Já são cerca de 66 notas. |
+| Contos, fragmentos do Book of Nod, créditos, arte, índices | Não incluir | Valor baixo para consulta. |
+
+## Veredito por livro
+
+| Livro | Veredito | O que falta de relevante |
+| --- | --- | --- |
+| Core | Já está; completar | Glossário (Words to Unlive By), passos narrativos de criação (Relationship Map, Your Human Life), conferir Creatures of Horror e Supernatural Equipment. |
+| Player's Guide | Bem coberto | Variantes de Bane dos 16 clãs (conferir), Coterie Sheet, lore de clã em 1 parágrafo. |
+| Companion | Coberto | Só 1 parágrafo de lore por clã (Ravnos, Salubri, Tzimisce). |
+| Storyteller Toolkit | Removido a pedido; não reavaliado | 100 Sites e Omens seriam úteis na mesa, mas foi decisão sua. |
+| Anarch | **Prioridade** | Traitor Clans (variantes de clã com Disciplinas e Bane próprios), Duskborn, diferenças dos Free Clans: são opções de personagem. O restante, em resumo de Lore. |
+| Camarilla | Seletivo | The Court (cargos) e Loyalty and Order, em 1 nota de Lore. Resto não. |
+| Sabbat — The Black Hand | Seletivo | Pack Patterns, títulos e Lexicon numa nota curta; domínios (surge, strongholds) como apoio de Narrador. |
+| Second Inquisition | Parar | Já tem 6 notas; mais seria detalhe de aventura. |
+| Chicago by Night | Já excede | Conferir poderes de Lasombra/Oblivion do cap. 6; NPCs restantes não. |
+| Fall of London | Já excede | Só Getting Around London / Law Enforcement (apêndice) como apoio opcional. |
+| Under the Skin | Coberto | Fichas pré-geradas só se for rodar a aventura. |
+| Blood Sigils | Mecânica coberta | NPCs e crônica de exemplo: não. |
+| Children of the Blood | Baixa prioridade | NPCs e coteries prontas: só se a crônica usar. |
+| Cults of the Blood Gods | Coberto | Arquétipos Hecata (opção de personagem) valem uma nota curta. |
+| Forbidden Religions | Coberto | Conferir Susurrus e o Coterie Type The Household. |
+| Book of Nod Apocrypha | Não incluir o texto | Já há prompts, rituais e poderes. |
+
+## Lacunas prioritárias (nesta ordem)
+
+1. **Glossário** com Rouse Check, Blush of Life, Blood Surge, Máscara, Abraço, Jyhad, Kindred, Hunger, Humanity, Stain: resolve ~90 links quebrados e é a maior ajuda para iniciantes.
+2. **Guia rápido de 1 página**: montar a pool, rolar, ler Hunger dice, Messy Critical e Bestial Failure, quando fazer Rouse Check.
+3. **Opções de personagem do Anarch**: Traitor Clans, Duskborn, Free Clans.
+4. **Lore curto publicado**: Kindred, Camarilla, Anarquistas, Sabbat, Segunda Inquisição, Cultos Vampíricos, Abraço, Jyhad (as notas existem em `Lore/`, só não são publicadas).
+5. **Arquétipos Hecata** (Cults) e variantes de Bane (Player's Guide), se ainda não estiverem.
+
+## Como os dados estão estruturados e o que mudar
+
+**Diagnóstico**
+
+- **Registro à mão:** cada nota é listada em `VAULT_NOTES` (178 entradas em TypeScript), o público (jogador ou Narrador) vem de uma lista de títulos (`NARRATOR_TITLES`) e o agrupamento por livro vem de uma expressão regular sobre o título ("Livro - Tema" e "Livro — Tema" são tratados igual). Nota nova exige editar código, e erro de grafia no título tira a nota do grupo.
+- **A mesma informação em três lugares:** poderes, rituais, Predator Types, clãs e advantages existem como prosa na vault, como TypeScript/JSON na ficha e no prompt de criação. Isso já causou divergência (erros do Core nos rituais, nas notas e nos dados).
+- **Entidades uniformes em prosa:** cada poder tem Custo, Duração, Dice Pools e System; rituais têm Ingredientes, Processo e Casting Time; Predator Types têm lista fixa de bônus. São dados, não texto livre.
+- **Nota gigante:** `Disciplinas.md` com 167 KB; só se navega por âncora.
+- **Metadados:** as tags do Obsidian no topo não são usadas pelo site; não há campo de livro, página, público ou nível.
+- **Camada de iniciante ausente:** sem glossário nem resumo por nota.
+
+**Recomendações, por custo-benefício**
+
+1. **Frontmatter nas notas** (`publicar`, `publico`, `livro`, `tipo`, `nivel`) e o build descobre as notas sozinho, sem `VAULT_NOTES`, `NARRATOR_TITLES` nem regex. Custo baixo a médio (um script migra as 178 notas). Vale.
+2. **Glossário e guia rápido**, mais publicar as notas curtas de Lore. Custo baixo, retorno alto. Vale.
+3. **Resumo de 30 segundos no topo das ~15 notas base** e um filtro Iniciante/Avançado na vault, além de Jogador/Narrador. Custo médio. Vale.
+4. **Dados estruturados como fonte única** para poderes, rituais, Predator Types, clãs e advantages: o JSON da ficha vira a fonte, e as páginas da vault (Disciplinas, Rituais, Predator Types, Clãs) são geradas dele no build, com filtro por Disciplina, nível e livro. A prosa de regras gerais continua em `.md`. Corrige-se uma vez e vale na ficha e na vault. Custo médio a alto; começar por poderes e rituais, que já estão estruturados.
+5. **Dividir `Disciplinas.md`** por Disciplina. Se a recomendação 4 for feita, isso sai de graça.
+6. **Narrador:** manter, mas separar "Referência" de "Material de aventura" e não crescer essa segunda parte.
+
+**Não vale**
+
+- Migrar para banco de dados ou CMS: o volume (2 MB de texto) e o uso (consulta) não justificam.
+- Uma página por poder (~160) ou por ritual (~120): uma tabela filtrável é mais rápida de consultar.
+- Reescrever as notas ou traduzir nomes de jogo: as notas já foram auditadas e os nomes em inglês são o que se busca nos livros.
+
+**Ordem sugerida:** 2 (glossário e guia rápido) → 1 (frontmatter) → 3 (iniciante/avançado) → 4 e 5 (dados estruturados e divisão de Disciplinas) → conteúdo novo do Anarch.
+
+---
+
 ## Core Rulebook (V5, 2018)
 - **Do que trata:** o livro-base de Vampire: The Masquerade 5ª edição. Traz o mundo e a sociedade Kindred, os clãs, as regras de testes e conflitos, a criação de personagem, Disciplinas, Blood Potency, Humanidade, sistemas avançados, cidades, crônicas, antagonistas e Loresheets.
 - **Sumário** (página impressa = página do PDF − 2):
