@@ -5,7 +5,7 @@ import { range } from '../components/shared/range';
 type DamageTrack = 'health' | 'willpower';
 
 const SIZE_KEY = { health: 'healthMax', willpower: 'willpowerMax' } as const;
-const TRACK_LABEL = { health: 'HEALTH', willpower: 'WILLPOWER' } as const;
+const TRACK_LABEL = { health: 'SAÚDE', willpower: 'WILLPOWER' } as const;
 const DAMAGE_STATES = 3;
 const MAX_TRACK_SIZE = 15;
 const HUMANITY_BOXES = 10;

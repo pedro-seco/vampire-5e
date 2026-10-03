@@ -1,4 +1,4 @@
-import { useLayoutEffect, useRef, useState } from 'react';
+import { useCallback, useLayoutEffect, useRef, useState } from 'react';
 import type { ReactNode } from 'react';
 
 const ROW_OFFSET = 18;
@@ -28,7 +28,7 @@ export function AnchoredWindow({ anchorTop, left, stageHeight, scale, children }
   const slot = useRef<HTMLDivElement>(null);
   const [placement, setPlacement] = useState<{ top: number; maxHeight?: number }>({ top: anchorTop - ROW_OFFSET });
 
-  useLayoutEffect(() => {
+  const place = useCallback(() => {
     const element = slot.current;
     const stage = element?.parentElement;
     if (!element || !stage) return;
@@ -40,8 +40,20 @@ export function AnchoredWindow({ anchorTop, left, stageHeight, scale, children }
     const height = Math.min(element.scrollHeight, maxHeight);
     const top = Math.max(highest, Math.min(anchorTop - ROW_OFFSET, floor - height));
 
-    setPlacement({ top, maxHeight });
+    setPlacement((current) => (current.top === top && current.maxHeight === maxHeight ? current : { top, maxHeight }));
   }, [anchorTop, stageHeight, scale]);
+
+  useLayoutEffect(() => {
+    place();
+    const content = slot.current?.firstElementChild;
+    const observer = new ResizeObserver(place);
+    if (content) observer.observe(content);
+    window.addEventListener('resize', place);
+    return () => {
+      observer.disconnect();
+      window.removeEventListener('resize', place);
+    };
+  }, [place]);
 
   return (
     <div ref={slot} className="ankh-window-slot" style={{ top: placement.top, left, maxHeight: placement.maxHeight }}>

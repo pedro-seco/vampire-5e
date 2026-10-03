@@ -31,7 +31,7 @@ export function PoolForm({ onClose }: { onClose: () => void }) {
     <div className="ankh-form">
       <label className="ankh-form__field">
         <span className="ankh-field-label">TÍTULO</span>
-        <input type="text" value={form.title} placeholder="Golpe, Furtividade…" onChange={(event) => setField('title')(event.target.value)} />
+        <input type="text" value={form.title} placeholder="Strike, Stealth…" onChange={(event) => setField('title')(event.target.value)} />
       </label>
       <label className="ankh-form__field">
         <span className="ankh-field-label">ATRIBUTO</span>

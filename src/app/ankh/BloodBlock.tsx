@@ -80,7 +80,7 @@ export function ResonancePicker() {
 
   return (
     <span className="ankh-resonance">
-      <span className="ankh-field-label">RESONANCE</span>
+      <span className="ankh-field-label">RESSONÂNCIA</span>
       {RESONANCES.map((value) => (
         <button
           key={value}

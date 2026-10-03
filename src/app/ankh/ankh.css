@@ -198,6 +198,7 @@
 
 .ankh-character-name {
   font-size: 44px;
+  line-height: 1.15;
   font-weight: 700;
   letter-spacing: 0.02em;
 }
@@ -678,20 +679,6 @@
 .ankh-corner.is-bottom-left { left: calc(var(--frame-side) - var(--corner) / 2); bottom: calc(var(--frame-side) - var(--corner) / 2); }
 .ankh-corner.is-bottom-right { right: calc(var(--frame-side) - var(--corner) / 2); bottom: calc(var(--frame-side) - var(--corner) / 2); }
 
-.ankh-credit {
-  margin: 0;
-  font-family: var(--ankh-condensed);
-  font-size: 13px;
-  letter-spacing: 0.12em;
-  color: #5c5048;
-}
-
-.ankh-stage .ankh-credit {
-  position: absolute;
-  left: 40px;
-  bottom: 28px;
-}
-
 .ankh-mobile {
   --frame-top: 8px;
   --frame-side: 8px;
@@ -894,8 +881,6 @@
 
 .ankh-mobile .ankh-text { font-size: 17px; }
 
-.ankh-mobile .ankh-credit { padding: 16px 24px 28px; font-size: 11px; }
-
 .ankh-drawer {
   position: fixed;
   left: 0;
@@ -915,3 +900,32 @@
   border-bottom: none;
   border-top: 1px solid var(--ankh-accent);
 }
+
+.ankh-scaler [contenteditable="true"]:empty::before,
+.ankh-mobile [contenteditable="true"]:empty::before {
+  content: attr(data-placeholder);
+  font-style: italic;
+  color: var(--ankh-muted);
+  opacity: 0.7;
+}
+
+.ankh-scaler [contenteditable="true"],
+.ankh-mobile [contenteditable="true"] {
+  display: inline-block;
+  min-width: 4ch;
+}
+
+.ankh-select {
+  max-width: 220px;
+  padding: 2px 6px;
+  font: inherit;
+  font-size: 20px;
+  color: var(--ankh-bone);
+  background: var(--ankh-panel);
+  border: 1px solid var(--ankh-line);
+}
+
+.ankh-select:focus { outline: 1px solid var(--ankh-accent); }
+
+.ankh-window__system { white-space: pre-line; }
+.ankh-ritual { font-style: italic; }
