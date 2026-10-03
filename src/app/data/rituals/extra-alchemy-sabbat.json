@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Portable Shade",
+    "discipline": "Thin-blood Alchemy",
+    "kind": "formula",
+    "level": 1,
+    "source": "Sabbat: The Black Hand, p. 53",
+    "cost": "Um Rouse Check",
+    "castingTime": "",
+    "ingredients": "Blood of the Alchemist, sangue mortal sanguinic, folhas frescas de planta (alguns alquimistas misturam bloqueador solar comercial; o livro não sabe se ajuda).",
+    "pool": "Stamina + Alchemy",
+    "process": "",
+    "duration": "Horas iguais ao resultado do teste de Stamina + Alchemy, ou até o próximo pôr do sol, o que vier primeiro.",
+    "prerequisite": "",
+    "body": "Aumenta a resistência já grande de um thin-blood à luz do sol a perto de níveis mortais. Não torna imune, mas estende o tempo suportável e mascara queimaduras imediatas.",
+    "system": "O teste é feito ao ingerir a fórmula. O usuário suporta a luz do sol sem dano por um número de horas igual aos sucessos. No pôr do sol, faz-se novo teste com a mesma pool, agora com Dificuldade igual às horas passadas ao sol: falha causa 1 nível de dano agravado; falha total (total failure), 2 níveis, pois a luz acumulada ferve o sangue."
+  },
+  {
+    "name": "On-Demand Sunburn",
+    "discipline": "Thin-blood Alchemy",
+    "kind": "formula",
+    "level": 3,
+    "source": "Sabbat: The Black Hand, p. 53",
+    "cost": "Um Rouse Check",
+    "castingTime": "",
+    "ingredients": "Blood of the Alchemist, sangue mortal choleric, raspas de ouro, mercúrio e halogênios (geralmente cloro ou bromo). A fórmula precisa ser exposta ao sol por várias horas antes do uso; quem usa athanor corporis costuma se turbinar com Portable Shade.",
+    "pool": "Nenhum",
+    "process": "",
+    "duration": "Até ser liberada ou o próximo pôr do sol.",
+    "prerequisite": "",
+    "body": "Ferramenta temida do Path of the Sun: aprisiona luz solar no corpo do usuário e a libera como força destrutiva pela pele, queimando a si e à presa.",
+    "system": "Na ativação o alquimista vira uma bateria com uma carga. Pode liberá-la à vontade, causando dano agravado a si e a outro vampiro com quem tenha obtido contato de pele. O usuário sofre 2 níveis de dano agravado; a vítima sofre uma quantidade igual à sua Bane Severity, como se exposta à luz do dia por um turno inteiro (e pode reduzir o dano se tiver meios, como Fortitude). Se a fórmula não for ativada antes, dispara sozinha no primeiro pôr do sol após ser ingerida, causando 2 níveis de dano agravado ao usuário."
+  }
+]

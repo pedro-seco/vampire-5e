@@ -1,7 +1,8 @@
 import type { CSSProperties, ReactNode } from 'react';
 import type { Attributes, SkillKey } from '../types/character';
 import { SKILL_LABELS } from '../types/character';
-import { advantageReference, attributeReference, powerReference, predatorReference, skillReference } from './references';
+import { advantageReference, attributeReference, powerReference, predatorReference, ritualReference, skillReference } from './references';
+import type { PowerReference } from './references';
 import { TraitDots } from './TraitDots';
 
 interface WindowFrameProps {
@@ -59,21 +60,40 @@ interface PowerWindowProps {
   onClose: () => void;
 }
 
+function ReferenceBody({ reference }: { reference: PowerReference }) {
+  return (
+    <>
+      <div className="ankh-window__meta">
+        <span className="ankh-window__subtitle">{reference.subtitle}</span>
+        <span className="ankh-window__source">{reference.source}</span>
+      </div>
+      {reference.body && <p className="ankh-window__body">{reference.body}</p>}
+      <div className="ankh-window__facts">
+        {reference.facts.map((fact) => (
+          <p key={fact.label} className="ankh-window__line"><span className="ankh-window__key">{fact.label}</span> {fact.value}</p>
+        ))}
+        {reference.system && <p className="ankh-window__line ankh-window__system"><span className="ankh-window__key">SISTEMA</span> {reference.system}</p>}
+      </div>
+    </>
+  );
+}
+
 export function PowerWindow({ discipline, power, style, onClose }: PowerWindowProps) {
   const reference = powerReference(discipline, power);
 
   return (
     <WindowFrame title={reference.title} label="Detalhes do poder" style={style} onClose={onClose}>
-      <div className="ankh-window__meta">
-        <span className="ankh-window__subtitle">{reference.subtitle}</span>
-        <span className="ankh-window__source">{reference.source}</span>
-      </div>
-      <p className="ankh-window__body">{reference.body}</p>
-      <div className="ankh-window__facts">
-        <p className="ankh-window__line"><span className="ankh-window__key">COST</span> {reference.cost}</p>
-        <p className="ankh-window__line"><span className="ankh-window__key">DICE POOL</span> {reference.pool}</p>
-        <p className="ankh-window__line"><span className="ankh-window__key">SYSTEM</span> {reference.system}</p>
-      </div>
+      <ReferenceBody reference={reference} />
+    </WindowFrame>
+  );
+}
+
+export function RitualWindow({ discipline, ritual, style, onClose }: { discipline: string; ritual: string; style?: CSSProperties; onClose: () => void }) {
+  const reference = ritualReference(discipline, ritual);
+
+  return (
+    <WindowFrame title={reference.title} label="Detalhes do ritual" style={style} onClose={onClose}>
+      <ReferenceBody reference={reference} />
     </WindowFrame>
   );
 }

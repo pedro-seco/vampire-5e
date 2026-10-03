@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import disciplinesData from '../../data/disciplines.json';
-import type { DisciplineEntry, DisciplinePower } from '../../types/character';
+import { powersOf } from '../../data/powerCatalog';
+import type { DisciplineEntry } from '../../types/character';
 import { useCharacter } from '../../context/CharacterContext';
 import { Modal } from '../shared/Modal';
 import { SearchDropdown } from '../shared/SearchDropdown';
@@ -10,11 +10,8 @@ interface AddPowerModalProps {
   onClose: () => void;
 }
 
-const POWERS = disciplinesData as DisciplinePower[];
-
 function availablePowers(discipline: DisciplineEntry) {
-  return POWERS
-    .filter((power) => power.discipline === discipline.name)
+  return powersOf(discipline.name)
     .filter((power) => power.level <= discipline.level)
     .filter((power) => !discipline.powers.includes(power.name))
     .map((power) => ({ label: power.name, sub: '●'.repeat(power.level) }));
@@ -39,13 +36,13 @@ export function AddPowerModal({ discIdx, onClose }: AddPowerModalProps) {
   return (
     <Modal
       open={discIdx !== null}
-      title={discipline ? `Add Power — ${discipline.name}` : 'Add Power'}
+      title={discipline ? `Adicionar poder — ${discipline.name}` : 'Adicionar poder'}
       onCancel={close}
       onConfirm={confirm}
       confirmDisabled={!chosen}
     >
       <SearchDropdown
-        placeholder="Search power…"
+        placeholder="Buscar poder…"
         items={discipline ? availablePowers(discipline) : []}
         onSelect={(item) => setChosen(item.label)}
       />

@@ -1,6 +1,5 @@
 import { useState } from 'react';
-import disciplinesData from '../../data/disciplines.json';
-import type { DisciplinePower } from '../../types/character';
+import { DISCIPLINE_NAMES } from '../../data/powerCatalog';
 import { useCharacter } from '../../context/CharacterContext';
 import { Modal } from '../shared/Modal';
 import { SearchDropdown } from '../shared/SearchDropdown';
@@ -10,7 +9,6 @@ interface AddDisciplineModalProps {
   onClose: () => void;
 }
 
-const DISCIPLINE_NAMES = [...new Set((disciplinesData as DisciplinePower[]).map((power) => power.discipline))];
 const OPTIONS = DISCIPLINE_NAMES.map((name) => ({ label: name }));
 
 export function AddDisciplineModal({ open, onClose }: AddDisciplineModalProps) {
@@ -30,8 +28,8 @@ export function AddDisciplineModal({ open, onClose }: AddDisciplineModalProps) {
   };
 
   return (
-    <Modal open={open} title="Add Discipline" onCancel={close} onConfirm={confirm} confirmDisabled={!chosen}>
-      <SearchDropdown placeholder="Search discipline…" items={OPTIONS} onSelect={(item) => setChosen(item.label)} />
+    <Modal open={open} title="Adicionar disciplina" onCancel={close} onConfirm={confirm} confirmDisabled={!chosen}>
+      <SearchDropdown placeholder="Buscar disciplina…" items={OPTIONS} onSelect={(item) => setChosen(item.label)} />
     </Modal>
   );
 }

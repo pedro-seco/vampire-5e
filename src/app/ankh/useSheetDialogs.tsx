@@ -2,17 +2,19 @@ import { useState } from 'react';
 import { AddAdvantageModal } from '../components/modals/AddAdvantageModal';
 import { AddDisciplineModal } from '../components/modals/AddDisciplineModal';
 import { AddPowerModal } from '../components/modals/AddPowerModal';
+import { AddRitualModal } from '../components/modals/AddRitualModal';
 import type { Attributes, SkillKey } from '../types/character';
 
 export type Selection =
   | { kind: 'skill'; skill: SkillKey }
   | { kind: 'power'; discipline: string; power: string }
+  | { kind: 'ritual'; discipline: string; ritual: string }
   | { kind: 'attribute'; attribute: keyof Attributes }
   | { kind: 'predator' }
   | { kind: 'advantage'; list: 'advantage' | 'flaw'; index: number }
   | { kind: 'pool-form' };
 
-type Dialog = { kind: 'discipline' } | { kind: 'power'; disciplineIndex: number } | { kind: 'advantage' | 'flaw' };
+type Dialog = { kind: 'discipline' } | { kind: 'power' | 'ritual'; disciplineIndex: number } | { kind: 'advantage' | 'flaw' };
 
 export function isSkillSelected(selection: Selection | null, skill: SkillKey) {
   return selection?.kind === 'skill' && selection.skill === skill;
@@ -30,6 +32,10 @@ export function isPowerSelected(selection: Selection | null, discipline: string,
   return selection?.kind === 'power' && selection.discipline === discipline && selection.power === power;
 }
 
+export function isRitualSelected(selection: Selection | null, discipline: string, ritual: string) {
+  return selection?.kind === 'ritual' && selection.discipline === discipline && selection.ritual === ritual;
+}
+
 export function useSheetDialogs() {
   const [dialog, setDialog] = useState<Dialog | null>(null);
   const close = () => setDialog(null);
@@ -38,6 +44,7 @@ export function useSheetDialogs() {
     <>
       {dialog?.kind === 'discipline' && <AddDisciplineModal open onClose={close} />}
       {dialog?.kind === 'power' && <AddPowerModal discIdx={dialog.disciplineIndex} onClose={close} />}
+      {dialog?.kind === 'ritual' && <AddRitualModal discIdx={dialog.disciplineIndex} onClose={close} />}
       {(dialog?.kind === 'advantage' || dialog?.kind === 'flaw') && <AddAdvantageModal open type={dialog.kind} onClose={close} />}
     </>
   );
@@ -46,6 +53,7 @@ export function useSheetDialogs() {
     dialogs,
     addDiscipline: () => setDialog({ kind: 'discipline' }),
     addPower: (disciplineIndex: number) => setDialog({ kind: 'power', disciplineIndex }),
+    addRitual: (disciplineIndex: number) => setDialog({ kind: 'ritual', disciplineIndex }),
     addAdvantage: (kind: 'advantage' | 'flaw') => setDialog({ kind }),
   };
 }

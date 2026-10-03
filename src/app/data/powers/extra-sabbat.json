@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Unerring Pursuit",
+    "discipline": "Auspex",
+    "level": 2,
+    "source": "Sabbat: The Black Hand, p. 46",
+    "cost": "um Rouse Check",
+    "pool": "Resolve + Auspex",
+    "duration": "uma noite, mais uma por sucesso (ver nota abaixo)",
+    "prerequisite": "",
+    "amalgam": "Dominate 1",
+    "body": "Ao travar o olhar com o alvo, o vampiro cria um laço sobrenatural: por algumas noites vê vislumbres do alvo e do ambiente dele sempre que o alvo se vê numa superfície refletora. O alvo geralmente não percebe que está sendo observado, mas vê o perseguidor como alguém parado logo atrás de si no próprio reflexo.",
+    "system": "- O usuário trava o olhar com o alvo (nem que seja por uma fração de segundo) e rola Resolve + Auspex. Se vencer, o efeito dura uma noite, mais uma para cada sucesso na margem. Se usado contra um vampiro, a Dificuldade da rolagem é 3.\n- Com o poder ativo, o usuário pode se concentrar por um turno para ver a última posição do alvo pela perspectiva do reflexo dele: a impressão mental do momento mais recente em que o alvo se viu, intencionalmente ou não, num espelho ou superfície semelhante (cromo polido, vitrines, até óculos escuros de alguém).\n- Obfuscate não protege contra este poder, porque ele depende da autopercepção da vítima.\n- Reconhecer o entorno do alvo: Intelligence + Streetwise (área urbana) ou Intelligence + Survival (área rural), com Dificuldade entre 2 e 4 conforme as circunstâncias (por exemplo, estar em ambiente fechado).\n- O alvo pode vislumbrar o perseguidor no próprio reflexo com Wits + Awareness, Dificuldade 4; só reconhece o rosto do perseguidor com um critical win (ou se lembrar dele de onde já o viu, caso o conheça pessoalmente).\nAmbiguidade do livro: o campo \"Duration\" diz \"one night plus one for each success (or in the margin, in the case of a vampire target)\", enquanto o texto do Sistema fala em \"margin\". Trate \"sucessos na margem\" como a leitura padrão e deixe a variante para o Narrador."
+  },
+  {
+    "name": "Scent of Prey",
+    "discipline": "Animalism",
+    "level": 3,
+    "source": "Sabbat: The Black Hand, p. 47",
+    "cost": "um Rouse Check",
+    "pool": "Resolve + Animalism",
+    "duration": "uma cena, ou uma noite num critical win",
+    "prerequisite": "",
+    "amalgam": "",
+    "body": "O vampiro percebe qualquer mortal na área que projete a nota distinta de medo de uma presa que encarou o predador, e assim localiza e silencia quem ameaça a presença clandestina do Sabbat.",
+    "system": "- O vampiro fareja o ar e rola Resolve + Animalism. Cada sucesso permite sentir e rastrear a posição de um mortal que presenciou o que a Camarilla chamaria de \"violação da Máscara\". Se houver vários, o usuário sente o mais próximo primeiro (quando a ordem importa).\n- O efeito dura uma cena, ou uma noite em critical win.\n- Ineficaz contra mortais familiarizados o bastante com vampiros para sublimar a nota de medo: ghouls, retainers de vampiros, caçadores dedicados."
+  },
+  {
+    "name": "Tabula Rasa",
+    "discipline": "Dominate",
+    "level": 4,
+    "source": "Sabbat: The Black Hand, p. 47",
+    "cost": "dois Rouse Checks",
+    "pool": "Resolve + Dominate vs. Composure + Resolve (disputa estendida)",
+    "duration": "permanente",
+    "prerequisite": "",
+    "amalgam": "",
+    "body": "Mais do que manipular memória, apaga toda a memória da vítima, deixando-a uma \"efígie dócil\" de si mesma. Ela mantém a maior parte das habilidades aprendidas e esquece todo o resto (experiências, amigos, família, desejos), na maioria dos casos para sempre.",
+    "system": "- O usuário ativa o Sangue (custo de dois Rouse Checks), sustenta o olhar da vítima e entra numa disputa estendida de Resolve + Dominate contra Composure + Resolve da vítima, acumulando 10 sucessos ao longo de uma cena inteira.\n- O processo não pode ser interrompido e a vítima precisa estar contida ou se submeter. Qualquer quebra de concentração obriga a reiniciar a disputa (e pagar outros dois Rouse Checks); o mesmo vale se a vítima obtiver um critical win.\n- Resultado: a vítima perde nome, história e quase toda a personalidade antiga. Perde Convictions, Touchstones e Ambition; a maioria dos Backgrounds deixa de ter efeito, pois ela esquece como acessá-los (estes e outros Advantages ficam a critério do Narrador, por exemplo um Contact pode lembrar dela se cruzarem de novo). Attributes, Skills e Disciplines permanecem.\n- A perda de memória é permanente, mas às vezes a vítima recupera parte do passado diante de um evento traumático ligado a um antigo Touchstone (Resolve + Composure, Dificuldade 5, por exemplo quando um ex-Touchstone é ameaçado, ferido ou morto na presença dela, a critério do Narrador).\n- O livro afirma que o uso é \"exceedingly cruel\" e deve render Stains na maioria das crônicas (sem número fixo; decisão do Narrador)."
+  },
+  {
+    "name": "Visceral Absorption",
+    "discipline": "Protean",
+    "level": 3,
+    "source": "Sabbat: The Black Hand, p. 49",
+    "cost": "um Rouse Check",
+    "pool": "Strength + Protean",
+    "duration": "um turno por corpo",
+    "prerequisite": "",
+    "amalgam": "Blood Sorcery 2",
+    "body": "O corpo do vampiro fica semipermeável enquanto puxa sangue inerte e vísceras para dentro, alimentando a Besta e saciando Hunger; outros restos, sem sangue, viram cinzas ou fumaça gordurosa. É usado para limpar a cena.",
+    "system": "- Exige ao menos um corpo morto na área de efeito, cerca de 5 metros em todas as direções.\n- Rola-se Strength + Protean: o vampiro absorve o sangue e elimina os restos de um corpo por sucesso. O estado do corpo não importa desde que esteja fresco; até uma \"mancha vermelha\" é consumida.\n- Sacia 1 Hunger por corpo, mas não mais Hunger por uso do que o seu rating de Blood Sorcery, e não pode reduzir a Hunger abaixo de 1 por este poder.\n- Absorver leva um turno por corpo.\n- O poder é muito visível durante o uso (o usuário vira um vórtice de sangue e vísceras). Restos de vampiros não são afetados."
+  },
+  {
+    "name": "Umbrous Clutch",
+    "discipline": "Oblivion",
+    "level": 4,
+    "source": "Sabbat: The Black Hand, p. 49",
+    "cost": "um Rouse Check e ganha um Stain",
+    "pool": "Wits + Oblivion vs. Dexterity + Wits",
+    "duration": "instantânea",
+    "prerequisite": "",
+    "amalgam": "",
+    "body": "O usuário abre um portal temporário na própria sombra da vítima: ela parece cair na sombra e reaparece caindo da sombra do usuário, nos braços dele.",
+    "system": "- O vampiro precisa de visão clara da vítima e da sombra dela. Rola Wits + Oblivion contra Dexterity + Wits para manobrar a sombra da vítima sob si. Uma vítima parada e desatenta pode ser pega automaticamente, a critério do Narrador.\n- A vítima reaparece caindo da sombra do usuário. O poder não funciona se o conjurador não tem sombra.\n- Um mortal desprevenido fica aterrorizado e provavelmente catatônico. Um vampiro deve testar frenesi de fúria ou de terror (escolha do Narrador) com Dificuldade 4."
+  },
+  {
+    "name": "Transitive Bond",
+    "discipline": "Blood Sorcery",
+    "level": 3,
+    "source": "Sabbat: The Black Hand, p. 49",
+    "cost": "um Rouse Check",
+    "pool": "nenhum",
+    "duration": "N/A",
+    "prerequisite": "",
+    "amalgam": "",
+    "body": "Estende a propriedade de Blood Bond da vitae do usuário: o sangue mantém o poder de enredar quando é armazenado ou quando está dentro do corpo de um ghoul. Quem beber o sangue guardado, ou do ghoul, é afetado como se tivesse bebido direto do pulso do usuário. Criado pelos Tremere numa tentativa fracassada de amenizar o próprio Bane; ressurgiu no Sabbat.",
+    "system": "- Usa-se ao chamar o Sangue para armazená-lo ou ao dá-lo a um ghoul. Cada uso torna \"potente\" o equivalente a três Rouse Checks de sangue.\n- Quem é enredado não percebe o efeito até pôr os olhos no futuro Regnant, mas pode ficar inquieto e ter vislumbres dele em visões durante o daysleep. O Blood Bond funciona como no Core (pp. 233–234)."
+  },
+  {
+    "name": "Reclamation of Vitae",
+    "discipline": "Blood Sorcery",
+    "level": 5,
+    "source": "Sabbat: The Black Hand, p. 50",
+    "cost": "um ou mais Stains (quando chamado de volta)",
+    "pool": "nenhum",
+    "duration": "N/A",
+    "prerequisite": "",
+    "amalgam": "",
+    "body": "Permite recuperar o sangue cedido para criar ghouls, a qualquer distância.",
+    "system": "- O usuário se concentra por um turno e escolhe quais servos pagam a dívida de sangue. Os ghouls não precisam estar presentes e a distância não importa.\n- O vampiro sacia 2 Hunger por ghoul; cada ghoul sofre 5 níveis de dano agravado (o corpo envelhece rápida e irregularmente enquanto o sangue \"tenta sair\").\n- O poder não exige Rouse, mas, se aprendido por alguém de fora do Sabbat, o livro diz que deve render Stains."
+  }
+]

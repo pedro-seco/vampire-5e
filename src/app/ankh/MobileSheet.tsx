@@ -8,18 +8,18 @@ import { AppearanceControls } from './AppearanceControls';
 import { backdropFor, coverRect } from './backdrops';
 import type { Rect } from './backdrops';
 import { BloodBlock, ResonancePicker } from './BloodBlock';
-import { CLAN_ICON_CREDIT } from './clanIcons';
 import { Frame } from './Frame';
-import { AdvantageWindow, AttributeWindow, FormWindow, PowerWindow, PredatorWindow, SkillWindow } from './DetailWindows';
-import { CORE_PREDATORS } from './corePredators';
+import { AdvantageWindow, AttributeWindow, FormWindow, PowerWindow, PredatorWindow, RitualWindow, SkillWindow } from './DetailWindows';
+import { PREDATOR_TEXTS } from './predators';
 import { PoolForm } from './pools';
 import { AddButton, SectionTitle } from './SectionTitle';
 import {
   AdvantageItem, AttributeItem, CharacterAliases, CharacterName, DisciplineItem, InventoryItem,
-  PoolItem, PowerItem, ProfileFieldItem, SkillItem, XpItem,
+  PoolItem, PowerItem, ProfileFieldItem, RitualItem, SkillItem, XpItem,
 } from './SheetItems';
+import { SKILL_GROUP_TITLES } from './layout';
 import { DamageTrackBoxes, HumanityBoxes, HungerBoxes, TrackerLabel } from './Trackers';
-import { isAdvantageSelected, isAttributeSelected, isPowerSelected, isSkillSelected, useSheetDialogs } from './useSheetDialogs';
+import { isAdvantageSelected, isAttributeSelected, isPowerSelected, isRitualSelected, isSkillSelected, useSheetDialogs } from './useSheetDialogs';
 import type { Selection } from './useSheetDialogs';
 
 interface AnkhView {
@@ -34,9 +34,9 @@ const HILT_VIEW: AnkhView = { width: 390, height: 330, translateX: -111.06, tran
 const BLADE_VIEW: AnkhView = { width: 390, height: 560, translateX: -165, translateY: -420, scale: 0.5 };
 
 const ATTRIBUTE_GROUPS: { label: string; attributes: [keyof Attributes, string][] }[] = [
-  { label: 'PHYSICAL', attributes: [['strength', 'Strength'], ['dexterity', 'Dexterity'], ['stamina', 'Stamina']] },
-  { label: 'SOCIAL', attributes: [['charisma', 'Charisma'], ['manipulation', 'Manipulation'], ['composure', 'Composure']] },
-  { label: 'MENTAL', attributes: [['intelligence', 'Intelligence'], ['wits', 'Wits'], ['resolve', 'Resolve']] },
+  { label: 'FÍSICOS', attributes: [['strength', 'Strength'], ['dexterity', 'Dexterity'], ['stamina', 'Stamina']] },
+  { label: 'SOCIAIS', attributes: [['charisma', 'Charisma'], ['manipulation', 'Manipulation'], ['composure', 'Composure']] },
+  { label: 'MENTAIS', attributes: [['intelligence', 'Intelligence'], ['wits', 'Wits'], ['resolve', 'Resolve']] },
 ];
 
 const PROFILE_FIELDS = [
@@ -113,7 +113,6 @@ function AnkhPiece({ view, photo, layout, top, showLoop }: AnkhPieceProps) {
           backdropUrl={backdrop.url}
           backdropRect={photoInView(photo, view, left, top)}
           portrait={character.portrait}
-          clan={character.clan}
           showLoop={showLoop}
         />
       </g>
@@ -142,7 +141,7 @@ function MobileGroup({ label, action, children }: { label: string; action?: Reac
 export function MobileSheet() {
   const { character, editMode, update } = useCharacter();
   const [selection, setSelection] = useState<Selection | null>(null);
-  const { dialogs, addDiscipline, addPower, addAdvantage } = useSheetDialogs();
+  const { dialogs, addDiscipline, addPower, addRitual, addAdvantage } = useSheetDialogs();
   const { root, hilt, blade, layout } = useLayout();
 
   const backdrop = backdropFor(character.backdrop);
@@ -158,6 +157,8 @@ export function MobileSheet() {
     detailWindow = <SkillWindow skill={selection.skill} value={entry?.value ?? 0} specialty={entry?.specialty ?? ''} onClose={closeWindow} />;
   } else if (selection?.kind === 'power') {
     detailWindow = <PowerWindow discipline={selection.discipline} power={selection.power} onClose={closeWindow} />;
+  } else if (selection?.kind === 'ritual') {
+    detailWindow = <RitualWindow discipline={selection.discipline} ritual={selection.ritual} onClose={closeWindow} />;
   } else if (selection?.kind === 'attribute') {
     detailWindow = (
       <AttributeWindow
@@ -199,7 +200,7 @@ export function MobileSheet() {
               field={field}
               label={label}
               selected={field === 'predatorType' && selection?.kind === 'predator'}
-              onSelect={field === 'predatorType' && character.predatorType in CORE_PREDATORS ? () => toggle({ kind: 'predator' }, selection?.kind === 'predator') : undefined}
+              onSelect={field === 'predatorType' && character.predatorType in PREDATOR_TEXTS ? () => toggle({ kind: 'predator' }, selection?.kind === 'predator') : undefined}
             />
           </div>
         ))}
@@ -210,7 +211,7 @@ export function MobileSheet() {
 
       <MobileSection title="ESTADO">
         <div className="ankh-mobile__trackers">
-          <div className="ankh-mobile__tracker"><TrackerLabel>HEALTH</TrackerLabel><DamageTrackBoxes track="health" /></div>
+          <div className="ankh-mobile__tracker"><TrackerLabel>SAÚDE</TrackerLabel><DamageTrackBoxes track="health" /></div>
           <div className="ankh-mobile__tracker"><TrackerLabel>WILLPOWER</TrackerLabel><DamageTrackBoxes track="willpower" /></div>
           <div className="ankh-mobile__tracker is-wide"><TrackerLabel>HUMANITY</TrackerLabel><HumanityBoxes /></div>
           <div className="ankh-mobile__tracker is-wide"><TrackerLabel>HUNGER</TrackerLabel><HungerBoxes /></div>
@@ -236,7 +237,7 @@ export function MobileSheet() {
             <span className="ankh-mobile__column-title">DISCIPLINAS{editAction('Adicionar disciplina', addDiscipline)}</span>
             {character.disciplines.map((discipline, disciplineIndex) => (
               <div key={discipline.name + disciplineIndex} className="ankh-mobile__stack">
-                <div className="ankh-mobile__item"><DisciplineItem index={disciplineIndex} side="right" onAddPower={() => addPower(disciplineIndex)} /></div>
+                <div className="ankh-mobile__item"><DisciplineItem index={disciplineIndex} side="right" onAddPower={() => addPower(disciplineIndex)} onAddRitual={() => addRitual(disciplineIndex)} /></div>
                 {discipline.powers.map((power, powerIndex) => {
                   const selected = isPowerSelected(selection, discipline.name, power);
                   return (
@@ -250,6 +251,19 @@ export function MobileSheet() {
                     </span>
                   );
                 })}
+                {(discipline.rituals ?? []).map((ritual, ritualIndex) => {
+                  const selected = isRitualSelected(selection, discipline.name, ritual);
+                  return (
+                    <span key={ritual + ritualIndex} className="ankh-mobile__power">
+                      <RitualItem
+                        disciplineIndex={disciplineIndex}
+                        ritualIndex={ritualIndex}
+                        selected={selected}
+                        onSelect={() => toggle({ kind: 'ritual', discipline: discipline.name, ritual }, selected)}
+                      />
+                    </span>
+                  );
+                })}
               </div>
             ))}
           </div>
@@ -258,7 +272,7 @@ export function MobileSheet() {
 
       <MobileSection title="PERÍCIAS">
         {(['physical', 'social', 'mental'] as const).map((group) => (
-          <MobileGroup key={group} label={group.toUpperCase()}>
+          <MobileGroup key={group} label={SKILL_GROUP_TITLES[group]}>
             {SKILL_GROUPS[group].map((skill) => {
               const selected = isSkillSelected(selection, skill);
               return (
@@ -300,7 +314,6 @@ export function MobileSheet() {
         ))}
       </MobileSection>
 
-      <p className="ankh-credit">{CLAN_ICON_CREDIT}</p>
 
       <Frame />
 

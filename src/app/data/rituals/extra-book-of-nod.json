@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Blood Apocrypha",
+    "discipline": "Blood Sorcery",
+    "kind": "ritual",
+    "level": 1,
+    "source": "The Book of Nod Apocrypha, p. 34",
+    "cost": "1 Rouse Check (sangue para codificação)",
+    "castingTime": "",
+    "ingredients": "Uma gota de mercúrio e uma dose de sangue igual a um Rouse Check.",
+    "pool": "",
+    "process": "O Kindred sussurra uma mensagem para o mercúrio, que a carrega através do sangue coletado num tigela preparada cerimonialmente.",
+    "duration": "Um mês, mais um mês para cada ponto da margem de sucesso.",
+    "prerequisite": "",
+    "body": "Feiticeiros de sangue aprenderam a encaixotar mensagens em seu sangue, ou num vaso quando alimentado. Embora possam haver dificuldades em enviar o mensageiro ao destinatário, a mensagem é muito menos propensa a ser interceptada. Esta arte antiga reapareceu em voga desde o advento da Segunda Inquisição.",
+    "system": "O ritualist encoda cerca de um minuto de fala em uma dose de sangue (1 Rouse Check) em um tigela ritual. O ritualist então designa um ou mais receptores pretendidos cuja vitae ele provou. Como parte do ritual, um Kindred, mortal, ou criatura mensageira deve consumir o sangue para transferir a mensagem para seu próprio corpo; caso contrário, o sangue (e a mensagem) estraga rapidamente.\nA primeira pessoa a consumir o sangue ensorcelled recebe a mensagem mentalmente automaticamente se for receptor pretendido ou possuir o poder A Taste for Blood (Blood Sorcery 1). Qualquer outro bebedor deve suceder num teste Wits + Occult (Dificuldade 3) para entender a mensagem."
+  }
+]

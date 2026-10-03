@@ -38,6 +38,7 @@ export interface DisciplineEntry {
   name: string;
   level: number;
   powers: string[];
+  rituals?: string[];
 }
 
 export interface Pool {
@@ -53,6 +54,7 @@ export interface Touchstone {
   summary: string;
   linkedConviction: string;
   description: string;
+  image?: string;
 }
 
 export interface Character {
@@ -105,17 +107,6 @@ export const SKILL_LABELS: Record<SkillKey, string> = {
   academics: 'Academics', awareness: 'Awareness', finance: 'Finance', investigation: 'Investigation',
   medicine: 'Medicine', occult: 'Occult', politics: 'Politics', science: 'Science', technology: 'Technology',
 };
-
-export interface DisciplinePower {
-  name: string;
-  discipline: string;
-  level: number;
-  pool: string;
-  cost: string;
-  duration: string;
-  description: string;
-  requirements: string | null;
-}
 
 export interface AdvantageDef {
   name: string;

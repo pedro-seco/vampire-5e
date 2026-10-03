@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Blinding the Alloy Eye",
+    "discipline": "Oblivion",
+    "kind": "ceremony",
+    "level": 2,
+    "source": "Sabbat: The Black Hand, p. 52",
+    "cost": "",
+    "castingTime": "",
+    "ingredients": "Pequeno pedaço de tela de alumínio.",
+    "pool": "Teste de Ritual",
+    "process": "O usuário passa uma cena isolado, contata o espectro e o vincula à tela, que então é guardada num recipiente à prova de luz. O efeito começa quando a tela é retirada e presa a um pedaço visível de pele ou roupa.",
+    "duration": "Uma cena inteira ou até a tela ser removida",
+    "prerequisite": "Shadow Cast",
+    "body": "",
+    "system": "Não se faz a rolagem do Ritual até a ativação; se possível o resultado deve ser mantido em segredo do jogador. Se bem-sucedido, câmeras ao redor do conjurador embaralham a imagem dele (captam o resto normalmente). Dura uma cena inteira ou até a tela ser removida."
+  },
+  {
+    "name": "Harrowhaunt",
+    "discipline": "Oblivion",
+    "kind": "ceremony",
+    "level": 3,
+    "source": "Sabbat: The Black Hand, p. 52",
+    "cost": "",
+    "castingTime": "",
+    "ingredients": "Mortais submetidos a terror e sofrimento extremos (quanto mais, melhor).",
+    "pool": "Teste de Ritual",
+    "process": "Começa com uma festa: mortais são confinados ao local e torturados até a morte. Os restos de suas almas são ligados ao local, os ossos enterrados, e eles passam a dividir o tormento com quem entra sem convite.",
+    "duration": "",
+    "prerequisite": "Aura of Decay",
+    "body": "",
+    "system": "Mortais que entram na vizinhança (até um prédio de dois andares) sofrem um terror irracional e precisam passar em Composure + Resolve a cada turno para permanecer. Se falham, aceitam qualquer desculpa para sair; em falha total fogem aos gritos. Vampiros são menos afetados, mas cada cena passada no local exige um teste de frenesi de terror. Não afasta vampiros invasores."
+  },
+  {
+    "name": "Befoul Vessel",
+    "discipline": "Oblivion",
+    "kind": "ceremony",
+    "level": 4,
+    "source": "Sabbat: The Black Hand, p. 52",
+    "cost": "",
+    "castingTime": "",
+    "ingredients": "Saliva do vampiro.",
+    "pool": "Teste de Ritual",
+    "process": "Basta pôr uma gota de saliva na pele da vítima, alimentando-se dela ou esfregando por contato físico.",
+    "duration": "",
+    "prerequisite": "Necrotic Touch",
+    "body": "",
+    "system": "A vítima não mostra sintomas e não sabe do perigo que representa. Quem se alimenta dela só nota um gosto rançoso e estranho (o Narrador generoso pode permitir Wits + Survival, Dificuldade 3, para perceber e abortar). Terminada a alimentação, o vampiro ganha Hunger em vez de saciar, 1 para 1 (quem saciaria 3 Hunger ganha 3), com risco provável de frenesi de fome (Core, p. 220). De qualquer forma, o mortal infectado morre durante o sono na noite seguinte, deixando como pista apenas um bolor e suor ácido."
+  }
+]

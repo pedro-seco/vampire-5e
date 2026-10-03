@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Concoct Ashe",
+    "discipline": "Thin-blood Alchemy",
+    "kind": "formula",
+    "level": 3,
+    "source": "Cults of the Blood Gods, p. 45",
+    "cost": "",
+    "castingTime": "",
+    "ingredients": "",
+    "pool": "",
+    "process": "",
+    "duration": "",
+    "prerequisite": "",
+    "body": "Chemically-Induced Flashback.",
+    "system": "Ao usar Concoct Ashe, a fórmula pode ser usada para imbuir os restos com as memórias do vampiro que eles formavam. Ao consumir, a Ashe alterada provoca um teste de Willpower com Difficulty = 1 + Blood Potency do vampiro destruído.\n- Em vitória: o usuário entra imediatamente em uma Memoriam (Core, p. 311), revivendo uma memória importante do passado do vampiro destruído, e não da própria vida. A cena é resolvida normalmente com as stats do próprio usuário, mas a perspectiva alterada deve ser valiosa.\n- Bônus: se o thin-blood estiver meditando em lugar calmo ao consumir, ganha +1 dado em todas as dice pools durante a Memoriam.\nConcoct Ashe exige Thin-Blood Alchemy da forma Fixatio. Cada fórmula aplicada ainda tem seu custo de destilação; para fins como tempo de destilação, use o maior nível entre as fórmulas modificadoras."
+  },
+  {
+    "name": "Discipline Channeling",
+    "discipline": "Thin-blood Alchemy",
+    "kind": "formula",
+    "level": 4,
+    "source": "Cults of the Blood Gods, p. 46",
+    "cost": "O mesmo do poder canalizado",
+    "castingTime": "",
+    "ingredients": "Folhas esmagadas de indigo (crushed leaves from the indigo plant).",
+    "pool": "As mesmas do poder canalizado",
+    "process": "",
+    "duration": "Até o fim do chapter",
+    "prerequisite": "Concoct Ashe",
+    "body": "Canalizar uma Disciplina das cinzas de um vampiro morto é uma forma de alchemy necromântica (segundo Dr. Mortius e os Duskborn que a praticam). Quem a usa pode usar qualquer um dos poderes de Disciplina do vampiro destruído, mesmo que normalmente não tivesse acesso a poderes daquele nível.",
+    "system": "Ao usar Concoct Ashe, esta fórmula imbui os restos com as habilidades do vampiro. Ao consumir, a Ashe provoca um teste de Willpower com Difficulty = maior rating de Disciplina do vampiro destruído.\n- Em vitória: o thin-blood ganha o uso de um único poder de Disciplina que o destruído possuía, até o fim do chapter. Quando o poder pedir um rating de Disciplina, use o rating do vampiro destruído.\n- Em vitória crítica: ganha dois poderes de Disciplina que o destruído possuía.\n- O Narrador pode listar as Disciplinas e poderes específicos do morto para o alquimista escolher, ou o alquimista pode pedir um poder específico; o Narrador tem a palavra final."
+  }
+]

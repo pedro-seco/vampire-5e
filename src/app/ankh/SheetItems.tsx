@@ -8,7 +8,9 @@ import { Editable } from '../components/shared/Editable';
 import { clamp } from '../components/shared/clamp';
 import { RemoveButton } from './SectionTitle';
 import { TraitDots } from './TraitDots';
+import { RITUAL_DISCIPLINES, powersOf } from '../data/powerCatalog';
 import { describePool } from './poolText';
+import { PROFILE_OPTIONS } from './profileOptions';
 
 export type Side = 'left' | 'right';
 
@@ -112,13 +114,22 @@ export function CharacterAliases() {
 export function ProfileFieldItem({ field, label, selected, onSelect }: { field: ProfileField; label: string } & SelectionProps) {
   const { character, editMode, update } = useCharacter();
   const showLink = onSelect && !editMode && character[field];
+  const options = PROFILE_OPTIONS[field];
+  const setValue = (value: string) => update((draft) => { draft[field] = value; });
+  const current = character[field];
+  const choices = options && current && !options.includes(current) ? [current, ...options] : options;
   return (
     <>
       <span className="ankh-field-label ankh-field-label--fixed">{label}</span>
-      {showLink ? (
+      {choices && editMode ? (
+        <select className="ankh-select" value={current} aria-label={label} onChange={(event) => setValue(event.target.value)}>
+          <option value="">—</option>
+          {choices.map((choice) => <option key={choice} value={choice}>{choice}</option>)}
+        </select>
+      ) : showLink ? (
         <TraitLabel className="ankh-field-value" selected={selected} onSelect={onSelect}>{character[field]}</TraitLabel>
       ) : (
-      <Editable className="ankh-field-value" value={character[field]} editable={editMode} maxLength={60} placeholder={editMode ? '—' : undefined} onCommit={(value) => update((draft) => { draft[field] = value; })} />
+      <Editable className="ankh-field-value" value={character[field]} editable={editMode} maxLength={60} placeholder={editMode ? label.toLowerCase() : undefined} onCommit={(value) => update((draft) => { draft[field] = value; })} />
       )}
     </>
   );
@@ -147,27 +158,56 @@ interface DisciplineItemProps {
   index: number;
   side: Side;
   onAddPower: () => void;
+  onAddRitual: () => void;
 }
 
-export function DisciplineItem({ index, side, onAddPower }: DisciplineItemProps) {
+export function DisciplineItem({ index, side, onAddPower, onAddRitual }: DisciplineItemProps) {
   const { character, editMode, update } = useCharacter();
   const { confirmDelete } = useConfirm();
   const discipline = character.disciplines[index];
 
   const setLevel = (level: number) => update((draft) => { draft.disciplines[index].level = clamp(level, 1, 5); });
+  const ritualKind = RITUAL_DISCIPLINES[discipline.name];
+  const hasPowers = powersOf(discipline.name).length > 0;
   const remove = () =>
-    confirmDelete('Remove discipline "' + discipline.name + '" and all its powers?', () => update((draft) => { draft.disciplines.splice(index, 1); }));
+    confirmDelete('Remover a disciplina "' + discipline.name + '" e todos os seus poderes?', () => update((draft) => { draft.disciplines.splice(index, 1); }));
 
   return (
     <Ordered side={side} dots={<TraitDots label={discipline.name} value={discipline.level} min={1} editable={editMode} onChange={setLevel} />}>
       <span className="ankh-trait">{discipline.name}</span>
       {editMode && (
         <>
-          <button type="button" className="ankh-inline-action" onClick={onAddPower}>＋ poder</button>
+          {hasPowers && <button type="button" className="ankh-inline-action" onClick={onAddPower}>＋ poder</button>}
+          {ritualKind && <button type="button" className="ankh-inline-action" onClick={onAddRitual}>＋ {ritualKind.singular}</button>}
           <RemoveButton label={'Remover ' + discipline.name} onClick={remove} />
         </>
       )}
     </Ordered>
+  );
+}
+
+interface RitualItemProps {
+  disciplineIndex: number;
+  ritualIndex: number;
+  selected: boolean;
+  onSelect: () => void;
+}
+
+export function RitualItem({ disciplineIndex, ritualIndex, selected, onSelect }: RitualItemProps) {
+  const { character, editMode, update } = useCharacter();
+  const { confirmDelete } = useConfirm();
+  const ritual = (character.disciplines[disciplineIndex].rituals ?? [])[ritualIndex];
+
+  const remove = () =>
+    confirmDelete('Remover "' + ritual + '"?', () => update((draft) => { draft.disciplines[disciplineIndex].rituals?.splice(ritualIndex, 1); }));
+
+  return (
+    <>
+      <button type="button" className={'ankh-link ankh-power ankh-ritual' + (selected ? ' is-selected' : '')} aria-pressed={selected} onClick={onSelect}>
+        {ritual}
+      </button>
+      {editMode && <RemoveButton label={'Remover ' + ritual} onClick={remove} />}
+    </>
   );
 }
 
@@ -184,7 +224,7 @@ export function PowerItem({ disciplineIndex, powerIndex, selected, onSelect }: P
   const power = character.disciplines[disciplineIndex].powers[powerIndex];
 
   const remove = () =>
-    confirmDelete('Remove power "' + power + '"?', () => update((draft) => { draft.disciplines[disciplineIndex].powers.splice(powerIndex, 1); }));
+    confirmDelete('Remover o poder "' + power + '"?', () => update((draft) => { draft.disciplines[disciplineIndex].powers.splice(powerIndex, 1); }));
 
   return (
     <>
@@ -203,7 +243,7 @@ export function AdvantageItem({ kind, index, side, selected, onSelect }: { kind:
 
   const setLevel = (level: number) => update((draft) => { listOf(draft, kind)[index].level = clamp(level, 1, advantageMax(item.name)); });
   const setNote = (note: string) => update((draft) => { listOf(draft, kind)[index].note = note; });
-  const remove = () => confirmDelete('Remove "' + item.name + '"?', () => update((draft) => { listOf(draft, kind).splice(index, 1); }));
+  const remove = () => confirmDelete('Remover "' + item.name + '"?', () => update((draft) => { listOf(draft, kind).splice(index, 1); }));
 
   return (
     <Ordered side={side} dots={<TraitDots label={item.name} value={item.level} max={advantageMax(item.name)} min={1} editable={editMode} onChange={setLevel} />}>
@@ -222,7 +262,7 @@ export function InventoryItem({ index }: { index: number }) {
   const item = character.inventory[index];
 
   const rename = (text: string) => update((draft) => { draft.inventory[index] = text; });
-  const remove = () => confirmDelete('Remove "' + item + '" from inventory?', () => update((draft) => { draft.inventory.splice(index, 1); }));
+  const remove = () => confirmDelete('Remover "' + item + '" do inventário?', () => update((draft) => { draft.inventory.splice(index, 1); }));
 
   return (
     <>

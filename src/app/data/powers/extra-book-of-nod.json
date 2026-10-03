@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Shape the Sanguine Sacrament",
+    "discipline": "Blood Sorcery",
+    "level": 1,
+    "source": "The Book of Nod Apocrypha, p. 33",
+    "cost": "Grátis (ou 1 Rouse Check se usar próprio sangue)",
+    "pool": "Manipulation + Blood Sorcery",
+    "duration": "Uma cena ou até ser alterada pelo usuário.",
+    "prerequisite": "",
+    "amalgam": "",
+    "body": "Tremere ostentosos manipulam sangue ou vitae em imagens finas—entretenimento em Elísios com truques de mago ou redirecionam rivulets para sigilos herméticos precisos. Alguns usam para limpar sangue de cenas.",
+    "system": "Uma rolagem bem-sucedida de Manipulation + Blood Sorcery permite moldar sangue em qualquer forma ou imagem desejada. A Dificuldade varia pela complexidade: uma mensagem simples (\"Socorro!\") ou forma geométrica básica é Dificuldade 2; um longo texto ou escultura intricada é Dificuldade 4 ou superior. Falha significa o sangue não responde ou não forma a forma desejada. Vitória crítica forma a imagem desejada e nega a necessidade de rolagens adicionais para mudar de forma pelo resto da cena.\nPara usos mais utilitários (localizar, coletar ou limpar sangue), adicione seus dots em Blood Sorcery a qualquer rolagem; isso torna muito difícil para outros encontrarem traços de sangue."
+  },
+  {
+    "name": "Scour Secrets",
+    "discipline": "Blood Sorcery",
+    "level": 2,
+    "source": "The Book of Nod Apocrypha, p. 33; também Player's Guide, p. 98",
+    "cost": "1 Rouse Check",
+    "pool": "Intelligence + Blood Sorcery",
+    "duration": "Uma noite ou até a informação ser encontrada/a busca ficar infrutífera, o que vier primeiro.",
+    "prerequisite": "",
+    "amalgam": "",
+    "body": "O feiticeiro libera rivulets de Sangue preparado para buscar informações sobre um assunto à sua escolha. O sangue varre o objeto de busca, permitindo ao feiticeiro investigar vasto volume de texto em minutos. O objeto investigado fica com uma mancha de sangue reveladora.",
+    "system": "Faça a rolagem contra Dificuldade estabelecida pelo Narrador: 2 para uma única carta em um escritório comum até 5 para informação criptografada numa biblioteca vasta. Informação ocultada sobrenaturalmente aumenta a Dificuldade ainda mais. O tempo gasto depende do tamanho da área: um cômodo pode ser vasculhado em minutos, uma biblioteca leva horas ou a noite toda. O poder não concede a habilidade de interpretar idiomas desconhecidos ou cifras. Se o conhecimento buscado está em formatos não escritos (pintura, música, discos, vídeo), o poder funciona a critério do Narrador com Dificuldade provavelmente maior."
+  }
+]

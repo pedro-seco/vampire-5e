@@ -38,8 +38,8 @@ export function AddAdvantageModal({ open, type, onClose }: AddAdvantageModalProp
   };
 
   return (
-    <Modal open={open} title={isFlaw ? 'Add Flaw' : 'Add Advantage'} onCancel={close} onConfirm={confirm} confirmDisabled={!chosen}>
-      <SearchDropdown placeholder="Search…" items={options} onSelect={(item) => setChosen(item.label)} />
+    <Modal open={open} title={isFlaw ? 'Adicionar Flaw' : 'Adicionar Advantage'} onCancel={close} onConfirm={confirm} confirmDisabled={!chosen}>
+      <SearchDropdown placeholder="Buscar…" items={options} onSelect={(item) => setChosen(item.label)} />
     </Modal>
   );
 }

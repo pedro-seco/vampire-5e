@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Obeah",
+    "discipline": "Auspex",
+    "level": 2,
+    "source": "Companion",
+    "cost": "Um Rouse Check + Willpower adicional, conforme as circunstâncias",
+    "pool": "Composure + Auspex",
+    "duration": "N/A",
+    "prerequisite": "",
+    "amalgam": "Fortitude 1",
+    "body": "O vampiro acalma a turbulência mental ou emocional do alvo, devolvendo-lhe firmeza. É especialmente eficaz em mortais (acalmar agitação momentânea ou acalmá-los antes de se alimentar deles).",
+    "system": "Rola Composure + Auspex contra Difficulty 2 e restaura um número de níveis de dano Superficial de Willpower igual à margem. Alternativamente, restaura 1 nível de dano Agravado de Willpower para cada 3 sucessos de margem.\n- Em um mortal com emoções turbulentas, também o acalma ou o deixa à vontade.\n- Usar o poder leva um turno inteiro. Se o vampiro gasta uma cena inteira, a Difficulty cai para 0.\n- Só pode ser usado em outra pessoa (nunca em si mesmo).\n- Um mesmo alvo só pode ser afetado uma vez por noite.\n- Se o usuário acalmar mais de um alvo na mesma noite, sofre dano Superficial de Willpower igual à metade dos sucessos de margem para cada alvo adicional."
+  }
+]

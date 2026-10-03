@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Coax the Garden",
+    "discipline": "Blood Sorcery",
+    "kind": "ritual",
+    "level": 1,
+    "source": "Cults of the Blood Gods, p. 55",
+    "cost": "",
+    "castingTime": "",
+    "ingredients": "Sangue humano e sementes de papoula.",
+    "pool": "",
+    "process": "O vampiro lança uma mistura de sangue humano e sementes de papoula na terra e desperta toda a vida vegetal num diâmetro de 5 jardas/metros. As plantas raramente matam, mas desabilitam e alarmam as vítimas.",
+    "duration": "",
+    "prerequisite": "",
+    "body": "Faz plantas (raízes, grama, galhos) agirem em defesa do conjurador. Ritual dos Bahari.",
+    "system": "Uma vitória na rolagem do Ritual anima as plantas. A flora causa penalidade de dois dados nas pools físicas de quem estiver na área. Vítimas que permanecerem mais de um turno precisam fazer um teste, mas o .txt está cortado nesse ponto e o teste, a dificuldade, o dano e a duração não puderam ser confirmados. Confira no livro impresso (p. 55)."
+  },
+  {
+    "name": "Eden's Bounty",
+    "discipline": "Blood Sorcery",
+    "kind": "ritual",
+    "level": 5,
+    "source": "Cults of the Blood Gods, p. 56",
+    "cost": "",
+    "castingTime": "",
+    "ingredients": "",
+    "pool": "",
+    "process": "O .txt perde o trecho de ingredientes e começo do processo. Pelo que sobrou: o ritual envolve um corpo e maçãs (a rolagem é feita \"após a colocação do corpo e das maçãs\"), o corpo se funde às raízes e ao tronco, e a maçã podre fica na boca. Lista exata de ingredientes não confirmada.",
+    "duration": "Para o resto do capítulo (efeito sobre os mortais na área).",
+    "prerequisite": "",
+    "body": "Ritual dos Bahari em que o vampiro se funde a uma árvore e sacia a Hunger com sangue de mortais a até 1 milha/quilômetro de distância, drenado pela terra e saindo por uma maçã podre na boca do vampiro.",
+    "system": "O jogador faz a rolagem de Ritual. Em vitória, a Hunger é saciada até 1, apesar das penalidades de alimentação por Blood Potency. Em vitória crítica, até 0, sem matar. Em falha total, o vampiro cai em frenzy de fome (hunger frenzy). Conforme a quantidade e o tipo de mortais na área, podem surgir Stains (exemplo do livro: Prey Exclusion em área densa na classe excluída; Core, p. 181).\nCusto para os mortais: para o resto do capítulo, os mortais na área sofrem penalidade de um dado em todas as rolagens Físicas e 1 de dano Agravado de Health."
+  }
+]
