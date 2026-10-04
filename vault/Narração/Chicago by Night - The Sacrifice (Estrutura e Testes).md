@@ -5,7 +5,7 @@ publico: narrador
 livro: "Chicago by Night"
 grupo: "Chicago by Night"
 rotulo: "The Sacrifice (Estrutura e Testes)"
-tipo: narração
+tipo: aventura
 ---
 
 #mecânica #narrador #chicago-by-night #suplemento #aventura #the-sacrifice

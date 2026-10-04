@@ -5,7 +5,7 @@ publico: narrador
 livro: "Blood Sigils"
 grupo: "Blood Sigils"
 rotulo: "A Cena Blood Craft"
-tipo: regra
+tipo: aventura
 ---
 
 #mecânica #narrador #blood-craft #suplemento #blood-sigils

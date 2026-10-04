@@ -5,6 +5,13 @@ livro: "Lore"
 tipo: lore
 ---
 
+> [!resumo] Em 30 segundos
+> - O Livro de Nod é uma coleção de fragmentos sobre a origem lendária dos Kindred, compilada por Aristóteles de Laurent (Malkavian).
+> - É o texto mais sagrado do vampirismo e o mais disputado; os estudiosos que o debatem são os Noddistas.
+> - Divide-se em Crônica de Caim (origens), Crônica das Sombras (mandamentos, base das Tradições da Camarilla) e Crônica dos Segredos (Gehenna).
+> - A nota traz as Tradições originais de Caim, as da Camarilla, o Status Perfectus dos Anarchs e o Código Tremere Antigo.
+> - Lista também Loresheets (Livro de Nod, Cultos de Gehenna, Maquinações de Saulot) e os sinais de Gehenna, como o aumento de thin-bloods e a Convocação.
+
 # O Livro de Nod
 
 

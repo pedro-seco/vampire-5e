@@ -10,6 +10,14 @@ nivel: iniciante
 
 ![[Pasted image 20241122185900.png]]
 
+> [!resumo] Em 30 segundos
+> - A Camarilla é a seita vampírica que busca esconder os vampiros da humanidade; a Máscara (Masquerade) é sua principal lei.
+> - Foi fundada no século XV como resposta à Inquisição humana, e é uma sociedade hierárquica e centralizada em cidades governadas por Príncipes.
+> - Os cargos incluem Príncipe, Primógeno (Primogen), Senescal (Seneschal), Xerife (Sheriff), Harpia (Harpy) e Algoz (Scourge).
+> - Seus clãs tradicionais são Brujah, Malkavian, Nosferatu, Toreador, Tremere e Ventrue; Gangrel e Anarquistas ficaram de fora.
+> - As seis Tradições são Máscara, Domínio, Prole, Responsabilidade, Hospitalidade e Destruição.
+> - A punição máxima é a Caçada de Sangue (Blood Hunt), que autoriza qualquer Kindred a destruir o condenado.
+
 ## Sumário
 - [[#Formação da Camarilla|Formação da Camarilla]]
 - [[#Estrutura e Organização|Estrutura e Organização]]

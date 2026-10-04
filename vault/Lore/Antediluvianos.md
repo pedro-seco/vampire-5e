@@ -7,6 +7,14 @@ tipo: lore
 
 #lore #concept #gehenna
 
+> [!resumo] Em 30 segundos
+> - Os Antediluvianos são os sobreviventes da Terceira Geração, netos de Caim e fundadores dos clãs; eram treze, hoje menos.
+> - Segundo o Book of Nod, sobreviveram à queda de Enoch entrando em torpor ou se isolando por milênios.
+> - Têm Blood Potency fora de qualquer escala; não existe mecânica de combate para um acordado, pois ele é um evento de cenário, não um encontro.
+> - A Camarilla nega sua existência, o Sabbat existe para destruí-los e os Anarquistas, em geral, são indiferentes.
+> - Podem ser destruídos (Troile, Lasombra e Saulot), mas a destruição não elimina o clã nem as Disciplinas.
+> - Nas Noites Modernas, vários despertam (Oriente Médio é o epicentro), e a Convocação é atribuída a eles; para os neonatos são o horizonte, não um inimigo a combater.
+
 # Antediluvianos
 
 > *"Eles não são deuses. Mas mataram tantos que a diferença é acadêmica."*

@@ -5,7 +5,7 @@ publico: narrador
 livro: "Chicago by Night"
 grupo: "Chicago by Night"
 rotulo: "SPCs dos Capítulos 7 e 8 e Modelos Genéricos"
-tipo: narração
+tipo: aventura
 ---
 
 #mecânica #narrador #spc #chicago-by-night #suplemento #antagonistas

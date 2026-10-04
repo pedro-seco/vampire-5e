@@ -5,7 +5,7 @@ publico: narrador
 livro: "Under the Skin"
 grupo: "Under the Skin"
 rotulo: "Antagonistas e NPCs"
-tipo: narração
+tipo: aventura
 ---
 
 #mecânica #narrador #npc #supplement #under-the-skin

@@ -5,7 +5,7 @@ publico: narrador
 livro: "Chicago by Night"
 grupo: "Chicago by Night"
 rotulo: "SPCs Caitiff, Gangrel e Thin-Bloods"
-tipo: narração
+tipo: aventura
 ---
 
 #mecânica #narrador #spc #chicago-by-night #suplemento #caitiff #gangrel #thin-blood

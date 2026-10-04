@@ -10,6 +10,14 @@ nivel: iniciante
 
 ![[Pasted image 20241122185734.png]]
 
+> [!resumo] Em 30 segundos
+> - Os Anarchs são um movimento revolucionário de vampiros que rejeitam a autoridade centralizada da Camarilla e lutam por liberdade e autonomia.
+> - A revolta nasceu quase junto com a Camarilla, perdeu força após a Convenção de Espinhos e o surgimento do Sabbat, e renasceu nas últimas décadas.
+> - Vivem mais integrados ao mundo mortal (famílias, empregos, identidades secretas), o que os torna mais vulneráveis, mas difíceis de rastrear.
+> - O movimento varia por cidade: algumas são governadas por um Barão, outras por gangues, e outras são divididas com a Camarilla.
+> - Nova onda de revolta veio das traições da Camarilla na Segunda Inquisição e do Beckoning, que enfraquece os anciões.
+> - O Status Perfectus resume seus princípios: livres, sem Príncipe nem Primogênio, irmãos dos oprimidos, mas responsáveis por manter a Máscara.
+
 # Sumário
 - [[#Anarchs A Revolução dos Kindred]]
   - [[#Origens e Contexto Histórico]]

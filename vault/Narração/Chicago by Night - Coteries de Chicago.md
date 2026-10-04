@@ -5,7 +5,7 @@ publico: narrador
 livro: "Chicago by Night"
 grupo: "Chicago by Night"
 rotulo: "Coteries de Chicago"
-tipo: narração
+tipo: aventura
 ---
 
 #mecânica #narrador #coteries #chicago-by-night #suplemento

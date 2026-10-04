@@ -5,7 +5,7 @@ publico: narrador
 livro: "Chicago by Night"
 grupo: "Chicago by Night"
 rotulo: "SPCs Banu Haqim e Brujah"
-tipo: narração
+tipo: aventura
 ---
 
 #mecânica #narrador #spc #chicago-by-night #suplemento #banu-haqim #brujah #anarch

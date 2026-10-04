@@ -5,7 +5,7 @@ publico: narrador
 livro: "Under the Skin"
 grupo: "Under the Skin"
 rotulo: "Sangue Inefável e Condução"
-tipo: narração
+tipo: aventura
 ---
 
 #mecânica #narrador #aventura #supplement #under-the-skin

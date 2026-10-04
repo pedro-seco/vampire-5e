@@ -8,6 +8,14 @@ tipo: lore
 #concept #lore
 
 ![[Pasted image 20241122192354.png]]
+> [!resumo] Em 30 segundos
+> - A Segunda Inquisição é uma aliança de agências como CIA, NSA e o serviço secreto do Vaticano para caçar vampiros, possível pelos avanços de vigilância dos anos 2000.
+> - Em 2004 a NSA penetrou no SchreckNET (rede dos Nosferatu) e em 2007 uma campanha global eliminou mais de mil vampiros em três meses.
+> - A Camarilla respondeu desmantelando o SchreckNET, proibindo comunicações online e instituindo uma segunda Máscara (isolamento extremo).
+> - No Conclave de Praga (2008), a Camarilla culpou os Anarquistas, expulsou-os e passou a tratar Anarquistas, thin-bloods e Caitiffs como exilados.
+> - Os Anarquistas concordaram em respeitar apenas uma Tradição: a Máscara.
+> - Ambas as seitas veem a Segunda Inquisição como perigo existencial, o que pode forçar alianças temporárias, mas há risco de guerra aberta.
+
 # Sumário
 - [[#Segunda Inquisição|Segunda Inquisição]]
   - [[#Origem e Desenvolvimento|Origem e Desenvolvimento]]

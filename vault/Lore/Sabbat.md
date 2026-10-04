@@ -8,6 +8,14 @@ nivel: iniciante
 
 #lore #faction #important
 
+> [!resumo] Em 30 segundos
+> - O Sabbat é a terceira grande seita Kindred e a mais temida: rejeita a Máscara e a Humanidade, e trata os humanos abertamente como gado.
+> - Nasceu de uma revolta contra os Anciões, em 1444 (Convenção de Thorns), com o princípio de que nenhum vampiro deve se curvar a um Ancião.
+> - Na 5ª edição é uma ameaça externa, não uma facção jogável padrão; ao declarar guerra aberta aos Antediluvianos, foi massacrado e passou a recrutar desesperadamente.
+> - A unidade básica é o pack (com Ductus e Priest), unido pelo ritual do Vaulderie; em vez de Humanidade, seguem Paths of Enlightenment.
+> - Os clãs principais são Lasombra (parte quer entrar na Camarilla) e Tzimisce.
+> - A Segunda Inquisição também o devastou, porque o Sabbat não adaptou seu comportamento ao século XXI.
+
 ```table-of-contents
 ```
 

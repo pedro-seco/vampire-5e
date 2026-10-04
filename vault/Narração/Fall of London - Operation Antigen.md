@@ -5,7 +5,7 @@ publico: narrador
 livro: "Fall of London"
 grupo: "Fall of London"
 rotulo: "Operation Antigen"
-tipo: narração
+tipo: aventura
 ---
 
 #narrador #antagonistas #operation-antigen #second-inquisition #suplemento

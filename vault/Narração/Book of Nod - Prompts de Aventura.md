@@ -5,7 +5,7 @@ publico: narrador
 livro: "Book of Nod"
 grupo: "Book of Nod"
 rotulo: "Prompts de Aventura"
-tipo: narração
+tipo: aventura
 ---
 
 #mecânica #narrador #suplemento #aventura #ganchos #book-of-nod #apocrypha

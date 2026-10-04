@@ -9,6 +9,14 @@ nivel: iniciante
 #lore #concept
 ![[Pasted image 20241127221511.png]]
 
+> [!resumo] Em 30 segundos
+> - O Jyhad (a Eterna Luta) é o conflito contínuo por domínio entre os Matusaléns e os Antediluvianos, que começou na Primeira Cidade, Enoch.
+> - Não é uma guerra direta: é uma teia sutil de intrigas e manipulações, travada por meio dos vampiros mais jovens.
+> - Neonatos e anciões menores são peões num jogo cujas regras nunca são reveladas por completo.
+> - Grandes eventos mortais, como revoluções e guerras, muitas vezes mascaram disputas vampíricas, e Príncipes podem servir a mestres invisíveis.
+> - Rumores de Gehenna crescem enquanto Matusaléns são chamados ao Oriente e Antediluvianos despertam.
+> - Para os Anarquistas e quem se recusa a jogar, o Jyhad é apenas intriga pessoal disfarçada de destino e profecia.
+
 ### Sumário
 - [[#Introdução|Introdução]]
     - [[#Origens do Jyhad|Origens do Jyhad]]

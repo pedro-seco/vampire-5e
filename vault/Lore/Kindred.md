@@ -10,6 +10,14 @@ nivel: iniciante
 
 ![[Pasted image 20241125041006.png]]
 
+> [!resumo] Em 30 segundos
+> - Kindred é como os vampiros chamam a si mesmos; a nota separa mitos e fatos sobre eles.
+> - Não envelhecem, não precisam de comida (só sangue) nem de respiração; morrem por decapitação, fogo ou luz do sol, e podem cair em torpor.
+> - Alho e cruzes geralmente não funcionam, e a estaca de madeira no coração apenas paralisa em torpor.
+> - Usar o Sangue para poderes, curar, Blood Surge ou Blush of Life exige um Rouse Check, que arrisca aumentar a Fome (o efeito acontece mesmo se falhar).
+> - A mordida causa 2 de dano Agravado e, ao se alimentar de mortais, reduz 1 de Fome por turno.
+> - O Sangue cobra um preço: Rouse Check ao despertar, dia perigoso (o maior dice pool é o nível de Humanidade) e o risco constante de Frenesi.
+
 ### Sumário
 - [[#Mitos e Fatos|Mitos e Fatos]]
     - [[#Vampiros São Imortais?|Vampiros São Imortais?]]

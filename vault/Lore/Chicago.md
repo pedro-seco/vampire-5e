@@ -5,6 +5,14 @@ livro: "Lore"
 tipo: lore
 ---
 
+> [!resumo] Em 30 segundos
+> - Chicago, a Joia, é o domínio Camarilla mais detalhado do VTM 5e (Chicago by Night V5), servindo de cenário para uma crônica completa.
+> - Kevin Jackson, jovem Ventrue, é Príncipe desde 2019, depois de derrubar Joseph Peterson, que perdeu a candidatura olímpica de 2016; ele persegue os Anarquistas.
+> - O Primogen reúne Annabelle (Toreador), Critias (Brujah), Rosa Hernandez (Gangrel), Khalid (Nosferatu), Son (Ministry) e Horatio Ballard (Ventrue).
+> - A grande trama é a petição dos Lasombra para entrar na Camarilla, com Chicago como cidade-teste.
+> - Há segredos e ameaças: Annabelle é a sire secreta de Modius (Gary), Chinatown é território proibido e algo antigo vive no Lago Michigan.
+> - O Beckoning esvazia a cidade de anciões, deixando vácuos de poder e política volátil.
+
 # Chicago by Night — A Joia da Camarilla
 
 > *"Chicago é o trono inexpugnável da Camarilla americana."*  

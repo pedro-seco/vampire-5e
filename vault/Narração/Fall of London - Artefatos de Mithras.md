@@ -5,7 +5,7 @@ publico: narrador
 livro: "Fall of London"
 grupo: "Fall of London"
 rotulo: "Artefatos de Mithras"
-tipo: narração
+tipo: aventura
 ---
 
 #narrador #antagonistas #mithras #artifacts #suplemento

@@ -5,7 +5,7 @@ publico: narrador
 livro: "Chicago by Night"
 grupo: "Chicago by Night"
 rotulo: "SPCs Nosferatu, Toreador e Tremere"
-tipo: narração
+tipo: aventura
 ---
 
 #mecânica #narrador #spc #chicago-by-night #suplemento #nosferatu #toreador #tremere

@@ -5,7 +5,7 @@ publico: narrador
 livro: "Chicago by Night"
 grupo: "Chicago by Night"
 rotulo: "Ganchos de Crônica (Capítulo 7)"
-tipo: narração
+tipo: aventura
 ---
 
 #mecânica #narrador #chicago-by-night #suplemento #ganchos #aventura

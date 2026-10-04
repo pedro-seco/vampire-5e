@@ -6,6 +6,14 @@ tipo: lore
 nivel: iniciante
 ---
 
+> [!resumo] Em 30 segundos
+> - O Abraço é como um Kindred cria um childe: o sire drena completamente o candidato e então lhe oferece seu próprio sangue.
+> - A Vitae precisa fluir direto do sire para o childe; o processo é instantâneo, exceto em Thin-bloods, onde pode levar muitas horas.
+> - O childe nasce com uma geração abaixo da do sire; vampiros de 13ª geração só produzem Thin-Bloods.
+> - Logo após o Abraço vem fome avassaladora, e o childe quase certamente entra em Frenesi de Fome ao primeiro contato com sangue.
+> - A Camarilla proíbe Abraçar sem permissão do ancião (3ª Tradição - Progênie).
+> - Há casos especiais: Abraço acidental (com Fome alta), forçado (punição) e tentativa falha (o candidato morre de vez).
+
 # Sumário
 
 - [[#Restrições|Restrições]]

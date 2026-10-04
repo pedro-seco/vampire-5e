@@ -7,6 +7,13 @@ tipo: lore
 
 #lore #cultos #minor-cults #kindred-religions #cults-of-blood-gods #suplemento
 
+> [!resumo] Em 30 segundos
+> - A nota resume os cultos menores Kindred de Cults of the Blood Gods (Cap. 1, pp. 114-122), mais restritos que os grandes cultos como Church of Set e Bahari.
+> - Cada culto tem fé, objetivos e método próprios, e muitos são antagonistas potenciais ou nichos para jogadores.
+> - Os dez cultos são Amaranthans, Cleopatrans, Cult of Isis, Eyes of Malakai, Gorgo's Nest, Los Hijos de Si, Sons and Daughters of Helena, Meneleans, One True Way e Servitors of Irad.
+> - Amaranthans veneram a diablerie; Gorgo's Nest tem Chicago como stronghold; One True Way converte ou destrói descrentes.
+> - Servitors of Irad buscam acelerar o apocalipse Kindred e são frequentemente caçados pela Second Inquisition sem querer.
+
 # Cults of the Blood Gods — Minor Cults & Fringe Faiths
 
 > Descrição breve dos **cultos menores Kindred** apresentados no *Cults of the Blood Gods*: Amaranthans, Cleopatrans, Cult of Isis, Eyes of Malakai, Gorgo's Nest, Los Hijos de Si, Sons and Daughters of Helena, Meneleans, One True Way, Servitors of Irad.

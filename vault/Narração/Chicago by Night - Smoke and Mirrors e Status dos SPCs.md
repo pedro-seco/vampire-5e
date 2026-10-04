@@ -5,7 +5,7 @@ publico: narrador
 livro: "Chicago by Night"
 grupo: "Chicago by Night"
 rotulo: "Smoke and Mirrors e Status dos SPCs"
-tipo: narração
+tipo: aventura
 ---
 
 #mecânica #narrador #chicago-by-night #suplemento #cidade #tabelas #status

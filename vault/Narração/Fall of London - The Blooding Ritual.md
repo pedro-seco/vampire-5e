@@ -5,7 +5,7 @@ publico: narrador
 livro: "Fall of London"
 grupo: "Fall of London"
 rotulo: "The Blooding Ritual"
-tipo: narração
+tipo: aventura
 ---
 
 #narrador #blood-sorcery #ritual #antagonistas #mithras #suplemento

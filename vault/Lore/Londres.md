@@ -5,6 +5,14 @@ livro: "Lore"
 tipo: lore
 ---
 
+> [!resumo] Em 30 segundos
+> - Fall of London é a única crônica com arco completo do VTM 5e: um sandbox de 6 capítulos ambientado em Londres, 2012.
+> - Os PJs são Arautos de Mithras, acordados do torpor para recuperar quatro artefatos antes que a Operação Antígeno destrua o domínio.
+> - Mithras, metusálem Ventrue que governou Londres por quase dois milênios, foi traído em 1940 por Valerius e Richard de Worde, mas sobreviveu por um ritual de transferência de alma.
+> - A Rainha Anne Bowesley (Ventrue) governa, e é secretamente praticante de diablerie; Valerius, seu criador, ainda ambiciona a práxis.
+> - A Operação Antígeno, nascida do inspetor Ishaq Khan após os atentados de 2005, culmina no pogrom de 2012, a primeira grande cidade a cair em massa para um ataque governamental.
+> - O desfecho depende das escolhas dos PJs no Capítulo 6; o epílogo traz o Compact e o misterioso Rei das Sombras.
+
 # A Queda de Londres — Fall of London
 
 > *"O domínio de Londres é um dos primeiros a cair em massa para um pogrom organizado e patrocinado pelo governo."*  

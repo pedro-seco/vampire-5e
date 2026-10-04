@@ -5,7 +5,7 @@ publico: narrador
 livro: "Forbidden Religions"
 grupo: "Forbidden Religions"
 rotulo: "NPCs e Estatísticas"
-tipo: narração
+tipo: aventura
 ---
 
 #mecânica #narrador #suplemento #npc #antagonistas #forbidden-religions

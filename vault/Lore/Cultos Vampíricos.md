@@ -7,6 +7,13 @@ tipo: lore
 
 #lore #cultos #religiões
 
+> [!resumo] Em 30 segundos
+> - Cultos e religiões nascem das perguntas que a eternidade traz: quem foi Caim, o que é a Besta e se há salvação para os mortos-vivos.
+> - A nota cobre cultos guerreiros (Shattered Spear), das trevas (Withered Ones, Shepherds of Ur-Shulgi) e as grandes religiões (Bahari, Church of Caine, Church of Set).
+> - Há também cultos modernos (Ashfinders, Nephilim), a Praesidium dos Tremere e cultos de Golconda, o estado de paz com a Besta.
+> - Cultos de Children of the Blood incluem The One True Way, Starfall Ranch, Amaranthan, Cleopatras e Meneleans.
+> - Para o Narrador, cultos servem como facções alternativas, antagonistas ou fontes de informação rara.
+
 # Cultos e Religiões Vampíricas
 
 

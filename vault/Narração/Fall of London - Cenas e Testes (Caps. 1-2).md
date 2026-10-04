@@ -5,7 +5,7 @@ publico: narrador
 livro: "Fall of London"
 grupo: "Fall of London"
 rotulo: "Cenas e Testes (Caps. 1-2)"
-tipo: narração
+tipo: aventura
 ---
 
 #mecânica #narrador #fall-of-london #aventura #testes #suplemento

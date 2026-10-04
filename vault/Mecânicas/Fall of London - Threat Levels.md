@@ -5,7 +5,7 @@ publico: narrador
 livro: "Fall of London"
 grupo: "Fall of London"
 rotulo: "Threat Levels"
-tipo: regra
+tipo: aventura
 ---
 
 #mecânica #narrador #operation-antigen #suplemento #regras-de-operacao

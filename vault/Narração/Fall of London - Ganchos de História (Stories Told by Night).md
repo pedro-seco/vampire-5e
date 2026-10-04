@@ -5,7 +5,7 @@ publico: narrador
 livro: "Fall of London"
 grupo: "Fall of London"
 rotulo: "Ganchos de História (Stories Told by Night)"
-tipo: narração
+tipo: aventura
 ---
 
 #mecânica #narrador #fall-of-london #ganchos #aventura #suplemento

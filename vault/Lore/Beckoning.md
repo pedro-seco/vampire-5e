@@ -7,6 +7,13 @@ tipo: lore
 
 #lore #concept #gehenna
 
+> [!resumo] Em 30 segundos
+> - A Convocação (Beckoning) é uma compulsão irresistível que arrasta os Kindred mais antigos para o Oriente Médio; não é Disciplina nem Blood Bond.
+> - Afeta quase certamente a 6ª geração e acima, é rara entre 9ª e 10ª e neonatos (11ª+) são essencialmente imunes.
+> - Progride em quatro estágios: sonhos, inquietação, compulsão ativa e partida; entrar em torpor atrasa, mas não impede.
+> - A Camarilla a silencia, o Sabbat a vê como prova de que os Antediluvianos despertaram, e os Anarquistas veem oportunidade nos vácuos de poder.
+> - É a explicação canônica para Príncipes fracos, domínios sem dono, anciões sumidos, ascensão de neonatos e avanço da Segunda Inquisição.
+
 # A Convocação (*The Beckoning*)
 
 > *"Os anciões partem. Nenhum deles sabe dizer por quê — só que precisam ir. Para o leste. Para a guerra."*
