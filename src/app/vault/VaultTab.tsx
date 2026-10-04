@@ -24,7 +24,7 @@ const MAX_COUNTED_MATCHES = 200;
 const BACK_TO_TOP_THRESHOLD = 400;
 const TAB_STORAGE_KEY = 'vault-tab';
 const TAB_LABELS: Record<Tab, string> = { jogador: 'Jogador', narrador: 'Narrador' };
-const PART_LABELS = { base: 'Livro base', catalogo: 'Catálogo (gerado dos dados da ficha)', lore: 'Lore', extras: 'Livros extras' } as const;
+const PART_LABELS = { base: 'Livro base', catalogo: 'Catálogo (gerado dos dados da ficha)', lore: 'Lore', extras: 'Livros extras', aventura: 'Narrador — material de aventura' } as const;
 
 function buildSidebarEntries(list: VaultEntry[]): SidebarEntry[] {
   const result: SidebarEntry[] = [];

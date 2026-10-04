@@ -62,7 +62,7 @@ Você rouba, compra ou de outra forma adquire sangue frio, em vez de caçar, dep
 **Nota:** Ventrues não podem escolher este Predator Type.
 
 - **Adicione uma especialidade:** Larceny (Lockpicking) or Streetwise (Black Market).
-- **Ganhe um ponto em:** [[Disciplinas - Blood Sorcery#Blood Sorcery|Blood Sorcery]] (apenas Tremere) ou [[Disciplinas#Obsfucate||Obsfucate]]. O Player's Guide também permite Blood Sorcery a **Banu Haqim** (ver [[#Regras e Notas do Player's Guide]]).
+- **Ganhe um ponto em:** [[Disciplinas - Blood Sorcery#Blood Sorcery|Blood Sorcery]] (apenas Tremere) ou [[Disciplinas - Obfuscate||Obsfucate]]. O Player's Guide também permite Blood Sorcery a **Banu Haqim** (ver [[#Regras e Notas do Player's Guide]]).
 - **[[Advantages|Mérito]]:** Ganhe o [[Advantages||Mérito]] Iron Gullet (•••)
 - **[[Advantages|Defeito]]:** Ganhe o Defeito _Enemy (••)_: Alguém acredita que você deve algo ou há outro motivo que o mantém fora das ruas.
 ---

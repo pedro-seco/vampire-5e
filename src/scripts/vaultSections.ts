@@ -12,7 +12,7 @@ export interface VaultSection {
   group?: string;
   label?: string;
   audience: 'jogador' | 'narrador';
-  part: 'base' | 'catalogo' | 'lore' | 'extras';
+  part: 'base' | 'catalogo' | 'lore' | 'extras' | 'aventura';
   book: string;
   kind: string;
   level?: 'iniciante';
@@ -142,6 +142,14 @@ class LinkResolver {
     return this.headingsByNote.get(this.glossary.id)?.has(slug) ? `#/vault/${this.glossary.id}/${this.glossary.id}-${slug}` : undefined;
   }
 
+  addGeneratedPage(page: { id: string; title: string; markdown: string }) {
+    const note = { id: page.id, title: page.title } as VaultNote;
+    this.notesByName.set(page.title.toLowerCase(), note);
+    const headings = new Set<string>();
+    for (const match of page.markdown.matchAll(MARKDOWN_HEADING)) headings.add(slugify(withoutEmphasis(match[1])));
+    this.headingsByNote.set(page.id, headings);
+  }
+
   findNote(name: string): VaultNote | undefined {
     return this.notesByName.get(name.toLowerCase());
   }
@@ -150,7 +158,9 @@ class LinkResolver {
     const base = '#/vault/' + note.id;
     if (!heading) return base;
     const slug = slugify(heading);
-    return this.headingsByNote.get(note.id)?.has(slug) ? base + '/' + note.id + '-' + slug : base;
+    const found = this.headingsByNote.get(note.id)?.has(slug);
+    if (!found && process.env.VAULT_DEBUG_LINKS) console.warn(`[link] ${note.title}#${heading}`);
+    return found ? base + '/' + note.id + '-' + slug : base;
   }
 }
 
@@ -191,13 +201,14 @@ function markdownRenderer(note: VaultNote): Marked {
   });
 }
 
-const partOf = (note: VaultNote): 'base' | 'catalogo' | 'lore' | 'extras' => {
+const partOf = (note: VaultNote): 'base' | 'catalogo' | 'lore' | 'extras' | 'aventura' => {
   if (note.part) return note.part;
+  if (note.kind === 'aventura') return 'aventura';
   if (note.kind === 'lore') return 'lore';
   return note.group ? 'extras' : 'base';
 };
 
-const PART_ORDER = { base: 0, catalogo: 1, lore: 2, extras: 3 } as const;
+const PART_ORDER = { base: 0, catalogo: 1, lore: 2, extras: 3, aventura: 4 } as const;
 
 const sortKey = (text: string) => text.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 
@@ -231,7 +242,9 @@ export function buildVaultSections(vaultDir: string): VaultSection[] {
   const links = new LinkResolver(vaultDir, notes);
 
   const catalogDirectory = path.resolve(vaultDir, '../src/app/data');
-  const catalog: VaultSection[] = buildCatalogPages(catalogDirectory).map((page) => {
+  const catalogPages = buildCatalogPages(catalogDirectory);
+  for (const page of catalogPages) links.addGeneratedPage(page);
+  const catalog: VaultSection[] = catalogPages.map((page) => {
     const html = markdownRenderer({ id: page.id } as VaultNote).parse(page.markdown, { async: false });
     return {
       id: page.id,
