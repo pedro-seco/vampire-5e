@@ -1,0 +1,1719 @@
+2023 FREE RPG DAY
+
+A
+
+TASTE OF THE
+
+MOON
+
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited.
+
+A
+
+TASTE OF THE
+
+MOON
+
+Whispers abound of a strange, intoxicating type of blood called Cherry Moon. Everyone is clamoring for a taste, but few can say how to find it or even what it is. Will you slake your Hunger and see what the buzz is all about? A Taste of the Moon is a modular, easily rerunnable story for Vampire: The Masquerade 5th Edition. While suited for a single session of play using the provided player characters, you can also integrate it into your own chronicle for a single night or use it to build a larger story.
+
+renegadegames.com /PlayRGS @PlayRenegade
+
+@Renegade_Game_Studios
+
+/PlayRenegade
+
+Manufacturer: Renegade Games, LLC. 306N West El Norte Parkway #325, Escondido, California 92026. Importers: Renegade France 52 Avenue Pierre Semard 94200 Ivry sur Seine France. P:+33 (0)1 77 37 60 47. Renegade Games, LLC. Solar House 915 High Road London, London, England N12 8QJ. © 2023 Renegade Game Studios. All Rights Reserved. Paradox Interactive®, Vampire: The Masquerade®, World of Darkness®, Copyright 2023 Paradox Interactive AB (publ). All Rights Reserved. MADE IN SHENZHEN, CHINA.
+
+Mature Advisory: contains graphic and written content of a mature nature, including violence, sexual themes, and strong language. Reader discretion is advised.
+
+LOT# 122022-01
+ISBN 978-1-957311-28-9
+
+90000>
+
+9 781957 311289
+
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited.
+
+A
+
+TASTE OF THE
+
+MOON
+
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited.
+
+A TASTE OF THE MOON
+
+A Taste of the Moon
+
+Legal and Credits
+WRIT TEN BY Jonaya Kemper and Juhana Pettersson LE AD DE VELOPER, WORLD OF DARKNESS: Juhana Pettersson
+ASSOCIATE PRODUCER, RPGS: Kevin Schluter EDITING Freja Gyldenstrøm
+INTERIOR ART Paradox provided art GR APHIC DESIGN AND L AYOUT Sarah Robinson PL AY TESTING Mika Loponen, Anne Liljeström, Emi Maeda, Mikko Rautalahti and Satu Heliö
+
+World of Darkness Team
+VICE PRESIDENT: Sean Greaney CRE ATIVE DIREC TOR: Justin Achilli
+EDITOR: Karim Muammar ART DIREC TOR: Tomas Arfert M ARKE TING M ANAGER: Jason Carl PARTNERSHIPS MANAGER: Dhaunae De Vir COMMUNIT Y DE VELOPER: Marty "Outstar" Zych LICENSING MANAGER: Nikola Filipov CAMPAIGN MANAGER: Viktor Bovallius
+
+Paradox Licensing
+BUSINESS DE VELOPER: Dhaunae De Vir
+
+Renegade Game Studios
+
+President & Publisher: Scott Gaeta
+
+Product Developer, RPGs: Jason Keeley
+
+Vice President Sales & Marketing: Sara Erickson
+
+Senior Game Designer: Matt Hyra
+
+Controller: Robyn Gaeta
+
+Game Designers: Dan Blanchett & Christopher Chung
+
+Director of Operations: Leisha Cummins
+
+Director of Visual Design: Anita Osburn
+
+Associate Project Manager: Katie Gjesdahl
+
+Creative Director, Games: Jeanne Torres
+
+Sales Manager: Kaitlin Ellis
+
+Creative Director, RPGs: Sarah Robinson
+
+E-Commerce: Nick Medinger
+
+Creative Production: Todd Crapper, Noelle Lopez,
+
+Sales & Marketing Program Manager: Matt Holland
+
+& Gordon Tucker
+
+Community Manager: Jordan Gaeta
+
+Video Production Associate: Katie Schmitt
+
+Senior Producer of Board & Card Games: Dan Bojanowski
+
+Customer Service Manager: Jenni Janikowski
+
+Associate Producer, Board & Card Games: Jimmy Le
+
+Customer Service: Bethany Bauthues
+
+Associate Producer, RPGs: Kevin Schluter
+
+Finance Clerk: Madeline Minervini
+
+Lead Developer, World of Darkness: Juhana Pettersson
+
+© 2023 Paradox Interactive® AB. Vampire: The Masquerade® ­ are trademarks and/or registered trademarks of Paradox Interactive AB in Europe, the U.S., and other countries. ©2023 Renegade Game Studios. All Rights Reserved.
+Made in Shenzhen China.
+Visit the World of Darkness online at www.worldofdarkness.com
+
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 2
+
+TABLE OF CONTENTS
+
+A TASTE OF THE MOON
+
+4 Pax: Brawler, Shot Caller
+
+20
+
+A Free RPG Day Story
+
+4 Victor/Veronica Alon: the spiral
+
+20
+
+How to Use This Story
+
+5 Further Complications
+
+20
+
+The Characters
+
+6 Buying Blood
+
+20
+
+Putting the Group Together
+
+6 Drive-By Shooting
+
+20
+
+Existing Chronicles
+
+6 Surprise Werewolf
+
+21
+
+Structure
+
+7
+
+THE END
+
+22
+
+PUSHING BLOOD
+
+8 Thin-Blood Adversaries
+
+24
+
+Under the Influence
+
+9 Futher Hooks
+
+25
+
+Original Flavor (Cobalt Vial)
+
+9 The Coterie
+
+26
+
+New Flavor (Scarlet Vial)
+
+9
+
+Overdose
+
+11
+
+The Velveteen Bunny
+
+11
+
+DRINK UP: OPENING SCENES 12
+
+The Default Opening Scene: A Night to Remember...
+
+That You'd Rather Forget
+
+13
+
+Additional Opening Scenes
+
+13
+
+The Blood of Caine
+
+13
+
+The Hookup
+
+14
+
+A Taste of an Old Friend
+
+14
+
+Brief Beginnings
+
+15
+
+Opening Scenes for Chronicles
+
+15
+
+COMPLICATIONS
+
+16
+
+The Sires
+
+17
+
+Zidane al-Najjar: The Amused Bouche
+
+17
+
+Asher Hall: The Neonate Noddist
+
+17
+
+Valery Green: The Family That Noshes Together... 18
+
+Dominik/Dominique Barbero: The Forgetful Ritualist 18
+
+Everybody Wants Some
+
+19
+
+Brick Jones: The Laid-Back Lover
+
+19
+
+Isabelle Adewole: The Fashionista
+
+20
+
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited.
+
+A TASTE OF THE MOON
+A Taste of the Moon
+A Free RPG Day Story
+Some have tasted it, many more talk about it: Cherry Moon. Something unusual has hit the streets: blood. That doesn't happen every night. As far as anyone knows, blood spoils and turns rancid. You can't sell it; you can't store it. Only Kindred with robust gullets are able to subsist on blood. Yet here we are, with vials of the sweet stuff on the streets. Those who have chugged a vial of Cherry Moon report wild and conflicting experiences, from achieving Golconda to temporarily mastering the Beast. The only constant among these stories has been the berry-stained tongues of those who've imbibed. No one seems to know where Cherry Moon comes from, what it is, or most importantly, why it's so addictively intoxicating. One thing is clear, though: Those who have partaken of Cherry Moon want more.
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 4
+
+A TASTE OF THE MOON
+
+A Taste of the Moon is a story for Vampire: The Masquerade best suited for a coterie of 4­6 neonate Anarchs. It's been designed for a single evening of play but can run over several sessions as well, depending on what you want to get out of it. Newcomers to Vampire can use it to explore some of the game's basic themes, while those who already have a chronicle running can thread it into the stories of their regular characters.
+The story revolves around an unusually addictive new type of blood that has created a buzz among the local Kindred: Cherry Moon. The young, inexperienced players' characters are tempted to try to get their hands on the mysterious (and strangely intoxicating) substance. As they do so, they discover that everyone they know among the city's Kindred has the same goal, including authority figures such as their sires and Mawlas. Soon they may learn that age and experience don't necessarily bring wisdom, and their sires and mentors may need to be saved from themselves.
+If the players' characters turn to their sires for advice, the sires want a vial or three for themselves -- and the player characters should probably make sure they get it. Soon. Unless they want to be pressured and threatened by ostensibly older and wiser Kindred.
+Can the coterie score what they desire? Or will they meet a gruesome end, having found out that the blood of a newly-turned werewolf is Cherry Moon's chief ingredient?
+The story has been designed to be rerunnable. Particularly in the early and middle sections, the Storyteller has a wide selection of options to choose from, and fitting all or even most of them into a single game is impossible. Use the ones you like and save the rest for if you want to run it again later. Its focus on simple vampiric themes, such as the lust for blood, makes it useful as an introductory story for Vampire: The Masquerade.
+The story consists of a set of beginnings you can choose from, complicating scenes that make the story interesting, and a finale towards which all arrows eventually point. As the Storyteller, choose from the ingredients presented and assemble them into something your players will enjoy. You can plan how to play this story or wing it, selecting the elements on the fly.
+The more problems there are for the player characters to solve between the beginning and the end, the longer play will last. You can adjust the story during play. If you want to cut the action short (perhaps because you're running out of time), just seed clues pointing to the finale and let the players take it from there.
+
+How to Use This Story
+If you're new to storytelling Vampire and want to run this story as a one-shot or over a few sessions, you can use the prewritten characters provided for the players here. Apart from that, you need the core Vampire: The Masquerade rulebook and some ten-sided dice. Run your game as follows:
+1. Distribute the characters (see page 26) among the players or let them choose the ones they like best.
+2. Explain the circumstances of the player characters' unlives: Their shared haven, street-level existence, fledgling status. (See page 6.)
+3. Do a round of introductions where each player introduces their character. Get the players to have a short discussion where they figure out what keeps them together and how their newly undead existence threads together with the nightclub The Velveteen Bunny (page 11). Are they regulars, do they perform odd jobs?
+4. Describe some of the potential sires (page 17) and get one or two players to choose one for their character. Axel Bennington and Thomas Ng share a sire. If more than two players want a sire, you can agree to it but it's difficult to keep more than two in play effectively.
+5. Choose the opening scene (page 13) and begin play.
+6. As players react to events in the game and follow up on the information they receive, slot more elements from the story into the simple scene structure presented on page 7.
+7. Once the player characters have reached the final scene, end the game when all essential conflicts have been resolved.
+The story is built to lead the player characters towards the realization that they're more suited to surviving in the modern world than their sires are. They surely want to taste the new blood that has hit the streets but this simple desire becomes complicated when their progenitors get to pitch in with their own demands.
+At the end, when the characters have traced the blood to its source, they discover three thin-blood cookers who have a chained werewolf they're slowly bleeding to create the blood they're pushing. They can shut down the operation, narc on it to their sires, or even try to take it over themselves.
+
+Downloaded by on 10/22/2023 . Unauthoriz5ed distribution prohibited.
+
+A TASTE OF THE MOON
+
+The Characters
+Full character descriptions are provided at the end, starting on page 26. Here are short synopses of the prewritten characters available to the players:
+Axel Bennington - A former banker gifted a freedom of sorts as a Brujah Anarch.
+Melika Redd - A former dancer who lost her fear with the Embrace.
+Cassandra Barrantes - An occultist in life who had her worldview confirmed by the Embrace.
+Finch - A social explorer who's more interested in what's ahead than what's behind.
+Thomas Ng - A trained nurse who's been struggling to suppress his hedonistic urges.
+Garnet Grier - A former aspiring comedian who finds it much easier getting along with Anarchs than with Camarilla members.
+HOW TO PIECE EVERYTHING TOGETHER The Storyteller has decided they want to run a quick one-shot session during the weekend with their friends. All of them are new to Vampire. The group chooses to use the prewritten player characters and would like to play with a dark satiric tone. The Storyteller chooses the "A Night to Remember... That You'd Rather Forget" opening scene.
+1. The characters discover the dead ghoul and try to figure out what they did the night before.
+2. The characters have to come up with an explanation for the corpse to one of their sires whose ghoul it was.
+3. The sire whose ghoul has died demands to know what happened. As the characters explain, the sire transitions to demanding they get Cherry Moon for them.
+4. The thin-blood dealers show up at The Velveteen Bunny, selling vials of Cherry Moon.
+5. The characters manage to squeeze one of the thin-bloods' clients for the location of their lab.
+6. The characters go to the lab, and the game ends however they choose to play it.
+It's possible to plan out some of the things that will happen in the story, but often it's best to follow the lead of the players, always making sure they have options for what to do next. If they appear clueless, it's time for one of their sires or a Mawla to contact them, asking for Cherry Moon and providing a few clues as to where to go next.
+
+Putting the Group Together
+After the players have read their characters, they should flesh out the coterie together. Why do the characters hang out together? What do they usually do with their nights? Do they hunt together? Ideally, the players will build on the ideas in their character descriptions but also come up with ideas of their own.
+Whatever the reason for the coterie to exist, the following should hold true:
+· The members of the coterie depend on their sires or Mawlas to understand how to survive as Kindred. They express their gratitude by doing odd jobs for their benefactors.
+· The characters are hungry to experience more of the night.
+· The characters are willing to take risks to satisfy their appetites.
+· The characters are fledgling Kindred who will become neonates in the course of this story.
+As the Storyteller, bring these points into the discussion as the players figure out what kind of coterie they have.
+The player characters share a Haven, a loft not far from The Velveteen Bunny. Their sires frequent the club as a feeding ground, information hub, or workplace, and it has become familiar to the player characters as well. The coterie members have bonded over the years while accompanying their sires. It's even possible that they work at the club.
+Existing Chronicles
+If you wish to slot the story into an existing chronicle, ignore the prewritten characters and simply choose the opening scene that works best with your player characters. You can also substitute your own supporting characters for the sires presented here, especially if the player characters already have sires. The important thing is to have more experienced supporting characters running after Cherry Moon, possibly making bad decisions while doing so.
+You can change the sire characters presented here into ordinary habitués of The Velveteen Bunny, the local Anarch hangout, who become interested in Cherry Moon. An easy way to include this story in an existing chronicle is to let the player characters find the body of a suitable Ally, Contact, or Enemy who has recently died or been killed. The players can then start the story somewhere where they can go through their dead associate's belongings. This can be just rifling through the pockets of a corpse or investigating the tragic site of a trusted contact's murder.
+
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 6
+
+A TASTE OF THE MOON
+Structure
+When you run the story, you should try to fit the events into the following scene structure:
+OPENING SCENES:
+
+A NIGHT TO REMEMBER...THAT
+YOU'D RATHER FORGET
+
+THE BLOOD OF CAINE
+
+COMPLICATIONS:
+
+THE HOOKUP
+
+A TASTE OF AN OLD FRIEND
+
+GOING TO A SIRE OR MAWLA
+FOR HELP
+
+SIRE OR MAWLA DEMANDS CHERRY
+MOON
+
+CONTACTING THE THIN-BLOODS TO ARRANGE DELIVERY
+
+THE VELVETEEN BUNNY
+
+Finding contact information for the thinbloods
+
+Meeting someone who has cherry moon
+
+Getting hustled by an older vampire
+
+Drive-by shooting
+
+Suprise Werewolf
+
+Discover the location of the
+thin-blood warehouse
+
+THE END Downloaded by on 10/22/2023 . Unauthoriz7ed distribution prohibited.
+
+A TASTE OF THE MOON
+Pushing Blood
+The first time you drank it, it tasted like sickly cherry cough syrup and battery acid. Your veins pulsed. You knew you were screaming something, but you couldn't hear the words. When you looked up at the warehouse ceiling, you felt like you could see through it, past the smog and clouds, and see the expansive moon before you. You stared at each other for a while, the moon and you. It took a moment for you to realize it was your white-faced Beast waiting. You were both silent, while the room grew louder and louder. Then ever so slowly, the Beast opened its blooddrenched mouth and screamed with you. Fuck. Everyone was right, this blood is the good shit... even when it's growing stale.
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 8
+
+A TASTE OF THE MOON
+
+Under the Influence
+All the licks want it, but what is Cherry Moon? The characters will slowly find out that Cherry Moon is the result of thin-blood alchemy: a mind-bending combination of cherry-flavored cough syrup, moldy maraschino cherries, citric acid, methylphenidate ... and the blood of a tortured werewolf who is very much alive.
+The blood itself has properties that are remarkably consistent among the Kindred who imbibe. Acting like a particularly good batch of coke, the substance allows a vampire to feel an elevated sense of euphoria (which is priceless for some). This masks the fact that it works extremely similarly to werewolf blood. Early batches of the blood (often stored in dark cobalt vials) work differently than the later batches (in branded scarlet vials), and a storyteller can play around with the two types of batches for impact.
+Because the blood cannot really be stored longer than a few hours, the switch in recipe should occur in the middle of the story. The first vials of blood the characters encounter will be cobalt, but later only the scarlet vials will be available.
+The one consistent trait of the two types is that if consumed frequently, a vampire craves the substance, taking use of it from a fun party activity to potential addiction.
+Original Flavor (Cobalt Vial)
+Upon taking it, one vial slakes 2 Hunger, but for every point of Hunger slaked, the Difficulty to resist frenzy increases by one. For the first 6 hours, it gives the user a Choleric Resonance boost and a deep sense of extreme euphoria that lasts until they slumber.
+Though werewolf blood and animal blood do not normally provide Dyscrasias, the Storyteller can choose one of the Choleric Dyscrasias (Vampire, p. 230) to raise the stakes.
+New Flavor (Scarlet Vial)
+Upon taking it, one full vial slakes 3 Hunger, but for every point of Hunger slaked, the Difficulty to resist frenzy increases by one. For the first 8 hours, it gives the user a Choleric Resonance boost that slowly ebbs out until they sleep. Much like ordinary werewolf blood, it makes the user paranoid and prone to violence.
+Upon awakening, the Kindred suffers the real comedown. The innate Animalism Resonance kicks up in
+
+SELLING BLOOD
+Selling blood to vampires sounds like a business idea that can't fail, but there are several issues that make it difficult. The obvious one is sourcing the blood. It needs to come from mortals, and most mortals are resistant to the idea of having their blood removed.
+The biggest problem is that blood spoils very fast. It turns rancid and loses its ability to sustain vampires in a matter of hours. What's more, outside a human body it also loses its taste. To the Kindred, it feels stale and unpleasant.
+There are different solutions to this problem. Some enterprising souls traffic live victims to vampires, providing blood that's 100% fresh because it's still inside a human body. Others focus on quick courier services, providing blood that's never more than an hour old. The trouble with both of these solutions is that they're extremely expensive, and in the case of courier-delivered blood, the taste still sucks bad enough that few Kindred of means want it. There are rumors that Blood Sorcery can allow the storage of drinkable mortal blood, but if that is true only the upper echelons of Camarilla courts are likely to benefit.
+This is the basic problem the thin-blood gang in this story are trying to fix using alchemy and werewolf blood. They try to make blood that tastes extraordinary, feels good, and lasts a few crucial hours longer in its vial before going bad.
+They have been unable to make it work with normal mortal blood, so the side effects of werewolf blood are baked into the experience, for good and ill.
+full force and includes a Compulsion. Use the Random Compulsions chart (Vampire, p. 208) to determine how the Kindred spends their first few hours engaging in the Compulsion.
+For those who ingest the new formula, Storytellers can choose to use the Vengeful Choleric Dyscrasia. They may then add two dice to a single test against the thinblood cooker gang.
+Storytellers can increase the duration of the game by showing the slow effects of the blood on the vampire's innate Beast. A vampire who imbibes once is fine, but over weeks, they become dependent on the substance. Consider it the unholy child of steroids and cocaine. After an appropriately dramatic span of time, the vampire's Humanity has degraded to such a degree that the Beast consumes them and they become a wight (Vampire, p. 375), a slave to their own Beast.
+
+Downloaded by on 10/22/2023 . Unauthoriz9ed distribution prohibited.
+
+A TASTE OF THE MOON
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 10
+
+A TASTE OF THE MOON
+Overdose
+Ingesting more than one vial of Cherry Moon during a single night causes cumulative effects. This means that the character's difficulty in resisting frenzy will quickly rise beyond manageable levels. Psychologically, overdosing on Cherry Moon feels like you're full of energy, your senses become incredibly sharp to the point of discomfort, and your temper is so short everything feels like an insult.
+The experience of having sharper senses is an illusion created by the drug, not an actual beneficial effect.
+The Velveteen Bunny
+In a rapidly gentrifying warehouse district, The Velveteen Bunny's days are numbered, but while it's there, it's the place to be for Anarchs in the city. Owned by a charismatic and louche blood gourmand, Zidane al-Najjar, it serves as a hangout for the prewritten player characters and their sires. Al-Najjar is also one of the prospective sires. Feeding at The Velveteen Bunny is forbidden, but every once in a while, someone breaks the rules. A former meatpacking warehouse, the basement club is a banal hookah lounge and party zone where kine badly hide their coke habits and order expensive alcohol, they'll vomit up later. While the mortals grind away on each other, listening to lackluster house music and contemplating a dying world, the upstairs is occasionally reserved for Kindred in the fading luxury of the club's VIP area. On these nights, Toreador neonates try to prove themselves by staging bizarre performances, and Anarchs pretend to relax while eyeing each other with envy and lust.
+If you're dropping this story into your ongoing chronicle, you can replace The Velveteen Bunny with a similar hangout of your own. It needs to be a place where local Anarchs visit often enough that you can run into Kindred randomly or witness a possible Cherry Moon transaction.
+...cherry-flavored cough syrup, moldy maraschino cherries, citric acid,
+methylphenidate...
+Downloaded by on 10/22/2023 . Unauthoriz11ed distribution prohibited.
+
+A TASTE OF THE MOON
+Drink Up: Opening Scenes
+Here is a selection of opening scenes for the story, with the default opener first and then additional ones in case you wish to customize the experience. The purpose of each is to introduce Cherry Moon to the coterie and get them interested in it. If you wish, you can use one or more of the unused opening scenes later when the characters discover more about the effects of the blood concoction.
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 12
+
+A TASTE OF THE MOON
+
+The Default Opening Scene: A Night to Remember... That You'd Rather Forget
+Some licks just can't hold their blood. Last night the characters had a little too much fun partying it up at The Velveteen Bunny. A punk Anarch acquaintance called Slick, who in retrospect the characters suspect is a Camarilla infiltrator, passed them some vials of Cherry Moon to share. The trip was amazing, but as the night progressed, the characters became paranoid and jumpy at everything.
+When play starts, the characters have just woken up at nightfall. They find themselves in a back room at The Velveteen Bunny, one of their sire's (Storyteller decides which one) favorite ghouls dead and bloodied on the floor.
+In this opening scene, the characters have already tried Cherry Moon. The Storyteller should describe their vague, fragmentary memories of the experience.
+LOCATION
+The Velveteen Bunny.
+SUPPORTING CHARACTERS
+Slick, a dodgy Toreador who's slumming it as a drug pusher (Difficulty 4/2, Auspex 1, Celerity 1). Not actually a Camarilla infiltrator, just an ordinary untrustworthy double-dealer.
+Henry Nowak, the dead ghoul.
+ROLLS
+Intelligence + Streetwise, Investigation, Medicine, or Awareness against Difficulty 4 to figure out what happened to the ghoul. He was killed by one of the player characters. A critical success reveals which one. (The Storyteller decides, or you can ask the players whose character would be most likely to do such a thing.)
+NEXT
+Once the proprietor of The Velveteen Bunny, Zidane alNajjar, realizes that the characters have caused a mess, he demands that they clean it up and let the ghoul's domitor know what has happened.
+Once the sire whose ghoul died finds out, the characters discover that the sire already knows about Cherry Moon. The sire demands six vials provided as compensation, sounding as if the blood might be more important than the just deceased ghoul.
+Perhaps Slick knows where to get more? Zidane al-Najjar might know how to find him, or a Wits + Streetwise roll against Difficulty 4 will result in a clue.
+
+If the player characters find Slick early in the story, he'll point them towards one of the other sires or Mawlas as the source of the blood. If late in the story, he'll give them info leading directly to the thin-bloods.
+Additional Opening Scenes
+If you've already run the story once with the default opening scene or if it wasn't quite to your taste, here are a couple of different ones that can throw the characters into the action.
+The Blood of Caine
+While on a short errand for their sire, Mawla, or a local bully to a Kindred antiquarian, a player character spies the proprietor leafing through a zine-like notebook filled with Noddist propaganda that suggests Cherry Moon is the distilled blood of Caine himself. Qioa Zhang, the proprietor, is happy to let the characters look at it but suggests that it's a Masquerade risk and certainly shouldn't be allowed to circulate.
+The notebook hints that with each vial of Cherry Moon imbibed, the Kindred can push back the rise of the Antediluvians in some mystical, ill-defined way. When questioned, the bookseller doesn't know where the pamphlet has come from beyond finding it in a stack of volumes received from the wannabe Noddist vampire Asher Hall, who may be one of the characters' sires.
+If the characters want to test out whether Cherry Moon works all the miracles attributed to it, perhaps Hall would have some since they seem to know so much about it?
+LOCATION
+The antiquarian provides her services only for select clientele. She operates out of her home, a ramshackle and poorly maintained townhouse with endless narrow corridors winding between bookshelves.
+SUPPORTING CHARACTERS
+Qiao Zhang, a Malkavian who used to be a rare book seller in life and continues the trade in death (Difficulty 4/3, Dominate 1, Auspex 2). Interested in occultism, rare books, and exciting new types of blood. The latter are of course extremely rare, making Cherry Moon interesting.
+ROLLS
+Intelligence + Occult against Difficulty 4 to assess the veracity of the notebook's claims. The line about Caine is probably bullshit, but it's possible there is a strange type
+
+Downloaded by on 10/22/2023 . Unauthoriz13ed distribution prohibited.
+
+A TASTE OF THE MOON
+
+of blood in circulation.
+Intelligence + Streetwise or Medicine against Difficulty 4 to realize that the business of selling blood to vampires has severe limitations. (Outlined in the sidebar Selling Blood on page 9.)
+NEXT
+If the characters got Asher Hall's name from the proprietor, they can go to The Velveteen Bunny and see if they get lucky. If they didn't, asking around at the nightclub is still a good way to find out if someone is known for ill-advisedly writing down vampire secrets.
+
+they explain the problems involved: How blood goes bad in a matter of hours and Cherry Moon seems to last a little longer, for some reason.
+NEXT
+The coterie can take the mortal to the sire who engaged the services of The Circulatory System. Hand over the sample of Cherry Moon. Or drink it. It has to be used either way because otherwise it spoils.
+They can also return to Hockney to ask where they got the sample. The source was the thin-bloods of course, and Hockney has a burner phone number for them.
+
+The Hookup
+
+A Taste of an Old Friend
+
+Asa Hockney, a former blood vessel for The Circulatory System (Vampire, p. 386), has recently been Embraced by one of the characters' sires (Storyteller chooses which one), making them vampiric siblings. Hockney is still working with the System, and the characters are picking up a drugged-up mortal from them for one of their sires.
+The scene starts with Hockney telling the characters about Cherry Moon and giving them a sample vial to take to the sire waiting for the mortal. Do the characters sample the contents of the vial themselves?
+Hockney is considering getting into the blood-bag business themselves, but it seems very difficult to make it work any other way except how The Circulatory System does it, i.e., with live victims.
+LOCATION
+Hockney is waiting with the mortal in a swanky but sterile apartment discreetly rented by The Circulatory System to facilitate their business in. It's located in a recently built tower block.
+SUPPORTING CHARACTERS
+Asa Hockney, a recently Embraced former Circulatory System vessel. Clan is determined by their sire. An entrepreneurial type, Hockey has emerged from a haze of addiction to consider their options in unlife. (Difficulty 4/3, 3 levels of Disciplines determined by clan.) Doesn't want to use Cherry Moon themselves because it seems dangerous but is happy to provide it to others.
+George Alonso, a newly fired investment banker who's zonked out of his head. Feeding from him means experiencing whatever hallucinogenic drugs he's currently on.
+ROLLS
+Charisma + Streetwise against Difficulty 4 to hold your own with Hockney in a discussion about the vagaries of selling blood to vampires. If Hockney feels you're a peer,
+
+One of the player characters' sires has become tired of their constant questioning concerning the nature of undeath. (Storyteller chooses which sire.) They have arranged for the coterie to meet an associate of theirs, a noted Noddist and occultist who can presumably explain what the vampiric condition is all about. When the characters arrive and play begins, they discover the house empty except for the corpses of six elderly mortals and the decomposed remains of the Noddist. There's blood everywhere, broken furniture, half-full glasses of sherry, and plates with uneaten cookies. A staid, elderly party has gone horrifically wrong.
+As the characters poke around the scene for information, they find two almost empty vials of Cherry Moon not far from the body of the Noddist. There's just enough to suggest that whatever was inside must have been absolutely delicious.
+LOCATION
+A musty brownstone house with thick carpets and hardwood bookshelves full of old occult tomes. The front door is ajar when the characters arrive.
+SUPPORTING CHARACTERS
+Armand Anchisi, a Malkavian occultist and Noddist. A noted researcher into questions of what being Kindred really means with a penchant for trying to fit every half-assed Theosophical treatise into the same framework as vampiric sources. Now destroyed.
+Six mortals, all harmless elderly occultists, bludgeoned and torn to death.
+ROLLS
+Wits + Investigate against Difficulty 3 reveals the presence of the Cherry Moon vials. When tasted, their contents feel rancid but some of the allure lingers.
+
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 14
+
+A TASTE OF THE MOON
+
+If the characters make more investigatory rolls with Occult, Awareness, Academics, Medicine, or even Larceny, they can discover the following:
+· The old mortals were bludgeoned and beaten to death. It appears they still have all their blood inside them.
+· Based on context, the decomposing corpse looks like it's probably that of Armand Anchisi. Although the severity of his wounds is hard to determine, his slipover and shirt have tears, which suggest repeated knife stabbings, as if he was in a struggle.
+· A scribbled note in the desk planner says Anchisi had a date with someone named Lilith an hour after nightfall. There's a phone number. In reality, Lilith is the thin-blood Constance Joy, and the number is for a burner phone she's using.
+· The security cameras of the bodega across the street caught the elderly mortals going in shortly after sundown, followed soon after by a woman in a biker's helmet. After 45 minutes, the cameras show the biker woman emerging again and leaving. (This is Constance Joy, delivering Cherry Moon to Anchisi, who wanted to use it in a ritual he was planning to perform with his occult reading circle.)
+· The house contains a number of books that would be valuable to the right buyer.
+NEXT The sire who sent the characters to Anchisi will want to know how it went. If told about Cherry Moon, the sire recognizes what it is and suggests the characters find more.
+Calling Constance leads to her rebuffing the characters if they're crass and accusatory or in a deal for Cherry Moon vials if they're friendly. She killed Anchisi after he lost control and attacked her, but she doesn't like to admit it.
+Brief Beginnings
+Here are a few more opening scenes, described briefly for the Storyteller to flesh out as needed. Slumming it. While on the hunt, the coterie comes across a fledgling Camarilla Toreador on their turf surrounded by spent paint cans and seemingly in a fit of Compulsion. When questioned, the Toreador admits that they are a graffiti artist who's been staring at the same wall for hours, having made a perfectly symmetrical mural of their personal heaven. In fact, it's all they can talk about. If the
+
+coterie destroys the mural, the scared fledgling will hastily give them their stuffed wallet and a half vial of a new blood on the streets that's supposed to be Cherry Moon in exchange for not getting their ass handed to them. There's only enough for everyone to get one delicious taste... but that's definitely not enough. If they shake down the Toreador further, they'll say they got it from their sire. Maybe the coterie can get some from theirs?
+Lips mark the spot. An acquaintance of the characters, a Gangrel who lives near Skid Row, joins them on the Hunt and tells them that a new symbol has popped up near some warehouses downtown. Two blood-red lips with a cherry shoved between them. When asked, the Gangrel suggests it's probably related to something new that has the local Anarchs abuzz: Cherry Moon. All sorts of claims are made about it, although they're probably just bullshit... but if they're not, maybe asking around could lead to a huge score?
+Opening Scenes for Chronicles
+These opening scenes work best if you're running the story as part of an ongoing chronicle.
+Resonance. A character is trying to learn a Discipline power that requires blood with a specific Resonance. While checking for leads through their contacts, they hear about a mysterious miracle blood that could be exactly what they need.
+The desperate friend. An acquaintance of the characters, a neonate Anarch, visits their haven to ask whether they've had a chance to try out the new blood that's been circulating among the city's Kindred. Something tasty and wonderful, worth trying even when you don't get it completely fresh. As the discussion progresses, it turns out the acquaintance wants to get their hands on the blood and hoped the player characters would have some. When this turns out not to be the case, they reveal a rumor that one or more of the coterie's sires have access to this wonderfully tasting blood.
+The bloody end... becomes a bloody beginning. An enemy of the characters has perished in a battle that has left the coterie spent. As they loot their enemy's wrecked Haven, they find a few fresh vials of Cherry Moon. Just enough for everyone to get a celebratory taste. They've heard a lot of talk on the streets about what it does even when a bit stale. The blood is dark and syrupy, and it smells of cherries. Once the coterie members imbibe the blood, they go on an ecstatic bender which makes them feel like gods. How to find more?
+
+Downloaded by on 10/22/2023 . Unauthoriz15ed distribution prohibited.
+
+A TASTE OF THE MOON
+Complications
+In the first days of your Embrace, you assumed your sire knew everything about everything. They told you so, after all. Regardless of how you felt when you were ripped away from your mortal life, you relied on them. You've run errands for them, protected them, and generally tried your best to heed their knowledgeable advice about the dangers of each waking night. You've learned some tricks on your own as well: how to stay one step ahead of the increasing surveillance of the modern world, how to find comrades, and how to keep your nose mostly clean. But tonight, something changes. You're watching your sire lick the inside of a blue vial like a hamster drinking from their water bottle. Suddenly things feel different. Complicated. If you didn't know any better, you'd call this a growing pain. Is disillusionment with your sire a necessary part of being Kindred?
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 16
+
+A TASTE OF THE MOON
+
+As a fledgling becomes a neonate, they have to confront the fact that just because they theoretically have eternity
+
+Zidane al-Najjar: The Amused Bouche
+
+to learn, their sires don't know everything. In this story,
+
+the characters' sires represent complications, issues
+
+This sire has an especially refined palette and wishes to
+
+that crop up when Cherry Moon starts to circulate.
+
+drink only from other supernatural creatures. This is not a
+
+Ever seeking sensations to enliven their otherwise cold
+
+supernatural compulsion but rather a personal affectation
+
+experience, some Kindred engage in intrigue on both a
+
+that's very difficult to satisfy because creatures or beings
+
+trivial and grand scale. A new blood with strange and
+
+who could provide such blood are extremely rare. He's
+
+exciting properties could be just the thing to help one feel heard about Cherry Moon and theorizes that it must
+
+something... even if it's fleeting.
+
+contain werewolf blood at the very least. If you could get
+
+him a steady supply of werewolf blood, he might be willing
+
+As the night progresses, the characters may come to
+
+to let you hunt at The Velveteen Bunny, just this once. If
+
+realize that in the hunt for exotic blood, they're the only
+
+you can bring him the werewolf itself, you could have all
+
+adults in the room. The desire for Cherry Moon makes
+
+of your past transgressions at the club
+
+their sires foolish.
+
+forgiven.
+
+As the Storyteller, once you
+
+They're killers,
+
+Stats: Difficulty 5/3, a total of 4
+
+have chosen a beginning that will suit your coterie, pick one or more
+
+but surely, they
+
+levels of clan Disciplines of levels 1 and 2.
+
+complications to make the hunt
+
+for Cherry Moon more interesting. wouldn't slay you!
+These complications can be sires who
+
+Actions and Scenes: Rhapsodize about the taste and texture of blood
+
+demand more of the new blood or
+
+from other supernatural creatures,
+
+problems arising from the thin-bloods who make it. The
+
+even if it's somewhat unclear whether the information
+
+characters may even get their own ideas about going into
+
+is theoretical or based on real experience. Speak about
+
+the blood business, although the difficulties involved may
+
+werewolves as if dealing with them would be completely
+
+soon disabuse them of such notions.
+
+safe. They're killers, but surely, they wouldn't slay you!
+
+On the off chance you're there when the werewolf in this
+
+If play feels like it's lagging, you can always add
+
+story is found, run away or get torn to shreds. Whatever
+
+a complication to spice things up. Perhaps instead of
+
+works best in the moment.
+
+providing just one vial to a hedonist sire who wants it for
+
+his weekly self-care routine, the characters will also need to secure a vial as penance for another sire who caught
+
+Asher Hall: The Neonate Noddist
+
+them pilfering a rare book.
+
+Once you're ready to move on from the complications to the story's final phase, tip the player characters off about the location of the thin-blood warehouse.
+
+How can you know anything about what being a vampire really means when everything is kept secret under the Masquerade? This sire has collected their ideas about Noddist lore, strange blood Resonances, and other topics
+
+The Sires
+
+relevant to the Kindred condition in little handwritten zine-like booklets, some of which they, unfortunately,
+
+have misplaced. Asher is incapable of separating fact from
+
+There are probably more prospective sires presented here than you need for the characters in the coterie. The rest can be local Kindred or even grandsires if you wish to create a whole lineage. The clan of each sire depends on the player character they're assigned to. A Brujah character's sire is also a Brujah.
+
+fiction and takes terrible risks with the Masquerade while imagining themselves a paragon of tradecraft. They're working on an article on the new blood phenomenon that's hit the streets, so if you're looking for a sample of Cherry Moon, now you're looking for two. It's for the cause of revealing the unknown!
+
+Some of the sires have alternative names depending on what kind of gender expression you think would work
+
+Stats: Difficulty 5/3, a total of 4 levels of clan Disciplines of levels 1 and 2.
+
+best for that character.
+
+Actions and Scenes: Demand more Cherry Moon from
+
+Asher Hall and Zidane al-Najjar are good default
+
+the characters. Show the characters your notes, which are
+
+sires. If you want to use just one, go with al-Najjar since
+
+borderline incomprehensible. (It might be better if they
+
+he provides an easy connection to The Velveteen Bunny.
+
+were completely incomprehensible.) Late in the game,
+
+you get arrested by suspiciously well-armed police, never
+
+to be seen again.
+
+Downloaded by on 10/22/2023 . Unauthoriz17ed distribution prohibited.
+
+A TASTE OF THE MOON
+"No thoughts, just vibes."
+
+Valery Green: The Family That Noshes Together...
+Your grandsire is expected to be in the city this week, and your sire would like to score something impressive for them since they're famous and all. So far, your sire has been thinking in terms of spiking mortal blood dolls with designer drugs, but they're willing to go with anything that seems suitably cool. They hear Cherry Moon may have traces of werewolf in it, so maybe you could bring them a vial and the werewolf? That would be extra impressive.
+Stats: Difficulty 4/4, a total of 4 levels of clan Disciplines of levels 1 and 2.
+Actions and scenes: Talk about how amazing your sire is. So old, refined, sophisticated, attractive... Really, just the
+
+vampire you all wish you could be. Famous, among those in the know. Late in the game, you find out that your sire has cancelled their visit. The only way to deal with that is to get high as a kite.
+Dominik/Dominique Barbero: The Forgetful Ritualist
+This sire would forget their fangs if they weren't permanently a part of their mouth. A noted ritualist, they usually have their childe set everything up and get all the ingredients for their occult dealings, so they only have to perform the rites; no need to worry about anything else. However, with the player characters spending more time independently of their sires, the sire forgot they needed blood with a particular Resonance. Cherry Moon might
+
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 18
+
+A TASTE OF THE MOON
+
+have it. They're not sure which kind they need, so if the coterie could get both, that'd be swell. Thanks. Stats: Difficulty 5/2, dice pool 7, a total of 6 levels of clan Disciplines. Actions and Scenes: Invent nicknames for the players' characters because you don't remember their actual names. Make big asks for frivolous reasons. Show up with inexplicably practical solutions after it feels like all is lost. Deny that you did it on purpose.
+Everybody Wants Some
+As news of Cherry Moon spreads among the local Anarchs, it feels like everybody wants some. The following characters can be Mawlas, grandsires, Kindred siblings, enemies,
+
+or random clanmates. They're all united by the fact that if they feel the players' characters have a line on Cherry Moon, they'll want some for themselves as well.
+Assign a clan to these characters depending on the relationship you want them to have with the players' characters.
+Brick Jones: The Laid-Back Lover
+If this vampire had a motto, it would be: "No thoughts, just vibes." A gorgeous himbo type, he sees vampiric existence essentially as a buffet of sensations, an emotional extravaganza to be experienced and enjoyed. He doesn't really understand any of the dangers of the night, and frankly, he doesn't care to. If the characters tell him about Cherry Moon, he will immediately want
+
+Downloaded by on 10/22/2023 . Unauthoriz19ed distribution prohibited.
+
+A TASTE OF THE MOON
+
+to try it. If they tell him it is made with werewolf blood, he will want to taste werewolf blood for himself and possibly try to romance the werewolf in the process. This is an intensely bad idea, but fortunately, the sire is easy to distract for player characters with the right approach. Stats: Difficulty 4/4, dice pool 6, a total of 5 levels of clan Disciplines. Actions and Scenes: Flirt lazily with anyone who might provide a taste of Cherry Moon. Talk about how hot you believe werewolves are. Maybe so hot, you'd feel something real when you made love? Something to speculate about! Fall for social ploys involving flattery.
+Isabelle Adewole: The Fashionista
+You can't expect a fledgling to understand couture. Who needs Thin-Blood Alchemy when you could be wearing the fresh, warm pelt of a newly-skinned werewolf? No one, that's who. Adewole wants to wear rich luxurious werewolf fur to every Kindred event this winter, and the only thing stopping her is the lack of ambition among the city's young Anarchs. She wants the characters to kill the werewolf (without messing up the pelt). Any Cherry Moon left over they can have. Stats: Difficulty 5/3, a total of 6 levels of clan Disciplines. Actions and Scenes: Act condescending to the characters. Flash your money around. Be unreasonable at all times. Escape all consequences.
+Pax: Brawler, Shot Caller
+Pax loves to brawl at the drop of a hat. An adrenaline junkie, they want to test themselves against something ferocious, preferably lethal. Just to get the blood metaphorically pumping in their veins. It's been decades since they felt like they owned the night. Obviously, there's only one way they want to get their mojo back: drugs. Or fighting the werewolf. Or fighting the werewolf while on drugs. Stats: Difficulties 5/3, a total of 4 levels of primarily physical clan Disciplines. Actions and Scenes: Be wildly enthusiastic about fighting something that could destroy you. Finally! Fuck yes! This is what we've all been waiting for! Get high and get fucked! Anything to feel something! Assume that everyone you speak to shares your predicament.
+Victor/Veronica Alon: the spiral
+This Anarch had a taste of Cherry Moon the moment it came out and has been downing a vial a night ever
+
+since. Blotted out of their mind, and quickly forming a dependence, they think the formula may have changed and want you to investigate. Their Beast has come to the forefront, and they end up killing one of their Touchstones and slowly entering a destructive spiral. Can the destruction of the whole operation lead to their redemption? Or will someone have to watch their sire, Mawla, or acquaintance become a wight? Stats: Difficulty 5/3, a total of 5 levels of clan Disciplines. Actions and Scenes: You're distraught from killing a Touchstone (your mortal nephew) but somehow transition from that to jonesing for more Cherry Moon in the span of a single conversation. Act like you could explode any second. If it feels like the game could use some action, escalate to frenzy at a perceived slight.
+Further Complications
+After the characters have dealt with the contradictory demands of their sires and other older Kindred among the local Anarchs, you can use these further complications to give more substance to the story.
+Buying Blood
+The player characters decide to try buying directly from the thin-bloods. To make this happen, they need to be able to contact them. Possible methods include a dead drop or a burner phone, the details for which they can get from a Mawla or another contact.
+Once the player characters indicate they wish to buy, one of the thin-bloods shows up on a motorcycle with the rapidly spoiling vial of Cherry Moon in hand. Cash only. Location: Wherever the characters decide the deal should happen. Characters: Constance Joy of the thin-bloods. See page 25. Next: The characters can try to follow Constance back to the thin-blood warehouse. It requires a successful Composure + Drive roll against Difficulty 4.
+Drive-By Shooting
+The thin-bloods discover that the characters are looking for them and start to feel uncomfortable. They do a drive-by shooting from a motorcycle when the characters are on the street. Ilya Abramov shoots while Constance Joy drives. Location: A street without too many bystanders. Characters: Constance Joy and Ilya Abramov of the thinbloods. See page 25.
+
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 20
+
+A TASTE OF THE MOON
+
+Next: The characters have one chance to shoot back with Wits + Firearms against Difficulty 4 before the thinbloods escape. The characters can follow them back to the thin-blood warehouse. It requires a successful Composure + Drive roll against Difficulty 4.
+Surprise Werewolf
+A local lupine has figured out that one of her kind is being held captive by licks. She shows up at an inconvenient moment and tries to cajole, threaten, or bribe the characters to tell her where to go. She tries to avoid fighting them but her distaste for vampires is evident. Location: The location of another scene, preferably at an awkward moment.
+
+Characters: Anna Rackova, a lupine with a day job at a public library. Anger issues but tries to keep them in check. (Use the werewolf stats in Vampire, p. 376.)
+Next: If the characters tell Anna the location of the thin-blood warehouse, there will be nothing but ruins left after her; she will rescue the captive lupine and destroy the thin-bloods. If the player characters go with her to the warehouse, it's possible to make a Manipulation + Persuasion roll against Difficulty 4 to keep her from getting violent, but she will demand the release of her kin. Convincing Anna to let a character drink her blood requires a sufficiently important favor and a successful Charisma + Persuasion roll against Difficulty 5.
+
+Downloaded by on 10/22/2023 . Unauthoriz21ed distribution prohibited.
+
+A TASTE OF THE MOON
+The End
+Once you were told how to recognize the sigils the thin-bloods used to mark the way to the warehouse, it was a straight shot. Peeking through the frosted glass, you see two individuals, probably the Duskborn dealers, hunched over a long steel table covered in opened packages of candy and boxes of cherry cough syrup. That explains the taste. But it doesn't explain the power. No, the scarred man held by chains secured to a hook in the ceiling explains that. You watch as the two thin-bloods shoot what seem to be tranquilizers into him -- using way more than any human could take. Enough to keep a werewolf sedated. The unnerving night howls are barely drowned out by the pulsing music, but soon the drugs take effect, and the howls turn into a sad whimper that leaves the man slack in his chains. Approaching with caution, one of the thin-bloods begins to draw his blood.
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 22
+
+A TASTE OF THE MOON
+Downloaded by on 10/22/2023 . Unauthori2z3ed distribution prohibited.
+
+A TASTE OF THE MOON
+
+Once the player characters have had enough complications, they are ready to move into the end phase of the story. If you used the complications, the coterie probably owe vials of blood to their sires or local Kindred, and reneging on those deals and promises or coming back empty-handed would not be wise. Besides, they might want a few vials for themselves as a little treat.
+Cherry Moon's power comes from werewolf blood, amplified by thin-blood alchemy. A gang of thin-bloods has captured a newly turned werewolf who only recently became aware of their true nature. To make matters more complicated, the werewolf is a cousin of one of the gang members and has been reported missing. At first, the thin-bloods imprisoned the new werewolf to save them from themselves (and avoid getting immediately murdered), but they soon realized that werewolf blood has amazing qualities.
+The longer the thin-bloods held the werewolf, the more Cherry Moon's makeup changed. The latest vials of Cherry Moon contain notes of anger, rage, hate, and betrayal.
+Once the player characters show up at the thinblood warehouse, the choices and rolls they make determine what happens next: Does the werewolf escape, killing the thin-bloods? Is a peaceful solution possible? What if more werewolves appear in search of
+
+their kin? How to deal with a situation that looks like it's going to devolve into violence any second?
+And of course, is it possible to get some of that blood before everything goes to hell?
+Thin-Blood Adversaries
+In the grimy wreckage of a former automotive warehouse, a gang of thin-bloods runs an unusual cookhouse. Cherry Moon has only been on the streets for a few weeks, but they've been experimenting with thin-blood alchemy for some time, by the looks of it. It's obvious that they are former meth cooks, who didn't let becoming Duskborn stop their production line.
+For a longer session, include more thin-bloods willing to put up a fight (or to get in the way if the werewolf gets loose) and a few kine (to fight, feel remorse for, or snack on during a conflict) who happen to be helping out for extra cash or are used as an additive to Cherry Moon. Some of the supporting characters from earlier scenes can also be present for reasons of their own. Maybe they just wish to buy in bulk?
+For a quicker ending, use just the three following thin-blood characters as adversaries. The werewolf is most likely to be the main event.
+
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 24
+
+A TASTE OF THE MOON
+
+PLAYING WITH LUPINES Lupines are called "the Great Enemy" for a reason. Many detest vampires and will do anything to rip them into tiny shreds of flesh. While vampires make their havens in cities, werewolves tend to keep to forests and other types of wilderness. Holding a werewolf captive in the middle of the city is not only dangerous but could bring all sorts of havoc down on the thin-bloods and the player characters.
+In addition, werewolf blood is so potent that it often makes licks do absurd things, like tying a family member up in a former automotive warehouse, using only thin chains, and taking their blood to make enhanced vampire juice.
+The Storyteller should use the base stats for werewolves (Vampire, p. 377). Storytellers should keep in mind that when vampires imbibe werewolf blood, it increases the chance they will frenzy. In addition, a character who drinks directly from this werewolf picks up a Compulsion, since it's particularly pissed off. Unlike the unpredictable effects of Cherry Moon itself, for characters who decide to sip from the source, the Harm Compulsion leads them to destroy, incapacitate, or scare away a target.
+ILYA ABRAMOV: THIN-BLOOD MUSCLE
+Archetype: Weapon of Convenience
+Difficulty: 4/2
+Keywords: Cocky, Rough, Wiseass
+Ilya is a former ghoul who used to run security for his sire. Abandoned when the Embrace didn't fully work out, he's had to survive the only way he's ever known ... working security for people he shouldn't be. A lick's gotta do what he's gotta do.
+Weapons: Gun, switchblade (both do +2 damage)
+CONSTANCE JOY: THIN-BLOOD ALCHEMIST
+Archetype: Guilty Embrace
+Difficulty: 4/2
+Keywords: Intelligent, Aggressive, Tenacious
+Constance came from the bad side of a good family. Though brilliant at science, she was offered no family
+
+support when it came time for her to go to college. Struggling to fund herself, she agreed to help her brother in his side hustle: amateur meth cooking. When the warehouse got crashed by some neonate vampires, they left two Duskborn in their wake: Constance and her brother, Caleb.
+Unlike Caleb, Constance is stoked to finally be free of society and would love to use her new condition to improve her situation. Cherry Moon was her idea, and she hopes it can finally get her and Caleb somewhere.
+Weapons: A Glock with 4 bullets (+2 damage)
+CALEB HOPE: THIN-BLOOD ALCHEMIST
+Archetype: Guilty Embrace
+Difficulty: 3/3
+Keywords: Haunted, Self-loathing, Sweet
+Like Constance, Caleb came from the bad side of a good family. He was once close with his cousin Robbie, who is now unfortunately a werewolf. Caleb was sweet and kind as a kid, but the effects of crushing poverty led him down a spiral of addiction he felt he'd never escape. When he got a hook-up from a friend to become a meth cook, he was desperate enough to agree. He didn't want to introduce Constance to the underworld he lived in, but she kept pressing him about his newfound cash.
+He carries the guilt of their current condition, even more now that Robbie's become a monster. It was his idea to chain Robbie up for their own good after he realized their condition, but it was Constance who got the bright idea to turn their cousin into a cash cow.
+Weapons: A switchblade (+2 damage)
+The thin-bloods are foolhardy and in over their heads, but they do have an instinct for self-preservation. They want eliminate immediate danger, preserve their business, and make some money. They'll run away if they feel like things are becoming too dangerous.
+Futher Hooks
+Once the player characters reach the end of the story, the Storyteller has a few options. If the story is run as a oneshot session, you're done. Tie up any lingering threads and consider if you'd like to turn this into the start of a
+
+Downloaded by on 10/22/2023 . Unauthori2z5ed distribution prohibited.
+
+A TASTE OF THE MOON
+
+THE BUSINESS OF BLOOD Selling blood is a very difficult business, and the thin-bloods are trying to make it work by using their alchemy to make a new type of blood called Cherry Moon. The specifics of their business are as follows:
+· One vial of either type of blood costs 1000 USD or the equivalent. This requires using using up two dots . The thin-bloods are not into bartering or discounts because the demand has been strong.
+· They are able to produce three vials a night.
+· The bottlenecks for the production are both the demands of the alchemical process and the amount of werewolf blood needed. The thin-bloods would love to scale up but don't know how.
+· The supply chain consists of Constance and her motorcycle. The thin-bloods are aware that this is a problem.
+· They have a moderate sum of money in cash at the warehouse.
+chronicle. If so, consider the following hooks to take you further into the night.Money for nothing. In the process of getting the vials, the player characters find out that one of the thin-bloods has been marked by the Camarilla and promised a full Embrace. As they investigate the warehouse, they'll realize the entire operation has been funded by a Ventrue ancilla who won't be pleased their side hustle has been found out, let alone destroyed.
+Bloody kisses. One of the mortals found stashed away in a side room and nearly drained is the ghoul of a Noddist ancilla. The ghoul's body is heavily tattooed with scripts and symbols that the characters don't seem to recognize, including a large bleeding rose on their hip. The kine promises an introduction to their mistress, who will reveal the secrets of Caine and the coming Gehenna, if the player characters save them. The ghoul is desperate enough that the characters may realize the promises are too great for anyone to make good on.
+Wolf like us. Werewolves aren't solitary creatures. The howls and screams of the tortured wolf have brought a pack to the edges of the city. By day they resemble goodnatured college kids in the big city for the first time, and now they have found the warehouse. When the pack picks up the scent of one of the player characters, the coterie may have a bigger problem on their hands than they thought.
+Is that the sound of the police? The new mayor of the city wants to look tough on crime for the midterm elections, so he's increased the police budget (again) and set a patrol in the warehouse districts looking for chop shops. When the fight with the werewolf gets a bit too
+
+loud and rowdy, the police may come to investigate. Can the player characters avoid ending up in the crosshairs of the Second Inquisition's many agencies?
+The Coterie
+A Taste of the Moon includes six prewritten characters you can use to play the story. All the characters share a Haven, and all are fledgling Anarchs still trying to figure out how to survive. They still run errands for their sires or Mawlas and help them out when they can, but as their confidence grows, they begin to feel like they don't have to rely on older Kindred as much as they used to. In fact, in some cases it's better not to rely on them at all.
+All the prewritten characters have two dots in Mawla (mentor), signaling that even though they're ready to get pushed out of the nest, maybe having an older vampire around who looks after you can still be advantageous. This can be the character's sire or a similar older vampire. Bear in mind that from the perspective of these characters, a neonate Embraced in 2009 is an older vampire.
+KEYWORDS AND SUGGESTED ACTIONS Usually when you create your character, you have time to think about the type of person they were before being Embraced and how they have evolved. The more you play the character, the more you understand how they work and the type of actions they will take in play. In order to get a head start on getting to know your character, in addition to the stats and basic concept of it, we have provided Keywords and Suggested Actions to get you deeper into character during play.
+Keywords are adjectives that describe the character, including positive and negative attributes. Is the character prone to nervousness? Do they laugh in the face of extreme violence? Do they have a wistful, melancholy heart? Keywords can help you shape the inner world of a character and also dictate what they show to other licks.
+Suggested Actions are ideas a player may want to use if they don't know what to do on their turn. Even the most experienced roleplayers may have moments in which they aren't sure how their character should react or what to do. If you find yourself in that spot, or you simply want some more ideas on how to up the ante, you can have your character engage in a suggested action.
+Neither Keywords nor Suggested Actions have any mechanical value. They're simply roleplaying tools to get the story flowing.
+
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 26
+
+A TASTE OF THE MOON
+Downloaded by on 10/22/2023 . Unauthori2z7ed distribution prohibited.
+
+A TASTE OF THE MOON
+AXEL BENNINGTON
+Keywords: Dependable, Wiseass, Overthinker, Impatient Axel never wanted to be a banker. He wanted to play bass in a band and cruise coastal
+highways on his rickety motorcycle. Instead, he found himself in a fluorescent cubicle pushing numbers around; the only thing between a family losing everything and the bank turning a profit. The situation was beyond corruption; the numbers never added up in anyone's favor except the bank's. Since being Embraced as a Brujah Anarch, Axel has actually enjoyed his nights, and he has taken to vampiric existence quickly. It's far easier to embezzle funds from a bank and funnel it through multinational shell companies and back into the communities that need it when you have no fear of being unable to eat. THINGS TO DO AS AXEL: · Be the adult in the room, reminding everyone of the consequences. · Enjoy the finer things in unlife -- just this once. · Lose your cool and punch a hole through someone who definitely deserves it.
+Clan: Brujah Embraced: 2021 (Born 1996) Ambition: I want someone in power to get what they deserve. Predator: Consensualist Convictions: People matter more than laws. Steal from the rich and give to the poor. Touchstones: Mimi Barrantes, an ER nurse and neighbor. Justin Chan, local game store owner. Humanity: 8 Generation: 13th Blood Potency: 1 Attributes: Strength 4, Dexterity 3, Stamina 2; Charisma 3, Manipulation 2, Composure 1; Intelligence 3, Wits 2, Resolve 2 Secondary Attributes: Health 6, Willpower 3 Skills: Athletics 1, Brawl (Kindred) 3, Drive 1, Finance 4, Larceny 2, Insight 3, Intimidation 2, Persuasion 2, Streetwise 3, Awareness 2, Medicine (phlebotomy) 3 Disciplines: Celerity 2 (Cat's Grace, Fleetness), Potence 1 (Lethal Body), Fortitude 1 (Resilience) Advantages: Mask 1, Resources 2, Mawla (mentor: sire) 2, Nuit Mode (Vampire Players Guide) Flaws: Dark Secret (Masquerade breacher) 1, Prey-Exclusion (non-consenting) 1, Stake Bait
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 28
+
+A TASTE OF THE MOON
+
+Name Axel Bennington
+
+Concept
+
+Predator Consensualist
+
+Chronicle
+
+Ambition
+
+Clan Brujah
+
+Sire
+
+Desire
+
+Generation 13th
+
+ATTRIBUTES
+
+Physical
+
+Strength
+
+¡ ¡ ¡ ¡ ¡
+
+Social
+
+Charisma
+
+¡ ¡ ¡ ¡ ¡
+
+Mental
+
+Intelligence
+
+¡ ¡ ¡ ¡ ¡
+
+Dexterity
+
+¡ ¡ ¡ ¡¡ Manipulation ¡ ¡ ¡¡¡
+
+Wits
+
+¡ ¡ ¡ ¡ ¡
+
+Stamina
+
+¡ ¡ ¡ ¡ ¡
+
+Composure
+
+¡ ¡ ¡ ¡ ¡
+
+Resolve
+
+¡ ¡ ¡ ¡ ¡
+
+Health
+¨¨¨¨¨ ¨¨¨¨¨
+
+Willpower
+¨¨¨¨¨ ¨¨¨¨¨
+
+SKILLS
+
+Athletics
+
+¡ ¡ ¡ ¡ ¡ Animal Ken
+
+¡ ¡ ¡ ¡ ¡ Academics
+
+Brawl
+
+¡ ¡ ¡ ¡ ¡ Etiquette
+
+¡ ¡ ¡ ¡ ¡ Awareness
+
+Craft
+
+¡ ¡ ¡ ¡ ¡ Insight
+
+¡ ¡ ¡ ¡ ¡ Finance
+
+Drive
+
+¡ ¡ ¡ ¡ ¡ Intimidation
+
+¡ ¡ ¡ ¡ ¡ Investigation
+
+Firearms
+
+¡ ¡ ¡ ¡ ¡ Leadership
+
+¡ ¡ ¡ ¡ ¡ Medicine
+
+Melee
+
+¡ ¡ ¡ ¡ ¡ Performance
+
+¡ ¡ ¡ ¡ ¡ Occult
+
+Larceny
+
+¡ ¡ ¡ ¡ ¡ Persuasion
+
+¡ ¡ ¡ ¡ ¡ Politics
+
+Stealth
+
+¡ ¡ ¡ ¡ ¡ Streetwise
+
+¡ ¡ ¡ ¡ ¡ Science
+
+Survival
+
+¡ ¡ ¡ ¡ ¡ Subterfuge
+
+¡ ¡ ¡ ¡ ¡ Technology
+
+DISCIPLINES
+
+Celerity
+
+¡ ¡¡¡¡ Potence
+
+Cat's Grace, Fleetness
+
+Lethal Body
+
+¡ ¡¡¡¡ Fortitude Resilience
+
+¡¡¡¡¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡¡¡¡¡ ¡ ¡ ¡ ¡ ¡ ¡¡¡¡¡ ¡¡¡¡¡ ¡¡¡¡¡ ¡¡¡¡¡
+¡ ¡ ¡ ¡ ¡
+
+¡¡¡¡¡
+
+¡¡¡¡¡
+
+¡¡¡¡¡
+
+DownlRoeasodnaendce by on 10/22/2023 . UnauHutnhgoerri¨2z9e¨d¨d¨is¨tributionHupmraonihtyib¨it¨e d¨.¨ ¨ ¨ ¨¨ ¨¨
+© 2018 White Wolf Entertainment
+
+A TASTE OF THE MOON
+MELIKA REDD
+Keywords: Charming, Confident, Brutally Honest, Suspicious Melika Redd puts the lick in lick. Statuesque and always dressed in the best, Melika's
+confidence exudes from every perfectly formed part of her. Her mortal life could have ended in the same way those of many of her friends did. Growing up in the roughest parts of the city in the `00s meant she was an easy target while walking home from her job as a dancer, keys clutched in her hands, ready to swing. However, a chance meeting with a Kindred client took off a cloak of fear she didn't even know she wore. Taking to the night with zeal, Melika has spent her nights since the Embrace secretly funneling money back to her community and dancing for Kindred who assume she's a Toreador. THINGS TO DO AS MELIKA: · Try something new with little to no fear of the consequences. You've spent enough time afraid. · Throw caution to the wind and hedonistically give in to every pleasure -- then worry whatever
+you've done won't be enough to satisfy you in the future. · Seduce someone cute for information, and then ask if they'd like to become a snack.
+Clan: Caitiff Embraced: 2020 (Born 1992) Ambition: To be the baddest bitch in the game. Any game. All games. Predator: Consensualist. Convictions: Innocence should be protected. Everyone deserves a beautiful life. Touchstones: Cinnamon, a go-go dancer and blood doll at the Velveteen Bunny. Mrs. Johnson, an elderly neighbor. Humanity: 8 Generation: 12th Blood Potency: 1 Attributes: Strength 1, Dexterity 2, Stamina 3; Charisma 4, Manipulation 3, Composure 2; Intelligence 2, Wits 3, Resolve 2 Secondary Attributes: Health 6, Willpower 4 Skills: Athletics 1, Brawl 1, Streetwise 2, Persuation 3 (vessels), Etiquette 2, Insight 3, Leadership 1, Performance (dancing) 4, Awareness 3, Finance 1, Academics 2, Medicine 2, Survival (urban exploration) 1 Disciplines: Potence 1 (Lethal Body), Presence 2 (Awe, Lingering Kiss), Auspex 1 (Heightened Senses) Advantages: Mawla (mentor: sire) 2, Beautiful 2, Mask 1, Money 2 Flaws: Prey Exclusion (sex workers) 1, Dark Secret (Masquerade breacher) 1, Prey-Exclusion (non-consenting) 1, Long Bond 1
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 30
+
+A TASTE OF THE MOON
+
+Name Melika Redd
+
+Concept
+
+Predator Consensualist
+
+Chronicle
+
+Ambition
+
+Clan Caitiff
+
+Sire
+
+Desire
+
+Generation 12th
+
+ATTRIBUTES
+
+Physical
+
+Strength
+
+¡ ¡ ¡ ¡ ¡
+
+Social
+
+Charisma
+
+¡ ¡ ¡ ¡ ¡
+
+Mental
+Intelligence ¡ ¡ ¡¡¡
+
+Dexterity
+
+¡ ¡ ¡¡¡ Manipulation ¡ ¡ ¡ ¡¡
+
+Wits
+
+¡ ¡ ¡ ¡ ¡
+
+Stamina
+
+¡ ¡ ¡ ¡ ¡
+
+Composure
+
+¡ ¡ ¡ ¡ ¡
+
+Resolve
+
+¡ ¡ ¡ ¡ ¡
+
+Health
+¨¨¨¨¨ ¨¨¨¨¨
+
+Willpower
+¨¨¨¨¨ ¨¨¨¨¨
+
+SKILLS
+
+Athletics Brawl Craft Drive Firearms Melee Larceny Stealth Survival
+Potence Lethal Body
+
+¡ ¡ ¡ ¡ ¡ Animal Ken
+
+¡ ¡ ¡ ¡ ¡ Academics
+
+¡ ¡ ¡ ¡ ¡
+
+¡ ¡ ¡ ¡ ¡ Etiquette
+
+¡ ¡ ¡ ¡ ¡ Awareness
+
+¡ ¡ ¡ ¡ ¡
+
+¡ ¡ ¡ ¡ ¡ Insight
+
+¡ ¡ ¡ ¡ ¡ Finance
+
+¡ ¡ ¡ ¡ ¡
+
+¡ ¡ ¡ ¡ ¡ Intimidation
+
+¡ ¡ ¡ ¡ ¡ Investigation
+
+¡¡¡¡¡
+
+¡ ¡ ¡ ¡ ¡ Leadership
+
+¡ ¡ ¡ ¡ ¡ Medicine
+
+¡ ¡ ¡ ¡ ¡
+
+¡ ¡ ¡ ¡ ¡ Performance
+
+¡ ¡ ¡ ¡ ¡ Occult
+
+¡¡¡¡¡
+
+¡ ¡ ¡ ¡ ¡ Persuasion
+
+¡ ¡ ¡ ¡ ¡ Politics
+
+¡¡¡¡¡
+
+¡ ¡ ¡ ¡ ¡ Streetwise
+
+¡ ¡ ¡ ¡ ¡ Science
+
+¡¡¡¡¡
+
+¡ ¡ ¡ ¡ ¡ Subterfuge
+
+¡ ¡ ¡ ¡ ¡ Technology
+
+¡¡¡¡¡
+
+DISCIPLINES
+
+¡ ¡¡¡¡ Presence
+
+¡ ¡ ¡ ¡ ¡ Auspex
+
+¡ ¡ ¡ ¡ ¡
+
+Awe, Lingering Kiss
+
+Heightened Senses
+
+¡¡¡¡¡
+
+¡¡¡¡¡
+
+¡¡¡¡¡
+
+DownlRoesaodnaencde by on 10/22/2023 . UnaHuutnhgeorri¨z31e¨d¨d¨is¨tributionHupmraonihtyib¨it¨e d¨.¨ ¨ ¨ ¨ ¨¨¨
+© 2018 White Wolf Entertainment
+
+A TASTE OF THE MOON
+CASSANDRA BARRANTES
+Keywords: Responsible, Wise, Romantic, Neurotic Cassandra knows her name fits perfectly with what happened to her -- in a way doomed
+her to become a Malkavian. In fact, as someone who's never felt entirely right in the world of the living, Cassandra knows that if she hadn't become a lick, she would have become something else... probably a werewolf, a ghost, or something like that. Considering she believes she can see the lines of fate in all things, she may be correct.
+Already a practicing occultist when she was Embraced by her Malkavian sire, Cassandra didn't see any reason to change anything about herself except being based in Miami, so she decided to start unlife in a new city. Trying to break out of the demure shell she carried in life, Cassandra flies under the radar as a popular YouTube tarot reader while amassing an impressive collection of books on every occult subject she can think of. Of course, she hasn't read them all, but fate has personally told her she will. THINGS TO DO AS CASSANDRA: · Use Obfuscate to leave an awkward situation you don't want to be a part of. · Try a new drug, blood, or physical sensation in the spirit of exposing yourself to something
+new. Instantly regret it as you worry about the threads of fate you altered while out of control. · Feel compelled to look into someone's soul without asking for permission. Tell them the worst
+bits. It's for their own good, honestly.
+Clan: Malkavian Embraced: 2019 (Born 1989) Ambition: To discover and fulfill your fate. Predator: Scene Queen (occultists) Convictions: The innocent should be protected from beings beyond their ken. Children should not suffer. Touchstones: Jaxon Barrantes, mortal nephew. Fatima Barrantes, mortal sister. Humanity: 7 Generation: 12th Blood Potency: 1 Attributes: Strength 2, Dexterity 2, Stamina 2; Charisma 3, Manipulation 1, Composure 3; Intelligence 4, Wits 2, Resolve 3 Secondary Attributes: Health 5, Willpower 6 Skills: Athletics 1, Larceny 1, Stealth 2 (shadowing), Etiquette 2 (occult), Insight 3, Leadership 1, Persuasion 3, Streetwise 2, Subterfuge 1 (innocence), Academics 3 (research), Awareness 2, Investigation 2, Occult 3, Technology 1, Finance 1 (occult business),Investigation 1 Disciplines: Auspex 2 (Heightened Senses, Premonition), Obfuscate 1 (Cloak of Shadows), Dominate 1 (Cloud Memory) Advantages: Mawla (mentor: sire) 2, Fame 1, Contacts 2, Mask 2 (astrologist), Resources 2 Flaws: Prey Exclusion (clergy) 1, Long Bond 1, Folkloric Bane 1 (holy water)
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 32
+
+A TASTE OF THE MOON
+
+Name Cassandra Barrantes Concept
+
+Predator Scene Queen
+
+Chronicle
+
+Ambition
+
+Clan Malkavian
+
+Sire
+
+Desire
+
+Generation 12th
+
+ATTRIBUTES
+
+Physical
+
+Strength
+
+¡ ¡ ¡ ¡ ¡
+
+Social
+
+Charisma
+
+¡ ¡ ¡ ¡ ¡
+
+Mental
+
+Intelligence
+
+¡ ¡ ¡ ¡ ¡
+
+Dexterity
+
+¡ ¡ ¡¡¡ Manipulation ¡ ¡¡¡¡
+
+Wits
+
+¡ ¡ ¡ ¡ ¡
+
+Stamina
+
+¡ ¡ ¡ ¡ ¡
+
+Composure
+
+¡ ¡ ¡ ¡ ¡
+
+Resolve
+
+¡ ¡ ¡ ¡ ¡
+
+Health
+¨¨¨¨¨ ¨¨¨¨¨
+
+Willpower
+¨¨¨¨¨ ¨¨¨¨¨
+
+SKILLS
+
+Athletics
+
+¡ ¡ ¡ ¡ ¡ Animal Ken
+
+¡ ¡ ¡ ¡ ¡ Academics
+
+Brawl
+
+¡ ¡ ¡ ¡ ¡ Etiquette
+
+¡ ¡ ¡ ¡ ¡ Awareness
+
+Craft
+
+¡ ¡ ¡ ¡ ¡ Insight
+
+¡ ¡ ¡ ¡ ¡ Finance
+
+Drive
+
+¡ ¡ ¡ ¡ ¡ Intimidation
+
+¡ ¡ ¡ ¡ ¡ Investigation
+
+Firearms
+
+¡ ¡ ¡ ¡ ¡ Leadership
+
+¡ ¡ ¡ ¡ ¡ Medicine
+
+Melee
+
+¡ ¡ ¡ ¡ ¡ Performance
+
+¡ ¡ ¡ ¡ ¡ Occult
+
+Larceny
+
+¡ ¡ ¡ ¡ ¡ Persuasion
+
+¡ ¡ ¡ ¡ ¡ Politics
+
+Stealth
+
+¡ ¡ ¡ ¡ ¡ Streetwise
+
+¡ ¡ ¡ ¡ ¡ Science
+
+Survival
+
+¡ ¡ ¡ ¡ ¡ Subterfuge
+
+¡ ¡ ¡ ¡ ¡ Technology
+
+DISCIPLINES
+
+Auspex
+
+¡¡ ¡¡¡ Obfuscate
+
+Heightened Senses
+
+Cloak of Shadows
+
+Premonition
+
+¡ ¡¡¡¡ Dominate Cloud Memory
+
+¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡¡¡¡¡ ¡ ¡ ¡ ¡ ¡ ¡¡¡¡¡ ¡¡¡¡¡ ¡ ¡ ¡ ¡ ¡
+¡ ¡ ¡ ¡ ¡
+
+¡¡¡¡¡
+
+¡¡¡¡¡
+
+¡¡¡¡¡
+
+DownlRoesaodnaencde by on 10/22/2023 . UnaHuutnhgeorri¨3z3e¨d¨d¨is¨tributionHupmraonihtyib¨it¨e d¨.¨ ¨ ¨¨ ¨¨¨
+© 2018 White Wolf Entertainment
+
+A TASTE OF THE MOON
+FINCH
+Keywords: Suave, Adventurous, Dominating, Fickle They don't really like to talk about where they're from, or what life existed beyond the
+unlife they have right now, tonight. It's not that they were from a broken home. It's not that they were Embraced by mistake. It's that for Finch, every night is a new adventure, a new chance to discover untold stories.
+Finch radiates excitement and dangerous animalistic beauty, like the feeling of a bad idea you're going to do anyway. They've been in the city for some time with their sire, and they feel like they're ready to leave the proverbial nest. Their current mask as a bartender is wearing thin. Maybe they'll break up with their blood doll girlfriend and have one last big night on the town. The road is calling. THINGS TO DO AS FINCH: · See if you can score a vial of something fresh that could satisfy your addiction and keep your
+mind on task. · Make someone a promise. Immediately choose to break it. · Give into the Beast and revel in turning an enemy into pulp.
+Clan: Gangrel Embraced: 2018 (Born 1999) Ambition: To see the world and make a name for myself. Predator: Siren Convictions: Rebelling is always good. Touchstones: Juan Alamanzar, local bodega owner. Emmy Stardust, blood doll girlfriend. Humanity: 6 Generation: 13th Blood Potency: 1 Attributes: Strength 4, Dexterity 3, Stamina 3; Charisma 2, Manipulation 2, Composure 2; Intelligence 1, Wits 2, Resolve 3 Secondary Attributes: Health 7 (with Resilience), Willpower 5 Skills: Athletics 1, Brawl (armed mortals) 4, Melee 3, Survival (urban wilderness) 2, Animal Ken 1, Intimidation 2, Streetwise 3, Awareness 2, Persuasion (seduction) 3 Disciplines: Animalism 3 (Sense the Beast, Feral Whispers, Quell the Beast), Fortitude 1 (Resilience) Advantages: Mawla (mentor: sire) 2, Beauty 2, Mask 1, Resources 1, Short Bond 2, Bloodhound 1 Flaws: Enemy (jealous partner) 1, Addiction (methylphenidate) 1, Folkloric Bane 1 (silver)
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 34
+
+A TASTE OF THE MOON
+
+Name Finch
+
+Concept
+
+Predator Siren
+
+Chronicle
+
+Ambition
+
+Clan Gangrel
+
+Sire
+
+Desire
+
+Generation 13th
+
+ATTRIBUTES
+
+Physical
+
+Strength
+
+¡ ¡ ¡ ¡ ¡
+
+Social
+
+Charisma
+
+¡ ¡ ¡ ¡ ¡
+
+Mental
+Intelligence ¡ ¡¡¡¡
+
+Dexterity
+
+¡ ¡ ¡ ¡¡ Manipulation ¡ ¡ ¡¡¡
+
+Wits
+
+¡ ¡ ¡ ¡ ¡
+
+Stamina
+
+¡ ¡ ¡ ¡ ¡
+
+Composure
+
+¡ ¡ ¡ ¡ ¡
+
+Resolve
+
+¡ ¡ ¡ ¡ ¡
+
+Health
+¨¨¨¨¨ ¨¨¨¨¨
+
+Willpower
+¨¨¨¨¨ ¨¨¨¨¨
+
+SKILLS
+
+Athletics Brawl Craft Drive Firearms Melee Larceny Stealth Survival
+Animalism Sense the Beast Feral Whispers Quell the Beast
+
+¡ ¡ ¡ ¡ ¡ Animal Ken
+
+¡ ¡ ¡ ¡ ¡ Academics
+
+¡ ¡ ¡ ¡ ¡ Etiquette
+
+¡ ¡ ¡ ¡ ¡ Awareness
+
+¡ ¡ ¡ ¡ ¡ Insight
+
+¡ ¡ ¡ ¡ ¡ Finance
+
+¡ ¡ ¡ ¡ ¡ Intimidation
+
+¡ ¡ ¡ ¡ ¡ Investigation
+
+¡ ¡ ¡ ¡ ¡ Leadership
+
+¡ ¡ ¡ ¡ ¡ Medicine
+
+¡ ¡ ¡ ¡ ¡ Performance
+
+¡ ¡ ¡ ¡ ¡ Occult
+
+¡ ¡ ¡ ¡ ¡ Persuasion
+
+¡ ¡ ¡ ¡ ¡ Politics
+
+¡ ¡ ¡ ¡ ¡ Streetwise
+
+¡ ¡ ¡ ¡ ¡ Science
+
+¡ ¡ ¡ ¡ ¡ Subterfuge
+
+¡ ¡ ¡ ¡ ¡ Technology
+
+DISCIPLINES
+
+¡ ¡ ¡ ¡ ¡ Fortitude Resilience
+
+¡ ¡ ¡ ¡ ¡
+
+¡¡¡¡¡ ¡ ¡ ¡ ¡ ¡ ¡¡¡¡¡ ¡¡¡¡¡ ¡¡¡¡¡ ¡¡¡¡¡ ¡¡¡¡¡ ¡¡¡¡¡ ¡¡¡¡¡
+¡¡¡¡¡
+
+¡¡¡¡¡
+
+¡¡¡¡¡
+
+¡¡¡¡¡
+
+DownRloesaondaencde by on 10/22/2023 . UnaHuutnhgeorr¨i3z5e¨d¨d¨is¨tributionHupmraonihtyib¨it¨e d¨.¨ ¨ ¨ ¨¨¨¨
+© 2018 White Wolf Entertainment
+
+A TASTE OF THE MOON
+THOMAS NG
+Keywords: Curious, Enthusiastic, Innovative, Petty Work hard and play harder was a motto Thomas held in life, but since his Embrace, his
+palette has greatly increased with it comes to play. Previously a nurse at a local free clinic, Thomas spends half his time offering check-ups to the kine on skid row who could use a doctor. The other half is for doing all the things he used to stop himself from doing because it could fuck him over.
+A hedonist within reason, Thomas knows he has to be careful lest the Beast leads him too far down the dangerous path he's trying to walk. That's why the idea of drinking from blood bags attracts him, even though his experience with them has, so far, been decidedly lackluster. Innately curious about combining drugs and blood, Thomas keeps a helpful spreadsheet of all his experiments with drinking from drugged-up mortals. THINGS TO DO AS THOMAS: · Seek out new sensations, weighing the pros and cons before diving in. · Touch, handle, or poke around something you shouldn't. · Accidentally share everything you know about a subject because you're too excited to keep it in.
+Clan: Brujah Embraced: 2016 (Born 1985) Ambition: To leave a legacy of knowledge. Predator: Bagger Convictions: Knowledge is sacred. Provide help to the forgotten. Touchstones: Pat Khan, elderly neighbor. Franck, houseless college student. Humanity: 7 Generation: 13th Blood Potency: 1 Attributes: Strength 2, Dexterity 2, Stamina 2; Charisma 3, Manipulation 1, Composure 4; Intelligence 2, Wits 3, Resolve 3 Secondary Attributes: Health 5, Willpower 4 Skills: Medicine 3, Insight 3, Leadership 1, Persuasion 4, Academics 1 (blood types), Awareness 2, Investigation 3, Technology 2, Science 2 (data management), Streetwise 1 (black market) Disciplines: Potence 1 (Prowess), Presence 1 (Awe), Celerity 1 (Cat's Grace), Obfuscate 1 (Silence of Death) Advantages: Mawla 2 (mentor: sire), Resources 1, Mask 2 (houseless outreach provider), Iron Gullet 3, Contacts 2 Flaws: Prey Exclusion (houseless people) 1 , Enemy (a thin-blood junkie) 2, Known Corpse 1
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 36
+
+A TASTE OF THE MOON
+
+Name Thomas Ng
+
+Concept
+
+Predator Bagger
+
+Chronicle
+
+Ambition
+
+Clan Brujah
+
+Sire
+
+Desire
+
+Generation 13th
+
+ATTRIBUTES
+
+Physical
+
+Strength
+
+¡ ¡ ¡ ¡ ¡
+
+Social
+
+Charisma
+
+¡ ¡ ¡ ¡ ¡
+
+Mental
+Intelligence ¡ ¡ ¡¡¡
+
+Dexterity
+
+¡ ¡ ¡¡¡ Manipulation ¡ ¡¡¡¡
+
+Wits
+
+¡ ¡ ¡ ¡ ¡
+
+Stamina
+
+¡ ¡ ¡ ¡ ¡
+
+Composure
+
+¡ ¡ ¡ ¡ ¡
+
+Resolve
+
+¡ ¡ ¡ ¡ ¡
+
+Health
+¨¨¨¨¨ ¨¨¨¨¨
+
+Willpower
+¨¨¨¨¨ ¨¨¨¨¨
+
+SKILLS
+
+Athletics Brawl Craft Drive Firearms Melee Larceny Stealth Survival
+Potence Prowess
+
+¡ ¡ ¡ ¡ ¡ Animal Ken
+
+¡ ¡ ¡ ¡ ¡ Academics
+
+¡ ¡ ¡ ¡ ¡ Etiquette
+
+¡ ¡ ¡ ¡ ¡ Awareness
+
+¡ ¡ ¡ ¡ ¡ Insight
+
+¡ ¡ ¡ ¡ ¡ Finance
+
+¡ ¡ ¡ ¡ ¡ Intimidation
+
+¡ ¡ ¡ ¡ ¡ Investigation
+
+¡ ¡ ¡ ¡ ¡ Leadership
+
+¡ ¡ ¡ ¡ ¡ Medicine
+
+¡ ¡ ¡ ¡ ¡ Performance
+
+¡ ¡ ¡ ¡ ¡ Occult
+
+¡ ¡ ¡ ¡ ¡ Persuasion
+
+¡ ¡ ¡ ¡ ¡ Politics
+
+¡ ¡ ¡ ¡ ¡ Streetwise
+
+¡ ¡ ¡ ¡ ¡ Science
+
+¡ ¡ ¡ ¡ ¡ Subterfuge
+
+¡ ¡ ¡ ¡ ¡ Technology
+
+DISCIPLINES
+
+¡ ¡¡¡¡ Presence Awe
+
+¡ ¡¡¡¡ Celerity Cat's Grace
+
+¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡¡¡¡¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡¡¡¡¡ ¡¡¡¡¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡
+¡ ¡ ¡ ¡ ¡
+
+Obfuscate Silence of Death
+
+¡ ¡ ¡ ¡ ¡
+
+¡¡¡¡¡
+
+¡¡¡¡¡
+
+DownlRoesaodnaencde by on 10/22/2023 . UnaHuutnhgeorri¨3z7e¨d¨d¨is¨tributionHupmraonihtyib¨it¨e d¨.¨ ¨ ¨ ¨ ¨¨¨
+© 2018 White Wolf Entertainment
+
+A TASTE OF THE MOON
+GARNET GRIER
+Keywords: Funny, Insightful, Chaotic, Vengeful Garnet Grier was Embraced at a concert the night she made up her mind that she was
+leaving law for comedy. This is a fact she finds deeply amusing. Garnet does her best to find the humor in death, and nothing is more absurd to her than knowing her sire Embraced her for her Rubenesque beauty... which appeared to them as they fell into the acid trip hiding in her blood.
+When her sire left the Camarilla, Garnet followed with a sigh of relief. Existing among them always felt like one wrong step would bring everything crashing down around her, and honestly, that was too much pressure. Naturally gifted with a quick wit and writing prowess, sometimes Garnet wishes she could take her routines outside of Kindred clubs where entertaining monsters is a drag. So many ancillae can't take a joke. THINGS TO DO AS GARNET: · Distract an enemy with a joke and if they don't laugh, rip them apart because they
+disrespected your brilliant timing. · Find the humor in even the bleakest of situations. · Convince someone powerful to laugh at themselves.
+Clan: Toreador Embraced: 2016 (Born 1991) Ambition: To reach my full potential Predator: Scene Queen Convictions: Go your own way. Art is liberation. Touchstones: Robbie Mills, local gas station attendant. Flavia Davit, retired burlesque artist. Humanity: 7 Generation: 12th Blood Potency: 1 Attributes: Strength 1, Dexterity 2, Stamina 2; Charisma 4, Manipulation 3, Composure 2; Intelligence 3, Wits 3, Resolve 2 Secondary Attributes: Health 6, Willpower 4 Skills: Etiquette (comedy) 3, Performance 3, Tech 1, Investigation 1, Academics (law) 3, Persuasion 4, Streetwise 2, Driving 2, Melee 2, Awareness 1 Disciplines: Celerity 1 (Cat's Grace), Presence 2 (Awe, Daunt), Fortitude 1 (Resilience) Advantages: Mawla (mentor: sire) 2, Fame 1, Contacts 3, Mask 1, Short Bond Flaws: Prey Exclusion (hippies) 1, Folkloric Bane (silver) 1, Dark Secret 1 (debt)
+Downloaded by on 10/22/2023 . Unauthorized distribution prohibited. 38
+
+A TASTE OF THE MOON
+
+Name Garnet Grier
+
+Concept
+
+Predator Scene Queen
+
+Chronicle
+
+Ambition
+
+Clan Toreador
+
+Sire
+
+Desire
+
+Generation 12th
+
+ATTRIBUTES
+
+Physical
+
+Strength
+
+¡ ¡ ¡ ¡ ¡
+
+Social
+
+Charisma
+
+¡ ¡ ¡ ¡ ¡
+
+Mental
+
+Intelligence
+
+¡ ¡ ¡ ¡ ¡
+
+Dexterity
+
+¡ ¡ ¡¡¡ Manipulation ¡ ¡¡ ¡¡
+
+Wits
+
+¡ ¡ ¡ ¡ ¡
+
+Stamina
+
+¡ ¡ ¡ ¡ ¡
+
+Composure
+
+¡ ¡ ¡ ¡ ¡
+
+Resolve
+
+¡ ¡ ¡ ¡ ¡
+
+Health
+¨¨¨¨¨ ¨¨¨¨¨
+
+Willpower
+¨¨¨¨¨ ¨¨¨¨¨
+
+SKILLS
+
+Athletics Brawl Craft Drive Firearms Melee Larceny Stealth Survival
+Celerity Cat's Grace
+
+¡ ¡ ¡ ¡ ¡ Animal Ken
+
+¡ ¡ ¡ ¡ ¡ Academics
+
+¡ ¡ ¡ ¡ ¡ Etiquette
+
+¡ ¡ ¡ ¡ ¡ Awareness
+
+¡ ¡ ¡ ¡ ¡ Insight
+
+¡ ¡ ¡ ¡ ¡ Finance
+
+¡ ¡ ¡ ¡ ¡ Intimidation
+
+¡ ¡ ¡ ¡ ¡ Investigation
+
+¡ ¡ ¡ ¡ ¡ Leadership
+
+¡ ¡ ¡ ¡ ¡ Medicine
+
+¡ ¡ ¡ ¡ ¡ Performance
+
+¡ ¡ ¡ ¡ ¡ Occult
+
+¡ ¡ ¡ ¡ ¡ Persuasion
+
+¡ ¡ ¡ ¡ ¡ Politics
+
+¡ ¡ ¡ ¡ ¡ Streetwise
+
+¡ ¡ ¡ ¡ ¡ Science
+
+¡ ¡ ¡ ¡ ¡ Subterfuge
+
+¡ ¡ ¡ ¡ ¡ Technology
+
+DISCIPLINES
+
+¡ ¡¡¡¡ Presence Awe Daunt
+
+¡ ¡ ¡¡¡ Fortitude Resilience
+
+¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡ ¡¡¡¡¡ ¡ ¡ ¡ ¡ ¡ ¡¡¡¡¡ ¡¡¡¡¡ ¡¡¡¡¡ ¡¡¡¡¡ ¡ ¡ ¡ ¡ ¡
+¡ ¡ ¡ ¡ ¡
+
+¡¡¡¡¡
+
+¡¡¡¡¡
+
+¡¡¡¡¡
+
+DownlRoesaodnaencde by on 10/22/2023 . UnaHuutnhgeorri¨3z9e¨d¨d¨is¨tributionHupmraonihtyib¨it¨e d¨.¨ ¨ ¨ ¨ ¨¨¨
+© 2018 White Wolf Entertainment
+
+A TASTE OF THE MOON
+
+VAMPIRE: THE MASQUERADE
+5TH EDITION CORE RULEBOOK
+· Core rulebook for players and Storytellers · Play as a vampire struggling for survival
+and supremacy · Navigate undead politics while avoiding
+deadly hunters
+$55
+
+VAMPIRE: THE MASQUERADE 5TH EDITION DICE SET
+$20
+
+VAMPIRE: THE MASQUERADE 5TH EDITION STORYTELLER'S SCREEN & TOOLKIT
+$30
+
+VAMPIRE: THE MASQUERADE 5TH EDITION EXPANDED CHARACTER JOURNAL
+$21.99
+
+VAMPIRE: THE MASQUERADE 5TH EDITION ANARCH
+· Features lore on the Anarch Movement, rules for clan Ministry, and more
+$50
+
+VAMPIRE: THE MASQUERADE 5TH EDITION CHICAGO BY NIGHT
+· Features the Kindred history of Chicago, rules for clan Lasombra, and guidance for Storytellers for stories in the city
+$55
+
+VAMPIRE: THE MASQUERADE 5TH EDITION CAMARILLA
+· Features lore on the Camarilla faction, rules for clan Banu Haqim, and more
+$50
+
+VAMPIRE: THE MASQUERADE 5TH EDITION FALL OF LONDON
+· Explores the events that led to the destruction of London's Kindred by mortal hunters
+$45
+
+VAMPIRE: THE MASQUERADE 5TH EDITION CULTS OF THE BLOOD GODS
+· Features lore on the Hecata clan, rules for the Oblivion Discipline, and more
+$45
+
+VAMPIRE: THE MASQUERADE 5TH EDITION SECOND INQUISITION
+· Expand your chronicles with dangerous antagonists and tactics your coterie can use to fight back
+$45
+
+VAMPIRE: THE MASQUERADE 5TH EDITION THE BOOK OF NOD
+· A collection of rich mythology on the creation of vampires for use in your chronicles
+$50
+
+VAMPIRE: THE MASQUERADE 5TH EDITION SABBAT: THE BLACK HAND
+· Features lore for the Sabbat and rules on introducing them as antagonists in your chronicles
+$45
+
+Downloaded by on 10/22/2023 . Unauthorized © 2022 RENEGADE GAME STUDIOS. © 2022dPARisADtOrXiINbTEuRAtCiToIVEnAB.prohibited. 40
+
+

@@ -15,7 +15,7 @@ consultando regras, montando NPCs ou personagens e preparando sessões. **Respon
 | `vault/Narração/` | Guia do Narrador, coteries, mapa de relacionamentos, dicas |
 | `vault/Aventuras/` | Under the Skin |
 | `vault/Personagens/` | Fichas dos PCs em Markdown |
-| `vault/bibliografia/*.txt` | **Texto integral** (em inglês) de 15 livros: Anarch, Blood Sigils, Camarilla, Chicago by Night, Children of the Blood, Companion, Cults of the Blood Gods, Fall of London, Forbidden Religions, Player's Guide, Sabbat: The Black Hand, Second Inquisition, Storyteller Toolkit, Book of Nod Apocrypha, Under the Skin |
+| `vault/bibliografia/*.txt` | **Texto integral** (em inglês) de 32 livros. Cenário e facções: Anarch, Camarilla, Chicago by Night, Chicago Folios, Courts of the Damned, Crimson Gutter, Fall of London, Let the Streets Run Red, Sabbat: The Black Hand, Second Inquisition. Suplementos: Blood Sigils, Blood Stained Love, Book of Nod Apocrypha, Children of the Blood, Companion, Cults of the Blood Gods, Forbidden Religions, Gehenna War, In Memoriam, Player's Guide, Storyteller Toolkit, Tattered Façade, Trails of Ash and Bone. Starters: New Blood Starter Pack, The Monsters (Quickstart). Aventuras: Auld Sanguine, A Taste of the Moon, Love Bites, Midnight Kiss, Three Knives at Midnight, Under a Changing Moon, Under the Skin. Ainda sem texto: Boston by Night, Revelations of the Dark Mother e Play Renegade temporadas 1 a 3. Os PDFs e um índice de uso ficam fora do repo, em `G:\Meu Drive\biblio\RPG\Vampire The Masquerade\CLAUDE.md` |
 | `vault/bibliografia/documentos/Vampire the Masquerade.pdf` | **Core Rulebook** (só PDF, só local — não está no git) |
 | `src/` | App React (ficha + vault web). Ver `src/README.md` e `src/SPEC.md`. |
 

@@ -1,0 +1,3157 @@
+Season Five
+UNDER A CHANGING
+MOON
+A STORY FOR VAMPIRE: THE MASQUERADE OR WEREWOLF: THE APOCALYPSE
+
+UNDER A CHANGING MOON
+
+Author: Jose Garcia Developer: Juhana Pettersson with Kevin Schluter
+Producer: Kevin Schluter Art Director and Graphic Design: Sarah Robinson
+Illustrators: Maichol Quinto and Paradox Artist(s) Copy Editor: Brendan Rabon
+Cultural Consultant: Logan Boese Proofreader: Nathan Gerber
+WORLD OF DARKNESS TEAM
+Vice President: Sean Greaney Editor: Karim Muammar
+Art Director: Tomas Arfert Marketing Manager: Jason Carl Partnerships Manager: Dhaunae De Vir Community Developer: Martyna "Outstar" Zych Licensing Manager: Nikola Filipov Campaign Manager: Viktor Bovallius
+
+RENEGADE GAME STUDIOS
+
+President & Publisher: Scott Gaeta Finance Controller: Robyn Gaeta Vice President of Operations: Leisha Cummins Vice President Sales: Andrew Lupp Senior Producer, Board & Card Games: Dan Bojanowski Producer, RPGs: Kevin Schluter Associate Producer, Board & Card Games: Kane Klenko Associate Producer, Heroscape: Lee Houff Associate Producer, RPGs: Ben Heisler Director of Visual Design: Anita Osburn Creative Director, Games: Jeanne Torres Creative Director, RPGs: Sarah Robinson Senior Game Designer: Matt Hyra Game Designers: Alex Davy, Dyllan Fernandez, Dan Blanchett, Christopher Chung, & Sarah Rowan
+
+Lead Developer, World of Darkness: Juhana Pettersson Playtest Coordinator: Marcus E. Burchers Marketing Manager: Jordan Gaeta E-Commerce Manager: Nick Medinger Event Manager: Sara Erickson Organized Play Manager: Trevor McGregor Project Manager: Rachel Del Rio
+Customer Service Manager: Jenni Janikowski Finance Specialist: Madeline Minervini
+Creative Production: Noelle Lopez & Gordon Tucker Customer Service: Bethany Bauthues
+Community Coordinator: Anais Morgan Sales & Marketing Coordinator: Sophia Gambill
+Community Specialist: Rina Amaranthine
+
+© 2025 Paradox Interactive AB. VAMPIRE: THE MASQUERADE, WEREWOLF: THE APOCALYPSE, and PARADOX INTERACTIVE are trademarks and/or registered trademarks of Paradox Interactive AB in Europe, the U.S., and other countries. Any other trademark, logo,
+and copyright is the property of its owner.
+Visit the World of Darkness online at www.worldofdarkness.com
+
+Table of Contents
+
+Introduction
+
+4
+
+Background
+
+4
+
+Story Structure
+
+5
+
+Goals and Themes
+
+5
+
+Running a Heist
+
+6
+
+Story Considerations
+
+6
+
+Chapter One: Make Plans
+
+8
+
+Motives and Leads
+
+8
+
+Prep Work
+
+9
+
+Strategies
+
+10
+
+The Fight Outside
+
+11
+
+Chapter Two: The Estates
+
+12
+
+Ground Floor
+
+12
+
+Second Floor
+
+12
+
+Third Floor
+
+13
+
+The Rivals
+
+13
+
+Chapter Three: Securing the Score
+
+14
+
+Where's The Score?
+
+14
+
+The Rivals, Revisited
+
+15
+
+The Ceremony
+
+15
+
+Keystone Strikes
+
+16
+
+Chapter Four: Get Down, Get Out
+
+17
+
+Means of Escape
+
+17
+
+Pedal to the Metal
+
+18
+
+Epilogues
+
+18
+
+In Chronicles
+
+19
+
+Appendix I: Antagonists
+
+20
+
+Balm Cultists
+
+20
+
+The Captive and Infiltrators
+
+21
+
+Keystone Agent
+
+22
+
+Rivals: Leeches & Lupines
+
+22
+
+Appendix II: Players' Characters
+
+24
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+INTRODUCTION
+Everyone is a moon and has a dark side that he never shows to anybody.
+--Mark Twain
+
+In a rundown neighborhood, a cult performs strange rituals on those seeking healing and transcendence. Supernatural entities sense an opportunity and seek to infiltrate the cult with their underlings, but things deteriorate.
+This is the basic situation the players' characters in Under a Changing Moon step into. The story is designed to be played either with Vampire: The Masquerade or Werewolf: The Apocalypse. If the players' characters are vampires, the infiltrators they find complicating matters with the cult are werewolves. If the players' characters are werewolves, it's vice versa.
+To make things worse, the infiltration didn't go as planned by the leaders of the vampires or werewolves. From the outside, it looks as if a human cult has gained access to real supernatural power, presenting a threat to the Masquerade and the Veil. This has to be halted, providing the impetus for the players' characters to intervene.
+The players' characters must stop the cult by planning and executing a heist to retrieve either the leader or the powerful supernatural device he once owned. The cult, a monster born from the cult's hubris, a landlord's death squad, and a rival crew from another supernatural society test the players' characters' plans.
+As the players' characters interact with the cult, they also run into their rivals, the infiltrators who sought to benefit from these humans.
+Under a Changing Moon is designed as a single, fourhour event for four to six players portraying the coterie or pack provided in this story (p. 24).
+
+Mature Content Warning
+Vampire: The Masquerade and Werewolf: The Apocalypse address the darkness in our world through horror stories. This story contains references to physical and religious abuse, body horror, death, and disease. Established troupes probably expect these sorts of themes to appear. If you're running this story as a single-session story, ensure players know what sort of game this is when recruiting them. For newly formed troupes using this story to start a chronicle or test out the game, the calibration techniques and tools provided in the Advice for Considerate Play appendices in Vampire and Werewolf may be helpful.
+Background
+This section contains all the background information required to run Under a Changing Moon.
+The Tragedy of Barleyridge
+Barleyridge was a historically significant neighborhood, once home to several local celebrities.
+One day, a private aircraft shipping a proprietary chemical crashed half a mile from Barleyridge and its sister neighborhoods. The noxious cloud from the crash
+
+4
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+killed dozens, injured hundreds, and severely damaged the structures of any building caught downwind. It was the city's worst disaster. The chemical, those responsible for shipping it, and the crash's cause remain mysterious.
+Over the next decade, most affected neighborhoods recovered, but not Barleyridge. Political incompetence and an economic downturn made a full restoration impossible. Residents experienced horrific and unexplainable sicknesses. Many moved away, and the neighborhood decayed.
+Real estate companies now snap up neighborhood tracts for redevelopment and evict the remaining residents. One such company, Weston Taylor Investment Group, recently bought Summer Balm Estates, a building with an organized squatter problem.
+The Rise of the Balm
+Ten months ago, a New Age movement claimed an empty building. The group emerged two years ago but had remained nameless until the building became Summer Balm Estates. Locals now call them the "Balm."
+The Balm began as a series of spirituality courses run by Wendy Pemberton, now known as the "Aegis." She developed a dedicated following through meditation, "psychic surgery," and elaborate rituals held during phases of the Moon. They believe the Moon is a living force that enlightened people can channel and control. The arrival and assistance of a rogue coterie or pack further encouraged her.
+The Balm presents itself as a force for good. Its detractors call it a cult that demands ownership of its members' time, labor, and wealth. When the Weston Taylor Investment Group discovered their presence, they secretly hired Keystone Security to evict them violently.
+Story Structure
+Under a Changing Moon is centered around a playerdriven heist and thus only has a few formal scenes. This section describes the overall narrative.
+Treatment
+Over a few quick scenes, the pack or coterie plans a heist on a cult residing in a rundown apartment building. They learn their target is on the rooftop garden and must find a way there. During the heist, they discover the cult's activities and worldviews, the people who joined them, and a rival group of supernatural creatures.
+
+At the rooftop garden, the group carries out the heist. It runs into various obstacles, such as a follower transformed into a monster, a strike team's assault, or the last-minute intervention of their rivals. They must improvise an escape.
+Chapter by Chapter
+The story itself is presented in four chapters: · Chapter One: Make Plans covers in-character ways
+to take on and prepare the heist and general heist mechanics and guidelines.
+· Chapter Two: The Estates is a floor-by-floor look at the apartment building and the group's possible obstacles.
+· Chapter Three: Securing the Score describes the rooftop garden and how to complete the heist. It also describes a potential botched ritual and the chaos that ensues.
+· Chapter Four: Getting Down, Getting Out provides ways to escape with their goal and the final obstacles the players' coterie or pack could face.
+Goals and Themes
+These goals and themes serve as the bedrock of the story, no matter how the actual events play out.
+Player and Storyteller Goals
+The goals of the players' characters in this story are: · Discover an effective means to reach the rooftop of
+Summer Balm Estates.
+· Obtain at least one objective safely (the staked vampire and the artifact for Kindred, the Talisman, and the captured werewolf for Garou.)
+· Escape Summer Balm Estates with their objective while maintaining the Masquerade or Veil.
+The goals of the Storyteller are: · Depict a worn down, exhausted urban landscape and
+its populace.
+· Portray members of a cult who demonstrate a clear but heavily confused understanding of the supernatural world.
+· Create an atmosphere of tension, ready to explode in the final chapter.
+
+5
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Themes
+The following themes should be considered when you improvise new characters and events. · The Line Between Victim and Victimizer: A
+predator attempts to manipulate seemingly innocent victims only to empower their schemes.
+· The Limits of Trust: The Balm's congregation is willing to say anything to get what they want or just stay alive. Not every infiltrator is an unwilling hostage.
+· The Deception of Danger: Beneath the Aegis' peace-and-love exterior lies a keen mind capable of manipulating anyone, even supernatural creatures who plan to control her. What first appears as a SWAT team is something far more dangerous.
+Running a Heist
+The following tips could help tell a heist story with a World of Darkness flair.
+Let the Players Plan but Keep It Moving: Players should have enough time to plan. If that time threatens to cut into the story's pacing, encourage them to work with what they have and assure them they can improvise later. Emphasize ticking clock aspects of the story, such as the coming ritual or the active rivals to keep a steady pace. As a rule of thumb, Chapter One should be up to thirty minutes of preludes and planning scenes and at least 30 minutes dedicated to the heist's opening scene. The events of Chapters Two, Three, and Four should have an hour each.
+Players Will Get Creative: The players portray characters with human and supernatural competency. Expect them to approach the story's challenges in ways
+
+this narrative can't account for. Look over the players' chosen character sheets carefully and prepare to alter the story to accommodate their playstyles. The following table denotes each player's character's strengths.
+If They Earn It, They Get It: Don't be afraid of a successfully executed plan. In a heist, the score is only half the story. There are plenty of challenges arising from the Balm (who don't want their things stolen), the strike team (who don't care about collateral damage), or their rivals (who'd really like what they have.)
+Use the Unknowns: Both the characters and their players can't know everything about the building or the situation. Use this to your advantage. Blindside them with challenges and setting details that have yet to come up in the story or those of your own making. These unknowns should present new dangers, make a situation scarier, or create new opportunities.
+Story Considerations
+This section addresses the story's unique elements, depending on whether you're running it as a Vampire or Werewolf story.
+Simpler Terminology
+The following terminology is used when discussing elements for both versions of the story:
+The Captive: Mays/Plotter-of-Courses (p. 21). The Infiltrators: Faberge, Rough Cut, or Einstein for Kindred; Suncharger, John, or Trisha for Garou (p. 21). The Scalpel: Ruler of Flesh (p. 7) or Shadow's Sting (p. 7).
+
+TABLE 1: PLAYER CHARACTER STRENGTHS
+
+Group Kindred
+
+Name
+Actuary (p. 25) Desecrator (p. 34) Eyewitness (p. 28) Getaway (p. 40) Nightmare (p. 37) Sage (p. 31)
+
+Strengths
+Leading People, Occult Research Breaking-and-Entering, Stealth Hacking and Electronics, Social Engineering Medical Assistance, Driving Close Quarters Combat, Grappling Persuading People, Blending In
+
+Garou
+
+Corpse Artist (p. 43) Encompassing Heart (p. 46) Encyclopedia (p. 49) Odell (p. 52) Rivercutter (p. 55) Tears-the-Heels (p. 58)
+
+Using Firearms, Close Quarters Combat Persuading People, Reading People Hacking and Electronics, Object Repair Leading People, Situational Awareness Driving, Scouting Breaking-and-Entering, Stealth
+
+6
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+As Kindred
+Mays, a powerful ancilla, broke from the Camarilla after being denied a seat on the city's Primogen council. With a coterie of inexperienced, powerhungry vampires, he infiltrated the Balm to build an independent Domain with a porous Masquerade. Armed with a sorcerous artifact that changes flesh, he thought it'd be easy. Instead, most of the coterie converted to the cult and staked him. They encourage the Aegis to use Mays' artifact and Blood as she desires. Retrieving and bringing him to whatever punishment the Sheriff sees fit protects the Masquerade and improves the coterie's social standing.
+The Artifact
+The Ruler of Flesh is a sorcerous artifact created a century ago by a Tzimisce blood sorcerer of the Sabbat. It's a surgical scalpel with a marble handle decorated with golden runes. Anyone who recently drank the Blood of vampires with knowledge of Protean, including ghouls, may mold the flesh and blood of anyone they slice with the Scalpel until the next sunrise as though they had the Fleshcrafting Protean Power (Players Guide, p. 74) with a Dice Pool of 5. Kindred who already possess Vicissitude (Players Guide, p. 73) find they can reroll one Rouse Check to activate Vicissitude or any Powers requiring Vicissitude as a prerequisite. Repeated exposure or improper concentration upon initial use may shift the victim into a monstrous form.
+As Garou
+Plotter-of-Courses, former sept member who left to become a Stargazer, convinced a few pups into stealing a Talisman and joining his grand plan to revitalize Barleyridge. As a pack, they'd infiltrate the Balm and make them a force capable of healing the desolated neighborhood. He hoped he'd create humans more in tune with Gaia and the Umbra. Instead, the pups joined the cult and bound Plotter-of-Courses in silver chains. The Aegis uses the Talisman with the confident but insufficient guidance of the pups. That Talisman must be recovered. Plotterof-Courses or his would-be pack should face the sept's justice if possible.
+
+Barleyridge's Umbra
+The Difficulty of using the Rite of Shadow Passage (Werewolf, p. 182) in Barleyridge is 3. Beyond the Gauntlet, the neighborhood's dismal atmosphere is overwhelming. Spirits of destruction, despair, construction, and conquest intermingle. A few discovery-, renewal-, and healing-spirits roam around Summer Balm Estates.
+The Talisman
+Shadow's Sting is a Talisman in the form of a scalpel with a marble handle decorated with golden runes. Garou use it to make small incisions into the Gauntlet, temporarily thinning the Gauntlet to make passage easier. The Talisman holds a Wyrmhole Bane.
+When the Talisman cuts human flesh, it still cuts the Gauntlet. The open wound attracts spirits likely to possess the human, and the spirit enters through the wound. The human is possessed for a night, which causes subtle but lasting mental and physical changes. Spirits find it increasingly difficult to escape the bodies of repeat subjects, and overuse or initial use without full concentration may create a monstrous fusion of human and spirit. 
+Before You Cross Over
+This story was designed as either a Vampire: The Masquerade or a Werewolf: The Apocalypse story. Coteries encounter a cult involved with vampires, and packs encounter one involved with werewolves. Though their rivals are another kind of supernatural creature, they're presented mechanically and fictionally as antagonists for a Vampire or Werewolf story.
+This story could be changed to blend both games, possibly as a duel between two separate player groups or with a combined group of Kindred and Garou. However, learning two different games for a single session can be a big task for any player group. Running this story for one game, Vampire or Werewolf, is easier for the players and you!
+
+7
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Chapter One
+
+Make Plans
+
+The coterie or pack, urged by their group's purpose or more personal motives, plan a heist on the Balm. They arrive and encounter an argument they can turn to their advantage and possibly discover the presence of their rivals.
+The section Motive and Leads provides the pack or coterie with motives they can act on during the story, which could also be used for short prologue scenes. The section Prep Work gives the players advantages during the heist. Under Strategies, you'll find guidelines for the heist. Finally, The Fight Outside is the heist's opening scene.
+The events of this chapter can be played out in two ways, depending on the pacing you'd prefer: · Montage Focused: After running any optional
+scenes from Motives and Leads, start Prep Work as a series of short scenes based on the leads of the players' characters. Then, run The Fight Outside and continue from there.
+· Flashback Focused: After running any optional scenes from Motives and Leads, start with The Fight Outside and continue from there. During the story, allow players to request a flashback or offer an opportunity for one based on their characters' leads.
+Motives and Leads
+In addition to the overall purposes of Blindfold and Litany's Claw (p. 9), the players' characters have personal reasons for robbing the Balm. These can be told to players after selecting their character or played out through quick scenes.
+
+Kindred Motives and Leads
+As a coterie, Blindfold wants to raid the Balm to keep the mortals out of Kindred business, understand the Ruler of Flesh's abilities, and perhaps hand over Mays to an influential figure like the city's Sheriff. As individuals, each has their own motives and a lead on the Balm. · Actuary: He wants a written record of the Balm's secret beliefs or the Ruler of Flesh to add to his copious collection. He hopes to get someone on the inside and gets the first chance to Recruit a Mole (p. 10).
+· Desecrator: When they were alive, they knew pretentious jerks like the Aegis in occult circles and believe that taking Mays would humiliate her. They get the first chance to Case the Joint (p. 10).
+· Eyewitness: They want video evidence of the Balm's rituals for their personal collection. They get the first chance to search for the Blueprint (p. 9).
+· Getaway: The Sheriff made a deal: bring Mays to her, and she'll let his feeding habits slide. His connections give him the first chance to hear Sect Advice (p. 9).
+· Nightmare: The Coyne Street Lords want to operate in Barleyridge and hope their old friend with a bad skin condition can eliminate the Balm, their closest competition. Through the Lords, she gets the first chance at Word of Mouth (p. 10).
+· Sage: She lost Skye Ferrier, a wealthy client, to the Balm and wants her cash cow back. She knows the city's occult scene and gets the first chance to investigate local Cults and Movements (p. 10).
+
+8
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Garou Motives and Leads
+As a pack, Litany's Claw wants to raid the Balm to uphold the laws the lost Garou Nation once swore by, return Shadow's Sting to their sept, and perhaps bring Plotter-of-Courses to justice. As individuals, each has their own motives and a lead on the Balm. · Corpse Artist: The Balm knows too much, and they want to make a violent example of them. Their reputation among the local packs gives them the first chance to seek Sept Advice (p. 9).
+· Encompassing Heart: Oswald's cousin, Peter Farmer, joined the Balm. He hopes Encompassing Heart can find and talk sense into Peter. Her connections to the city's government give her the first chance to obtain the Blueprint (p. 9).
+· Encyclopedia: He wants to prove the sept's strength to the local spirits by recovering Shadow's Sting. His connection to the occult gives him the first chance to research Cults and Movements (p. 10).
+· Odell, Who Walks With Justice: Odell wants to understand the Stargazers as a whole by interrogating Plotter-of-Courses. His time as a spy gives him the first chance to Recruit a Mole (p. 10).
+· Rivercutter: The Balm preys on Barleyridge's poor and downtrodden and needs to go. Her connections with people without housing give her the first chance at Word of Mouth (p. 10).
+· Tears-the-Heels: Recovering Shadow's Sting restores the sept's shattered morale. They get the first chance to Case the Joint (p. 10).
+Prep Work
+An ill-prepared heist is a failed heist. Once the players know the stakes, they can follow their leads to prepare. These scenes are quick and involve a single test each.
+Use this framework for running prep work scenes: · The Storyteller sets the scene and presents the required
+test.
+· One player's character is the focus of the scene. They describe the action they take, which is represented by the test.
+· After determining the test's outcome, the Storyteller describes the consequences of the action of the player's character and any information or advantage they gain.
+
+Each player may have their character participate in only one prep work scene. Engaging in Teamwork (Vampire, p. 122 or Werewolf, p. 122) in the scene of another player's character counts as participating in the scene. If a player fails the test, another player can use their character's action to try with their own version of the scene. Players aren't required to play the prep work scenes connected to their character's lead; they can switch scenes with someone who also hasn't played their scene yet.
+Leads player characters may use for prep work scenes include: · Blueprint: The blueprint to Summer Balm Estates is
+obtained by going to a local library or tax office and making a Resolve + Academics test at Difficulty 2 (to search the archives and make a copy) or a Manipulation + Persuasion test at Difficulty 3 (to convince an employee to make a copy). A win reduces the Difficulty of any Stealth test in the building with the blueprint in use by 1. A critical win also lets a group member automatically pass a single test of this kind (up to Difficulty 5) at a margin of 0 once.
+
+· Sect or Sept Advice: Asking the community about the Captive is a Charisma + Politics or Streetwise test at Difficulty 2. No matter the result, they learn the Captive tried to infiltrate the Balm with accomplices, got betrayed, and lost the Scalpel to the Aegis. Table 2 determines further information.
+
+TABLE 2: SECT OR SEPT ADVICE
+
+Win Information Margin (for Kindred)
+
+Information (for Garou)
+
+0
+
+Mays cut all ties with Plotter-of-Courses
+
+the court after being abandoned the
+
+denied his Primogen sept as soon as the
+
+seat.
+
+news came that the
+
+Stargazers left the
+
+Nation.
+
+1­2
+
+Mays viewed the
+
+Plotter-of-Courses
+
+Masquerade with
+
+visited the sept in
+
+disdain and gathered secret multiple times
+
+others who felt the to recruit the pups.
+
+same.
+
+3+
+
+Mays doesn't know The pups committed
+
+Blood Sorcery and the actual robbery
+
+stole the Ruler of
+
+and barely know
+
+Flesh from a chantry. how Shadow's Sting
+
+works.
+
+Critical A group of werewolves search for Mays.
+
+A group of vampires search for Shadow's Sting.
+
+9
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+· Word of Mouth: Learning about the Balm's location is an Intelligence + Streetwise test at Difficulty 2. What the character learns is determined by Table 3.
+
+TABLE 3: WORD OF MOUTH
+
+Win Information Margin
+
+0
+
+The Balm squats in Summer Balm Estates in
+
+Barleyridge, a neighborhood in disrepair after
+
+a chemical spill and forced into unsafe devel-
+
+opment by real estate investors.
+
+1­2
+
+The Balm conflicts with the building's owner,
+
+the Weston Taylor Investment Group.
+
+3+
+
+Weston Taylor Investment Group is rumored
+
+to have ties to private security for secret,
+
+violent evictions.
+
+Critical Weston Taylor regularly hires Keystone Security (pp. 16, 22), and an attack on Summer Balm Estates is imminent.
+
+· Cults and Movements: Researching the Balm is an Intelligence or Charisma + Occult test at Difficulty 3. What the character learns is determined by Table 4.
+
+TABLE 4: CULTS AND MOVEMENTS
+
+Win Information Margin
+
+0
+
+The Balm is a new-age community run by
+
+figures known as the Aegis and the Hoplite,
+
+who are seen as absolute and unquestionable
+
+authorities. They believe in the power of love
+
+and its ability to heal all wounds.
+
+1­2
+
+The Balm believes the Moon is a source of
+
+transformative energy and engages in rituals
+
+to harness its power.
+
+3+
+
+The recent appearance of "enlightened ones"
+
+convinced the Balm to perform increasingly
+
+esoteric rituals, causing bizarre changes in
+
+their subjects. Escapees describe a paranoid
+
+culture.
+
+Critical The Aegis's identity is Wendy Pemberton. The Hoplite's identity is Brian Schiff.
+
+· Casing the Joint: Scouting the apartment building before the heist is a Resolve + Stealth test at Difficulty 3. No matter the result, it's obvious the front and back ground floor entrances are each guarded by one person. A win reveals the cult's daily patterns, reducing Difficulties of Persuasion or Subterfuge tests with rankand-file Balm members by 1. A critical win also lets a group member automatically pass a single test of this kind (up to Difficulty 5) with a margin of 0 once.
+· Recruit a Mole: Finding a Balm member outside the compound is easy; making them a mole is the
+
+real challenge. Kindred could force the issue with Dominate or Presence powers or take the time to establish a Blood Bond. Garou could use Animal Magnetism to enhance relevant Social tests. Convincing or blackmailing them is a Manipulation + Intimidation, Persuasion, or Subterfuge test at Difficulty 3 for rank-and-file members and Difficulty 4 for a guard.
+Strategies
+As the group plans, three general strategies may emerge: raiding, deception, and stealth. A blend of two or all three is highly likely as the situation changes.
+When the players use these strategies, use the following guidelines to determine tests and Difficulties on the fly. Feel free to adjust them to keep your players guessing or better fit your game's pace.
+Deception
+The Balm's rank-and-file are either disciples, opportunists, or loners. In addition to Persuasion, Subterfuge, Intimidation, and Disciplines and Gifts capable of influencing others, each responds to different Skills or Backgrounds. · Disciples want spiritual knowledge from the Aegis.
+Those with Occult or Backgrounds related to the supernatural might find common ground.
+· Opportunists want control over their fellow congregants. Those with Etiquette can flatter and boost their egos, or enough Resources can buy assistance.
+· Loners just want to belong. Those with Leadership command their respect, and a character can use their Allies or Contacts to provide better support networks.
+Gaining a rank-and-file member's general trust is Difficulty 2. Convincing them to perform an action or that the character is a fellow member is Difficulty 3. Any action that requires them to endanger themselves or harm others is Difficulty 4.
+Stealth
+The Balm can only do so much to protect their home. A fire escape is attached to two sides of the building.
+It leads straight to the roof, but it's flimsy. Ascending it is a Strength or Dexterity + Athletics test, and failing it
+
+10
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+either incurs Health damage or alerts nearby guards to the character's presence. Going from the first floor to the second is Difficulty 3, from the second to the third is Difficulty 4, and going to the rooftop is Difficulty 5.
+A single guard keeps watch over both ground-floor entrances. Each floor's stairwell has a guard. The first floor has no roaming guards, the second has one, and the third has three. The rooftop has three guards; one wanders, and the other two watch the shed. Guards are always suspicious of the characters unless a fellow Balm member vouches for them or they become a mole (p. 10).
+The default Difficulty for Stealth and other tests to avoid detection is 2 on the first floor, 3 on the second and third floors, and 4 on the rooftop.
+Raiding
+The Balm faces many threats and is prepared to fight them. When a rank-and-file member could become
+hostile, make a simple check on one die. They flee on a 1­5 (Blank) and fight on a 6­0 (success). The Aegis encourages them to avoid violence and weapons, but many carry knives for protection. Some use pistols. Only a few, usually disciples, are willing to fight to the death. All rank-and-file have an armor value of 0.
+Guards engage in fights unless they are forced to flee by the players' characters. They may carry batons, knives, pistols, shotguns, or rifles. In combat, guards attempt to separate player groups or lead them into ambushes. Unless influenced by actions, Disciplines, or Gifts, they intend to fight to the death. They have an armor value of 2.
+Hurting rank-and-file members is Difficulty 2 or 3, and their dice pool in all conflicts is 4. Hurting guards is Difficulty 3, 4, or 5, depending on their weapon and position. Their dice pool in all conflicts is 6.
+
+The Fight Outside
+Use this scene to either give one last chance to prepare (if your prep work scenes were montage-focused) or to bring groups straight into the story (if the players can use prep work scenes as flashbacks).
+The group arrives at Summer Balm Estates. The building is decrepit and spattered with hastily applied improvements. A lush rooftop garden is visible from the ground; it spills over onto the building's sides. A waning crescent moon hangs in the air.
+There's an argument at the front door. Gary Taylor (the landlord) and Bud Collins (a Balm disciple filling in for a guard) are yelling at each other. Gary's pressuring Bud to get out of the way so he can talk to "your master" before "things get ugly." Bud is scared but won't budge. The general Difficulty for tests involving both men in this scene is 2.
+Helping Bud lets them ask him about the situation from the Balm's perspective, and he'll let them in. Gary describes the group to Keystone later.
+Helping Gary gives them a chance to ask about the situation from the company's perspective, and Keystone attempts to parley with the group should they meet. However, Bud won't let them in and alerts the guards, increasing the difficulty of Stealth tests by 1 until either his hostility is eased or until the next scene.
+If the group ignores the argument and looks for an alternate entrance, neither man notices them pass. An Intelligence + Awareness test at Difficulty 3 locates an open window or the moment a guard steps away from their post at the back door, and a critical win reveals their rivals previously used the entrance. Sense the Unseen or Shadow Sense detects either the remnants of supernatural power or the close presence of other supernatural creatures in the area. 
+
+11
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Chapter Two
+
+The Estates
+
+Once the group enters the building, they may search it in any manner. Depending on their strategy, the group might skip one or more floors on their way to the roof. If this happens, use an event connected to a floor they skipped.
+Ground Floor
+The ground floor is the Balm's public-facing area. In better times, they held meetings and taught classes here. Now, the rank-and-file frantically pack everything and start moving upstairs. Unless the group has their trust or a strong pretext for being there, the rank-and-file gently encourage them to leave if they see them. Self-published Balm pamphlets are strewn about, revealing more information about their beliefs.
+The following situations could happen on this floor: · Keeping Calm: Rough Cut/John (p. 21) manipulates
+the rank-and-file into throwing out the group. A Charisma + Leadership test at Difficulty 3 eases the crowd. Failure means the situation may escalate into a physical altercation. If confronted, Rough Cut/John flees upstairs, hoping the guards and rank-and-file protect him.
+· Public Records: Several apartments on this floor serve as classrooms. A Wits + Investigation test at Difficulty 2 here discovers a video recording of a healing stored on an unlocked phone. A sick man is sliced with the Scalpel on the rooftop garden and either ritualistically molded into a healthier form (for Kindred) or enters possessed reverie (for Garou). Failure on the test means finding information takes enough time for a cult member to walk in.
+
+· Pop Quiz: Amber Roberts, an opportunist, approaches the group. She relentlessly questions them about why they're here. A Composure + Insight test at Difficulty 2 reveals she's scared, and a Manipulation + Persuasion test at Difficulty 3 makes her admit she's afraid the group is "like the freaks upstairs." A critical win gets her to also admit that one of the freaks is imprisoned on the roof for reasons she can't fathom.
+Second Floor
+The second floor is the Balm's living area. Due to the Aegis' recent "open living" policy, the doors to each apartment were removed, encouraging the rank-and-file to watch each other. Here, those not moving upstairs gather their loved ones and belongings.
+The following situations could happen on this floor: · Ambush: While the group moves through the
+floor, Faberge/Suncharger makes a surprise attack. If Keeping Calm happened earlier, Rough Cut/ John assists. A Wits + Athletics test at Difficulty 3 (one combatant) or 4 (two) detects the ambush. The ensuing conflict lasts three rounds and may shift from physical to social as necessary. They aim to either drive the group out or convince the group to leave them be. If they fail, they flee to the fire escape.
+· Words of Faith: If the group is pretending to be Balm members or is otherwise allied to them, Peter Farmer, a teenage loner (p. 9), approaches. Tonight's given him a crisis of faith, and he is looking for encouraging words before heading upstairs for "the rally." A Charisma + Leadership test at Difficulty 3 gives him a pep talk, and
+
+12
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+a Manipulation + Occult test at Difficulty 4 convinces him to abandon his faith and flee.
+· Ransack: As this floor has no locked doors, some players might want their characters to grab anything valuable. A Dexterity or Wits + Larceny test at Difficulty 3 uncovers enough material equivalent to a temporary bonus dot of Resources, the keys to a parked vehicle outside, or a hidden pistol. Failure attracts the guards' attention.
+Third Floor
+The third floor is the Balm's administrative and worship area. The floor is lit with blacklight, and luminescent paint on the walls depicts the phases of the Moon repeating in horizontal spirals. The rank-and-file say prayers as they head to the roof.
+The following situations could happen on this floor: · The Aegis' Notes: The Aegis' office is obvious; it's the
+door with all the phases of the Moon painted on it on one end of the floor. Unlocking its multiple padlocks is a Dexterity + Larceny test at Difficulty 3 or requires the Open Seal Gift. Alternatively, busting the door down requires a Strength + Athletics test at a Difficulty of 4. Inside is a treasure trove of occult texts, including her personal notebook. One of the later passages is an ode to the Scalpel. Some passages are written in a custom shorthand; an Intelligence + Academics test at Difficulty
+
+3 decodes how she encountered the Captive and the Infiltrators, and how the Captive was "bound for our benefit" and kept in the shed on the rooftop. An empty box is on her desk, where the Scalpel would rest.
+· Passing Judgement: While moving through the third floor, the group hears cries of pain that the rank-andfile ignore. If the group investigates, they discover a room where Will Carrigan and Skye Ferrier are beating Ethan Moore. All are Disciples (p. 10). Will and Skye believe Ethan sold them out to the landlords. Should the group intervene, a Charisma + Leadership or Manipulation + Intimidation at Difficulty 3 (or a relevant Discipline power or Gift) breaks things up, giving Ethan a chance to plead his case: one of the "Aegis' favorites" did it.
+· The Turncoat: Just as the group reaches the roof, Einstein/Tanya (p. 21) gets their attention. If the group lets her talk, she reveals her true allegiance and then asks if they can help her escape. A Composure + Insight test at Difficulty 2 detects she's being genuine. If this is after Passing Judgement, she freely admits she's the whistleblower. If the group attacks, she tries to flee downstairs.
+The Rivals
+The groups' rivals (p. 22) can be introduced on any floor anytime. They don't need to appear together at once; the group could encounter members as they search the building and realize they're a united force. Any Discipline or Gift that detects the supernatural picks up on their rivals' true nature; they don't resist it.
+You can use the Rivals' Actions to determine their priorities and how they hinder the players' characters. You can also use these guidelines for the rivals as a group: · Blindfold is just as interested in uncovering the Balm's
+true nature as they are in obtaining the Talisman the Garou seek. They're interested in using it for their own occult experiments. Their heist is surreptitious, manipulating the cult against each other and the Garou if necessary.
+· Litany's Claw wants this whole operation destroyed, which involves killing all resistance and demolishing the building. They recognize Mays as the problem's source, which means they'll kill him first. Their heist is blunt, using the terror their war-forms inspire in the mortal cultists to do much of the work. 
+
+13
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Chapter Three
+Securing the Score
+
+Whenever you introduce the rivals, they give the group a deadline. Whatever the group can't accomplish, the rivals will. If the group stalls, the rivals have a breakthrough the group can use for their own advantage. Once the group learns their prize is on the roof, so do the rivals.
+First impressions with their rivals in this chapter don't have to be hostile. Either rival group is open to a temporary partnership; the werewolves have plenty of muscle, and the vampires have social flexibility.
+In contrast to the ramshackle lower floors, the rooftop is a flourishing garden. Most rank-and-file are here, waiting for the Aegis and Hoplite with giddy tension. Here's where the score lies. Two things stand in the way of the players' characters: their rivals and a botched ceremony that transforms one of the Balm's creatures into a monster.
+The group might reach Chapter Three early if they decide to take the fire escape straight to the roof or find another way to bypass one or more floors. In this case, select one to three events from Chapter Two (especially Pop Quiz, p. 12, or The Aegis' Notes, p. 13). Use the event(s) here before moving forward.
+Where's the Score?
+The players' characters should have a chance to find the score before their rivals intervene or the Aegis' ceremony begins.
+
+The Captive
+If the group doesn't already know the Captive is in the roof shed, they quickly notice the guards protecting it. If they approach it before The Ceremony scene, the Aegis and Hoplite are inside. They're currently tapping Mays for Blood or yelling at a silently fuming Plotter-ofCourses. The guards won't be swayed to let the group in without using a Discipline power or Gift while the Balm's heads are inside the shed.
+Should the group enter the shed while the Aegis and Hoplite are inside, they refuse to listen to any argument that lets the group part with the Captive. They call any active guards, rush out, and perform the ceremony (p. 15). If they can't do that, the Aegis stabs the Hoplite, starting his transformation.
+If the group approaches the shed while the Aegis and Hoplite are among the crowd, the guards no longer need to defend their leaders and greatest asset. They can be swayed by bribing them with a Manipulation + Persuasion + Resources test at a Difficulty of 3 (Werewolf, p. 104) or a Manipulation + Persuasion, Leadership, or Intimidation test at Difficulty 4.
+The guards can be forced to leave their post with either a successful Manipulation + Performance test at Difficulty 3 to cause a distraction or by waiting for the chaos after the failed ceremony to drive them from their posts. A successful Dexterity + Larceny at Difficulty 3, a Strength + Athletics at Difficulty 4, or an Open Seal Gift pops open the shed's locks.
+
+14
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Inside, Mays is staked into the ground if the players' characters are vampires. If they're werewolves, Plotterof-Courses, near Frenzy, is chained to the floor. Pulling Mays out of the ground without un-staking him is a Strength + Athletics test at Difficulty 5. Simply unstaking him is Difficulty 3. Unshackling Plotter-ofCourses is either a Strength + Athletics test at Difficulty 4 to break the chains or a Dexterity + Larceny test at Difficulty 3 to pop the locks.
+
+If un-staked, Mays goes into Hunger Frenzy and tears into nearby mortals first, which could include the Aegis and Hoplite but is most likely the rank-and-file. A rampaging Mays may kill the Hoplite or Aegis, in which case the bloodthirsty monster at the end of the story is Mays himself. Should he return to his senses, he'll try to leave the building and hijack a car.
+An unshackled Plotter-of-Courses is willing to go with the pack but refuses to face justice. He'll comply with the pack's demands until they leave the building, upon which he'll attempt to escape. If he's hit or deeply insulted at any time, he flies into a Frenzy and tears into anyone in arm's reach.
+The Scalpel
+The Scalpel (see The Artifact or The Talisman, p. 7) is always with the Aegis. She spends the first part of this chapter in the shed, so the most likely time to obtain it is while she's talking amongst the rank-and-file before the ceremony.
+Pickpocketing is a Dexterity + Larceny test at Difficulty 5, which can be reduced to Difficulty 3 by another character winning a Charisma or Manipulation + Performance vs. Awareness contest to distract her. Separating her from it is a Strength or Manipulation + Brawl test at Difficulty 3 to shove her in a way that sends the Scalpel clattering out of her pocket.
+Convincing her to give up the Scalpel willingly requires either an appropriate Discipline power or Gift, a Manipulation + Persuasion, Intimidation, or Subterfuge test at Difficulty 6, or winning a three-round Social conflict to shatter her illusions of grandeur by inflicting more Willpower damage on her than the players' characters take.
+She keeps the Scalpel after the failed ceremony and during Keystone's attack. Pursuing her during the chaos is a Stamina + Athletics vs. Physical contest. The Th, monster or otherwise, defends her.
+The Rivals, Revisited
+This section is optional. Use it if it feels like the game benefits from additional complications. The rival group might interfere in a few ways: · If the rivals have been one step ahead, they reach the
+goal first. They've either just obtained it (if you prefer a quicker conflict setup) or just failed. With the guard's attention aroused, a window of opportunity exists.
+
+15
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+· If the rivals are in a temporary partnership, they help the group get the score, and then they turn on the players' characters once the item they seek is obtained. Your group might be prepared for this and even strike first.
+· If the group never meets the rivals, introduce them by having them corner the group as soon as they reach the score.
+In a Physical conflict, the rivals aim to nab the score and leave. They don't want to fight to the (final) death. Unless the group and their rivals built a good rapport over the story, the rivals have no qualms about inflicting grievous injuries.
+In a social conflict, the rivals try to impart how important it is that they return with the score. They do this while trying to keep the exact details of their society undisclosed. All uses of mental Discipline powers or Gifts are always contested during this conflict.
+The Ceremony
+Unless the characters prevent this scene due to their actions (un-staking Mays, stealing the Scalpel before this scene happens or provoking Plotter-of-Courses into Frenzy before this scene), the Aegis and Hoplite emerge from the garden shed. They talk amongst the congregation, giving the group a bit more time to either get into the shed or obtain the Scalpel.
+If the characters can't get the score after three attempts, if the rivals get the score first, or if they decide to watch the ceremony, the Aegis gives a speech filled with whitehot rage aimed at the Weston Taylor Investment Group. She tells the crowd that she won't give up their home and brings the Hoplite to the stage.
+The Hoplite explains how the Aegis devised a new purpose for channeled Moon energy: to create powerful warriors. He declares he'll be the first, and the rest of the guards join him after.
+Before everyone's eyes, the Aegis whispers something in the Hoplite's ear and stabs him with the Scalpel. She either begins molding him (for Kindred) or stands back and waits for the changes (for Garou.) A look of horror spreads across the Hoplite's face before it bloats and
+
+twists his expression into a grin. Blood, muscle, and fat burst through his skin until he's an unrecognizable mass twice his original size. The Aegis stares in shock at her creation. The crowd erupts into panic.
+If the characters try to stop the ceremony before she stabs the Hoplite, succeeding in a Strength + Brawl vs. Physical contest disarms the Aegis. This provokes all Balm members to turn on the group.
+An Intelligence + Occult test at Difficulty 2 recognizes the creature as a product of either the result of flesh crafting abilities too powerful for a ghoul to handle or the product of rapid total spiritual possession.
+Driven by an alien intelligence, the Hoplite attacks opportunists, the rivals, and the players' characters, even if it never met the latter when human.
+Keystone Strikes
+Soon after the Hoplite's transformation, the characters or rivals obtain the Scalpel, or the characters or rivals secure the Captive, an unmarked van pulls up to the building. This is obviously visible to anyone on the roof.
+The Keystone strike force (p. 22) emerges and covers each ground entrance. They make their way up the floors, killing guards and demanding anyone they catch to go downstairs. Anyone who is too slow is shot, and anyone who complies is forced into their van.
+Upon encounter, Keystone Agents only talks to the characters if they took Gary's side (p. 11). Otherwise, they treat them as more squatters to arrest or shoot. If they crossed Gary, they're targets for elimination. The rivals are also considered squatters.
+The guards do their best to protect the congregation but fail against the strike team. If the Hoplite is still human, this includes him. The monstrous Hoplite considers Keystone another target, and the strike team find it hard to kill.
+If the characters bolstered Peter's faith (p. 9) and the Balm's trust, he'll protect them with his life. If they convinced him to leave, he called the police after he left, who arrive soon. After ten actions characters make, Keystone realizes the police are coming, ends their operation, and attempts to escape. 
+
+16
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+Chapter Four
+
+Get Down,
+
+Get Out
+
+Getting in wasn't easy, but getting out is much harder.
+Means of Escape
+The group's likely plans of escape are talking their way out, fighting their way out, or sneaking their way out.
+Talking Their Way Out
+Unless the group roused their ire (stopping the ceremony, the cult has any reason to believe they were responsible for the botched ceremony, the group has harmed them previously, etc.), all Difficulties to manipulate the rankand-file (p. 10) are reduced by 2. If she knows the rankand-file are "enlightened," the Aegis is willing to give up the Scalpel--provided she still has it--if they help her escape. A human Hoplite goes along with what the Aegis wants.
+If the group parleys with Keystone, the strike team wants a bonus. Bribery is possible with a Manipulation + Persuasion + Resources test at a Difficulty of 3 to get them to ignore the group. A win with 5 or more successes grants the characters an escorted exit.
+The monstrous Hoplite cannot be reasoned or bargained with. If it sees the group helping disciples, loners, or the Aegis, it focuses on the strike team. It responds to Animalism powers, or any Gift designed to interact with or command animals.
+
+The rivals are only willing to help if the situation is so dire they must work together, or if the group is willing to give them the score.
+Fighting Their Way Out
+Groups may fight several Storyteller characters during their escape. In the worst-case scenario, they face the Balm, Keystone, their rivals, the Infiltrators, and a monstrous Hoplite all at once. To keep physical conflicts manageable, use the following setup.
+The conflict begins when the group exits the rooftop. It's three rounds, one for each floor. During this conflict, assume that unless a player's character makes another kind of movement, the group moves towards the next flight of stairs as fast as possible. Only enemies pursuing them follow from floor-tofloor; all other attacks Storyteller characters make are made on that floor. They cannot follow if they missed the characters with a margin of failure higher than 2. For example, if a guard is on the second floor and has no reason to chase the characters, they attack on that floor and remain there.
+Unless they're incapacitated or blocked off, the rivals always pursue the characters if the group has the score. If the rivals have the score, the group continues pursuing them and should have opportunities to attack. The Aegis and both versions of the Hoplite pursue the group if they have the score. Keystone only pursues the characters if
+
+17
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+they crossed Gary. Otherwise, they only attack when the characters come across them.
+The guidelines for the rank-and-file and guards (p. 10) still apply. If the rank-and-file attacks as a group, they get one attack for each character. Guards can only attack one character at a time.
+The characters win the conflict and escape the building by reaching the end of the third round without becoming Incapacitated or by Incapacitating all active pursuers. The group can escape the building without the score, either by losing it during the conflict or by never catching their rivals if they have it.
+Sneaking Their Way Out
+When sneaking out, the Difficulties for avoiding detection (p. 10) from anyone searching for them, including their rivals or the monstrous Hoplite, are reversed: 2 on the third floor, 3 on the second, 4 on the first. The Difficulties to descend the fire escape are also reversed. Failure breaks the fire escape, making that side's escape unusable and sending anyone still on it falling to the ground.
+If the group is escaping with a still-staked Mays or a restrained Plotter-of-Courses, anyone carrying the person receives a ­2 dice penalty to avoid detection.
+Might As Well Jump
+It's possible your players decide to have their characters jump off the building. Perhaps the current escape route isn't going well, or they decide the quickest exit from the rooftop is best.
+If the character doesn't have the ability to safely make the jump, landing is a Stamina (to take the brunt of the fall) or Dexterity (to minimize the impact) + Athletics or Survival test at Difficulty 1 + their current floor. For example, leaping from the third floor is Difficulty 4 (1 + 3.) Jumping directly from the roof counts as jumping from a fourth floor. Jumping from the first floor is simply leaping through a window, closed door, or a weak wall to the outside.
+If the test fails, see Vampire, p. 411 for the rules on fall damage. All mortals with the group only jump if desperate. All supernatural Storyteller characters jump with them, but every Infiltrator except Einstein/Trisha tries to escape after hitting the ground. Plotter-ofCourses could Frenzy if seriously injured by the jump.
+
+Pedal to the Metal
+If the rivals escaped with the score, consider using this optional scene.
+The group chases the rivals' car. The chase is a Wits + Drive test at Difficulty 5. Before the driver rolls any dice, everyone else may take one action to hinder the rivals, which is always at Difficulty 2. Each win reduces the Drive test's Difficulty by 1. A margin of at least 4 or a critical win counts as two wins and thus reduces the Difficulty of the Driving test by 2.
+A Win forces the rivals to crash, giving them the opportunity to take the score. A Critical Win lets the group take the score without resistance. A Win at a Cost may involve Health damage to the driver and one or more passengers. If the other players reduce the Difficulty to 0, the group automatically Wins.
+If the group escaped with the score, consider a version of this scene where the test is instead escaping the rivals' pursuit.
+Epilogues
+The story ends either as soon as every character is Incapacitated during the heist, or if at least one character escapes the building alive. If you still have time, run one of these short scenes as possible epilogues: · If the characters survive but come back empty handed,
+run a short scene of the group preparing another heist, either on a hospitalized Aegis or on their rivals' stronghold.
+· If the characters return with the score, run a scene where an important figure, like a Sheriff or a sept leader, picks up the score and commends them for their work.
+· If the characters return with the score and the additional Captive or Scalpel, run the same scene as above, but the important figure also gives them a tangible reward, like the rights to Summer Balm Estates, the use of the Scalpel, or the Captive's territory.
+· If the characters were all Incapacitated during the heist, describe the worst possible outcome based on what the group couldn't accomplish. Perhaps the monstrous Hoplite wreaks havoc on Barleyridge or Balm members go missing after Keystone successfully sweeps the building. 
+
+18
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+In Chronicles
+
+In an ongoing chronicle, adapting this story
+can be quickly done by altering some names and
+locations. Successful Intelligence + Politics,
+Charisma + Persuasion, or Composure + Awareness
+tests in Elysium or at a moot may reveal
+secrets about the Captive or the Scalpel.
+Crafty Storytellers may be able to foreshadow
+the Balm, the Aegis, and the Captive one or
+more sessions before running this story so the
+characters and location feel more integrated
+into the world.
+Altering the Location: Replace Barleyridge with a comparable community on the outskirts of town. Choose an area on the outskirts of any large city. The chemical disaster from a decade ago could have happened as a tanker truck crash, train derailment, plane crash, or even a neighborhood gas station that unwittingly leaked gasoline into the soil for years.
+Adding Relationship-Map Connections: Rivals may return as Adversaries. Mays or Plotter-of-Courses could become a positive Relationship-Map connection, such as Mawla or Mentor, or a negative one, like an Adversary. Any surviving cultists could return as Enemies or Stalkers.
+Destroying the Scalpel: For Kindred, after being soaked in the vitae of someone who knows Fleshcrafting or Horrid Form, the Ruler of Flesh grows soft enough to bend and break. For Garou, abjuring the spirit from Shadow's Sting may necessitate its subsequent defeat and/or binding to destroy the Talisman. A talisman that is damaged but not destroyed may function as a Talen. 
+
+19
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+Appendix I
+
+Antagonists
+
+This appendix contains the antagonists of this story as well as twelve ready-to-play characters.
+Balm Cultists
+On the surface, the Balm has the camaraderie and solidarity Barleyridge lacks. Its members say wonderful things about their new home and family.
+Underneath, paranoia takes hold. Punishments become harsher and are inflicted for increasingly trivial reasons. Only the Aegis' charisma and cool head keep the Balm together.
+The cult consists of people from all walks of life and almost every age. There are at least twice as many of these rank-and-file cultists as there are players' characters. For more variety than the guidelines (p. 10) provide, use either the Gangster (Vampire, p. 371) or the Criminal (Werewolf, p. 291). The Clergy (Vampire, p. 371 or Werewolf, p. 291) is another option.
+The Aegis (Cult Leader)
+Wendy Pemberton believed in the mystical from an early age. Her essays about life and reality were greatly acclaimed in online spiritual communities. Those essays became real-life classes and then the Balm. Convinced of her inherent divinity, she became the Aegis, the physical embodiment of the Moon itself.
+Though she still claims to channel the Moon's power for joy and love, recent events convinced her true evil exists, even among her flock. Greater action must be taken. General Difficulty: 4/3 Standard Dice Pools: Physical 4, Social 6, Mental 6 Secondary Attributes: Health 5, Willpower 8
+
+Exceptional Dice Pools: Awareness 6, Persuasion 8, Occult 7 Other Traits: For all Disciplines and Gifts that affect mortal minds, the Aegis is always a prepared mortal. She always has a +3 dice bonus to all contests and tests to resist mental influence. Once per scene, she may take 1 Superficial Willpower damage and touch an ally within arm's reach to break any mental holds another character has on them.
+The Hoplite (Second in Command)
+Brian Schiff was a dedicated reader of the Aegis' essays and the man who convinced Wendy Pemberton to take on the Aegis role. This is because he both believes in her and senses a lucrative opportunity. He's in charge of the Balm's finances and skims off the top.
+As a monster, the Hoplite obeys a crude interpretation of the Aegis' orders: all threats to the Balm must be killed. If the players' characters align with the Balm, even falsely, the Hoplite won't harm them for as long as the alliance lasts. General Difficulty: 4/2 Standard Dice Pools: Physical 5, Social 4, Mental 4 Secondary Attributes: Health 5, Willpower 3 Exceptional Dice Pools: Awareness 5, Melee 6, Stealth 5 Other Traits: In his monstrous form, the Hoplite's Health increases by 3 and dice pools increase by 2. He may strike up to three targets at once with a single attack during a physical conflict. The form also has natural weapons (+1 Aggravated Physical damage) and an additional Exceptional Dice Pool of Athletics 6.
+
+20
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+The Captive and Infiltrators
+The infiltrating coterie or pack weren't fools, just arrogant. From the outside, the Balm seemed like any other New Age movement. Manipulating them seemed easy, which was the problem. Those believing themselves too smart or aware to be taken advantage of by a cult are often those most devastated by it.
+Mays (Vampire) or Plotter-of-Courses (Werewolf)
+Mays spent his unlife striving for higher positions of power, first for survival and then for its own sake. After his ambitions in the Camarilla were thwarted, he schemed to create a kingdom. He's certain he's in control of the situation, even now.
+Plotter-of-Courses hoped he could show his old sept the fault in the Garou's ways by using an already existing social group for a better purpose. He realizes he's failed. He won't admit it, but his Rage is boiling over. General Difficulty: 4/3 Standard Dice Pools: Physical 5, Social 6, Mental 7, Disciplines/Gifts 8 Secondary Attributes: Health 6, Willpower 5 Exceptional Dice Pools: Awareness 6, Brawl 7, Persuasion 7 Disciplines: Animalism 1 (Sense the Beast), Dominate 2 (Compel, Mesmerize), Protean 3 (Weight of the Feather, Feral Weapons, Shapechange) Gifts: Ancestral Conviction, Catfeet, Command the Gathering, Open Seal, Hare's Leap, Geas
+Faberge (Vampire) or Suncharger (Werewolf)
+True to their name, Faberge wanted a fast track to life's luxuries. They joined the Balm because they believed controlling the Aegis was an easier shortcut than hoping Mays would reward them.
+Suncharger never wanted to become a werewolf and joined the Balm in hopes of escaping the Garou on their terms. The Aegis' worldview is easier to understand and could be accomplished, things Plotter-of-Courses couldn't promise. General Difficulty: 3/2 Standard Dice Pools: Physical 4, Social 5, Mental 6, Disciplines/Gifts 6
+
+Secondary Attributes: Health 4, Willpower 6 Exceptional Dice Pools: Awareness 7, Melee 7, Subterfuge 5 Disciplines: Fortitude 1 (Resilience), Dominate 2 (Cloud Memory, Mesmerize) Gifts: Ancestral Conviction, Pack Instinct, Staredown
+Rough Cut (Vampire) or John Takes Flight (Werewolf)
+Rough Cut admired spectacle, and the excitement of a long-loyal vampire burning bridges for his own territory was too good to pass up. When that became tedious and boring, the hopeless struggle of a cult against the world was a better pitch.
+John Takes Flight wanted to see what the Stargazers had to offer but wasn't impressed. He believed he could do a better job and threw in with the Balm. General Difficulty: 4/2 Standard Dice Pools: Physical 4, Social 6, Mental 5, Disciplines/Gifts 6 Secondary Attributes: Health 4, Willpower 5 Exceptional Dice Pools: Firearms 5, Investigation 7, Persuasion 7 Disciplines: Celerity 1 (Rapid Reflexes), Presence 2 (Awe, Lingering Kiss) Gifts: Blissful Ignorance, Crow's Laughter, Hare's Leap
+Einstein (Vampire) or Trisha, Who Arrived Last (Werewolf)
+Einstein is a spy for the Sheriff, called in to fulfill a Boon her sired owed. She went along with the other two licks to save her skin but hopes someone extracts her soon.
+Trisha wanted to play the long game and help the others long enough to call in the sept. Now things are out of hand, and she has no pack to rely on. General Difficulty: 4/2 Standard Dice Pools: Physical 6, Social 5, Mental 4, Disciplines/Gifts 6 Secondary Attributes: Health 6, Willpower 4 Exceptional Dice Pools: Brawl 7, Intimidation 5, Stealth 7 Disciplines: Animalism 1 (Sense the Beast), Protean 2 (Eyes of the Beast, Feral Weapons) Gifts: Mother's Touch, Skinbind, Raging Strikes
+
+21
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Keystone Agent
+The Keystone strike team ejects squatters in zip ties or in a body bag, joking all the while. The company has some knowledge of the supernatural; should they suspect the characters aren't human, they'll refer to them on radio chatter as "Unnatural Threats" or "UTs." They aren't willing to die and respond to hefty bribes. A bribe equaling the temporary loss of two dots of Resources is enough, as is a Charisma or Strength + Intimidation test at a Difficulty of 4.
+There are as many Agents in the strike team as there are players' characters plus three, and they do not have reinforcements. If you'd like to beef up their numbers or bring in law enforcement as another chaotic factor, consider using the Beat Cop (Werewolf, p. 290), the Inquisitor Investigator, the Inquisitor Delta (both in Vampire, p. 372), or the Riot Cop (Werewolf, p. 291). General Difficulty: 4/2 Standard Dice Pools: Physical 7, Social 5, Mental 4 Secondary Attributes: Health 6, Willpower 4 Exceptional Dice Pools: Firearms 8, Melee 8, Stealth 8 Other Traits: Each Keystone Agent has an armor value of 6. Any Keystone Agent separated from their group takes a two-dice penalty to all tests.
+Rivals: Leeches & Lupines
+Traits for each of the potential rivals to the players' characters are listed below. Each has been tweaked to serve as a simple rival, assuming you only have access to either Vampire or Werewolf, but not necessarily both. Descriptions for each of them can be found in Appendix II: Players' Characters.
+Leeches
+Actuary
+General Difficulty: 4/2 Standard Dice Pools: Physical 3, Social 6, Mental 5, Gifts 7 Secondary Attributes: Health 5, Willpower 6 Exceptional Dice Pools: Firearms 4, Leadership 7, Persuasion 7
+
+Other Traits: Uses the equivalent of Eyes of the Owl, Fatal Flaw, Penumbral Senses, Sense the True Form, and Spider's Song.
+Desecrator
+General Difficulty: 4/2 Standard Dice Pools: Physical 6, Social 5, Mental 3, Gifts 8 Secondary Attributes: Health 6, Willpower 4 Exceptional Dice Pools: Melee 7, Larceny 8, Stealth 7 Other Traits: Uses the equivalent of Camouflage, Sense the True Form, and Thwarting the Arrow.
+Eyewitness
+General Difficulty: 4/2 Standard Dice Pools: Physical 3, Social 5, Mental 7, Gifts 6 Secondary Attributes: Health 4, Willpower 5 Exceptional Dice Pools: Melee 5, Persuasion 6, Technology 8 Other Traits: Uses the equivalent of Brother's Scent, Crow's Laughter, Sharpened Sense, and Odious Aroma.
+Getaway
+General Difficulty: 4/2 Standard Dice Pools: Physical 3, Social 3, Mental 5, Gifts 6 Secondary Attributes: Health 6, Willpower 6 Exceptional Dice Pools: Brawl 5, Drive 8, Melee 5 Other Traits: Uses the equivalents of Animal Magnetism, Catfeet, and Sense Danger.
+Nightmare
+General Difficulty: 4/3 Standard Dice Pools: Physical 6, Social 3, Mental 5, Gifts 6 Secondary Attributes: Health 6, Willpower 3 Exceptional Dice Pools: Brawl 8, Firearms 7, Melee 7 Other Traits: Uses the equivalent of Camouflage, Porcupine's Reprisal, Raging Strikes, and Razor Claws.
+Sage
+General Difficulty: 4/2 Standard Dice Pools: Physical 4, Social 6, Mental 5, Gifts 6 Secondary Attributes: Health 5, Willpower 5 Exceptional Dice Pools: Firearms 5, Persuasion 7, Subterfuge 6 Other Traits: Uses the equivalent of Animal Magnetism, Gaia's Candor, The Silver Compact, and Staredown.
+
+22
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Lupines
+Corpse Artist
+General Difficulty: 4/3 Standard Dice Pools: Physical 6, Social 3, Mental 4 Secondary Attributes: Health 6, Willpower 4 Exceptional Dice Pools: Brawl 8, Firearms 7, Melee 7 Disciplines: Dominate 3 (Cloud Memory, Mesmerize, The Forgetful Mind), Obfuscate 1 (Cloak of Shadows), Protean 2 (Resilience, Feral Weapons) Other Traits: two-dice bonus to all tests and conflicts related to surprise attacks. Note: If the werewolf shapeshifts into the war-form, its combat-related General Difficulties increase by 2 and its combat-related Dice Pools increase by 3.
+Encompassing Heart
+General Difficulty: 3/2 Standard Dice Pools: Physical 3, Social 6, Mental 4 Secondary Attributes: Health 4, Willpower 6 Exceptional Dice Pools: Firearms 4, Persuasion 7, Subterfuge 7 Disciplines: Obfuscate 1 (Silence of Death), Potence 2 (Lethal Body, Prowess), Presence 3 (Awe, Lingering Kiss, Entrancement) Other Traits: two-dice bonus to all tests that de-escalate situations. Note: If the werewolf shapeshifts into the war-form, its combat-related General Difficulties increase by 2 and its combat-related Dice Pools increase by 3.
+Encyclopedia
+General Difficulty: 3/2 Standard Dice Pools: Physical 4, Social 3, Mental 6 Secondary Attributes: Health 5, Willpower 5 Exceptional Dice Pools: Awareness 7, Occult 7, Technology 7 Disciplines: Animalism 1 (Sense the Beast), Auspex 3 (Sense the Unseen, Premonition, Share the Senses), Blood Sorcery 2 (Corrosive Vitae, Extinguish Vitae; Ritual: Clinging of the Insect) Other Traits: Once per scene, Encyclopedia fully controls a device or network the players' characters do not already own or control. Note: If the werewolf shapeshifts into the war-form, its combat-related General Difficulties increase by 2 and its combat-related Dice Pools increase by 3.
+
+Odell, Who Walks with Justice
+General Difficulty: 3/2 Standard Dice Pools: Physical 3, Social 5, Mental 7 Secondary Attributes: Health 5, Willpower 5 Exceptional Dice Pools: Firearms 4, Leadership 6, Subterfuge 6 Disciplines: Auspex 2 (Sense the Unseen, Premonition), Dominate 3 (Compel, Mesmerize, Submerged Directive), Protean 1 (Eyes of the Beast) Other Traits: two-dice bonus to any Social conflict where Odell flaunts his authority. Note: If the werewolf shapeshifts into the war-form, its combat-related General Difficulties increase by 2 and its combat-related Dice Pools increase by 3.
+Rivercutter
+General Difficulty: 4/2 Standard Dice Pools: Physical 4, Social 5, Mental 5 Secondary Attributes: Health 5, Willpower 5 Exceptional Dice Pools: Drive 6, Streetwise 6, Brawl 5 Disciplines: Auspex 2 (Heightened Senses, Premonition), Celerity 3 (Rapid Reflexes, Fleetness, Blink) Other Traits: Once per scene, Rivercutter may enter a scene to protect an ally, no matter where they were before. Note: If the werewolf shapeshifts into the war-form, its combat-related General Difficulties increase by 2 and its combat-related Dice Pools increase by 3.
+Tears-the-Heels
+General Difficulty: 4/2 Standard Dice Pools: Physical 5, Social 4, Mental 2 Secondary Attributes: Health 6, Willpower 4 Exceptional Dice Pools: Brawl 6, Larceny 7, Stealth 6 Disciplines: Celerity 2 (Cat's Grace, Fleetness), Obfuscate 1 (Cloak of Shadows), Potence 3 (Lethal Body, Prowess, Uncanny Grip) Other Traits: As a wolf, two-dice bonus to Discipline tests. Note: If the werewolf shapeshifts into the war-form, its combat-related General Difficulties increase by 2 and its combat-related Dice Pools increase by 3. 
+
+23
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Appendix II
+
+Players' Characters
+
+In addition to each player's character's full qualities, simplified antagonist qualities are also provided. These qualities are written for the opposite game of the character's full qualities; a Vampire player's character has antagonist qualities for Werewolf, and vice versa. Special rules for each antagonist quality (found in the chapters on antagonists in Vampire and Werewolf) apply.
+Player Coterie: Blindfold
+Blindfold is a Vehme coterie (see Coterie Types in Vampire) formed at the request, manipulation, or outright demand of the city's Court. Each Kindred in the coterie has a deep interest in the greater supernatural world. If they preserve the Masquerade, the Domain's authorities permit them to pursue their interests freely.
+
+TABLE 5: KINDRED COTERIE
+
+NAME
+
+CONCEPT
+
+CLAN
+
+Azar "Actuary" Hosseini Nicky "Desecrator" Howse Jiang "Eyewitness" Yeung Skyler "Getaway" Granville Shea "Nightmare" Vincent Lorrin "Sage" Malone
+
+Occult Archivist Grave Robber Phenomena Seeker Creative Improvisor Impulsive Fighter Pragmatic Soothsayer
+
+Tremere Gangrel Malkavian Ventrue Nosferatu Toreador
+
+PREDATOR TYPE Bagger Sandman Cleaver Consensualist Alleycat Scene Queen
+
+Player Pack: Litany's Claw
+Litany's Claw is a traditionalist pack of Garou dedicated to the proliferation and enforcement of the Litany (Werewolf, p. 46) in their sept. Though the pack is serious about their work, they're also aware of its faults. Some strive for a new Litany entirely. Tonight, there's no disagreement: someone is lifting the Veil and must be punished.
+
+TABLE 6: GAROU PACK NAME Corpse Artist Encompassing Heart Encyclopedia Odell, Who Walks with Justice Rivercutter Tears-the-Heels
+
+CONCEPT Solemn Executioner Devil's Advocate Resolute Investigator Spiritual Judge Pragmatic Exiler Relentless Tracker
+
+TRIBE Galestalker Children of Gaia Ghost Council Shadowlord Bone Gnawer Red Talon
+
+AUSPICE Ahroun Philodox Theurge Philodox Galliard Ragabash
+
+24
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Azar "Actuary" Hosseini (Occult Archivist)
+Actuary was the top employee of his old insurance firm. He was Embraced after looking too deeply into a fraud case tied to his sire. When the Pyramid broke, his sire fled for parts unknown, and he took over her library. Now, he maintains the city's greatest source of esoteric knowledge and seeks ways to increase his hoard.
+Actions These are things you can do but aren't required: · Be the mastermind of your coterie and create plans. · User your knowledge to make sense of the unknown. · Find a new piece of lore or occult object to add to your collection.
+Clan: Tremere Embraced: 2002 (Born 1960) Ambition: Completely understand this world I'm part of. Predator: Bagger Convictions: The preservation of memory is sacred. Touchstone: Pat Troy--History Professor Humanity: 6 Generation: 12th Blood Potency: 1 Attributes: Strength 1, Dexterity 2, Stamina 2; Charisma 2, Manipulation 2, Composure 3; Intelligence 4, Wits 3, Resolve 3 Secondary Attributes: Health 5, Willpower 6 Skills (Specialist): Brawl 1, Firearms 1, Melee 1, Insight (Motives) 2, Leadership (Command) 4, Persuasion 2, Streetwise (Black Market) 1; Academics (Research) 3, Awareness 3, Investigation 2, Occult 3, Science (Probability) 1 Disciplines: Auspex 1 (Sense the Unseen), Blood Sorcery 3 (A Taste for Blood, Extinguish Vitae, Blood of Potency; Ritual: Craft Bloodstone), Dominate 1 (Cloud Memory) Advantages: Haven 4 (Size 2, Library 2), Iron Gullet, Resources 3 Flaws: Enemy (Sarah McCracken, private eye) 2, Stigmata, Known Corpse Experience: 24 spent
+25
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Name Azar "Actuary" Hosseini Concept Occult Archivist
+
+Chronicle Under a Changing Moon
+Sire
+
+Ambition Completely understand this world I'm part of.
+Desire
+
+Predator Bagger Clan Tremere Generation 12th
+
+ATTRIBUTES
+
+Physical Strength     
+
+Social Charisma     
+
+Mental Intelligence     
+
+Dexterity      Manipulation     
+
+Wits
+
+
+
+Stamina      Composure     
+
+Resolve     
+
+Health
+ 
+
+Willpower
+ 
+
+SKILLS
+
+Athletics Brawl Craft Drive Firearms Melee Larceny Stealth Survival
+Auspex Sense the Unseen
+
+ Animal Ken
+
+ Academics Research
+
+ Etiquette
+
+ Awareness
+
+ Insight Motives
+
+ Finance
+
+ Intimidation
+
+ Investigation
+
+ Leadership Command
+
+ Medicine
+
+ Performance
+
+ Occult
+
+ Persuasion
+
+ Politics
+
+ Streetwise Black Market  Science Probability
+
+ Subterfuge
+
+ Technology
+
+DISCIPLINES
+
+ Blood Sorcery
+
+ Dominate
+
+A Taste for Blood
+
+Cloud Memory
+
+Extinguish Vitae
+
+Blood of Potency
+
+        
+
+
+ Blood Sorcery Rituals  Craft Bloodstone
+
+
+
+Resonance
+© 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ)
+
+Hu2n6ger      Humanity          
+
+UNDER A CHANGING MOON
+Chronicle Tenets
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Touchstones & Convictions
+The preservation of memory is sacred. -Pat Troy , History Professor
+
+Clan Bane
+Kindred cannot be Blood Bound to you. Motals must drink your blood three + Bane Severity times before they become Blood Bound to you, rather than just three times.
+
+Haven -Library -Size Iron Gullet Resources
+
+Advantages & Flaws
+
+Flaw: Enemy (Sarah McCracken, Private Eye)
+Flaw: Stigmata Flaw: Known Corpse
+
+          
+
+Notes
+Actions These are things you can do but aren't required: · Be the mastermind of your coterie and create plans. · User your knowledge to make sense of the unknown. · Find a new piece of lore or occult object to add to
+your collection.
+
+Blood Potency  
+
+Blood Surge
+2 dice
+
+Mend Amount
+1 Superficial damage
+
+Power Bonus
+None
+
+Rouse Re-Roll
+Level 1
+
+Feeding Penalty
+No Effect
+
+Bane Severity
+2
+
+Total Experience Spent Experience 24
+True age
+Apparent age 42 Date of birth 1960 Date of death 2002
+Appearance
+
+Distinguishing features
+
+History
+Actuary was the top employee of his old insurance firm. He was Embraced after looking too deeply into a fraud case tied to his sire. When the Pyramid broke, his sire fled for parts unknown, and he took over her library. Now, he maintains the city's greatest source of esoteric knowledge and seeks ways to increase his hoard.
+
+27
+© 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ)
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Jiang "Eyewitness" Yeung (Phenomena Seeker)
+An explorer of the Deep Web from a far-too-young age, Eyewitness kept a hard drive full of grainy videos of vampire feedings, lupine killings, and even stranger events. When they ran out of content, they made their own. Filming at the wrong place at the wrong time got them killed, and the cruel impulse of their subject got them Embraced. Now, their technological expertise serves the Kindred.
+Actions These are things you can do but aren't required: · Be the tech expert of your coterie and give them an electronic advantage. · Use your tools to keep your coterie aware of incoming threats. · Capture a Balm ritual on video.
+Clan: Malkavian Embraced: 2014 (Born 1994) Ambition: Reveal the supernatural world and not be killed for it. Predator: Cleaver Convictions: Never settle for half-truths. Touchstone: "GrimGash07"--fellow dark web enthusiast Humanity: 7 Generation: 12th Blood Potency: 1 Attributes: Strength 2, Dexterity 3, Stamina 1; Charisma 2, Manipulation 3, Composure 2; Intelligence 4, Wits 2, Resolve 3 Secondary Attributes: Health 4, Willpower 5 Skills: Craft (Mechanical Repair) 2, Melee 1, Larceny 1, Stealth 2; Etiquette 1, Persuasion (Gaslighting) 3, Subterfuge (Lying) 3; Awareness 2, Finance 2, Science (Engineering) 3, Technology (Hacking) 4 Disciplines: Auspex 1 (Heightened Senses), Dominate 2 (Compel, Dementation), Obfuscate 2 (Cloak of Shadows, Unseen Passage) Advantages: Herd (Family Members) 2, Mask (Kacey Frampton--freelance tech support, Cobbler, Zeroed) 2, Resources 3 Flaws: Dark Secret: Cleaver, Folkloric Block (Running Water) Experience: 26 spent
+28
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Name Jiang "Eyewitness" Yeung Concept Phenomena Seeker
+
+Chronicle Under a Changing Moon Ambition Reveal the supernatural world
+and not be killed for it.
+
+Sire
+
+Desire
+
+Predator Cleaver Clan Malkavian Generation 12th
+
+ATTRIBUTES
+
+Physical Strength     
+
+Social Charisma     
+
+Mental Intelligence     
+
+Dexterity      Manipulation     
+
+Wits
+
+
+
+Stamina      Composure     
+
+Resolve     
+
+Health
+ 
+
+Willpower
+ 
+
+SKILLS
+
+Athletics Brawl Craft Mechanical Repair Drive Firearms Melee Larceny Stealth Survival
+Auspex Heightened Senses
+
+ Animal Ken
+
+ Academics
+
+ Etiquette
+
+ Awareness
+
+ Insight
+
+ Finance
+
+ Intimidation
+
+ Investigation
+
+ Leadership
+
+ Medicine
+
+ Performance
+
+ Occult
+
+     Persuasion Gaslighting
+
+ Politics
+
+ Streetwise
+
+ Science Engineering
+
+ Subterfuge Lying
+
+ Technology Hacking
+
+DISCIPLINES
+
+ Dominate
+
+ Obfuscate
+
+Compel
+
+Cloak of Shadows
+
+Dementation
+
+Unseen Passage
+
+        
+
+
+
+
+
+
+
+
+Resonance
+© 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ)
+
+Hu2n9ger      Humanity          
+
+UNDER A CHANGING MOON
+Chronicle Tenets
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Touchstones & Convictions
+Never settle for half-truths. -GrimGash07, fellow dark web enthusiast
+
+Clan Bane
+You suffer a paranoia derangement that affects your Social pools. After a Bestial Failure or Compulsion, suffer a penalty equal to your Bane Severity to Social dice pools till the end of the scene.
+
+Advantages & Flaws
+
+Herd (Family Members)
+
+
+
+Mask (Kacey Frampton, freelance tech support) 
+
+--Cobbler
+
+
+
+--Zeroed
+
+
+
+Resources
+
+
+
+Flaw: Dark Secret - Cleaver Flaw: Folkloric Block - Running Water
+
+  
+
+
+
+ 
+
+Notes
+Actions: These are things you can do but aren't required: · Be the tech expert of your coterie and give them an electronic advantage. · Use your tools to keep your coterie aware of incoming threats. · Capture a Balm ritual on video.
+
+Blood Potency  
+
+Blood Surge
+2 dice
+
+Mend Amount
+1 Superficial damage
+
+Power Bonus
+None
+
+Rouse Re-Roll
+Level 1
+
+Feeding Penalty
+No Effect
+
+Bane Severity
+2
+
+Total Experience Spent Experience 26
+True age
+Apparent age 20 Date of birth 1994 Date of death 2014
+Appearance
+
+Distinguishing features
+
+History
+An explorer of the Deep Web from a far-too-young age, Eyewitness kept a hard drive full of grainy videos of vampire feedings, lupine killings, and even stranger events. When they ran out of content, they made their own. Filming at the wrong place at the wrong time got them killed, and the cruel impulse of their subject got them Embraced. Now, their technological expertise serves the Kindred.
+
+30
+© 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ)
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Lorrin "Sage" Malone (Pragmatic Soothsayer)
+When Sage started her career as a fake psychic, she thought it would be temporary. Five years later, she managed a small psychic shop franchise. When one of her employees blew the metaphorical whistle about her creative accounting, an investor stepped in and promised to smooth things over. The Embrace sealed the deal. Now, she provides the Kindred with laundered money and explores a world where everything she pretended to be is real.
+Actions These are things you can do but aren't required: · Be the face of your coterie and engage in social engineering. · Use your charm to de-escalate conflicts or turn enemies against each other. · Bring at least one Balm member under your influence.
+Clan: Toreador Embraced: 2013 (Born 1981) Ambition: Master my supernatural abilities. Predator: Scene Queen Convictions: Never become someone else' mark. Touchstone: Cal Freeman--New Age Shop Owner Humanity: 7 Generation: 12th Blood Potency: 1 Attributes: Strength 2, Dexterity 2, Stamina 2; Charisma 3, Manipulation 4, Composure 3; Intelligence 2, Wits 3, Resolve 2 Secondary Attributes: Health 5, Willpower 5 Skills: Drive 1, Firearms (Quick-draw) 1; Etiquette (Occult Circles) 2, Leadership 3, Persuasion (Fast-Talk) 4, Subterfuge 3; Awareness 3, Finance (Money Laundering) 1, Occult (Cults) 2, Politics 2 Disciplines: Auspex 2 (Sense the Unseen, Premonition), Celerity 1 (Cat's Grace), Presence 1 (Awe), Potence 1 (Lethal Body) Advantages: Beautiful, Bond Resistance, Contacts (Cleo Stanford--Local Journalist) 1, Fame 1, Herd (VIP Club) 2, Resources 2 Flaws: Disliked (Local Skeptics), Known Blankbody Experience: 24 spent
+31
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Name Lorrin "Sage" Malone Concept Pragmatic Soothsayer Chronicle Under a Changing Moon Ambition
+
+Predator Scene Queen Clan Toreador
+
+Sire
+
+Desire
+
+Generation 12th
+
+ATTRIBUTES
+
+Physical Strength     
+
+Social Charisma     
+
+Mental Intelligence     
+
+Dexterity      Manipulation     
+
+Wits
+
+
+
+Stamina      Composure     
+
+Resolve     
+
+Health
+ 
+
+Willpower
+ 
+
+SKILLS
+
+Athletics Brawl Craft Drive Firearms Melee Larceny Stealth Survival
+Auspex Sense the Unseen Premonition
+
+ Animal Ken
+
+ Academics
+
+
+
+     Etiquette Occult Circles
+
+ Awareness
+
+
+
+ Insight
+
+ Finance Money Laundering 
+
+ Intimidation
+
+ Investigation
+
+
+
+ Leadership
+
+ Medicine
+
+
+
+ Performance
+
+ Occult Cults
+
+
+
+ Persuasion Fast-Talk
+
+ Politics
+
+
+
+ Streetwise
+
+ Science
+
+
+
+ Subterfuge
+
+ Technology
+
+
+
+DISCIPLINES
+
+ Celerity
+
+ Presence
+
+Cat's Grace
+
+Awe
+
+
+
+Potence Lethal Body
+
+
+
+
+
+
+
+Resonance
+© 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ)
+
+Hu3n2ger      Humanity          
+
+UNDER A CHANGING MOON
+Chronicle Tenets
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Touchstones & Convictions
+Never become someone else' mark. -Cal Freeman, New Age Shop Owner
+
+Clan Bane
+You suffer a penalty to dice pools to activate Discipline equal to your Bane Severity when there is no beauty around.
+
+Advantages & Flaws
+
+Beautiful
+
+
+
+Bond Resistance
+
+
+
+Contact (Cleo Stanford, local journalist) 
+
+Fame
+
+
+
+Herd (VIP Club)
+
+
+
+Resources
+
+
+
+
+
+
+
+Blood Potency  
+
+Blood Surge
+2 dice
+
+Mend Amount
+1 Superficial damage
+
+Power Bonus
+None
+
+Rouse Re-Roll
+Level 1
+
+Feeding Penalty
+No Effect
+
+Bane Severity
+2
+
+Total Experience Spent Experience 21
+
+ True age
+
+ 
+
+Apparent age
+Date of birth 1981 Date of death 2013
+
+Notes
+Actions These are things you can do but aren't required: · Be the face of your coterie and engage in social engineering. · Use your charm to de-escalate conflicts or turn enemies against each other. · Bring at least one Balm member under your influence.
+
+Appearance
+Distinguishing features
+History
+When Sage started her career as a fake psychic, she thought it would be temporary. Five years later, she managed a small psychic shop franchise. When one of her employees blew the metaphorical whistle about her creative accounting, an investor stepped in and promised to smooth things over. The Embrace sealed the deal. Now, she provides the Kindred with laundered money and explores a world where everything she pretended to be is real.
+33
+
+© 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ)
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Nicky "Desecrator" Howse (Grave Robber)
+Desecrator was a witch who worked with the remains of the freshly dead. They'd never admit it to their coven, but breaking in and stealing things was a greater thrill than the coven's workings. One night, the coven was ambushed by a ravenous vampire. Everyone died save for Desecrator, who collapsed from exhaustion when the vampire regained his wits. Impressed by their stamina, he Embraced them on the spot. Now, they break into grander places than the local cemetery.
+Actions These are things you can do but aren't required: · Be the burglar of your coterie and help them move safely. · Use your slight-of-hand to create new opportunities. · Collect a trophy from someone who dies tonight, not necessarily by your hand.
+Clan: Gangrel Embraced: 2014 (Born 1995) Ambition: Discover an Antediluvian grave. Predator: Sandman Convictions: Stealing is justified if for a higher purpose. Touchstone: Madcap--Transgressive Internet Personality Humanity: 7 Generation: 12th Blood Potency: 1 Attributes: Strength 2, Dexterity 4, Stamina 3; Charisma 2, Manipulation 2, Composure 3; Intelligence 2, Wits 3, Resolve 1 Secondary Attributes: Health 6, Willpower 4 Skills: Athletics 2, Brawl 2, Drive 1, Melee 2, Larceny (Lockpicking, Safecracking) 4, Stealth (Break-Ins) 3; Streetwise 3, Subterfuge 3; Awareness 1, Investigation 1, Occult 2, Technology 2 Disciplines: Animalism 1 (Sense the Beast), Fortitude 2 (Unswayable Mind, Toughness), Protean 2 (Eyes of the Beast, Feral Weapons), Obfuscate 1 (Silence of Death) Advantages: Iron Gullet, Mask (Colby Richardson--college student) 2, Resources 3 Flaws: Stake Bait Experience: 25 spent
+34
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Name Nicky "Desecrator" Howse Concept Grave Robber
+
+Predator Sandman
+
+Chronicle Under a Changing Moon Ambition Discover an Antediluvian grave. Clan Gangrel
+
+Sire
+
+Desire
+
+Generation 12th
+
+ATTRIBUTES
+
+Physical Strength     
+
+Social Charisma     
+
+Mental Intelligence     
+
+Dexterity      Manipulation     
+
+Wits
+
+
+
+Stamina      Composure     
+
+Resolve     
+
+Health
+ 
+
+Willpower
+ 
+
+SKILLS
+
+Athletics
+
+ Animal Ken
+
+ Academics
+
+Brawl
+
+ Etiquette
+
+ Awareness
+
+Craft
+
+ Insight
+
+ Finance
+
+Drive
+
+ Intimidation
+
+ Investigation
+
+Firearms
+
+ Leadership
+
+ Medicine
+
+Melee
+
+ Performance
+
+ Occult
+
+Larceny Lockpicking, Safecracking      Persuasion
+
+ Politics
+
+Stealth Break-ins
+
+ Streetwise
+
+ Science
+
+Survival
+
+ Subterfuge
+
+ Technology
+
+Animalism Sense the Beast
+
+DISCIPLINES
+
+ Fortitude
+
+ Obfuscate
+
+Unswayable Mind
+
+Silence of Death
+
+Toughness
+
+        
+
+
+Protean Eyes of the Beast Feral Weapons
+
+
+
+
+
+
+
+Resonance
+© 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ)
+
+Hu3n5ger      Humanity          
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Chronicle Tenets
+
+Touchstones & Convictions
+Stealing is justified if for a higher purpose. -Madcap,Transgressive Internet Personality
+
+Clan Bane
+After a frenzy, you display animal features, odors, or behaviors until the end of the following evening. Choose a number equal to your Bane Severity. Each feature reduces an Attribute by one dot. Riding the Wave of Frenzy reduces this to only one feature.
+
+Advantages & Flaws
+
+Iron Gullet
+
+
+
+Mask (Colby Richardson, college student) 
+
+Resources
+
+
+
+Flaw: Stake Bait
+
+ 
+
+
+
+
+
+
+
+Blood Potency  
+
+Blood Surge
+2 dice
+
+Mend Amount
+1 Superficial damage
+
+Power Bonus
+None
+
+Rouse Re-Roll
+Level 1
+
+Feeding Penalty
+No Effect
+
+Bane Severity
+2
+
+Total Experience Spent Experience 25
+
+ True age
+
+ 
+
+Apparent age
+Date of birth 1995 Date of death 2014
+
+Notes
+Actions These are things you can do but aren't required: · Be the burglar of your coterie and help them move safely. · Use your slight-of-hand to create new opportunities. · Collect a trophy from someone who dies tonight, not necessarily by your hand.
+
+Appearance
+Distinguishing features
+History
+Desecrator was a witch who worked with the remains of the freshly dead. They'd never admit it to their coven, but breaking in and stealing things was a greater thrill than the coven's workings. One night, the coven was ambushed by a ravenous vampire. Everyone died save for Desecrator, who collapsed from exhaustion when the vampire regained his wits. Impressed by their stamina, he Embraced them on the spot. Now, they break into grander places than the local cemetery.
+
+36
+
+© 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ)
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Shea "Nightmare" Vincent (Impulsive Fighter)
+Nightmare got her way through violence all her life, and prison cells were as much home as her apartment. After a blood donation center turned out to be an arm of the Circulatory System, she fought her way out and caught the eye of an important customer. After a long talk and a short fight, Nightmare underwent the Embrace. She doesn't mind her appearance downgrade if she spends her unlife in a world where extreme violence is commonplace.
+Actions These are things you can do but aren't required: · Be the muscle of your coterie and defend them from threats. · Use your capacity for violence to neutralize enemies. · Pick a fight with someone you can't beat... and win anyway.
+Clan: Nosferatu Embraced: 2011 (Born 1993) Ambition: Destroy something ancient. Predator: Alleycat Convictions: Never tolerate weakness. Touchstone: Sally Abbot--Personal Trainer Humanity: 6 Generation: 12th Blood Potency: 1 Attributes: Strength 4, Dexterity 3, Stamina 3; Charisma 2, Manipulation 2, Composure 1; Intelligence 2, Wits 3, Resolve 3 Secondary Attributes: Health 6, Willpower 3 Skills: Athletics 3, Brawl (Grappling) 4, Firearms 3, Melee (Improvised Weapons) 3, Stealth 2, Survival 1; Intimidation 2, Streetwise 1, Subterfuge 1; Awareness 2, Invesitgation 1, Technology 1 Disciplines: Animalism 1 (Sense the Beast), Obfuscate 1 (Silence of Death), Potence 3 (Lethal Body, Prowess, Brutal Feed) Advantages: Blood Hound, Contacts (Coyne Street Lords) 5, Resources 2, Status (Anarchs) 1 Flaws: Bond Junkie, Long Bond, Repulsive (via Clan Bane) Experience: 26 spent
+37
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Name Shea "Nightmare" Vincent Concept Impulsive Fighter
+
+Predator Alleycat
+
+Chronicle Under a Changing Moon Ambition Destroy something ancient. Clan Nosferatu
+
+Sire
+
+Desire
+
+Generation 12th
+
+ATTRIBUTES
+
+Physical Strength     
+
+Social Charisma     
+
+Mental Intelligence     
+
+Dexterity      Manipulation     
+
+Wits
+
+
+
+Stamina      Composure     
+
+Resolve     
+
+Health
+ 
+
+Willpower
+ 
+
+SKILLS
+
+Athletics
+
+ Animal Ken
+
+ Academics
+
+Brawl Grappling
+
+ Etiquette
+
+ Awareness
+
+Craft
+
+ Insight
+
+ Finance
+
+Drive
+
+ Intimidation
+
+ Investigation
+
+Firearms
+
+ Leadership
+
+ Medicine
+
+Melee Improvised Weapons      Performance
+
+ Occult
+
+Larceny
+
+ Persuasion
+
+ Politics
+
+Stealth
+
+ Streetwise
+
+ Science
+
+Survival
+
+ Subterfuge
+
+ Technology
+
+Animalism Sense the Beast
+
+DISCIPLINES
+
+ Obfuscate
+
+ Potence
+
+Silence of Death
+
+Lethal Body
+
+Prowess
+
+Brutal Feed
+
+        
+
+
+
+
+
+
+
+
+Resonance
+© 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ)
+
+Hu3n8ger      Humanity          
+
+UNDER A CHANGING MOON
+Chronicle Tenets
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Touchstones & Convictions
+Never tolerate weakness. -Sally Abbot, Personal Trainer
+
+Clan Bane
+You suffer the Repulsive Flaw and a Bane Severity penalty to dice pools to disguise your repulsive nature.
+
+Advantages & Flaws Blood Hound Contacts (Coyne Street Lords) Resources Status (Anarchs)
+Flaw: Bond Junkie Flaw: Long Bond Flaw: Repulsive (from Clan Bane)
+
+       
+
+Blood Potency  
+
+Blood Surge
+2 dice
+
+Mend Amount
+1 Superficial damage
+
+Power Bonus
+None
+
+Rouse Re-Roll
+Level 1
+
+Feeding Penalty
+No effect
+
+Bane Severity
+2
+
+Total Experience Spent Experience 26
+
+ True age
+
+ 
+
+Apparent age
+Date of birth 1993 Date of death 2011
+
+Notes
+Actions These are things you can do but aren't required: · Be the muscle of your coterie and defend them from threats. · Use your capacity for violence to neutralize enemies. · Pick a fight with someone you can't beat... and win anyway.
+
+Appearance
+Distinguishing features
+History
+Nightmare got her way through violence all her life, and prison cells were as much home as her apartment. After a blood donation center turned out to be an arm of the Circulatory System, she fought her way out and caught the eye of an important customer. After a long talk and a short fight, Nightmare underwent the Embrace. She doesn't mind her appearance downgrade if she spends her unlife in a world where extreme violence is commonplace.
+
+39
+
+© 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ)
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Skyler "Getaway" Granville (Creative Improviser)
+Getaway was Embraced as part of an elaborate rivalry between two powerful vampires, which ended in both seeing final death. He didn't earn his nickname just by talking his way out of the Prince's punishment or because he escaped the machinations of his sire's surviving childer. Pay him enough blood, and he'll get anyone out of trouble. His specialty is helping Kindred escape situations involving other supernatural creatures, which puts him at the top of the coterie's speed dial.
+Actions These are things you can do but aren't required: · Be the wild card of your coterie and ensure their victory by any means necessary. · Use your variety of skills to create another chance of success, or at least a good exit strategy. · Get someone to respect you or owe you a favor.
+Clan: Ventrue Embraced: 2004 (Born 1979) Ambition: Start my own domain. Predator: Consensualist Convictions: You can always trust your spontaneous reactions. Touchstone: Patty Corrigan--Stand Up Comedian Humanity: 8 Generation: 12th Blood Potency: 1 Attributes: Strength 2, Dexterity 3, Stamina 3; Charisma 2, Manipulation 2, Composure 2; Intelligence 1, Wits 3, Resolve 4 Secondary Attributes: Health 8, Willpower 6 Skills: Athletics 3, Brawl 2, Drive (Evasion, Tailing) 4, Firearms 2, Melee 2; Animal Ken 1, Etiquette 1, Insight 1, Persuasion (Victims) 1; Subterfuge 1 (Feign mortality), Awareness 3, Medicine (First Aid) 3, Politics 1 Disciplines: Auspex 1 (Heightened Senses), Dominate 2 (Cloud Memory, Mesmerize), Fortitude 2 (Resilience, Toughness), Presence 1 (Daunt) Advantages: Blood Hound, Contacts (City Journalists) 2, Influence (City) 3, Resources 1 Flaws: Dark Secret: Masquerade Breacher, No Haven, Prey Exclusion (Non-consenting, Children) Experience: 24 spent
+40
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Name Skyler "Getaway" Granville Concept Creative Improviser Chronicle Under a Changing Moon Ambition
+
+Predator Consensualist Clan Ventrue
+
+Sire
+
+Desire
+
+Generation 12th
+
+ATTRIBUTES
+
+Physical Strength     
+
+Social Charisma     
+
+Mental Intelligence     
+
+Dexterity      Manipulation     
+
+Wits
+
+
+
+Stamina      Composure     
+
+Resolve     
+
+Health
+ 
+
+Willpower
+ 
+
+SKILLS
+
+Athletics Brawl Craft Drive Evasion, Tailing Firearms Melee Larceny Stealth Survival
+Auspex Heightened Senses
+
+ Animal Ken
+
+ Academics
+
+ Etiquette
+
+ Awareness
+
+ Insight
+
+ Finance
+
+ Intimidation
+
+ Investigation
+
+ Leadership
+
+ Medicine First Aid
+
+ Performance
+
+ Occult
+
+ Persuasion Victims
+
+ Politics
+
+ Streetwise
+
+ Science
+
+ Subterfuge Feign Mortality  Technology
+
+DISCIPLINES
+
+ Dominate
+
+ Fortitude
+
+Cloud Memory
+
+Resilience
+
+Mesmerize
+
+Toughness
+
+        
+
+
+Presence Daunt
+
+
+
+
+
+
+
+Resonance
+© 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ)
+
+Hu4n1ger      Humanity          
+
+UNDER A CHANGING MOON
+Chronicle Tenets
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Touchstones & Convictions
+
+Clan Bane
+
+You can always trust your spontaneous reactions. -Patty Corrigan, Stand Up Comedian
+
+You prefer to drink from men, slaking Hunger from other mortals (not Kindred) inflicts Superficial damage to Willpower equal to your Bane Severity.
+
+Advantages & Flaws Blood Hound Contacts (City Journalists) Influence (City) Resources
+
+   
+
+
+
+Flaw: Dark Secret-Masquerade Breacher 
+
+Flaw: No Haven
+
+
+
+Prey Exclusion (Non-Consenting, Children) 
+
+Blood Potency  
+
+Blood Surge
+2 dice
+
+Mend Amount
+1 Superficial damage
+
+Power Bonus
+None
+
+Rouse Re-Roll
+Level 1
+
+Feeding Penalty
+No effect
+
+Bane Severity
+2
+
+Total Experience Spent Experience 24
+
+ True age
+
+ 
+
+Apparent age
+Date of birth 1979 Date of death 2004
+
+Notes
+Actions These are things you can do but aren't required: · Be the wild card of your coterie and ensure their victory by any means necessary. · Use your variety of skills to create another chance of success, or at least a good exit strategy. · Get someone to respect you or owe you a favor.
+
+Appearance
+Distinguishing features
+History
+Getaway was Embraced as part of an elaborate rivalry between two powerful vampires, which ended in both seeing final death. He didn't earn his nickname just by talking his way out of the Prince's punishment or because he escaped the machinations of his sire's surviving childer. Pay him enough blood, and he'll get anyone out of trouble. His specialty is helping Kindred escape situations involving other supernatural creatures, which puts him at the top of the coterie's speed dial.
+42
+
+© 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ)
+
+Corpse Artist (Solemn Executioner)
+Corpse Artist was a killer well before their First Change. As a military drone pilot, their weapons were a joystick and a trigger. They hated how they felt nothing after each kill. After an attempted mugging unleashed the wolf within, the mixture of fear, rage, and sadness was a relief. They slay unrepentant Litany violators but yearn for a code that makes these deaths unnecessary.
+Actions These are things you can do but aren't required: · Be the muscle of your pack and defend them from threats.
+· Use your combat expertise to overwhelm threats.
+· Bring someone guilty to a messy end.
+Tribe: Galestalkers Auspice: Ahroun Patron: North Wind Touchstone: Walter Binek--Former Chaplain Attributes: Strength 4, Dexterity 3, Stamina 3; Charisma 2, Manipulation 1, Composure 2; Intelligence 3, Wits 2, Resolve 2. Secondary Attributes: Health 6, Willpower 4 Skills (Specialist): Athletics 1, Brawl (Grappling) 4, Firearms 3, Melee 3, Stealth 2, Survival 2, Insight 1, Intimidation 2, Leadership 1; Awareness 1, Technology 3 Renown: Glory 1, Honor 3 Gifts: Camouflage, Halt the Coward's Flight, Razor Claws, Staredown Rites: Gathering for the Departed Advantages: Obscure Safe House, Resources 2, Talisman (Klaive) Flaws: Folkloric Bane (Moonstone Weapon), Folkloric Block (Brandished Silver) Experience: 26 spent
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Name Corpse Artist Chronicle Under a Changing Moon
+
+Concept Solemn Executioner Auspice Ahroun
+
+Patron North Wind Tribe Galestalkers
+
+ATTRIBUTES
+
+PHYSICAL
+
+Strength
+
+0 0 0 0 0
+
+Dexterity
+
+0 0 0 0 0
+
+Stamina
+
+0 0 0 0 0
+
+SOCIAL
+
+Charisma
+
+0 0 0 0 0 
+
+Manipulation 00000
+
+Composure
+
+0 0 0 0 0 
+
+MENTAL
+Intelligence Wits
+Resolve
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+nnnnnnnnnn Health
+ 
+tl-tl- Crinos tl,   t1
+
+nnnnnnnnnn Willpower
+ 
+
+
+
+
+
+00 0 0 0 0 0 000 Brawl .G...r..a...p..p...l.i.n...g...............................
+
+Etiquette .....................................
+
+00 0 0 0 00 0 00 Craft. ..................................................
+
+Insight ...........................................
+
+
+
+
+
+ 0 0 0 0 0 Aw areness ......................................... 0 0 0 0 0 Finance ................................................
+
+
+
+
+
+
+
+
+00000 0 0000 Lar ceny ............................................
+
+Performance ...............................
+
+0 0 0 00 0 0000 Melee .................................................
+
+Persu asion .................................
+
+0 0000 Oc cult ................................................... 0 0 000 Politi.cs ............................................
+
+00000 00000 Ste alth ............................................
+
+Streetwise ..................................
+
+00000 Survival ········································· Subterfuge ··································00000
+
+0 0000 S cienc.e ................................................ 0 0000 Te chnology ·······································
+
+Glory
+
+00000 Honor
+
+0 0 0 0 0 Wisdom
+
+0 0 0 0 0
+
+---------------,.1i.j1. i..1i:.!:.1 u.Jlia.:l*lt-----------------
+
+N ame
+Camouflage Halt the Coward's Flight Razor Claws Staredown
+
+Pool
+Resolve + Honor Charisma + Honor
+
+Cost Notes
+Free/1W. Become harder to see (p. 168) 1 R. Ch. Slow a fleeing target (p. 161) Free/1R. Deal extra damage with claws (p. 162) 1 R. Ch. Cause humans and animals to get out of your way (p. 147)
+
+Gathering for the Departed -
+
+- Honor the dead (p. 187)
+RageOOOOO
+44
+
+UNDER A CHANGING MOON
+Chronicle Tenets
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Touchstones
+Walter Binek - Former Chaplain
+
+Favors & Bans
+Favor: One-die bonus to pursue your prey.
+Ban: Always partake in a fresh kill daily.
+
+ADVANTAGES & FLAWS
+
+Obscure Safe House Resources Talisman (Klaive, p. 188)
+
+  
+
+ Flaw: Folkloric Bane - Moonstone Weapons      Flaw: Folkloric Block - Brandished Silver     
+
+
+
+
+
+
+
+
+
+
+
+Harano      Hauglosk     
+
+Apperance
+
+History
+Corpse Artist was a killer well before their First Change. As a military drone pilot, their weapons were a joystick and a trigger. They hated how they felt nothing after each kill. After an attempted mugging unleashed the wolf within, the mixture of fear, rage, and sadness was a relief. They slay unrepentant Litany violators but yearn for a code that makes these deaths unnecessary.
+
+FORMS of the GAROU
+Homid Cost: Free Silver immunity
+
+Glabro Cost: One Rage Check Physical Tests: Two-Dice Bonus Social Tests: Two-Dice Penalty* Regenerate: 1 per Rage Check
+Crinos Cost: Two Rage Checks Spend 1 Willpower per turn or frenzy Physical Tests: Four-Dice Bonus Health Levels: +4 Social and Stealth Tests: Fail Regenerate: 2 Per Rage Check Claws: +3 Bite: +1 Aggravated Causes Delirium
+
+Hispo
+
+Cost: One Rage Check Physical Tests:
+Two-Dice Bonus**
+Stealth Tests: Two-Dice Penalty Social Tests: Limited to wolves and Garou Regenerate: 1 per Rage Check Bite: +1 Aggravated
+
+Lupus Cost: Free Silver immunity Social Tests: Limited to wolves and Garou
+
+* Does not apply to intimidation or non-humans ** Does not apply to Stealth tests
+Notes
+Actions These are things you can do but aren't required: · Be the muscle of your pack and defend them from threats. · Use your combat expertise to overwhelm threats. · Bring someone guilty to a messy end.
+
+Total Experience Spent Experience 26
+
+45
+
+Encompassing Heart (Devil's Advocate)
+Pursuing a career in Corporate Law brought Encompassing Heart to the First Change, something she still finds hilarious. A fellow intern double-crossed her for a promised position at their law firm, and the next thing she knew, the walls were painted with blood. She defends suspected violators of the Litany even when obviously Guilty. She respects the code but wants a revived Garou Nation to re-write it from scratch.
+Actions These are things you can do but aren't required: · Be the face of your pack and engage in social engineering.
+· Throw off enemies or gain allies with your earnestness.
+· Get someone to seriously reconsider an ideal they believe in.
+Tribe: Children of Gaia Auspice: Philodox Patron: Unicorn Touchstone: Oswald Boothman--City Clerk Attributes: Strength 2, Dexterity 2, Stamina 1; Charisma 3, Manipulation 4, Composure 3; Intelligence 2, Wits 2, Resolve 3 Secondary Attributes: Health 4, Willpower 6 Skills (Specialist): Firearms 1, Stealth 1; Etiquette 3, Insight 3, Persuasion (Legal Argument) 4, Subterfuge 3; Academics (Law) 2, Investigation 3, Medicine 1, Politics 3 Renown: Glory 1, Honor 1, Wisdom 2 Gifts: Ancestral Conviction, Brother's Scent, Raging Strike Rites: Rite of Contrition Advantages: Corroborated Day Job, Resources 3, Talisman (Partridge Wing) Flaws: Enemy (Leyton Dean--First Change Survivor) 2 Experience: 23 spent
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Name Encompassing Heart Chronicle Under a Changing Moon
+
+Concept Devil's Advocate Auspice Philodox
+
+Patron Unicorn Tribe Children of Gaia
+
+ATTRIBUTES
+
+PHYSICAL
+
+Strength
+
+0 0 0 0 0
+
+Dexterity
+
+0 0 0 0 0
+
+Stamina
+
+0 0 0 0 0
+
+SOCIAL
+
+Charisma
+
+0 0 0 0 0 
+
+Manipulation 00000
+
+Composure
+
+0 0 0 0 0 
+
+MENTAL
+Intelligence Wits
+Resolve
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+nnnnnnnnnn Health
+ 
+tl-tl- Crinos tl,   t1
+
+nnnnnnnnnn Willpower
+ 
+
+
+
+
+
+Law
+
+
+
+00 0 0 0 0 0 000 Brawl ..................................................
+
+Etiquette .....................................
+
+00 0 0 0 00 0 00 Craft. ..................................................
+
+Insight ...........................................
+
+
+
+
+
+0 0 0 0 0 Aw areness ......................................... 0 0 0 0 0 Finance ................................................
+
+
+
+
+
+
+00000 0 0000 Lar ceny ............................................
+
+Performance ..L..e..g..a..l...A..r.g..u..m...e..n..t..s..
+
+0 0 0 00 0 0000 Melee .................................................
+
+Persu asion .................................
+
+ 0 0000 Oc cult ................................................... 0 0 000 Politi.cs ............................................
+
+00000 00000 Ste alth ............................................
+
+Streetwise ..................................
+
+00000 Survival ········································· Subterfuge ··································0 0000
+
+0 0000 S cienc.e ................................................ 0 0000 Te chnology ·······································
+
+Glory
+
+00000 Honor
+
+0 0 0 0 0 Wisdom
+
+0 0 0 0 0
+
+---------------,.1i.j1. i..1i:.!:.1 u.Jlia.:l*lt-----------------
+
+N ame
+Ancestral Conviction Brother's Scent Raging Strike
+
+Pool
+Composure + Wisdom -
+
+Cost Notes
+1 Will. Persuade other Garou (p. 155) Will Become overlooked in a crowd (p. 167) 1 R. Ch. Deal extra damage with Brawl attacks (p. 147)
+
+Rite of Contrition
+
+Honor + Etiquette
+
+- Make amends with a spirit or cast chagrin off (p. 182)
+RageOOOOO
+47
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Chronicle Tenets
+
+Touchstones
+Oswald Boothman - City Clerk
+
+Favors & Bans
+Favor: One-die bonus to Awareness or Insight tests to learn something about an individual person, animal, or spirit.
+
+Ban: Never lie, misdirect, or hide the truth for personal gain.
+
+ADVANTAGES & FLAWS
+
+Corroborated Day Job
+
+
+
+Resources
+
+
+
+Talisman (Partridge Wing, p. 189)
+
+
+
+ Flaw: Enemy (Leyton Dean - First Change Survivor)     
+
+
+
+
+
+
+
+
+
+
+
+
+
+Harano      Hauglosk     
+
+Apperance
+
+History
+Pursuing a career in Corporate Law brought Encompassing Heart to the First Change, something she still finds hilarious. A fellow intern double-crossed her for a promised position at their law firm, and the next thing she knew, the walls were painted with blood. She defends suspected violators of the Litany even when obviously Guilty. She respects the code but wants a revived Garou Nation to re-write it from scratch.
+
+FORMS of the GAROU
+Homid Cost: Free Silver immunity
+
+Glabro Cost: One Rage Check Physical Tests: Two-Dice Bonus Social Tests: Two-Dice Penalty* Regenerate: 1 per Rage Check
+Crinos Cost: Two Rage Checks Spend 1 Willpower per turn or frenzy Physical Tests: Four-Dice Bonus Health Levels: +4 Social and Stealth Tests: Fail Regenerate: 2 Per Rage Check Claws: +3 Bite: +1 Aggravated Causes Delirium
+
+Hispo
+
+Cost: One Rage Check Physical Tests:
+Two-Dice Bonus**
+Stealth Tests: Two-Dice Penalty Social Tests: Limited to wolves and Garou Regenerate: 1 per Rage Check Bite: +1 Aggravated
+
+Lupus Cost: Free Silver immunity Social Tests: Limited to wolves and Garou
+
+* Does not apply to intimidation or non-humans ** Does not apply to Stealth tests
+Notes
+Actions These are things you can do but aren't required: · Be the face of your pack and engage in social engineering. · Throw off enemies or gain allies with your earnestness. · Get someone to seriously reconsider an ideal they believe in.
+
+Total Experience Spent Experience 23
+
+48
+
+Encyclopedia (Resolute Investigator)
+Encyclopedia's First Change came after getting laid off from a tech company after 30 years of loyal service. A nature walk ended with waking up among felled trees and a mouthful of something or someone's flesh. They seek out the locations, determine the crimes of possible Litany violators, and uphold it because rules are meant to be followed.
+Actions These are things you can do but aren't required: · Be the tech expert of your pack and grant an electronic advantage.
+· Use your tools to enhance situational awareness.
+· Surprise someone with information you uncovered.
+Tribe: Ghost Council Auspice: Theurge Patron: Horned Serpent Touchstone: Kaylee Bakshi--Former Co-Worker Attributes: Strength 2, Dexterity 3, Stamina 3; Charisma 1, Manipulation 2, Composure 2; Intelligence 4, Wits 2, Resolve 3 Secondary Attributes: Health 5, Willpower 5 Skills (Specialist): Brawl 1, Craft (Design) 3, Firearms 1, Melee 1, Survival 3; Animal Ken 2; Academics (Mathematics) 2, Awareness 2, Occult 2, Science (Engineering) 3, Technology (Hacking) 4 Renown: Honor 2, Wisdom 2 Gifts: Augur, Ensnare Spirit, Penumbral Senses, Shadow Sense Rites: Rite of Spirit Summoning Advantages: Day Job, Spirit Pact ("Fritz," Electricity Gaffling, Companion) 2, Resources 2 Flaws: Crone's Curse Experience: 24 spent
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Name Encyclopedia Chronicle Under a Changing Moon
+
+Concept Resolute Investigator Auspice Theurge
+
+Patron Horned Serpent Tribe Ghost Council
+
+ATTRIBUTES
+
+PHYSICAL
+
+Strength
+
+0 0 0 0 0
+
+Dexterity
+
+0 0 0 0 0
+
+Stamina
+
+0 0 0 0 0
+
+SOCIAL
+
+Charisma
+
+0 0 0 0 0 
+
+Manipulation 00000
+
+Composure
+
+0 0 0 0 0 
+
+MENTAL
+Intelligence Wits
+Resolve
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+nnnnnnnnnn Health
+ 
+tl-tl- Crinos tl,   t1
+
+nnnnnnnnnn Willpower
+ 
+
+
+
+
+
+Mathematics
+
+
+
+00 0 0 0 0 0 000 Brawl ..................................................
+
+Etiquette .....................................
+
+00 0 0 0 00 0 00 Craft. .D...e..s..i.g..n.......................................
+
+Insight ...........................................
+
+
+
+
+
+0 0 0 0 0 Aw areness ......................................... 0 0 0 0 0 Finance ................................................
+
+
+
+
+
+
+
+
+00000 0 0000 Lar ceny ............................................
+
+Performance ...............................
+
+0 0 0 00 0 0000 Melee .................................................
+
+Persu asion .................................
+
+00000 00000 Ste alth ............................................
+
+Streetwise ..................................
+
+00000 Survival ········································· Subterfuge ··································00000
+
+0 0 000 Oc cult ................................................... 0 0 000 Politi.cs ............................................ 0 0000 S cienc.e ...E..n...g..i..n..e..e..r..i.n...g........................ 0 0000 Te chnology ···H···a··c···k··i·n···g······················
+
+Glory
+
+00000 Honor
+
+0 0 0 0 0 Wisdom
+
+0 0 0 0 0
+
+---------------,.1i.j1. i..1i:.!:.1 u.Jlia.:l*lt-----------------
+
+N ame
+Augur Ensnare Spirit Penumbral Senses Shadow Sense
+
+Pool
+Intelligence + Wisdom Wits + Honor Intelligence + Wisdom Wits + Wisdom
+
+Cost Notes
+1 Will. View another location (p. 170) 1 Will. Stop a spirit and make it susceptible to further Gifts (p. 152) 1 Will. Perceive the spirit and mundane worlds (p. 147) 1 Will. Sense unseen creatures and the supernatural (p. 153)
+
+Rite of Spirit Summoning
+
+Honor + Persuasion
+
+- Call a spirit to you (p. 183)
+RageOOOOO
+50
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Chronicle Tenets
+
+Touchstones
+Kaylee Bakshi - Former Co-Worker
+
+Favors & Bans
+Favor: One-die bonus to Investigation, Occult, and Subterfuge tests related to revealing a kept secret.
+Ban: Always satisfy your curiosity.
+
+ADVANTAGES & FLAWS
+
+Day Job Spirit Pact - "Fritz," Electricity Gaffling - Companion Resources
+
+   
+
+Flaw: Crone's Curse
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Harano      Hauglosk     
+
+Apperance
+
+History
+Encyclopedia's First Change came after getting laid off from a tech company after 30 years of loyal service. A nature walk ended with waking up among felled trees and a mouthful of something or someone's flesh. They seek out the locations, determine the crimes of possible Litany violators, and uphold it because rules are meant to be followed.
+
+FORMS of the GAROU
+Homid Cost: Free Silver immunity
+
+Glabro Cost: One Rage Check Physical Tests: Two-Dice Bonus Social Tests: Two-Dice Penalty* Regenerate: 1 per Rage Check
+Crinos Cost: Two Rage Checks Spend 1 Willpower per turn or frenzy Physical Tests: Four-Dice Bonus Health Levels: +4 Social and Stealth Tests: Fail Regenerate: 2 Per Rage Check Claws: +3 Bite: +1 Aggravated Causes Delirium
+
+Hispo
+
+Cost: One Rage Check Physical Tests:
+Two-Dice Bonus**
+Stealth Tests: Two-Dice Penalty Social Tests: Limited to wolves and Garou Regenerate: 1 per Rage Check Bite: +1 Aggravated
+
+Lupus Cost: Free Silver immunity Social Tests: Limited to wolves and Garou
+
+* Does not apply to intimidation or non-humans ** Does not apply to Stealth tests
+Notes
+Actions These are things you can do but aren't required: · Be the tech expert of your pack and grant an electronic advantage. · Use your tools to enhance situational awareness. · Surprise someone with information you uncovered.
+
+Total Experience Spent Experience 24
+
+51
+
+Odell, Who Walks With Justice (Spiritual Judge)
+"Odell" was the name of his last cover as a spy. He specialized in deep cover operations and handled operatives that overturned governments. Just as he began questioning the morality of his career, the First Change ended it. He makes final judgment on a Litany violation and upholds it because he believes strong people hold strong values.
+Actions These are things you can do but aren't required: · Be the mastermind of your pack and create plans.
+· Use your expertise to minimize surprises.
+· Ensure an enemy's actions fulfill your own schemes.
+Tribe: Shadow Lords Auspice: Philodox Patron: Thunder Touchstone: Harriet Baxter--Retired Diplomat Attributes: Strength 1, Dexterity 2, Stamina 2; Charisma 3, Manipulation 2, Composure 2; Intelligence 4, Wits 3, Resolve 3 Secondary Attributes: Health 5, Willpower 5 Skills (Specialist): Firearms 1, Larceny 1, Stealth 1; Insight (Interrogation) 2, Intimidation 2, Leadership 4, Persuasion 3, Streetwise 3, Subterfuge 3; Finance 2, Investigation 2, Politics 2 Renown: Glory 2, Wisdom 1 Gifts: Eyes of the Owl, Fatal Flaw, Gaia's Candor, Sense the True Form Rites: Rite of the Forgetful Record Advantages: Contacts (Retired Spies) 2, Mask (Will Fredrickson--Think Tank Member) 2, Talisman (Wind Whistle) 3 Flaws: Enemy (Thomas Becker--Think Tank Rival) 2 Experience: 26 spent
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Name Odell, Who Walks With Justice Chronicle
+
+Concept Spiritual Judge Auspice
+
+Patron Thunder Tribe Shadow Lords
+
+ATTRIBUTES
+
+PHYSICAL
+
+Strength
+
+0 0 0 0 0
+
+Dexterity
+
+0 0 0 0 0
+
+Stamina
+
+0 0 0 0 0
+
+SOCIAL
+
+Charisma
+
+0 0 0 0 0 
+
+Manipulation 00000
+
+Composure
+
+0 0 0 0 0 
+
+MENTAL
+Intelligence Wits
+Resolve
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+nnnnnnnnnn Health
+ 
+tl-tl- Crinos tl,   t1
+
+nnnnnnnnnn Willpower
+ 
+
+
+
+
+
+
+
+00 0 0 0 0 0 000 Brawl ..................................................
+
+Etiquette .....................................
+
+00 0 0 0 00 0 00 Craft. ..................................................
+
+Insight I...n..t..e..r..r..o..g...a..t..i.o...n.................
+
+
+
+
+
+0 0 0 0 0 Aw areness ......................................... 0 0 0 0 0 Finance ................................................
+
+
+
+
+
+
+
+
+00000 0 0000 Lar ceny ............................................
+
+Performance ...............................
+
+0 0 0 00 0 0000 Melee .................................................
+
+Persu asion .................................
+
+0 0000 Oc cult ................................................... 0 0 000 Politi.cs ............................................
+
+00000 00000 Ste alth ............................................
+
+Streetwise ..................................
+
+00000 Survival ········································· Subterfuge ··································0 0000
+
+0 0000 S cienc.e ................................................ 0 0000 Te chnology ·······································
+
+Glory
+
+00000 Honor
+
+0 0 0 0 0 Wisdom
+
+0 0 0 0 0
+
+---------------,.1i.j1. i..1i:.!:.1 u.Jlia.:l*lt-----------------
+
+N ame
+Eyes of the Owl Fatal Flaw Gaia's Candor Sense the True Form
+
+Pool
+Intelligence + Glory Charisma + Glory Wits + Wisdom
+
+Cost Notes
+1 Will. See in the dark (p. 146) 1 Will. Discover how best to injure a target (p. 175) 1R.Ch. Determine if a target believes what they say (p. 156) 1 Will. Detect a creature's supernatural nature (p. 156)
+
+Rite of the Forgetful Record Wisdom + Investigation - Corrupt electronically or physically recorded information (p. 182)
+RageOOOOO
+53
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Chronicle Tenets
+
+Touchstones
+Harriet Baxter - Retired Diplomat
+
+Favors & Bans
+Favor: One-die bonus to Animal Ken, Intimidation, or Subterfuge tests related to threats or exploiting a weakness.
+
+Ban: Never lose a conflict to a Garou of lesser Total Renown.
+
+ADVANTAGES & FLAWS
+
+Contacts - Retired Spies
+
+
+
+Mask: Will Frederickson - Think Tank Member     
+
+Talisman (Wind Whistle, p. 190)
+
+
+
+ Flaw: Enemy (Thomas Becker - Think Tank Rival)     
+
+
+
+
+
+
+
+
+
+
+
+
+
+Harano      Hauglosk     
+
+Apperance
+
+History
+"Odell" was the name of his last cover as a spy. He specialized in deep cover operations and handled operatives that overturned governments. Just as he began questioning the morality of his career, the First Change ended it. He makes final judgment on a Litany violation and upholds it because he believes strong people hold strong values.
+
+FORMS of the GAROU
+Homid Cost: Free Silver immunity
+
+Glabro Cost: One Rage Check Physical Tests: Two-Dice Bonus Social Tests: Two-Dice Penalty* Regenerate: 1 per Rage Check
+Crinos Cost: Two Rage Checks Spend 1 Willpower per turn or frenzy Physical Tests: Four-Dice Bonus Health Levels: +4 Social and Stealth Tests: Fail Regenerate: 2 Per Rage Check Claws: +3 Bite: +1 Aggravated Causes Delirium
+
+Hispo
+
+Cost: One Rage Check Physical Tests:
+Two-Dice Bonus**
+Stealth Tests: Two-Dice Penalty Social Tests: Limited to wolves and Garou Regenerate: 1 per Rage Check Bite: +1 Aggravated
+
+Lupus Cost: Free Silver immunity Social Tests: Limited to wolves and Garou
+
+* Does not apply to intimidation or non-humans ** Does not apply to Stealth tests
+Notes
+Actions These are things you can do but aren't required: · Be the mastermind of your pack and create plans. · Use your expertise to minimize surprises. · Ensure an enemy's actions fulfill your own schemes.
+
+Total Experience Spent Experience 26
+
+54
+
+Rivercutter (Pragmatic Exiler)
+Rivercutter spent much of her youth helping her family escape their war-torn country. Her First Change came after a border guard made one threat too many. He paid the price but so did her loved ones. She arranges and enforces the exile of Litany violators unworthy of death. She upholds it because it's one of the few things most Garou agree on.
+Actions These are things you can do but aren't required: · Be the wild card, ensure victory by any means necessary.
+· Use your variety of skills to come in clutch.
+· Get out of a dire situation alive.
+Tribe: Bone Gnawers Auspice: Galliard Patron: Rat Touchstone: Ricardo Alamilla--Local Activist Attributes: Strength 2, Dexterity 2, Stamina 2; Charisma 3, Manipulation 3, Composure 1; Intelligence 3, Wits 2, Resolve 4 Secondary Attributes: Health 5, Willpower 5 Skills (Specialist): Athletics 2, Brawl 2, Drive (Evasion) 4, Firearms 2, Melee 2, Larceny 1, Survival 3, Insight 2, Streetwise 3; Awareness 2, Investigation 3 Renown: Glory 1, Honor 2 Gifts: Animal Magnetism, Catfeet, Howl of Assembly, Sight From Beyond Rites: Rite of the Wolf Reborn Advantages: Allies (Local Homeless) 4, Talisman (Pack Sized Shadowshard) 3 Flaws: Person of Interest Experience: 29 spent
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Name Rivercutter Chronicle Under a Changing Moon
+
+Concept Pragmatic Exiler Auspice Galliard
+
+Patron Rat Tribe Bone Gnawers
+
+ATTRIBUTES
+
+PHYSICAL
+
+Strength
+
+0 0 0 0 0
+
+Dexterity
+
+0 0 0 0 0
+
+Stamina
+
+0 0 0 0 0
+
+SOCIAL
+
+Charisma
+
+0 0 0 0 0 
+
+Manipulation 00000
+
+Composure
+
+0 0 0 0 0 
+
+MENTAL
+Intelligence Wits
+Resolve
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+nnnnnnnnnn Health
+ 
+tl-tl- Crinos tl,   t1
+
+nnnnnnnnnn Willpower
+ 
+
+
+
+
+
+
+
+00 0 0 0 0 0 000 Brawl ..................................................
+
+Etiquette .....................................
+
+00 0 0 0 00 0 00 Craft. ..................................................
+
+Insight ...........................................
+
+Evasion
+
+
+
+
+
+0 0 0 0 0 Aw areness ......................................... 0 0 0 0 0 Finance ................................................
+
+
+
+
+
+
+
+
+00000 0 0000 Lar ceny ............................................
+
+Performance ...............................
+
+0 0 0 00 0 0000 Melee .................................................
+
+Persu asion .................................
+
+0 0000 Oc cult ................................................... 0 0 000 Politi.cs ............................................
+
+00000 00000 Ste alth ............................................
+
+Streetwise ..................................
+
+00000 Survival ········································· Subterfuge ··································00000
+
+0 0000 S cienc.e ................................................ 0 0000 Te chnology ·······································
+
+Glory
+
+00000 Honor
+
+0 0 0 0 0 Wisdom
+
+0 0 0 0 0
+
+---------------,.1i.j1. i..1i:.!:.1 u.Jlia.:l*lt-----------------
+
+N ame
+Animal Magnetism Catfeet Howl of Assembly Sight from Beyond
+
+Pool
+Charisma + Honor Intelligence + Wisdom
+
+Cost Notes
+1 R. Ch. Bonus to Social tests against humans (p. 158) 1 Will. Gain a supernatural sense of balance (p. 146) 1 R. Ch. Call other Garou to you and fortify those heeding your call (p. 159) 1W/Free Prophetic visions (p. 153)
+
+Rite of the Wolf Reborn
+
+Highest Renown + Leadership - Help a participant regain the ability to shapeshift (p. 186)
+RageOOOOO
+56
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Chronicle Tenets
+
+Touchstones
+Ricardo Alamilla - Local Activist
+
+Favors & Bans
+Favor: One-die bonus to dice pools to find something lost or overlooked.
+Ban: Never pass up a significant opportunity to give the disadvantaged a leg up.
+
+ADVANTAGES & FLAWS
+
+Allies - Local Homeless
+
+
+
+Talisman (Pack-sized Shadowshard, p. 189)     
+
+Flaw: Person of Interest
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Harano      Hauglosk     
+
+Apperance
+
+History
+Rivercutter spent much of her youth helping her family escape their war-torn country. Her First Change came after a border guard made one threat too many. He paid the price but so did her loved ones. She arranges and enforces the exile of Litany violators unworthy of death. She upholds it because it's one of the few things most Garou agree on.
+
+FORMS of the GAROU
+Homid Cost: Free Silver immunity
+
+Glabro Cost: One Rage Check Physical Tests: Two-Dice Bonus Social Tests: Two-Dice Penalty* Regenerate: 1 per Rage Check
+Crinos Cost: Two Rage Checks Spend 1 Willpower per turn or frenzy Physical Tests: Four-Dice Bonus Health Levels: +4 Social and Stealth Tests: Fail Regenerate: 2 Per Rage Check Claws: +3 Bite: +1 Aggravated Causes Delirium
+
+Hispo
+
+Cost: One Rage Check Physical Tests:
+Two-Dice Bonus**
+Stealth Tests: Two-Dice Penalty Social Tests: Limited to wolves and Garou Regenerate: 1 per Rage Check Bite: +1 Aggravated
+
+Lupus Cost: Free Silver immunity Social Tests: Limited to wolves and Garou
+
+* Does not apply to intimidation or non-humans ** Does not apply to Stealth tests
+Notes
+Actions These are things you can do but aren't required: · Be the wild card, ensure victory by any means necessary. · Use your variety of skills to come in clutch. · Get out of a dire situation alive.
+
+Total Experience Spent Experience 29
+
+57
+
+Tears-the-Heels (Relentless Tracker)
+Tears-the-Heels, a wolf-born Garou, never forgot the fear in his mother's eyes when a fomor devoured her, the terror in the monster's eyes as he pursued it after the First Change, and the panic in his siblings' eyes when they fled from him after saving them. He blames humanity for his losses and carefully observes the human world to use their works against them. He pursues and catches Litany violators. He strives for a new Litany that equalizes authority, putting him at odds with other tribe members.
+Actions These are things you can do but aren't required: · Be the burglar of your pack and help them move stealthily.
+· Use your slight-of-hand (or paw) to break into secure places.
+· Destroy or disable an object made by humans.
+Tribe: Red Talons Auspice: Ragabash Patron: Griffin Touchstone: Brad Martin--The Only Good Park Ranger Attributes: Strength 3, Dexterity 4, Stamina 3; Charisma 2, Manipulation 2, Composure 2; Intelligence 1, Wits 3, Resolve 2 Secondary Attributes: Health 6, Willpower 4 Skills (Specialist): Athletics 1, Brawl 3, Larceny (Lockpicking, Safecracking) 4, Stealth 3, Survival 2; Animal Ken 3, Insight 1, Intimidation 2, Streetwise 2, Awareness 1, Investigation 1 Renown: Glory 2, Honor 2 Gifts: Blissful Ignorance, Gremlins, Hare's Leap, Render Down Rites: Rite of Rage, Rite of Shadow Passage Advantages: Spirit Pact ("Tumbler," Theft Gaffling, Companion) 2, Talisman (Spirit Catcher) Flaws: Illiterate Experience: 26 Spent
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Name Tears-the-Heels Chronicle Under a Changing Moon
+
+Concept Relentless Tracker Auspice Ragabash
+
+Patron Griffin Tribe Red Talons
+
+ATTRIBUTES
+
+PHYSICAL
+
+Strength
+
+0 0 0 0 0
+
+Dexterity
+
+0 0 0 0 0
+
+Stamina
+
+0 0 0 0 0
+
+SOCIAL
+
+Charisma
+
+0 0 0 0 0 
+
+Manipulation 00000
+
+Composure
+
+0 0 0 0 0 
+
+MENTAL
+Intelligence Wits
+Resolve
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+nnnnnnnnnn Health
+ 
+tl-tl- Crinos tl,   t1
+
+nnnnnnnnnn Willpower
+ 
+
+
+
+
+
+
+
+00 0 0 0 0 0 000 Brawl ..................................................
+
+Etiquette .....................................
+
+00 0 0 0 00 0 00 Craft. ..................................................
+
+Insight ...........................................
+
+
+
+
+
+0 0 0 0 0 Aw areness ......................................... 0 0 0 0 0 Finance ................................................
+
+
+
+
+
+
+00000 0 0 000 Lar ceny ..SL..o.a..c.f.ke..pc..ir.ca..k.c.i.nk..ig.n.,.g....................
+
+Performance ...............................
+
+0 0 0 00 0 0000 Melee .................................................
+
+Persu asion .................................
+
+ 0 0000 Oc cult ................................................... 0 0 000 Politi.cs ............................................
+
+00000 00000 Ste alth ............................................
+
+Streetwise ..................................
+
+00000 Survival ········································· Subterfuge ··································00000
+
+0 0000 S cienc.e ................................................ 0 0000 Te chnology ·······································
+
+Glory
+
+00000 Honor
+
+0 0 0 0 0 Wisdom
+
+0 0 0 0 0
+
+---------------,.1i.j1. i..1i:.!:.1 u.Jlia.:l*lt-----------------
+
+N ame
+Blissful Ignorance Gremlins Hare's Leap Render Down
+
+Pool
+Charisma + Glory Strength + Glory Resolve + Honor
+
+Cost Notes
+1 Will. Stand unseen (p. 149) 1 R. Ch. Cause a device to malfunction (p. 149) 1 R. Ch. Leap great distances (p. 146) 1 R. Ch. Corrode an object (p. 174)
+
+Rite of Rage Rite of Shadow Passage
+
+Glory + Intimidation Any Renown + Occult
+
+- Increase participants' Rage (p. 181) - Enter the Umbra (p. 182)
+
+RageOOOOO
+59
+
+UNDER A CHANGING MOON
+
+VAMPIRE: THE MA SQUERADE AND WERE WOLF: THE APOC ALYPSE
+
+Chronicle Tenets
+
+Touchstones Brad Martin - The Only Good Park Ranger
+
+Favors & Bans
+Favor: One-die bonus to Brawl tests when your Health is below half.
+
+Ban: Only make Academics, Driving, Finance, Firearms, Science, or Technology test to subvert or destroy, never repair or even utilize.
+
+ADVANTAGES & FLAWS
+
+Spirit Pact - Tumbler, Theft Gafling - Companion Talisman (Spirit Catcher, p. 189)
+
+  
+
+Flaw: Illiterate
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Harano      Hauglosk     
+
+Apperance
+
+History
+Tears-the-Heels, a wolf-born Garou, never forgot the fear in his mother's eyes when a fomor devoured her, the terror in the monster's eyes as he pursued it after the First Change, and the panic in his siblings' eyes when they fled from him after saving them. He blames humanity for his losses and carefully observes the human world to use their works against them. He pursues and catches Litany violators. He strives for a new Litany that equalizes authority, putting him at odds with other tribe members.
+
+FORMS of the GAROU
+Homid Cost: Free Silver immunity
+
+Glabro Cost: One Rage Check Physical Tests: Two-Dice Bonus Social Tests: Two-Dice Penalty* Regenerate: 1 per Rage Check
+Crinos Cost: Two Rage Checks Spend 1 Willpower per turn or frenzy Physical Tests: Four-Dice Bonus Health Levels: +4 Social and Stealth Tests: Fail Regenerate: 2 Per Rage Check Claws: +3 Bite: +1 Aggravated Causes Delirium
+
+Hispo
+
+Cost: One Rage Check Physical Tests:
+Two-Dice Bonus**
+Stealth Tests: Two-Dice Penalty Social Tests: Limited to wolves and Garou Regenerate: 1 per Rage Check Bite: +1 Aggravated
+
+Lupus Cost: Free Silver immunity Social Tests: Limited to wolves and Garou
+
+* Does not apply to intimidation or non-humans ** Does not apply to Stealth tests
+Notes
+Actions These are things you can do but aren't required: · Be the burglar of your pack and help them move stealthily. · Use your slight-of-hand (or paw) to break into secure places. · Destroy or disable an object made by humans.
+
+Total Experience Spent Experience 26
+
+60
+
+

@@ -1,0 +1,1575 @@
+VAMPIRE: THE MASQUERADE
+THREE KNIVES
+AT MIDNIGHT
+A NEW YEAR'S STORY FOR
+1
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+THREE KNIVES AT MIDNIGHT
+Author: Rachel J. Wilkinson Developers: Kevin Schluter and Jukka Särkijärvi
+Producer: Kevin Schluter Art Director and Graphic Design: Sarah Robinson
+Cover Artist: Nevzat Aydin Illustrators: Mayra Luna and Paradox artists Copy Editor & Cultural Consultant: Stephanie Xu Proofreaders: Megan Boatright and Nathan Gerber
+WORLD OF DARKNESS BRAND MANAGEMENT
+Executive Vice President: Marco Behrmann Creative Director: Jess Lanzillo
+Head of Business & Growth: Viktor Bovallius Head of Creative Management & IP Alignment: Karim Muammar
+Director of Licensing: Nikola Filipov Brand Marketing Manager: Jason Carl
+Brand Art Director: Tomas Arfert Creative Producer: Martyna Zych Brand Community Developer: Debbie Lane
+
+RENEGADE GAME STUDIOS
+
+President & Publisher: Scott Gaeta Finance Controller: Robyn Gaeta
+Vice President of Operations: Leisha Cummins Vice President Sales: Andrew Lupp
+Senior Producer, Board & Card Games: Dan Bojanowski Producer, RPGs: Kevin Schluter
+Producer, RPGs: Rachel J. Wilkinson Associate Producer, Board & Card Games: Kane Klenko
+Associate Producer, Heroscape: Lee Houff Associate Producer, RPGs: Ben Heisler Director of Visual Design: Anita Osburn Creative Director, Games: Jeanne Torres Creative Director, RPGs: Sarah Robinson Senior Game Designer: Matt Hyra
+Game Designers: Alex Davy, Dyllan Fernandez,
+
+Christopher Chung, & Sarah Rowan Lead Developer, World of Darkness: Juhana Pettersson
+Playtest Coordinator: Marcus E. Burchers Marketing Manager: Jordan Gaeta
+E-Commerce Manager: Nick Medinger Organized Play Manager: Trevor McGregor
+Project Manager: Rachel Del Rio Customer Service Manager: Jenni Janikowski
+Finance Specialist: Madeline Minervini Creative Production: Noelle Lopez & Gordon Tucker
+Customer Service: Bethany Bauthues Community Coordinator: Anais Morgan Sales & Marketing Coordinator: Sophia Gambill Community Specialist: Rina Amaranthine
+
+This book uses the supernatural for settings, characters and themes. All mystical and supernatural elements are fiction and intended for entertainment purposes only. This book contains mature content. Reader discretion is advised.
+Vampire: The Masquerade creators: Mark Rein·Hagen with Justin Achilli, Steven C. Brown, Tom Dowd, Andrew Greenberg, Chris McDonough, Lisa Stevens, Josh Timbrook, and Stewart Wieck.
+Vampire: The Masquerade 5th Edition created by Martin Ericsson, Karim Muammar, and Kenneth Hite
+
+© 2025 Paradox Interactive® AB. Vampire: The Masquerade® are trademarks and/or registered trademarks of Paradox Interactive AB in Europe, the U.S., and other countries. Visit the World of Darkness online at www.worldofdarkness.com © 2025 Regengade Game Studios
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+Table of Contents
+
+Overview
+
+5
+
+Breakdown
+
+5
+
+A Carnival Coterie of Ancillae
+
+5
+
+Chronicle Tenets
+
+5
+
+The Three Knives
+
+5
+
+The Hook
+
+7
+
+Part One: The Plan
+
+8
+
+Contender Scenes
+
+8
+
+Decisions
+
+13
+
+Part Two: Blood on the Dance Floor 15
+
+Hosting Challenges
+
+15
+
+Prince of the Couch
+
+16
+
+The Headliner
+
+17
+
+Justice for Longwood
+
+18
+
+Conclusion
+
+19
+
+In Chronicles
+
+20
+
+Appendix I: Tracking Agendas
+
+21
+
+Appendix II: Player Character Coterie 22
+
+The History of the New Money Machine
+
+22
+
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+THREE KNIVES AT MIDNIGHT
+A Story for Vampire: The Masquerade
+As the year draws to a close, Prince Jackson of Chicago taps a traveling Carnival coterie to host the city's New Year's Eve party, and on Elysium grounds, no less. Three ambitious Kindred--Adze, Bronwyn, and Bret Stryker--circle the event, each angling for the vacant Keeper seat. As the coterie plans the event, the political knives come out, forcing them to
+manage competing interests and emerge unscathed. Or, in other words, just another night in the Windy City.
+
+CONTENT WARNING Vampire: The Masquerade addresses the darkness of the real world through horror stories. Existing fans of RPGs in general and Vampire specifically probably expect stories to contain predation on humans, blood, addiction, violence, weapons (guns), grooming, human trafficking, potential death of players' or Storyteller's characters, and betrayal. This story also includes inworld references and expressions of the following: drug use, consensual sexual situations, violence, gang references, sex work, grooming, and potential death. If you're running this story as a one-off event, consult the Advice for Considerate Play appendix in the core Vampire rulebook for advice on ensuring everyone at the table comes in with the same expectations, particularly if any players are new to Vampire.
+JUMPING RIGHT IN For Storytellers running this as a standalone one-shot, the story includes a ready-to-play Carnival coterie of five vampires known for hosting Kindred events. As traveling outsiders, they have no established allies or enemies, making them ideal neutral parties for Prince Jackson's purposes. However, in Chicago, pleasing one Kindred often means disappointing another. They'll quickly discover that even party planning can become a political minefield.
+
+4
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+Overview
+Prince Jackson of Chicago wants to fill his vacant Keeper of Elysium position (or so the rumors say). Adze, Bronwyn, and Bret Stryker each had expected the title and the honor of hosting the city's New Year's Eve party when Jackson upends expectations by handing the festivities to a traveling Carnival coterie, granting them temporary access to any Chicago Elysium. Adze, Bronwyn, and Bret Stryker aren't taking the slight well and suspect more is at play. It wouldn't be the first time a Prince tested the candidates before appointing a court officer. Now the players' characters must plan the event while contending with bruised egos and a three-way cold war of wills.
+Breakdown
+Three Knives at Midnight follows a flexible, sandboxstyle approach in two phases. In Part One, the coterie plans the New Year's Eve celebration, making decisions about the venue, entertainment, security, and blood sources. During this phase, they also meet Adze, Bronwyn, and Bret Stryker, each offering help while pursuing their agendas. Storytellers can present these scenes in whatever order works best for their table.
+Part Two shifts to the party itself. With all the pieces in play, the characters get to enjoy the evening, interacting with Storyteller characters while the consequences of their earlier choices begin to surface. Each contender's arc shifts depending on the coterie's treatment of them, influencing their behavior throughout the night. Then, when Anarchs crash the party, the story moves toward its dramatic conclusion.
+A Carnival Coterie of Ancillae
+This story includes a set of readytoplay ancillae belonging to a Carnival coterie. However, players are free to create their own characters, including their coterie type and whether they hail from Chicago or beyond. Carnival coteries move from place to place, bringing the party with them. Where Nomads celebrate rootlessness, Carnivals strive to make an impression on mortals, Kindred, or both, depending on the coterie's style. Some Carnivals appeal to elders by providing deliberately anachronistic entertainments, recalling Dust Bowl
+
+circuses or, further back, medieval troubadours. Others organize raves featuring cuttingedge music spun by DJs who earn six figures a night. Not all Carnivals are devoted purely to entertainment and the chance to feed, however. Their spectacles might include politics and theater or Cainite rites, hidden in plain sight.
+For more information on the Carnival coterie type, see Chicago by Night (p. 260).
+CHANGING THINGS UP A LITTLE Three Knives at Midnight is written as a Camarilla story in Chicago. But perhaps the story occurs in a different city, with a different set of "knives" vying for the Keeper position. Or maybe the story takes place in an Anarch city, with the Baron tasking the coterie with hosting a party on Elysium grounds--much to the chagrin of three jealous Anarch rivals. Ultimately, the Storyteller should feel free enough to adapt the story to best serve the players' interests.
+Chronicle Tenets
+Use the Humanist Tenets (below) or choose another set of Chronicle Tenets (see Vampire: The Masquerade, p. 172).  Thou shalt not kill, save in selfdefense.
+ Thou shalt not rape or torture.
+ Thou shalt not harm the innocent.
+The Three Knives
+With Prince Jackson asking the coterie to host a New Year's Eve party on Elysium grounds, the players' characters find themselves in a place of privilege, with many jealous eyes on them. Three sets of those eyes belong to three powerful Kindred, and how the coterie interacts with them is the core challenge of Three Knives at Midnight.
+Adze, Bronwyn, and Bret Stryker are all dangerous in their own right, with sizable egos and ambitious agendas. They crave influence, and with the Keeper role in sight, they won't hesitate to backstab an ally, let alone step on the toes of a few outoftowners. The following summaries offer a snapshot of the three contenders.
+
+5
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+ADZE, FATHER OF THE BLOOD DISCO Adze defies most Nosferatu stereotypes, enjoys threepiece suits, and has a flair for the dramatic. With an easy smile and a firm handshake, he knows how to deliver a subtle insult one moment and a VIP invitation to Red Noo 5 the next. As an established player in the game, he moves like a man who has already won. And as Father-Above-All of the Blood Disco, he commands a small army of lost and wayward souls. Everyone in Chicago is curious about who he intends to point that army at, and when.
+In Three Knives at Midnight, Adze sees the coterie's assignment as a chance to test their sympathies and perhaps recruit them into his orbit. He bristles at the decorum of the Camarilla, and if the event tilts too far in favor of the city's blue bloods, he may quietly withdraw his support (or make a much louder point).
+A full write-up of Adze is available in Chicago by Night, p. 172. Clan: Nosferatu Blood Potency: 3 General Difficulty: 5/3 Standard Dice Pools: Physical 6, Social 7, Mental 7, Disciplines 8 Secondary Attributes: Health 6, Willpower 9 Exceptional Dice Pools: Intimidation 8, Leadership 8, Subterfuge 9 Disciplines and Suggested Powers: Animalism 2 (Bond Famulus, Feral Whispers), Obfuscate 4 (Cloak of Shadows, Unseen Passage, Mask of a Thousand Faces, Vanish), Potence 3 (Lethal Body, Prowess, Uncanny Grip), Presence 2 (Awe, Lingering Kiss)
+
+BRONWYN, SPIDER IN HER WEB Bronwyn is no recluse, and her presence in Chicago's Kindred society is deliberate and deeply entrenched. The Malkavian elder has spent centuries building a vast network of spies and informants, and her list of secrets rivals that of the Nosferatu. The Blue Velvet is hers, and few enter it without being observed, catalogued, and filed away for future use. Whether through loose lips at the club or overheard by one of her "employees" at the Circulatory System, Bronwyn's acquisition of guarded intelligence has proven her effectiveness and the inherent dangers in dealing with her.
+In Three Knives at Midnight, Bronwyn does not take Prince Jackson's decision lightly. The coterie is a potential lever, and she may offer assistance while subtly elevating her status. For her, that's a win-win. But disrespect or disloyalty earns a place in her ledger, and she always collects.
+A full write-up of Bronwyn is available in Chicago by Night, p. 141. Clan: Malkavian Blood Potency: 5 General Difficulty: 6/4 Standard Dice Pools: Physical 5, Social 5, Mental 6, Disciplines 9 Secondary Attributes: Health 7, Willpower 8 Exceptional Dice Pools: Awareness 7, Etiquette 8 (Bars), Medicine 8 (Blood) Disciplines and Suggested Powers: Auspex 4 (Heightened Senses, Premonition, Scry the Soul, Spirit's Touch), Dominate 4 (Compel, Mesmerize, The Forgetful Mind, Rationalize), Obfuscate 2 (Cloak of Shadows, Unseen Passage), Protean 2 (Eyes of the Beast, Feral Weapons)
+
+6
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+BRET STRYKER, THE NAÏVE NARCISSIST Gorgeous and vain, Bret Stryker isn't the political mastermind he thinks he is. A tool of more powerful Toreador, such as Helena (Portia) or Annabelle Triabell, his forays at greatness are usually attempts to please his superiors. And given his frail ego, Stryker takes every social mockery personally. Someone else always pays for it. Sometimes that means hitting a sparring partner too hard. Sometimes that means draining someone dry before Embracing them and putting a bow on them as a gift for Helena.
+In Three Knives at Midnight, Bret had expected to headline the night and bask in the applause. Instead, Prince Jackson sidelined and humiliated him. He masks his fury behind smug confidence. If the coterie feeds his ego, he'll praise them in front of the right people. If they don't, he'll make sure someone gets hurt and call himself the victim. He isn't subtle, but he doesn't have to be. Not with Helena's favor.
+A full write-up of Bret is available in Chicago by Night, p. 186. Clan: Toreador Blood Potency: 2 General Difficulty: 4/3 Standard Dice Pools: Physical 6, Social 5, Mental 4, Disciplines 6 Secondary Attributes: Health 7, Willpower 4 Exceptional Dice Pools: Athletics 8 (Weightlifting), Drive 8, Performance (Dancing, Stripping) 8 Disciplines and Suggested Powers: Celerity 3 (Cat's Grace, Fleetness, Blink), Presence 3 (Awe, Lingering Kiss, Dread Gaze)
+
+The Hook
+With only days left before the end of the year, the coterie is visited by a messenger on behalf of Prince Kevin Jackson of Chicago. The messenger invites the coterie to host the next New Year's Eve gathering in Chicago and offers the use of any of the city's many fine Elysia. The coterie will receive help to facilitate access, and they will be well compensated for their efforts. Choose a messenger that suits your coterie's nature: a trusted ghoul, Sheriff Damien's runner, a mortal go-between under Dominate, or even an animal messenger.
+Despite the polite phrasing, Prince Jackson's message leaves little room for refusal. The coterie has a week to plan and execute Chicago's premier social event of the year. The timetable is tight, and it may leave the characters wondering why. Did the Prince's first pick fall through? Are political shenanigans afoot? Did someone call in a favor?
+Storytellers can weave in any reason for the late invitation that fits their chronicle, but in the context of Three Knives at Midnight, Prince Jackson had intended to appoint a Keeper of Elysium before the new year. That individual would have hosted the gathering. Except... the information leaked, and the politics got messy. Damien and Annabelle Triabell, Bret Stryker's sire, questioned the optics of naming a Keeper without their consultation. Then, Adze pushed too hard, calling in favors on behalf of the Blood Disco. This was a move Jackson didn't appreciate. For Bronwyn's part, she leveraged her influence over the Circulatory System to quietly choke off her rivals' access to blood sources. Disgusted by the maneuvering, Jackson decided to hand New Year's Eve to a neutral party with few local ties. And now he's watching how each of the three contenders handles it.
+
+7
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+Part One: The Plan
+With a week until New Year's Eve, the coterie must choose an Elysium for the venue, organize security, source blood, and arrange entertainment. The messenger cuts through any reasonable mortal red tape, freeing players' characters to concentrate on the Kindred-specific elements. And as they plan, Adze, Bronwyn, and Bret Stryker make their moves. Each believes they should be Chicago's next Keeper of Elysium, and each sees influencing the coterie as crucial to securing that position.
+Hunger: Start each character at Hunger 2 if you want immediate pressure. Otherwise, either require nightly
+
+Rouse Checks to wake or set starting Hunger in scenes throughout the week using the freeform method from the core rules (Vampire, p. 292).
+Contender Scenes
+Taken in whatever order the Storyteller prefers, the three would-be Keepers reach out to the coterie. And based on the decisions the coterie makes, Adze, Bronwyn, and Stryker grow either as allies or as rivals. If the coterie makes a bad statement or uncouth display in front of any of the contenders, a test of Composure + Etiquette (Difficulty 4 for Adze, 3 for Bret or Bronwyn) may help to soothe any ruffled feathers.
+
+8
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+TRACKING AGENDAS Each contender wants two specific things from the coterie and begins with a generally unfavorable opinion of them (whether they show it or not). As the players' characters fulfill those wants, the contender's attitude shifts. Fulfilling one want moves them to a more measured, neutral stance. Fulfilling two wants earns a supportive stance, where the contender might burn some political capital on the coterie's behalf.
+These shifting opinions matter. In Part Two, the more aligned a contender is with the coterie, the more helpful they'll be during the event. Contenders with an unfavorable opinion can cause trouble and may increase the Difficulty of certain actions or trigger complications. These stances will also unlock exclusive scenes during the party.
+In order to have at least one favorable or unfavorable opinion, the Storyteller may interpret these loosely or strictly. Should everyone's opinion be neutral, consider if there are other reasons one of these three would be favorably or unfavorably inclined towards the coterie. Adze wants:  The local Anarchs invited to the party  The Blood Disco featured as the headline entertainment  Sanctioned midnight feeding per Blood Disco rites Bronwyn wants:  The Blue Velvet selected as the venue  The Circulatory System to supply the blood  Strict rules for Anarchs--mandatory escort, no feeding Bret Stryker wants:  The Neo-Futurist Theater, the City Ballet, the Art Museum, the Opera Theater, or the Symphony Orchestra chosen for the venue  Baby Chorus featured as the headline entertainment  No visible feeding, no photography, and no video allowed The coterie could go all in with a contender and come out with a true ally, or they could hedge their bets and satisfy a little something from each.
+
+Adze at Red Noº 5
+Adze invites the coterie to party with him at Red Noº 5.
+"Names?" The doorman to Red Noº 5 flicks his attention between you and his tablet. His earpiece crackles. He nods, then steps aside. "They're cleared."
+Inside, you step into a haze of sweat, soul, and pulsing bass. A woman in a sharp suit leads you to a side lounge area where Adze waits. His round glasses catch the club's shifting lights as he gestures for you to sit.
+ROLEPLAYING ADZE You don't deal in subtleties. You play it straight, you speak your truth (albeit with a flair for the dramatic), and you call people out on their bullshit. You may play the game, but you don't give a flying fuck what people think of you. And you're not afraid to burn a bridge or cuss someone out for disrespecting you and yours. You'll offer a fair deal, and you don't go out of your way to make enemies, but you don't give an inch if someone gets on your bad side.
+
+ADZE'S AGENDA
+While irritated with Prince Jackson, Adze is open to working with the coterie. He wants two things. He wants the musicians and artists from the Blood Disco to be the featured entertainment for the night. He views this as an easy and straightforward way to raise his profile and build influence with his allies. Additionally, he wants some local Anarchs invited to the event. A few months back, an Anarch named Victoria Longwood tagged the Blue Velvet with spray paint to help others find Elysium. The Camarilla staked her for it, and now the Anarchs are especially furious at Prince Jackson, Bronwyn, and Sheriff Damien. Adze doesn't push hard, but he strongly suggests the coterie invite a Brujah Anarch named Gengis and his crew to cool tensions and needle Bronwyn.
+A successful Intelligence + Politics or Streetwise test at Difficulty 2 reminds the coterie that Adze is a notable up-and-comer in the Chicago scene. Various oppressed Duskborn, angry Anarchs, and even a few disgruntled Camarilla Kindred regularly frequent the Red Noº 5. While not an Anarch, Adze is aware of their current temperament, but his interest in them is hardly
+
+9
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+altruistic. Adze and Bronwyn are known rivals, what with their dueling clubs. Inviting the Anarchs to the New Year's Eve party increases the Difficulty of favor tests with Bronwyn and Bret by 1. Featuring the Blood Disco also provides a sanctioned feeding route per their custom (Chicago by Night, p. 243).
+The Blood Disco:
+"I'm not here to offer Red Noº 5 cause this place isn't Elysium. Not yet. I'm here to offer you the finest, freakiest, fang-fucking-tastic entertainment this side of Lake Michigan. The Blood Disco is a collection of largerthanlife performers, and they' d be yours for the night. We guarantee an unforgettable performance, and while all eyes are on the Blood Disco, you and yours can be doing whatever nefarious shit you into."
+Inviting the Anarchs:
+"So... if I was in charge of this shindig, and I ain't, but if I was, I might be smart to invite anyone feeling sidelined nowadays. Anarchs. Duskborn. Folks the Cam pretends don't exist until they're a problem. I'm not saying roll out the red carpet. I'm saying give them a reason to show up
+
+and behave. Let 'em see they got a seat. Makes it harder for anyone to say you're just another mouthpiece for Bronwyn."
+Victoria Longwood: If a character succeeds on Wits + Insight test (Difficulty 3) or plays into Adze's trust, he gives them more detail.
+"Couple months back, Victoria Longwood hit the wall outside the Blue Velvet with a tag. Nothing out of line. Just something her people would recognize. But Bronwyn and the Camarilla didn't appreciate her work on Elysium, so they staked her ass. Right now, they're sitting on her, waiting to figure out what to do. Local Anarchs are fucking pissed about it."
+Other Topics:  Chicago's Anarchs and Duskborn, while not in
+lockstep, are somewhat politically aligned. The city has some rabble-rousers, but the one making the most noise about Victoria Longwood is a Brujah named Gengis.
+ Annabelle Triabell is the Toreador Primogen, with her childe, Bret Stryker, doing most of the heavy lifting. According to Adze, Bret Stryker is a vain, plastic white boy who doesn't have the sense that
+
+10
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+God gave a billy goat. Adze may then comment offhandedly about goats occasionally kicking things (and people) they shouldn't.
+ Adze recognizes Bronwyn has game. But he also points out that the Malkavian's Circulatory System is a human-trafficking scheme, with folks kidnapped and forced into service, fed on, and then ultimately disappeared.
+Adze elaborates on topics if asked. Otherwise, he focuses on convincing the coterie to employ the Blood Disco. If the characters refuse, he'll shake his head and mutter something about wasted time under his breath. He then tells the coterie to enjoy themselves for the night on his dime and has the previous escort fetch the group to show them out or to the dance floor--their choice.
+Bronwyn at the Blue Velvet
+The Malkavian elder invites the coterie to the Blue Velvet but is diplomatic enough to meet with the coterie at their convenience.
+Tucked into a corner of the Rack, the entrance to the Blue Velvet is a discreet door on Rush Street. Deep-blue silk drapes hang in perfect folds above the polished mahogany of four separate bars, tables, and chairs. Every glass is cut crystal. Bronwyn stands as you enter, smooth and calm, before gesturing toward a curved settee across from her.
+ROLEPLAYING BRONWYN A true elder in every sense of the word, you don't rise to the bait. You have worked very hard to carve out a niche for yourself, and that niche has provided you with an endless cache of secrets. You don't forget. Not names. Not favors. Not slights. Especially not slights. This coterie might be useful, or they might be noise. You'll know soon enough. Find out which and move on to the next item on your agenda. Make them earn your trust.
+BRONWYN'S AGENDA
+Bronwyn wants the coterie to host the event at the Blue Velvet. She's widely assumed to be the top candidate for the Keeper position. Hosting the event at the Blue Velvet signals to the city's Kindred that she's already doing the job regardless of titles. Offering her club also allows her to bundle in free access to the Circulatory System, which makes sourcing blood easy and provides
+
+her with a direct link to track and observe guests. A successful Wits + Insight test at Difficulty 5 helps the coterie put two and two together. The Malkavian is a collector of secrets, after all.
+Using the Blue Velvet:
+"I know you're considering other offers," Bronwyn says. "But let me be clear, I' d be honored if you hosted your event here. And, unlike others, I can offer you something tangible in return--my connections to the Circulatory System. No need to roll in crates of pre-processed blood and pray the gathered Kindred can stomach such a weak offering. No mind games. No pesky blood dolls. My people are clean, compliant, and above all, discreet."
+The Circulatory System:
+"The Circulatory System provides a vital service. A safe way for Kindred to feed without compromising the Masquerade. The alternative is unrestricted hunting throughout Chicago. Tell me how that better serves anyone's interests." She frowns just a touch. "But if the Blue Velvet isn't your venue choice, I understand. The System is still available for a fair price. Let's say, a substantial favor. Or something equivalent."
+An Intelligence + Insight or Politics test (Difficulty 2) confirms that Bronwyn is offering the coterie the use of the Circulatory System for one night for a Major Boon, but only if the coterie opts out of using the Blue Velvet. If they go with the Blue Velvet, they can access the Circulatory System for free.
+Victoria Longwood: Meanwhile, a Wits + Streetwise test (Difficulty 3) reminds the coterie about the fate of Victoria Longwood, which they may have heard about on their own or from Adze.
+"What happened to Victoria Longwood was unfortunate but predictable. Marking Elysium without permission is a blatant violation of our courtesies. However, the decision to stake her was Prince Jackson's, not mine. The consequences of that action rest entirely with the Prince and his Sheriff. I merely maintain my establishment according to Camarilla custom."
+Other Topics:  Bronwyn has a begrudging respect for Adze.
+The man has built something out of nothing and shouldn't be taken lightly. Bret Stryker, however, is a joke. Bronwyn has no fear of him, thinking that even
+
+11
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+if the Toreador had all the power in the world, he'd still find a way to trip on his shoes and fuck it up.
+ In a city as fractured as Chicago, the position of Keeper is essential. Bronwyn considers the Second Inquisition a threat that most Kindred still underestimate. In her view, gatherings must be tightly controlled and completely off the mortal radar.
+Stryker at Backtrack
+Believing Primogen Annabelle protects him, Stryker doesn't request a conversation so much as he summons the players' characters to his club, Backtrack.
+Backtrack dominates its slice of Chicago's downtown. A popular gay club, it operates as Bret Stryker's unofficial court. You're led downstairs to a private basement lounge where Bret Stryker waits sprawled across a couch, maroon suit casually unbuttoned. He doesn't stand. He smiles and says, "About time you showed up."
+ROLEPLAYING BRET STRYKER You're the most attractive thing in any room. And if you're not, it's because the lighting's off, obviously. These fucking people can't get anything right. You're not stupid, even if some of them think you are. You just don't do ugly politics. You're here to win and look good doing it. When you are excited, you become giddy. When you're sad, you pout. And when you don't get your way, you break things.
+BRET STRYKER'S AGENDA
+Stryker wants the coterie to choose a Toreador-controlled Elysium for their event, and he wants Baby Chorus to headline the party. It's the best outcome for him, and he knows it. He frames both offers like he's doing the coterie a favor, but he's also hoping to raise his profile and prove he's more than Annabelle's pretty boy.
+A successful Wits + Streetwise or Intelligence + Politics test at Difficulty 3 reveals that despite his swagger, Stryker has a reputation as a political screwup. Annabelle Triabell, his Sire, has pushed the local Toreador into acting like a unified Clan, but Stryker vacillates between criticizing her behind her back and desperate sycophancy. Some rumors suggest he's Blood Bound to her. But if Stryker can persuade the coterie to use a Toreador Elysium and feature Baby Chorus, Jackson might be convinced of his independence.
+
+A Toreador Venue:
+"No one said how sexy you all are," Stryker purrs, giving each of you a once-over. "That' ll help. Now, I won't drag this out. I'm sure you're very busy-busy-busy. Jackson's parties need the right venue. And guess what? We basically run half the Elysia in the city. Pick one--the NeoFuturist Theater, the City Ballet, the Art Museum, the Opera Theater, the Symphony Orchestra--and we' ll handle security, make everything perfect just for you."
+Baby Chorus:
+"And," he adds with a dramatic pause. "I' ll convince Kathy Glens to perform. Have you ever seen Baby Chorus live? Simply the best, most badass vampire rock band in the world." He punctuates each word with a tap on the arm of the couch. "In. The. World. The Sheriff himself fronts it. Imagine what that does for your party's security situation."
+A successful Wits + Persuasion test (Difficulty 3) convinces Stryker to deploy Baby Chorus, even if the coterie doesn't choose a Toreador Elysium. With a margin of 1, they will also waive their requirement that there be no feeding within a three-block radius of their show without further negotiation. It is New Year's Eve, after all.
+Victoria Longwood:
+"That whole mess?" Stryker rolls his eyes. "Bronwyn demanded Jackson punish that Caitiff for tagging her precious Blue Velvet. That's why Victoria's sitting in a box somewhere collecting dust. Bronwyn can talk about `Traditions' all she wants, but this was personal. She couldn't stand someone messing with her aesthetic."
+Other Topics:  Bret Stryker isn't subtle about the smallness of
+the Blue Velvet or the Blood Disco's lack of talent. Don't get him wrong, Bronwyn and Adze are fine. What they do is fine. But there's a reason a few of his fellow Toreador control half of the Elysia in Chicago. There's a reason Baby Chorus rehearses at the Succubus Club.
+ Adze may be a member of the Camarilla, but he's got one foot out the door. Red Noº 5 is always
+swarming with Anarchs and thin-bloods, and Adze is really chummy with all of them. Word on the street is that Adze is planning a major move. The
+man wants to be a king, after all, and the only way to be a king is to take the throne.
+
+12
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+Decisions
+With the contender scenes concluded, the coterie has some decisions to make, along with potentially deploying Influence and rolling some tests. Remember to keep track of how the decisions impact the three Keeper contenders. Refer back to Tracking Agendas (p. 9).
+Elysium
+If a player's character has any amount of Status or a Mawla in the city, they acquire a list of the known Elysia in Chicago. That list includes Garfield Park Conservatory, the Neo-Futurist Theater, the Chicago City Ballet, the Chicago Central Library, the Chicago Opera Theater, the Chicago Symphony Orchestra, the Linda Enfield Art Gallery, the Art Museum of Chicago, the Smart Gallery, the Arie Crown Theater, the Civic Theater, and the Blue Velvet. Midway Airport is also nominally Elysium but under lupine control.
+However, the Storyteller shouldn't feel bound to this list of choices and should feel free to add or remove locations from this list. Per Prince Jackson, the coterie has free rein and complete access over their intended Elysium. Ideally, the players should lean into their creative side, sprucing up the Elysium in whatever aesthetic interests them.
+Scouting various Elysium locations with an Intelligence + Streetwise or Politics test (Difficulty 2) may reveal a location that can partly satisfy (or direct a middle finger to) one of the three contenders at the Storyteller's discretion. On a success, reveal one superficial advantage that would please a contender. For every +2 margin, reveal one additional advantage (Storyteller's choice). Examples: easy ingress and egress for entertainment or blood, proximity suitable for an elite afterparty, or a venue the contender was recently spotted genuinely enjoying.
+
+THE LAWS OF ELYSIUM While the rules governing Elysium are largely consistent throughout the Camarilla, Chicago has four courtesies that have persisted for decades. They are listed below, but further details can be found in Chicago by Night (p. 64). 1. On pain of a Blood Hunt, no violence is permitted on
+the premises against Kindred, kine, or property. 2. Elysium is to be considered neutral territory. No
+conflict of any sort among Kindred may be carried onto its sacred ground. 3. Access shall not be limited; all Cainites are welcome. 4. One should not attract attention as one leaves and enters Elysium.
+WHAT ABOUT THE SUCCUBUS CLUB? While the Succubus Club is technically an Elysium, that status is debatable. In 1993, the lupines swept through the Succubus Club, killing several Kindred and causing so much damage that the building was shuttered for twenty-five years. It has since been remodeled and reopened, but the question remains: Is it still an Elysium?
+Per Bret Stryker, the answer is yes and no (Chicago by Night, p. 28). That ambiguity offers some great flexibility for storytelling, but it may be less helpful when presenting clear choices to players. There's a case for including the Succubus Club. It's iconic, and some players may love throwing a party in such a notorious venue. On the other hand, they might want to use a fresh location that hasn't seen as much action.
+Ultimately, Storytellers should decide if the Succubus Club is or is not a formal Elysium, and if so, offer it as a potential location for the players' characters.
+Entertainment
+Stryker wants Baby Chorus (Chicago by Night, p. 237) to headline the event. Adze wants the spotlight on the Blood Disco (Chicago by Night, p. 241). Each group represents a very different style of entertainment, and choosing one over the other undoubtedly infuriates the rival. An alternative is for the coterie to hire an entirely different band or to perform themselves. The Storyteller should use discretion when determining how Adze and Stryker respond. By default, selecting neither group should keep both contenders at an unfavorable or measured stance. But, if the coterie performs as a band, Adze and Stryker may accept the decision, content that neither rival claimed the stage.
+
+13
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+Blood
+Feeding guests poses a logistical challenge. Bronwyn, through her ties to the Circulatory System, provides a convenient solution, albeit with a moral quandary. If the characters choose to host the event at the Blue Velvet, she can make her blood dolls available for free. If the party is elsewhere, she may still offer several dozen mortal hors d'oeuvres, but at a price. The Blood Disco also means free feeding at midnight, while the Baby Chorus must be persuaded to waive their demand for no feeding within a three-block radius of the gig.
+If the coterie declines, they'll need to source blood independently. That might involve tapping into personal backgrounds (i.e., Herd) or local connections. And they'll need to research guest preferences to get an idea of Kindred tastes. Options include, but are not limited to:  Animalism to trap animals for Farmers.
+ Medical Allies or Influence to secure processed blood for Baggers.
+ Presence to seduce mortals into offering their blood. These mortals will need to be drugged, blindfolded, or disposed of to avoid endangering the Masquerade.
+Relying solely on bagged or animal blood will leave most guests very unhappy. On the other hand, mortals aren't inclined to give up their blood to strangers. They'll need to be coerced, incentivized, or compelled. And most importantly, the coterie must clean up the mess afterward lest they raise Masquerade concerns. In short, someone needs to take care of these people. Storytellers are encouraged to lean hard into the ramifications of the players' characters' choices regarding their Humanity and the Second Inquisition.
+Security
+While the coterie doesn't need to guard the door themselves, they are responsible for ensuring the event is secure. This includes deciding who makes it onto the guest list and who doesn't. In Chicago, Elysium is open to all, but the VIP floor is not. Is everyone welcome? Are Anarchs invited? What about Duskborn? Once they finalize the list, Prince Jackson's messenger handles the invitations.
+Chicago has a large Kindred population, and even with Chicago by Night in hand, tracking every guest can be overwhelming. Storytellers shouldn't feel pressured to portray every Primogen or named Storyteller character.
+
+Assume the people the coterie wants to be there made it to the event. If characters are important to the players' ongoing chronicle, they can be there, too. Beyond that, this story requires Adze, Bronwyn, and Bret Stryker to make an appearance. Sheriff Damien could also be there if Baby Chorus performs. And finally, Prince Jackson shows up toward the end.
+Given that the party is occurring on New Year's Eve, the streets of Chicago will be busy. Some options for security include:  Animalism to deploy scouts around the venue.
+ Resources to hire private security and crowd control.
+ Allies or Influence in law enforcement to keep cops clear of the area.
+ Streetwise or Influence on the streets to coordinate with local gangs.
+Any meaningful preparation as determined by the Storyteller will act as an early warning system for any unwanted guests in Part Two. Additionally, if the characters hire Baby Chorus to headline the entertainment, they may also benefit from the fact that the band's lead singer, Damien, is also the Sheriff.
+DAMIEN, SHERIFF OF CHICAGO AND BABY CHORUS LEAD SINGER Outwardly, Damien looks like a scrawny fourteen-year-old kid. In truth, with over seventy years of experience, he is anything but a kid. During the War for Chicago, he earned his reputation when lupines tore through the nightclub, the Cave, and ripped Baby Chorus apart mid-set. The frontman survived and has since sacrificed much to preserve the one thing he truly cares about: music. His band, Baby Chorus, is of prime importance in Chicago. All it cost was Damien's unwavering loyalty to the Prince and the Prince's bloody will.
+A full write-up of Damien is available in Chicago by Night, p. 88. Clan: Brujah Blood Potency: 5 General Difficulty: 5/4 Standard Dice Pools: Physical 7, Social 5, Mental 5, Disciplines 6 Secondary Attributes: Health 8, Willpower 8 Exceptional Dice Pools: Brawl 8 (Armed Opponents), Stealth 8, Performance 8 (Singing, Guitar) Disciplines and Suggested Powers: Auspex 1 (Heightened Senses), Celerity 3 (Rapid Reflexes, Fleetness, Traversal), Potence 3 (Lethal Body, Prowess, Brutal Feed), Presence 1 (Awe)
+
+14
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+With the decisions concluded, the three contenders enter Part Two with an unfavorable, measured, or supportive opinion of the coterie (see Tracking Agendas, p. 9). Before continuing, quickly lock in where Adze, Bronwyn, and Bret Stryker stand and prepare to let those opinions shape what happens next.
+Part Two: Blood on the Dance Floor
+December 31st arrives, and by sundown, the city is already in full celebration swing. The characters wake up, don their attire, and head out to launch the last party of the year. The coterie's Elysium awaits. When describing the scene, focus on the sensory details specific to the coterie's choices: the colors, decorations, lighting, music, and overall mood they've established. Or take a few minutes of the session to have them describe what they see to each other.
+By 9:00 p.m., the first guests arrive. Chicago has over fifty named Storyteller characters and countless unnamed ones, many of whom operate with ghoul bodyguards and assistants. Within an hour, nearly a hundred individuals occupy the space.
+SUGGESTED TIMELINE There is a lot going on at the party and the timeline is not fixed. This is a suggestion for how the night might shake out, depending on player actions; for instance, the supportive or unfavorable scenes of the three would-be Keepers being mutually exclusive. The hosting challenges are optional and may be spread out over the night according to the Storyteller's taste and possible time constraints.  9:00 p.m.: The party starts.  Bret Stryker's supportive or unfavorable scene.  10:30 p.m.: The headline act performs (Baby Chorus, the
+Blood Disco, etc.).  Bronwyn's supportive scene or Adze's supportive scene.  The Anarchs arrive and/or Adze's unfavorable scene.  Bronwyn's unfavorable scene.  Midnight: The ball drops. The Prince arrives.
+Hosting Challenges
+Storytellers may include Kindred and plotlines from their ongoing chronicle, along with several random encounters listed below. Suggested Storyteller
+
+characters from Chicago by Night are provided, along with possible substitutes depending on who was not invited. None of the challenges should blatantly violate Elysium, but they can get close, to keep the coterie on their toes. Each challenge has a suggested way of resolving the situation, but it is not the only way, and the Storyteller should accommodate the players' creative solutions.
+1. Angry Brujah
+A ghoul accidentally spills a drink on the Brujah Anita Wainwright (Chicago by Night, p. 93), who immediately tenses with barely contained rage. She wheels on the ghoul, angry and on the verge of Frenzy. A successful Manipulation + Persuasion test (Difficulty 2) manages to calm her. Otherwise, the Brujah puts hands on the ghoul and must be ejected from the party. If the Storyteller prefers, they can swap out Anita with Balthazar (Chicago by Night, p. 91).
+2. Find Me on Socials
+Two Duskborn take selfies with fangs exposed for the camera. Their names are Vicky River and Timothy Bloom, and they're relatively new to Chicago, and Kindred life in general. If the characters don't confiscate the phones or delete the pictures, they'll end up on social media by morning. This is a Masquerade breach that would anger Prince Jackson at the very least and tip off the Second Inquisition at the worst. It takes an Intelligence + Technology test (Difficulty 3) to access the phones and make sure the photos are destroyed from the phone drive as well as the cloud.
+3. Ventrue Taste Buds
+The disgraced Ventrue Edward Neally (Chicago by Night, p. 224) throws a fit because his "type" of blood isn't available. Bitter and angry, he demands that the characters provide him with a drug addict, immediately. This is trivial if the Blood Disco is performing. If the characters can't manage to locate a proper blood doll, they might be able to browbeat the Ventrue with a Manipulation + Intimidation test (Difficulty 4) or defuse the situation with a Charisma + Persuasion test (Difficulty 3). Neally could be replaced with Alan Sovereign (Chicago by Night, p. 216).
+
+15
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+VENTRUE APPETITES Alan Sovereign's Clan Bane could manifest as a demand for IRS employees and other government finance regulators, or something else that the Storyteller finds suitable. Though Horatio Ballard (Chicago by Night, p. 213) might feel appropriate here, he is restricted to feeding on members of the mortal Ballard bloodline, a fact he does not advertise.
+4. Drunk Neonate
+After feeding on an extremely intoxicated mortal, Sweetie Pepper (Chicago by Night, p. 110), a Caitiff neonate, stumbles onto the dance floor. He grows loud and aggressive, shoving a few guests in an attempt to kick off a mosh pit. Some claim this could be seen as a violation of the rules of Elysium. De-escalating the situation without making a scene takes a Composure + Etiquette test (Difficulty 3).
+5. It's Too Cold
+Sun Che (Chicago by Night, p. 206) of the Tremere approaches with five mortals whose "clothing" would make a burlesque performer blush. They insist the temperature is intolerable while behind them, the entourage shivers in their dental floss approximations of evening wear. The room's current temperature seems fine to every other guest. Sun Che may be substituted with Thea Noel-MacCrain (Chicago by Night, p. 151). A successful Wits + Insight test (Difficulty 2) is required to understand what's really going on--an attempted power move to keep her eye candy comfortable and make everyone else swelter.
+6. The Photographer
+Security alerts the coterie to a young man in a black hoodie, crouched behind a tripod, taking photographs. He's Joe Browne, a college sophomore studying photography at the Art Institute of Chicago. Oblivious to the existence of Kindred, he's interested in capturing moody, nighttime reflections. Is he in the wrong place at the wrong time? He knows his rights, but a Manipulation + Subterfuge test (Difficulty 3) can get him to hand over the camera. For higher stakes, consider using Abraham DuSable's retainer Karl Stott (Chicago by Night, p. 202) here.
+
+7. Human Furniture
+A Lasombra named Sierra Van Burrace (Chicago by Night, p. 126) reclines on a chaise composed entirely of dominated mortals. It's as disturbing as it is impressive. However, it upsets the Caitiff Maldavis (Chicago by Night, p. 102). An argument erupts and escalates. One way to defuse the situation would be to offer Sierra a more private lounge area, with a Composure + Etiquette test (Difficulty 3).
+8. Bathroom Emergency
+A server finds a mortal woman unconscious in the restroom. A quick Intelligence + Medicine test (Difficulty 2) reveals that she has lost too much blood and is on the verge of shock. The characters may treat her condition, feed her vitae, get her to a hospital, or let her die. Further investigation (or a critical win on the initial test) reveals three different feeding marks. A simple accident, as any one of the feedings would have proven manageable, but all three in such a short time caused the emergency. For more drama, the mortal is someone with a deeper connection to Kindred, such as Abraham DuSable's protégé Freddie Davis (Chicago by Night, p. 202).
+Prince of the Couch
+In a private VIP area, Bret Stryker reclines on a plush couch. But what he's doing, and who he's with, depends on the choices made during Part One. A supportive opinion allows the coterie to meet his companion, Portia, who is actually the secret methuselah Helena. An unfavorable opinion catches Bret Stryker in the middle of draining a blood doll dry.
+
+16
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+Bret Stryker: Supportive
+As the coterie enters the private area, Bret Stryker grins wide enough to flash his fangs. He sits next to a young, painfully beautiful woman with long black hair dressed in a short leather jacket. He introduces her as an upand-coming model named Portia. After some idle chit-chat, Portia inquires about the coterie's travels, where they're from, who their Sires are, etc.
+Eventually, the young neonate lifts a glass, sniffs, and winces. "Napkin, love."
+Stryker blinks. "What?"
+"I dripped. Somewhere." She waves him off. "Go fetch."
+He does. Once he's out of earshot, Portia smiles. "Haven't seen him this giddy in years. Like a puppy with a new bone. I assume I have you to thank for that."
+She leans in, amused. "You're probably wondering who this little neonate thinks she is. Let's just say I'm older than I look. With lots of friends. Oh, and a memory that reaches back to antiquity. Whatever you need... just ask."
+A Wits + Awareness or an Intelligence + Insight test (Difficulty 3) confirms that whatever the characters might think, there is far more to Portia than her façade would let on. She is not shy about dropping hints as to who she is. The coterie has made her current favorite pet giddy, and she's in a giving mood.
+Bret Stryker: Unfavorable
+The lights might be dim, but the scent of blood is unmistakable. Bret Stryker hunches over a barely conscious mortal, fangs sunk deep and shirt cuffs stained to the elbows. On closer inspection, it's obvious he's taking his frustration out on the person. Depending on other choices, like if the Circulatory System or the Blood Disco takes part in the evening, this could be one of Bronwyn's blood dolls or a mortal member of the Blood Disco.
+Bret Stryker often kidnaps mortals for a quick Embrace to feed Helena's voracious appetite. With the party not going his way, the frustrated Bret Stryker decides now is the time to indulge his lover.
+A successful test of Intelligence + Awareness at Difficulty 2 identifies the mortal as either belonging to Adze's Blood Disco or Bronwyn's Circulatory System (depending on the coterie's choices). A successful
+
+Intelligence + Medicine test (Difficulty 2) confirms the mortal is very nearly exsanguinated, and unless they receive immediate medical attention, they will die.
+From here, the coterie can ignore the incident (and potentially receive Stains), save the mortal, or alert Adze or Bronwyn. If confronted, Bret Stryker shrugs off the incident, claiming his Hunger got the best of him. But if the characters allow Stryker to continue, he drains the mortal dry, Embraces them, and then feeds the vampire to Portia, who can no longer gain sustenance from mortal blood. Even in his impulsive state he will abstain if he knows they are being observed, and he tries to keep the action surreptitious. Unsanctioned Embrace and the revelation that Portia is not the neonate she appears can have great repercussions.
+The Headliner
+Halfway through the evening, whether it's Baby Chorus, the Blood Disco, or some other group, the performer(s) stride onto center stage and get into position.
+Baby Chorus: Kathy Glens, the guitarist, stands at the edge of the stage, fist lifted, and the crowd goes silent. A breath later, the first note hits. Damien steps up to the mic with Kathy thundering on guitar. Evan rocks the bass. It's immediate, it's angry, and it's louder than it has any right to be.
+Blood Disco: The collection of performers hit the stage like a wrecking ball made of glitter. A line of brass players blasts a wall of sound as circus performers vault across the space. Eventually, Delilah Supreme, a larger-than-life drag queen, takes center stage. Dressed in a sequin gown and a bombastic platinum wig, she delivers a beautiful, chaotic number.
+Regardless of which group performs, even if it's the players' characters themselves, there is always a chance that a performance falls flat. A Charisma + Performance test (Difficulty 2) determines if the show goes off without a hitch or fizzles out. Baby Chorus has a pool of 11, the Blood Disco rolls 9 dice. There's always the risk that the crowd isn't feeling it, or a performer's Hunger drives them to disaster.
+
+17
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+Adze: Supportive
+If the Blood Disco headlines the party, Adze takes a position at the back of the room, quietly observing (and judging) as the performers set up. Rather than a single musical act, the Blood Disco is a collection of performers, including a brass band, a drag queen vocalist, a collection of circus performers, and a hip-hop dance crew. What follows isn't so much a performance as it is an eclectic attack on the senses.
+As the performance continues, Adze slowly sidles up next to the coterie.
+"My people don't get a chance to work like this. On a stage like this, on a night like this, for folks like this. It's a solid you done for me and mine. Whatever happens, we cool. And I'm always down with helping cool cats." The Nosferatu extends his hand to shake. "You make it back this way, and you need anything, you ask me first. I' ll provide." After the shake, the Nosferatu simply nods and says, "When this is all wrapped up, come hang with the Disco."
+By supporting Adze and his people, the coterie earns an invite to party with the Blood Disco and a future favor.
+Bronwyn: Supportive
+After the headliners finish their set, Bronwyn approaches the characters and asks if they'd care to join her in a more private area of the Elysium. Once out of earshot, the Malkavian thanks the coterie for their efforts and for employing her blood dolls.
+"Some frown upon my work. But even the youngest of us needs to feed. Better it happens here where it's clean, controlled, and safe rather than in the streets."
+She pauses, then adds. "The Circulatory System is always looking for good facilitators. If you're interested, we' d be willing to bring you in. Handle some product. Be a point of contact. It pays well. Just something to consider."
+If the coterie accepts, they might later purchase the Circulatory System Loresheet (Vampire, p. 386).
+
+Justice for Longwood
+WHAT HAPPENED TO VICTORIA LONGWOOD? Not so long ago an Anarch named Victoria Longwood spraypainted the alley wall outside the Blue Velvet--a marker to help other Anarchs identify the location as an Elysium. The act, however, caught the attention of Sheriff Damien and resulted in Victoria being staked and stashed somewhere. The Anarchs are understandably annoyed, and rumors suggest they are planning some kind of political action against Bronwyn, the Prince, and the next Elysium party.
+Around 11:00 p.m., a group of uninvited guests decides to crash the party. While the players' characters may have invited the Anarchs and the local Duskborn, Gengis, a self-proclaimed Anarch revolutionary, never sent his RSVP. Neither did his well-armed compatriots. Joined by 3­6 other Anarchs, Gengis arrives, hell-bent on confronting Bronwyn, whom he blames for the incarceration of Victoria Longwood.
+Where the characters confront Gengis and company depends on a few factors. If the coterie set up some kind of security apparatus or deployed guards, those early warning assets spot the posse coming down the block. The characters are able to meet the Anarchs at the main entrance. Otherwise, the scene with Gengis can start in the middle of Elysium. However, if Adze has an unfavorable opinion of the coterie, he complicates this alert.
+
+18
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+Adze: Unfavorable
+Because of Adze's unfavorable opinion, he wants the coterie to look bad, and he gets Gengis access to the event via the sewers or a back door. He also taps his allies to help, including Nosferatu using Cloak the Gathering.
+Gengis and the Anarchs are the safe bet for Storytellers wanting to add some action to the climax of the evening. They are loud, abrasive, and deliberately agitating. They aren't stupid enough to throw the first punch, but they aren't above picking a fight and claiming self-defense.
+"While we're sitting here popping blood champagne and dancing the night away," says Gengis, "one of ours is sitting in a box with a hunk of wood in her chest for the heinous crime of telling folks how to get to Elysium Street! Justice for Longwood! Justice for Longwood! Justice for Longwood!"
+The coterie needs to settle the dispute or at least mitigate the impact on Elysium. A Manipulation + Intimidation or Charisma + Persuasion test (Difficulty 3) could convince them to stand down. Bronwyn may also be part of the solution, depending on her view. If Bronwyn has a supportive opinion of the coterie, any social challenges to persuade her (in any particular direction) are set to a Difficulty 2. On the other hand, if Bronwyn has an unfavorable view of the characters, she remains stubborn, with a required Difficulty 5.
+The argument can go back and forth until one Anarch enters Frenzy, setting off a full-blown combat. Given the number of Kindred present, it should only last a few rounds, especially if Damien is in the room.
+GENGIS, ANARCH VISIONARY With a shaved head and worn leather jacket, Gengis moves with swagger. Using his size to his advantage, he purposely takes up space and doesn't speak so much as orate. Larger than unlife, he is adept at riling up the masses and isn't shy about pointing the angry mob at the powers that be.
+Fuller traits for Gengis are available in Chicago by Night, p. 96. Clan: Brujah Blood Potency: 1 General Difficulty: 4/3 Standard Dice Pools: Physical 5, Social 5, Mental 4, Disciplines 5 Secondary Attributes: Health 6, Willpower 5 Exceptional Dice Pools: Athletics 7 (Basketball), Firearms 7 (Handgun), Streetwise 7 (Antifa) Disciplines and Suggested Powers: Celerity 2 (Rapid Reflexes, Fleetness), Fortitude 1 (Resilience), Potence 2 (Lethal Body, Brutal Feed), Presence 3 (Awe, Daunt, Dread Gaze)
+
+ANARCH GRUNT The Anarchs following Gengis are less hardened foot soldiers and more disgruntled youths. Some are college dropouts. Others are professional rabble-rousers. But they all have a deep distrust of authority and an almost pathological need to break something. They view Gengis as a warrior philosopher, half Karl Marx, half Che Guevara. Clan: Gangrel Blood Potency: 1 General Difficulty: 4/3 Standard Dice Pools: Physical 6, Social 4, Mental 4, Disciplines 5 Secondary Attributes: Health 6, Willpower 5 Exceptional Dice Pools: Brawl 7, Survival 7, Streetwise 7 Disciplines: Fortitude 2 (Resilience, Toughness), Potence 2 (Lethal Body, Brutal Feed)
+Bronwyn: Unfavorable
+No matter how things play out with Gengis, if Bronwyn has an unfavorable stance on the coterie, she approaches them at the end of the evening. A few minutes before midnight, the characters find her standing beside them, a stern look on her face.
+"Bret's a fool. Adze can't be trusted. This city needs a real Keeper. And it should've been me. But here I am, threatened on Elysium grounds by a group of Anarch riffraff. All because of a group of ass-kissing party-planners."
+Bronwyn's voice cools. "Wherever you go, I' ll be there. Wherever you feed, I' ll know. I've seen the rise and fall of nations, and I promise I won't forget you."
+Conclusion
+Just before the ball drops and the city ushers in a new year, Prince Jackson arrives with a small army of bodyguards. Dressed in a sleek gray suit, he surveys the gathering, including the coterie, Adze, Bronwyn, and Stryker. A single gesture summons the players' characters to his side. If things have gone sideways, with actual damage inflicted upon Elysium, Prince Jackson declares a Blood Hunt on the coterie and anyone else involved.
+If things went smoothly and the characters avoided violence or made a good faith effort to stop it, the Prince will be polite and respectful. He explains his intentions, including testing the three Chicago locals to see how they might respond to circumstances.
+
+19
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+VAMPIRE: THE MASQUERADE
+
+THREE KNIVES AT MIDNIGHT
+
+himself, shaking his head. "You have my genuine thanks. Truly. As compensation, I'm gifting you a few blocks of the waterfront. It's a good view, better feeding. Enjoy your stay. And if you want to host again next year, we' ll talk."
+Ten, nine, eight, seven... the crowd counts down. As the clock strikes midnight, fireworks explode red, green, and gold over Lake Michigan. And the party continues. The old year may be over, but the night is still young.
+For their efforts, the Storyteller should award 3 experience points, with an additional 1 experience point if the characters managed to avoid violence or political scandal. The players should also record any allies won or influences gained, such as access to the Circulatory System.
+
+"I would have gotten here sooner, but traffic was impossible. Regardless, things seem to have gone well here." The Prince levels his gaze at Adze, Bronwyn, and Stryker, clocking them wherever they might be in the room. "The three knives over there... if you had to pick one to be my new Keeper, who would you choose?"
+After the characters respond, Jackson nods.
+"I suppose I' ll have to name one of them Keeper at some point... No perfect candidates, right?" He chuckles to
+
+In Chronicles
+What comes next depends on how things play out. If Elysium burned to the ground, the coterie flees the city, never to return to Chicago on pain of death and with a laundry list of enemies. If they impressed the right Kindred, they now have a foothold in Chicago and access to some of the most powerful Kindred in the world.
+But they also, very likely, have ruffled a few feathers. Gengis may leave the gathering with an axe to grind. If one of the three "knives" has an unfavorable view of the coterie, they'll set plans to express that displeasure. Adze, Bronwyn, and Bret Stryker have a long list of allies outside of Chicago and even longer memories. The coterie may have gained one or more of them as an Adversary.
+Depending on the coterie's actions, they may want to spend experience to gain Adze, Bronwyn, or Bret Stryker as a Mawla. Storytellers might even suggest they've earned access to a Loresheet if they haven't already selected one, such as:  Circulatory System (Vampire, p. 386)
+ Descendent of Helena (Vampire, p. 391)
+ The Blue Velvet (Chicago by Night, p. 266)
+ Kevin Jackson (Chicago by Night, p. 277) 
+
+20
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+Appendix I:
+TRACKING AGENDAS
+Adze wants:  The local Anarchs invited to the party  The Blood Disco featured as the headline entertainment  Sanctioned midnight feeding per Blood Disco rites
+Bronwyn wants:  The Blue Velvet selected as the venue  The Circulatory System to supply the blood  Strict rules for Anarchs--mandatory escort, no feeding
+Bret Stryker wants:  The Neo-Futurist Theater, the City Ballet, the Art Museum,
+the Opera Theater, or the Symphony Orchestra chosen for the venue  Baby Chorus featured as the headline entertainment  No visible feeding, no photography, and no video allowed
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+Appendix II:
+Player Character Coterie
+
+Players can portray characters they've created or jump in with these ready-to-play vampires. Feel free to change names, genders, skills, attributes, and backstory however you see fit. As a note, per Chicago by Night, members of a Carnival coterie earn the following: Contacts 3 (Fans), Fame 3 (Carnival Coterie), Retainers 1 (Daylight Help).
+The History of the New Money Machine
+No one thought you would last very long. At least not as a coterie.
+As a mortal, each of you was on the verge of greatness. Each of you was an inch away from fame and fortune. But all of that was snatched away by your Embrace. Your Sires plucked you from your ambitions to serve their own agendas. In the aftermath, some of you toed the line for a while. Some of you rebelled. But eventually, you broke free from your Sires' grasps and set out to reclaim something of your former lives. Something for yourselves. Some semblance of the
+
+future that your Sires denied you. That's when you found each other. That's when you became the New Money Machine (also known as the N Double M). And bound by common cause, you all swore an unspoken oath to prove your worth to the world.
+Coteries aren't designed to last forever. They're usually just a tool used by the powers that be to achieve a specific goal. Some coteries are loyal to a Prince or place. Some are created to survive a hunt, or to hunt down someone themselves. But you built something altogether different. As a Carnival coterie, you travel the region, hosting parties, events, and private functions. You scout an area, set up a show, coordinate an event, stay for a while, and eventually move on to the next prospect. Unbound to a particular style or motif, your flexibility and neutrality allow you to travel relatively freely. Whether a Camarilla concert, an Anarch rave, or an autarkis cage fight, you are some of the most trusted and professional hosts money can buy.
+Tonight, Prince Jackson of Chicago has invited you to host a New Year's Eve party, and on Elysium grounds, no less.
+Don't fuck it up.
+
+Relationship Map
+Admiration Reliable
+
+Jealous Pity
+
+Don't Trust My Second
+
+I don't Understand
+
+Effective Leader
+
+Kindred Spirit Almost Family
+
+Love Annoying
+EffGecotoidveLeader
+
+Good
+
+Respect My
+
+Protector
+
+So Popular...
+Baddass Kind of Useless
+
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+Soroya Fontain, Miss Moneybags
+Those who say money can't buy happiness obviously never had much of it. Growing up the daughter of a real estate mogul, you learned early that wealth came with golden handcuffs. You
+raced cars down the Autobahn. You holidayed in the Swiss Alps. You bought designer clothes without ever looking at a price tag or your bank account. All while your parents monitored your every move. Your father tracked your whereabouts. Your mother scrutinized your social connections. You discovered listening devices in your room. Uncovered pre-selected suitors you just "happened to bump into at a party." And you were nearly thirty years old.
+Then, you learned they were about to sell you to your father's business partner--a man forty years your senior with three ex-wives. And they gave you an ultimatum. Marry, or never see another cent again. A week later, you cut the brake cable on their Aston Martin and watched as they drove off an embankment, falling six hundred feet to their death.
+Now, in sole control of the pile of gold, you exerted your influence. You moved to California and bankrolled various commercial projects. Silicon Valley tech companies, Hollywood studios, politicians in Sacramento. And just as you were gearing up to form one of the largest investment firms west of the Grand Canyon, your Sire stepped in and took it all from you. Your wealth, your investments, and your unlife suddenly belonged to him.
+No longer in command of your own destiny, you served your Sire for the next decade, operating as his piggy bank. Deep down, you became this hardened thing, cruel and spiteful. You played your part, and you played the game, waiting for the perfect moment to break free. That day finally came in the fall of 2008. As financial markets collapsed, you took your portfolio and ran.
+The New Money Machine is your brainchild. Although it technically has no leader, the others look to you for guidance and inspiration. Traveling from city to city, you build your reputation and collect favors, debts, and boons. And one night, you will use the ties you've made to destroy your Sire and everything close to him.
+Clan: Lasombra Embraced: 1998 (Born 1962) Ambition: Punish your Sire, wherever he may be Desire: Score Major Boons from influential Kindred Predator: Cleaver Conviction: Always repay betrayal with betrayal Touchstone: Maya Harris, a twice-divorced single mother of twins who is living her best life. Humanity: 6 Generation: 10th Blood Potency: 2 Attributes: Strength 3, Dexterity 2, Stamina 2; Charisma 2, Manipulation 4, Composure 3; Intelligence 3, Wits 3, Resolve 3 Secondary Attributes: Health 5, Willpower 6 Skills (Specialist): Athletics 1, Brawl 3, Drive 1, Stealth 1; Etiquette 1, Insight 3, Intimidation 3, Leadership 2 (Command), Persuasion 3 (Gaslighting), Streetwise 2, Subterfuge 1; Finance 4 (Investing), Investigation 1 (Criminology), Technology 1 (Surveillance Systems) Disciplines: Dominate 4 (Cloud Memory, Mesmerize, Forgetful Mind, Rationalize), Oblivion 2 (Ashes to Ashes, Shadow Cast), Potence 1 (Lethal Body) Ceremonies: TThehe Gift of False Life Advantages: Haven 2, Herd 4, Mask 2 (Jada Martin), Resources 4 Coterie Advantages: Contacts 3 (Fans), Fame 3 (Carnival Coterie), Retainers 1 (Daylight Help) Flaws: Dark Secret 2 (Cleaver), Enemy 2 (Steph Jaffe, her Sire's fixer), Known Blankbody 2 Experience Spent: 105 Gear: $1200 cash, ID cards for Jada Martin, burner vintage flip phone
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+Name Soroya Fontain
+
+Concept Miss Moneybags
+
+Predator Cleaver
+
+Chronicle Three Knives at Midnight Ambition Punish your Sire, wherever he
+may be
+
+Sire
+
+Desire Score Major Boons from influential
+
+Kindred.
+
+ATTRIBUTES
+
+Clan Lasombra Generation 10th
+
+Physical
+Strength     
+
+Social
+Charisma     
+
+Mental
+Intelligence     
+
+Dexterity      Manipulation     
+
+Wits
+
+
+
+Stamina      Composure     
+
+Resolve     
+
+Health
+ 
+
+Willpower
+ 
+
+SKILLS
+
+Athletics Brawl Craft Drive Firearms Melee Larceny Stealth Survival
+Dominate Cloud Memory Mesmerize Forgetful Mind Rationalize
+
+ Animal Ken
+
+ Academics
+
+
+
+ Etiquette
+
+ Awareness
+
+
+
+ Insight
+
+ Finance Investing
+
+
+
+ Intimidation
+
+ Investigation Criminology 
+
+ Leadership Command
+
+ Medicine
+
+
+
+ Performance
+
+ Occult
+
+
+
+     Persuasion Gaslighting
+
+ Politics
+
+
+
+ Streetwise
+
+ Science
+
+
+
+ Subterfuge
+
+     Technology Surveillance Systems     
+
+DISCIPLINES
+
+ Oblivion
+
+ Potence
+
+Ashes to Ashes (Players Guide, p. 85) Lethal Body
+
+Shadow Cast (Players Guide, p. 86)
+
+
+
+ Oblivion Ceremonies 
+The Gift of False Life (Players Guide, p. 92)
+
+
+
+Resonance
+
+Hunger      Humanity          
+
+Downloaded by Jean Mendes on 12/3/2025 © 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ) . Unauthorized distribution prohibited.
+
+Chronicle Tenets
+- Thou shalt not kill, save in self-defense.
+- Thou shalt not rape or torture.
+- Thou shalt not harm the innocent.
+
+Touchstones & Convictions
+Conviction: Always repay betrayal with betrayal
+Touchstone: Maya Harris, a twice-divorced single mother of twins who is living her best life
+
+Clan Bane
+Reflections and recordings reveal your Kindred nature to those who know. Technology tests (Difficulty 2 + your Bane Severity) are required for even simple use of modern technology. Tests to avoid electronic surveillance suffer a dice penalty equal to your Bane Severity.
+
+Haven
+
+Advantages & Flaws
+
+Herd
+
+Mask (Jada Martin)
+
+Resources
+
+Flaw: Dark Secret (Cleaver)
+
+Flaw: Enemy (Steph Jaffe, sire's fixer)
+
+Flaw: Known Blankbody
+
+       
+
+Blood Potency  
+
+Blood Surge
+Add 2 dice
+Power Bonus
+Add 1 die
+
+Mend Amount
+1 point of Superficial Damage
+Rouse Re-Roll
+Level 1
+
+Feeding Penalty
+Animal and bagged blood slake half hunger
+
+Bane Severity
+2
+
+Total Experience Spent Experience 105
+
+Notes
+Coterie Advantages:
+
+Contacts (Fans)
+
+···
+
+Fame (Carnival Coterie) ···
+
+Retainers (Daylight Help) ·
+
+  
+
+True age
+Apparent age Mid 30s Date of birth 1962 Date of death 1998
+Appearance
+
+Distinguishing features
+
+Gear: $1200 cash ID cards for Jada Martin burner vintage flip phone
+
+History
+
+Downloaded by Jean Mendes on 12/3/2025 © 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ) . Unauthorized distribution prohibited.
+
+Mr. Bass, One-Man Forward Operating Base
+All anyone needs to get by in this life is a good pair of walking shoes, some headphones, and a soundtrack with heavy bass.
+You love the thump and pump of the club scene. The way the music thunders through you and everyone around you. And as a DJ, behind the turntables, you are unstoppable. You can make three thousand strangers move as one. Happy, sad, up tempo or low and slow, you have the power to change the trajectory of their night.
+Coming up through the ranks, your reputation grew from local clubs to regional festivals, each gig bringing you closer to the big leagues. And when you received an invitation from a famous DJ to join them on their upcoming European tour, you nearly cried. You packed your bags, said your goodbyes, and prepared for your new life.
+Unfortunately, you never got to see Europe. The next night, a Sect War forcibly conscripted you. The Sabbat had pushed hard into your territory, and the Camarilla needed bodies. You were one of them. You weren't an outstanding fighter. You still aren't. But you survived, which is more than you can say for your Sire, or your so-called broodmates. When the dust settled, you were alone, and with nothing to show for it. You almost took your own unlife, and would have, if these nomadic Kindred hadn't found you, and invited you to join their little traveling party. When you told them what you used to do for a living, they smiled from ear to ear.
+Tonight, you function as New Money Machine's eyes on the ground. Between gigs, you handle the forward scouting, spending weeks in foreign cities and getting the lay of the land. But during events, you help Reign handle security. You keep an eye out for potential threats and use your clandestine skills to full effect.
+But when the situation is secure, and the mood is right, you still find your way to the turntables. Those rare nights when you drop the perfect beat, and the room moves like one, it's the closest thing to feeling alive again. The coterie understands this isn't just sentimentality; it's the one piece of your soul that survived the Embrace.
+Clan: Nosferatu Embraced: 1996 (Born 1976) Ambition: Belong to a family you can trust Desire: Protect the coterie. Predator: Sandman Conviction: Always finish what you started Touchstone: Claire Tran, a classical musician who thrives when busking Humanity: 6 Generation: 10th Blood Potency: 2 Attributes: Strength 4, Dexterity 2, Stamina 2; Charisma 2, Manipulation 2, Composure 3; Intelligence 3, Wits 4, Resolve 2 Secondary Attributes: Health 5, Willpower 5 Skills (Specialist): Brawl 3 (Kindred), Drive 1, Stealth 4 (Break-ins), Survival 2 (Urban Exploration); Animal Ken 2 (Pacification), Insight 1 (Desires), Intimidation 2, Performance 3 (DJing), Streetwise 3 (Club Scene); Academics 1 (Geography), Awareness 2, Investigation 2, Occult 1, Technology 1 (Phones) Disciplines: Animalism 2 (Sense the Beast, Feral Whispers), Obfuscate 4 (Cloak of Shadows, Unseen Passage, Ghost in the Machine, Mask of a Thousand Faces), Potence 2 (Lethal Body, Prowess) Advantages: Allies 2 (Law Enforcement), Haven 2, Herd 2, Influence 2 (Club Circuit), Mask 2 (Carter Williams), Resources 2 Coterie Advantages: Contacts 3 (Fans), Fame 3 (Carnival Coterie), Retainers 1 (Daylight Help) Flaws: Folkloric Block 1 (White Animals), Known Blankbody 2, Repulsive 2, Stalker 1 (Autumn Thomas, your biggest fan) Experience Spent: 105 Gear: $172 cash, ID for Carter Williams, burner smartphone, digital camera, Wi-Fi-only high-end tablet full of music
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+Name Mr. Bass
+
+Concept One Man Forward Operating Base
+
+Chronicle Three Knives at Midnight Ambition Belong to a family you can
+trust.
+
+Sire
+
+Desire Protect the coterie
+
+Predator Sandman Clan Nosferatu Generation 10th
+
+ATTRIBUTES
+
+Physical
+Strength     
+
+Social
+Charisma     
+
+Mental
+Intelligence     
+
+Dexterity      Manipulation     
+
+Wits
+
+
+
+Stamina      Composure     
+
+Resolve     
+
+Health
+ 
+
+Willpower
+ 
+
+SKILLS
+
+Athletics
+
+ Animal Ken Pacification  Academics Geography
+
+Brawl Kindred
+
+ Etiquette
+
+ Awareness
+
+Craft
+
+ Insight Desires
+
+ Finance
+
+Drive
+
+ Intimidation
+
+ Investigation
+
+Firearms
+
+ Leadership
+
+ Medicine
+
+Melee
+
+ Performance DJing
+
+ Occult
+
+Larceny
+
+ Persuasion
+
+ Politics
+
+Stealth Break-Ins
+
+ Streetwise Club Scene
+
+ Science
+
+Survival Urban Exploration      Subterfuge
+
+ Technology Phones
+
+Animalism Sense the Beast Feral Whispers
+
+DISCIPLINES
+
+ Obfuscate
+
+ Potence
+
+Cloak of Shadows
+
+Lethal Body
+
+Unseen Passage
+
+Prowess
+
+Ghost in the Machine
+
+Mask of a Thousand Faces
+
+        
+
+
+
+
+
+
+
+
+Resonance
+
+Hunger      Humanity          
+
+Downloaded by Jean Mendes on 12/3/2025 © 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ) . Unauthorized distribution prohibited.
+
+Chronicle Tenets
+- Thou shalt not kill, save in self-defense.
+- Thou shalt not rape or torture.
+- Thou shalt not harm the innocent.
+
+Touchstones & Convictions
+Conviction Always finish what you started.
+Touchstone Claire Tran, a classical musician who thrives when busking
+
+Clan Bane
+You suffer the Repulsive Flaw and a Bane Severity penalty to dice pools to disguise your repulsive nature.
+
+Advantages & Flaws Allies (Law Enforcement) Haven Herd Influence (Club Circuit) Mask (Carter Williams) Resources
+
+Flaw: Folkloric Block (White Animals) Flaw: Known Blankbody Flaw: Repulsive
+Flaw: Stalker (Autumn Thomas, your biggest fan)
+
+Notes
+Coterie Advantages:
+
+Contacts (Fans)
+
+···
+
+Fame (Carnival Coterie) ···
+
+Retainers (Daylight Help) ·
+
+          
+
+Blood Potency  
+
+Blood Surge
+Add 2 dice
+Power Bonus
+Add 1 die
+
+Mend Amount
+1 point of Superficial Damage
+Rouse Re-Roll
+Level 1
+
+Feeding Penalty
+Animal and bagged blood slake half hunger
+
+Bane Severity
+2
+
+Total Experience Spent Experience 105
+True age
+Apparent age Early 20s Date of birth 1976 Date of death 1996
+Appearance
+
+Distinguishing features
+
+Gear: $172 cash ID for Carter Williams burner smart phone digital camera WiFi-only high-end tablet full of music
+
+History
+
+Downloaded by Jean Mendes on 12/3/2025 © 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ) . Unauthorized distribution prohibited.
+
+Jenna Blaze, the Perfect Porcelain Doll
+Repetitio est mater studiorum Practice makes perfect. Each morning at 5:30 a.m., you stood at the barre while other children slept. You danced through bleeding toes,
+sprained ankles, and broken ribs because the alternative was failure. Other teenagers explored dating and parties, but you discovered pain thresholds and the bitter quest for perfection. Graduating from the Royal Ballet School was supposed to be the ticket to your future. New York would recognize what London helped create.
+Instead, rejection letters piled up: "Exceptional technique but not what we're looking for." Your savings evaporated. Desperate for rent money, you took a job at a strip club, where your ballet training made you a standout. When a film producer offered you "legitimate acting work," you knew he was lying, but your landlord wasn't accepting excuses. Eventually, you joined a website and became a full-service sex worker, making more in a day than others would see in a month.
+And that's how your Sire found you. She had become obsessed with your artistic suffering and Embraced you during a long weekend of an all-expenses-paid "vacation." And you became an obedient childe. You did what you were told and served her well. Then you found the locked drawer in her study.
+The drawer contained correspondence with every ballet company, dance troupe, and commercial stage operation you'd auditioned for. Your Sire has been stalking you for years, systematically destroying your career, pushing you toward desperation so she could have you all to herself. Your Sire had meticulously engineered your "chance meeting."
+That night, you set her on fire. Today, with the New Money Machine, you have found shared pain and similar histories. While others lead the way or handle security, you provide the entertainment. Sometimes, that means dancing for the crowd. Sometimes, that means calling up your friends in the sex trade and getting them to attend a few private functions--whatever the coterie requires.
+Clan: Malkavian Embraced: 2001 (Born 1971) Ambition: Punish those who deny the dreams of others Desire: Be recognized for my talents Predator: Siren Conviction: Never forget a debt; everyone has to pay what they owe. Touchstone: Antonio Sánchez, a vulture capitalist with a soft spot for the performing arts Humanity: 6 Generation: 10th Blood Potency: 2 Attributes: Strength 1, Dexterity 2, Stamina 2; Charisma 4, Manipulation 3, Composure 3; Intelligence 2, Wits 3, Resolve 3 Secondary Attributes: Health 5, Willpower 6 Skills (Specialist): Athletics 3, Drive 1, Melee 2 (Knives), Larceny 2; Etiquette 2, Insight 3 (Motivations), Intimidation 1 (Veiled Threats), Leadership 1, Performance 4 (Dance), Persuasion 3 (Seduction); Awareness 3, Investigation 1 (Murders), Occult 1 (Grimoires), Technology 1 Disciplines: Auspex 3 (Heightened Senses, Premonition, Share the Senses), Dominate 2 (Command, Dementation), Obfuscate 2 (Silence of Death, Unseen Passage), Presence 1 (Awe) Advantages: Allies 4 (Sex Workers), Beautiful 2, Haven 2, Herd 5, Mask 2 (Jocelyn Wilson) Coterie Advantages: Contacts 3 (Fans), Fame 3 (Carnival Coterie), Retainers 1 (Daylight Help) Flaws: Dark Secret 2 (Patricide), Enemy 1 (Seth Evans, jilted paramour), Long Bond 1, Suspect 1 (Anarchs) Experience Spent: 109 Gear: $25 cash, ID for Jocelyn Wilson, butterfly knife (+2 damage), pocket knife (+1 damage), burner flip phone, lockpicks
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+Name Jenna Blaze
+
+Concept Perfect Porcelain Doll Predator Siren
+
+Chronicle Three Knives at Midnight Ambition Punish those who deny the
+dreams of others.
+
+Sire
+
+Desire Be recognized for my talents.
+
+Clan Malkavian Generation 10th
+
+ATTRIBUTES
+
+Physical
+Strength     
+
+Social
+Charisma     
+
+Mental
+Intelligence     
+
+Dexterity      Manipulation     
+
+Wits
+
+
+
+Stamina      Composure     
+
+Resolve     
+
+Health
+ 
+
+Willpower
+ 
+
+SKILLS
+
+Athletics Brawl Craft Drive Firearms Melee Knives Larceny Stealth Survival
+Auspex Heightened Senses Premonition Share the Senses
+
+ Animal Ken
+
+ Academics
+
+ Etiquette
+
+ Awareness
+
+ Insight Motivations
+
+ Finance
+
+     Intimidation Veiled Threats      Investigation Murders
+
+ Leadership
+
+ Medicine
+
+ Performance Dance
+
+ Occult Grimoires
+
+ Persuasion Seduction
+
+ Politics
+
+ Streetwise
+
+ Science
+
+ Subterfuge
+
+ Technology
+
+DISCIPLINES
+
+ Dominate
+
+ Obfuscate
+
+Command
+
+Silence of Death
+
+Dementation
+
+Unseen Passage
+
+        
+
+
+Presence Awe
+
+
+
+
+
+
+
+Resonance
+
+Hunger      Humanity          
+
+© 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ)
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+Chronicle Tenets
+- Thou shalt not kill, save in self-defense.
+- Thou shalt not rape or torture.
+- Thou shalt not harm the innocent.
+
+Touchstones & Convictions
+Conviction: Never forget a debt; everyone has to pay what they owe
+Touchstone: Antonio Sanchez, a vulture capitalist with a soft spot for the performing arts
+
+Clan Bane
+You suffer from a pervasive preoccupation with perfectionism, order, and control, which affects your Mental pools. After a Bestial Failure or Compulsion, suffer a penalty equal to your Bane Severity to Mental dice pools till the end of the scene.
+
+Advantages & Flaws Allies (Sex Workers) Beautiful
+
+ 
+
+Haven Herd Mask (Jocelyn Wilson)
+
+  
+
+
+
+Flaw: Dark Secret (Patricide)
+
+
+
+Flaw: Enemy (Seth Evans, jilted paramour) 
+
+Flaw: Long Bond
+
+
+
+Flaw: Suspect (Anarchs)
+
+
+
+
+
+Notes
+Coterie Advantages:
+
+Contacts (Fans)
+
+···
+
+Fame (Carnival Coterie) ···
+
+Retainers (Daylight Help) ·
+
+Blood Potency  
+
+Blood Surge
+Add 2 dice
+Power Bonus
+Add 1 die
+
+Mend Amount
+1 point of Superficial Damage
+Rouse Re-Roll
+Level 1
+
+Feeding Penalty
+Animal and bagged blood slake half hunger
+
+Bane Severity
+2
+
+Total Experience Spent Experience 109
+True age
+Apparent age Early 30s Date of birth 1971 Date of death 2001
+Appearance
+
+Distinguishing features
+
+Gear: $25 cash ID for Jocelyn Wilson butterfly knife (+2 damage) pocket knife (+1 damage) burner flip phone lock picks
+
+History
+
+Downloaded by Jean Mendes on 12/3/2025 © 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ) . Unauthorized distribution prohibited.
+
+Reign Navarro, the Warrior Poet
+Despite the fireman's axe in your hand, deep down, you really just wanted to be a poet. You were always taught to do good deeds, which in its way landed you with the Federal Emergency Management
+Agency. You weren't the best disaster responder or the most heroic, but you believed in the mission. Yet you couldn't stop writing poetry in your head while putting out wildfires or hauling sandbags. You filled the margins of your manuals with verse. When reorganization led to your job being cut, you did not need to seek meaning for your life.
+You returned home, got your college degree, and wrote a chapbook about your experiences. Unfortunately, your unpublished manuscript landed on the wrong Kindred's desk and attracted the attention of a Banu Haqim. First, you served your country as a first responder, and after your Embrace, you served your Sire as a bodyguard. You served her well, right until she vanished without a trace.
+You wandered aimlessly for a few years. You'd venture into a city, offer your services to the Prince, and inquire about your Sire's whereabouts. You'd walk into Elysia and ask, but you received nothing definitive other than snippets about some feud within the Banu Haqim. In one such Elysium, you met Mr. Bass, a Nosferatu scouting on behalf of a traveling Carnival coterie, and it sounded worth checking out. The other members of the New Money Machine put your security talents to work, and occasionally, listen to your poetry.
+Unlike the other members of the New Money Machine, you never hated your Sire. However, you wonder if your poetry might have touched someone's life, or given meaning to their world, had it ever seen the light of day. These are the things you think about from time to time, especially as you're wiping blood from one of your many knives.
+Clan: Banu Haqim Embraced: 2006 (Born 1980) Ambition: To be respected for your art, not your fighting ability Desire: To find information on your Sire's whereabouts Predator: Osiris Conviction: A deal's a deal, never break a contract. Touchstone: Erin Washington, a lawyer you consult with on occasion. Humanity: 6 Generation: 10th Blood Potency: 2 Attributes: Strength 2, Dexterity 4, Stamina 3; Charisma 2, Manipulation 1, Composure 3; Intelligence 3, Wits 2, Resolve 3 Secondary Attributes: Health 6, Willpower 6 Skills (Specialist): Athletics 3, Brawl 3, Drive 1, Firearms 3, Melee 4, Larceny 2 (Lockpicking), Stealth 2, Survival 2; Intimidation 2 (Staredowns), Leadership 1, Performance 2 (Poetry), Streetwise 1; Awareness 2, Investigation 1, Medicine 1, Science 1 (Chemistry), Technology 1 Disciplines: Blood Sorcery 1 (Corrosive Vitae), Celerity 2 (Rapid Reflexes, Fleetness), Obfuscate 4 (Silence of Death, Unseen Passage, Ghost in the Machine, Vanish), Presence (Daunt) Rituals: Clinging of the Insect, Craft Bloodstone Advantages: Allies 2 (Private Security), Allies 2 (Medical), Fame 1, Haven 2, Herd 2, Mask 1 (Brooklyn Adams), Resources 2 Coterie Advantages: Contacts 3 (Fans), Fame 3 (Carnival Coterie), Retainers 1 (Daylight Help) Flaws: Folkloric Block 1 (Entering a home uninvited by the owner), Prey Exclusion 1 (Women), Stake Bait 2, Twice Cursed 2 Experience Spent: 107 Gear: $32 cash, ID for Brooklyn Adams, pistol (+2 damage), lockpicks, notebook full of poetry, two nice pens, burner flip phone, bloodstone crafted a week ago, small plastic container with two live spiders
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+Name Reign Navarro
+
+Concept Warrior Poet
+
+Predator Osiris
+
+Chronicle Three Knives at Midnight Ambition To be respected for your art, not
+your fighting ability
+
+Sire
+
+Desire To find information on your Sire's
+
+whereabouts
+
+ATTRIBUTES
+
+Clan Banu Haqim Generation 10th
+
+Physical
+Strength     
+
+Social
+Charisma     
+
+Mental
+Intelligence     
+
+Dexterity      Manipulation     
+
+Wits
+
+
+
+Stamina      Composure     
+
+Resolve     
+
+Health
+ 
+
+Willpower
+ 
+
+SKILLS
+
+Athletics Brawl Craft Drive Firearms Melee Larceny Lockpicking Stealth Survival
+Blood Sorcery Corrosive Vitae
+
+ Animal Ken
+
+ Academics
+
+ Etiquette
+
+ Awareness
+
+ Insight
+
+ Finance
+
+ Intimidation Staredowns  Investigation
+
+ Leadership
+
+ Medicine
+
+ Performance Poetry
+
+ Occult
+
+ Persuasion
+
+ Politics
+
+ Streetwise
+
+ Science Chemistry
+
+ Subterfuge
+
+ Technology
+
+DISCIPLINES
+
+ Celerity
+
+ Obfuscate
+
+Rapid Reflexes
+
+Silence of Death
+
+Fleetness
+
+Unseen Passage
+
+Ghost in the Machine
+
+Vanish
+
+        
+
+
+Blood Sorcery Rituals Clinging of the Insect Craft Bloodstone
+
+ Presence
+Daunt
+
+
+
+
+
+Resonance
+
+Hunger      Humanity          
+
+Downloaded by Jean Mendes on 12/3/2025 © 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ) . Unauthorized distribution prohibited.
+
+Chronicle Tenets
+- Thou shalt not kill, save in self-defense.
+- Thou shalt not rape or torture.
+- Thou shalt not harm the innocent.
+
+Touchstones & Convictions
+Conviction: A deal's a deal, never break a contract
+Touchstone: Erin Washington, a lawyer you consult with on occasion
+
+Clan Bane
+Make a Hunger Frenzy test (Difficulty 2 + your Bane Severity) whenever slaking Hunger from another Kindred
+Mortals drinking your blood suffer Aggravated damage equal to your Bane Severity for each Rouse Check ingested. Your Vitae cannot heal mortal injuries.
+
+Advantages & Flaws
+
+Allies (Private Security)
+
+
+
+Allies (Medical)
+
+
+
+Fame
+
+
+
+Haven
+
+
+
+Herd
+
+
+
+Mask (Brooklyn Adams)
+
+
+
+Resources
+
+
+
+Flaw: Folkloric Block (Entering homes uninvited) 
+
+Flaw: Prey Exclusion (Women)
+
+
+
+Flaw: Stakebait
+
+
+
+Flaw: Twice Cursed (additional clan Bane) 
+
+Notes
+Coterie Advantages:
+
+Contacts (Fans)
+
+···
+
+Fame (Carnival Coterie) ···
+
+Retainers (Daylight Help) ·
+
+Blood Potency  
+
+Blood Surge
+Add 2 dice
+Power Bonus
+Add 1 die
+
+Mend Amount
+1 point of Superficial Damage
+Rouse Re-Roll
+Level 1
+
+Feeding Penalty
+Animal and bagged blood slake half hunger
+
+Bane Severity
+2
+
+Total Experience Spent Experience 107
+True age
+Apparent age Mid 20s Date of birth 1980 Date of death 2006
+Appearance
+
+Distinguishing features
+
+Gear: $32 cash ID for Brooklyn Adams pistol (+2 damage) lock picks notebook full of poetry two nice pens burner flip phone bloodstone crafted a week ago small plastic container with two live spiders
+
+History
+
+Downloaded by Jean Mendes on 12/3/2025 © 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ) . Unauthorized distribution prohibited.
+
+Finn Lancaster, the Hollywood Dreamer
+If they let you open your mouth, chances are, it's already too late. For your entire life, you've been able to talk your way out of (or into) almost anything. Speeding tickets. Dates to
+the prom. The underage sale of alcohol. With a wide smile and a good ear, you learned to get what you wanted. And after high school, when you sailed off to Tinseltown, you thought that would be enough.
+To your credit, you started off strong. You got a few jobs doing extra work and even booked a commercial. But the height of your career came with a season-long stint on Total Exposure, a reality television show about twelve toxic roommates all vying for a single job application with a major movie studio. The producers cast you as the "likable schemer," editing your words into career-killing soundbites. You endured humiliation, manufactured drama, and social media torture because that single credit might lead to something legitimate.
+However, your Toreador Sire cut short your slow climb toward stardom. Spotting you at the season wrap party, she promised mentorship and industry connections, delivering instead an eternity where you could never face a camera again. The cruel irony wasn't lost on you: immortality without the possibility of fame. She kept you around for a few years, but like so much television nowadays, she eventually grew bored with you and tossed you out into the world. Dejected and out of work, you meandered for a while before finding employment at a local bar. That's when you met Soroya, and that's when everything changed.
+Within the New Money Machine coterie (the N Double M), you serve as a walking, talking, 24/7 master of ceremonies. Sometimes that means helping Jenna hire the talent. Sometimes that means calming an irate guest. And sometimes that means standing at the entrance, greeting everyone with a smile and a handshake. It's tough work, but at least it beats reality television.
+Clan: Toreador Embraced: 2004 (Born 1973) Ambition: Get everyone to remember your name Desire: Prove to your coterie that you're more than just a face Predator: Consensualist Conviction: Never deny yourself what is given freely. Touchstone: Jesse Young, a fashion influencer who slid into your DMs. Humanity: 7 Generation: 10th Blood Potency: 2 Attributes: Strength 1, Dexterity 3, Stamina 2; Charisma 2, Manipulation 4, Composure 3; Intelligence 2, Wits 3, Resolve 3 Secondary Attributes: Health 5, Willpower 6 Skills: (Specialist) Athletics 1, Brawl 1, Firearms 3, Stealth 2; Etiquette 2, Insight 2, Intimidation 1 (Insults), Leadership 3, Performance 4 (Acting), Persuasion 3 (Victims), Streetwise 1, Subterfuge 2 (Impeccable Lies); Academics 1 (Film Studies), Awareness 2, Finance 1, Investigation 1, Medicine 1, Politics 1 (Camarilla), Technology 1 Disciplines: Auspex 3 (Heightened Senses, Premonition, Scry the Soul), Celerity 1 (Rapid Reflexes), Presence 4 (Awe, Daunt, Entrancement, Summon) Advantages: Allies 3 (Performers), Haven 2, Herd 2, Mask 2 (Wyatt Green), Resources 2 Coterie Advantages: Contacts 3 (Fans), Fame 3 (Carnival Coterie), Retainers 1 (Daylight Help) Flaws: Dark Secret 1 (Masquerade Breacher), Prey Exclusion 1 (Non-Consenting), Stakebait 2, Twice Cursed 2 Experience Spent: 110 Gear: $60 cash, ID for Wyatt Green, pistol (+2 damage), cross-body bag stuffed with fashion accessories for a change of location (scarves, jewelry, glasses, hat, etc.), burner flip phone, tablet full of classic and auteur films
+Downloaded by Jean Mendes on 12/3/2025 . Unauthorized distribution prohibited.
+
+Name Finn Lancaster
+
+Concept Hollywood Dreamer
+
+Predator Consensualist
+
+Chronicle Three Knives at Midnight Ambition Get everyone to remember your
+name.
+
+Sire
+
+Desire Prove to your coterie that you're
+
+more than just a face.
+
+ATTRIBUTES
+
+Clan Toreador Generation 10th
+
+Physical
+Strength     
+
+Social
+Charisma     
+
+Mental
+Intelligence     
+
+Dexterity      Manipulation     
+
+Wits
+
+
+
+Stamina      Composure     
+
+Resolve     
+
+Health
+ 
+
+Willpower
+ 
+
+SKILLS
+
+Athletics Brawl Craft Drive Firearms Melee Larceny Stealth Survival
+Auspex Heightened Senses Sense the Unseen Scry the Soul
+
+ Animal Ken
+
+     Academics Film Studies
+
+ Etiquette
+
+ Awareness
+
+ Insight
+
+ Finance
+
+ Intimidation Insults
+
+ Investigation
+
+ Leadership
+
+ Medicine
+
+ Performance Acting
+
+ Occult
+
+ Persuasion Victims
+
+ Politics Camarilla
+
+ Streetwise
+
+ Science
+
+ Subterfuge Impeccable Lies  Technology
+
+DISCIPLINES
+
+ Celerity
+
+ Presence
+
+Rapid Reflexes
+
+Awe
+
+Daunt
+
+Entrancement
+
+Summon
+
+        
+   
+
+
+
+
+
+
+
+Resonance
+
+Hunger      Humanity          
+
+Downloaded by Jean Mendes on 12/3/2025 © 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ) . Unauthorized distribution prohibited.
+
+Chronicle Tenets
+- Thou shalt not kill, save in self-defense.
+- Thou shalt not rape or torture.
+- Thou shalt not harm the innocent.
+
+Touchstones & Convictions
+Conviction Never deny yourself what is given freely
+Touchstone Jesse Young, a fashion influencer who slid into your DMs
+
+Clan Bane
+You suffer a penalty to dice pools to activate Discipline equal to your Bane Severity when there is no beauty around.
+When you damage a Vessel while feeding, you suffer similar damage (usually Aggravated, up to your Bane Severity) and you show visible bruising in the same place where the vessel was injured
+
+Advantages & Flaws Allies (Performers) Haven Herd Mask (Wyatt Green) Resources
+
+    
+
+
+
+
+
+Flaw: Dark Secret (Masquerade Breacher) 
+
+Flaw: Prey Exclusion (Non-Consenting) 
+
+Flaw: Stakebait
+
+
+
+Flaw: Twice Cursed (additional clan Bane) 
+
+Notes
+Coterie Advantages:
+
+Contacts (Fans)
+
+···
+
+Fame (Carnival Coterie) ···
+
+Retainers (Daylight Help) ·
+
+Blood Potency  
+
+Blood Surge
+Add 2 dice
+
+Mend Amount
+1 point of Superficial Damage
+
+Power Bonus
+Add 1 die
+
+Rouse Re-Roll
+Level 1
+
+Feeding Penalty
+Animal and bagged blood slake half hunger
+
+Bane Severity
+2
+
+Total Experience Spent Experience 110
+
+True age
+Apparent age Late 20s or early 30s Date of birth 1973 Date of death 2004
+Appearance
+
+Distinguishing features
+
+Gear: $60 cash ID for Wyatt Green pistol (+2 damage) cross-body bag stuffed with fashion accessories for a change of location (scarves, jewelry, glasses, hat, etc.) burner flip phone tablet full of classic and auteur films
+
+History
+
+Downloaded by Jean Mendes on 12/3/2025 © 2025 Renegade Game Studios. All Rights Reserved. © Paradox Interactive AB (publ) . Unauthorized distribution prohibited.
+
+
