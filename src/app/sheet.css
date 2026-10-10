@@ -59,6 +59,7 @@ body {
   transition: transform .2s ease;
   display: flex; flex-direction: column;
   padding: 56px 0 24px;
+  overflow-y: auto;
 }
 .tab-drawer.open { transform: translateX(0); }
 
@@ -90,6 +91,8 @@ body {
 }
 .drawer-tab:hover  { color: var(--txt); background: rgba(255,255,255,.03); }
 .drawer-tab.active { color: var(--acc); border-left-color: var(--acc); }
+.drawer-tab.danger:hover { color: #e05; }
+.drawer-head-section { margin-top: 16px; }
 
 .tabnav {
   position: sticky;
@@ -1239,13 +1242,14 @@ body.edit-mode .disc-lvl-adj:hover { color: #fff; }
 }
 .confirm-actions { display: flex; justify-content: center; gap: 10px; }
 
+@media (max-width: 1400px) {
+  .nav-tabs,
+  .nav-actions { display: none; }
+  #btn-menu { display: flex; }
+}
+
 @media (max-width: 768px) {
   .page { padding: 20px 20px 40px; }
-
-  .nav-tabs { display: none; }
-  #btn-menu { display: flex; }
-  .tabnav { flex-wrap: wrap; height: auto; min-height: 44px; }
-  .nav-actions { flex-wrap: wrap; justify-content: flex-end; }
 
   .hmeta { flex-wrap: wrap; gap: 10px 16px; }
   .hval  { white-space: normal; }
@@ -1278,7 +1282,7 @@ body.edit-mode .disc-lvl-adj:hover { color: #fff; }
   .tabnav { padding: 0 4px; }
   .nav-icon-btn { width: 30px; height: 30px; font-size: 18px; }
   .nav-text-btn { font-size: 12px; letter-spacing: 1px; padding: 0 6px; }
-  .nav-switch-name { max-width: 90px; }
+  .nav-switch-name { max-width: 140px; }
 
   .page { padding: 12px 12px 36px; }
 

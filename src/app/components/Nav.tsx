@@ -59,7 +59,12 @@ function CharacterSwitcher() {
   );
 }
 
-function ImportButton() {
+interface ImportButtonProps {
+  className: string;
+  onPick?: () => void;
+}
+
+function ImportButton({ className, onPick }: ImportButtonProps) {
   const { importCharacter } = useCharacter();
   const fileInput = useRef<HTMLInputElement>(null);
 
@@ -79,7 +84,7 @@ function ImportButton() {
 
   return (
     <>
-      <button className="nav-text-btn" onClick={() => fileInput.current?.click()}>Importar</button>
+      <button className={className} onClick={() => { fileInput.current?.click(); onPick?.(); }}>Importar</button>
       <input ref={fileInput} type="file" accept=".json" style={{ display: 'none' }} onChange={onFileChosen} />
     </>
   );
@@ -97,6 +102,8 @@ export function Nav({ tab, onTab }: NavProps) {
     setDrawerOpen(false);
   };
 
+  const closeDrawer = () => setDrawerOpen(false);
+
   const tabButtons = (className: string) =>
     TABS.map(({ id, label }) => (
       <button key={id} className={className + (tab === id ? ' active' : '')} onClick={() => selectTab(id)}>
@@ -104,29 +111,35 @@ export function Nav({ tab, onTab }: NavProps) {
       </button>
     ));
 
+  const actionButtons = (className: string, afterClick: () => void = () => {}) => (
+    <>
+      <button className={className} onClick={() => { newCharacter(); afterClick(); }}>Novo</button>
+      <button className={className + (editMode ? ' active' : '')} onClick={() => { setEditMode(!editMode); afterClick(); }}>
+        {editMode ? 'Sair da edição' : 'Editar'}
+      </button>
+      <button className={className} onClick={() => { exportActive(); afterClick(); }}>Exportar</button>
+      <ImportButton className={className} onPick={afterClick} />
+      <button className={className} onClick={() => { afterClick(); window.print(); }}>Impressão</button>
+      <button className={className + ' danger'} onClick={() => { setDeleteOpen(true); afterClick(); }}>Excluir</button>
+    </>
+  );
+
   return (
     <>
-      <div className={'tab-overlay' + (drawerOpen ? ' open' : '')} onClick={() => setDrawerOpen(false)} />
+      <div className={'tab-overlay' + (drawerOpen ? ' open' : '')} onClick={closeDrawer} />
       <aside className={'tab-drawer' + (drawerOpen ? ' open' : '')}>
-        <div className="drawer-head">Seções</div>
+        <div className="drawer-head">Ficha</div>
         {tabButtons('drawer-tab')}
+        <div className="drawer-head drawer-head-section">Ações</div>
+        {actionButtons('drawer-tab', closeDrawer)}
       </aside>
 
       <nav className="tabnav">
-        <button className="nav-icon-btn" id="btn-menu" title="Seções" onClick={() => setDrawerOpen((isOpen) => !isOpen)}>☰</button>
+        <button className="nav-icon-btn" id="btn-menu" title="Menu" onClick={() => setDrawerOpen((isOpen) => !isOpen)}>☰</button>
         <div className="nav-tabs">{tabButtons('nav-tab')}</div>
         <div className="nav-spacer" />
-        <div className="nav-actions">
-          <CharacterSwitcher />
-          <button className="nav-text-btn" onClick={newCharacter}>Novo</button>
-          <button className={'nav-text-btn' + (editMode ? ' active' : '')} onClick={() => setEditMode(!editMode)}>
-            {editMode ? 'Sair da edição' : 'Editar'}
-          </button>
-          <button className="nav-text-btn" onClick={exportActive}>Exportar</button>
-          <ImportButton />
-          <button className="nav-text-btn" onClick={() => window.print()}>Impressão</button>
-          <button className="nav-text-btn danger" onClick={() => setDeleteOpen(true)}>Excluir</button>
-        </div>
+        <CharacterSwitcher />
+        <div className="nav-actions">{actionButtons('nav-text-btn')}</div>
       </nav>
 
       <DeleteCharacterModal open={deleteOpen} onClose={() => setDeleteOpen(false)} />
