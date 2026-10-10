@@ -481,6 +481,18 @@ export const CORE_ADVANTAGES: Record<string, CoreAdvantage> = {
     body: 'Compre uma Advantage de uma Loresheet e integre a história desse lore à linhagem e às conexões do seu personagem. Algumas Loresheets (especialmente as “Descendant of …”) exigem que o personagem seja de um clã específico.\n\nLembre-se de que, assim como outras Advantages, cada nível de uma Loresheet é autocontido e deve ser comprado separadamente. Ele não concede automaticamente os níveis “inferiores” daquela Loresheet.\n\nVeja Loresheets na p. 382 para mais.',
     levels: [],
   },
+  'Loresheet: Sect War Veteran': {
+    source: 'CORE · P. 392',
+    kind: 'LORESHEET',
+    body: 'A guerra Sabbat–Camarilla pela América do Norte, nos anos 1990 e no início dos anos 2000, selou as seitas como inimigas de sangue eternas. Para exterminar os rivais e firmar o domínio sobre o continente, o Sabbat abriu caminho à força por domínios da Camarilla e dos Anarchs, matando Kindred sem piedade e revelando seus poderes aos mortais sem hesitar. A Camarilla percebeu que precisava reagir e montou uma defesa militante e forte, liderada por ícones como Theo Bell. Mais defensiva que ofensiva, ela retomou vários domínios no Sul dos Estados Unidos, embora bolsões de controle do Sabbat permaneçam em grandes cidades até hoje. Todo vampiro que participou tem uma história para contar sobre o que fez e o que sobreviveu.',
+    levels: [
+      '● Survivor: seu domínio, ou o de um vampiro próximo, foi devastado na guerra entre seitas. Você sabe contar como o Sabbat e a Camarilla planejaram, como lutaram na cidade sem alertar os mortais e quais vampiros caíram no meio. Uma vez por história, você pode pedir ao Narrador uma informação sobre a guerra entre seitas no seu domínio.',
+      '●● Active Participant: não importa a seita, a guerra arrastou muitos vampiros; até independentes serviram como mercenários ou fornecedores de um dos lados. Você tem as cicatrizes dessa participação. Sua própria seita pode vê-lo como herói de guerra, e a outra como criminoso de guerra. Pegue três pontos de Status ou Mawla para refletir sua posição ou a de um de seus companheiros.',
+      '●●● Trophy Kill: muitos vampiros notáveis caíram na guerra entre seitas, e para os Archons e Templars derrubar um "nome" de qualquer lado virou questão de orgulho competitivo. Por sorte ou plano, você é responsável pela morte de um deles. Você pode usar o feito com orgulho ou abafar os boatos, mas o vitae está nas suas mãos de qualquer forma. Uma vez por história, você pode usar essa lenda para ignorar um contest em que ela possa ajudar, e o Narrador pode sempre usá-la para mandar inimigos atrás da sua cabeça.',
+      '●●●● No Vampire’s Land: hit-teams Kindred de ambos os lados percorreram domínio após domínio e voltaram por terreno antigo enquanto os defensores se reagrupavam. Você conhece os melhores pontos do seu domínio e de dois domínios vizinhos para emboscar, se esconder, reabastecer uma milícia e contatar mercenários. Adicione dois pontos ao Portillon do seu Domain e dois dados às pools relevantes de Streetwise, Larceny e Stealth nos dois domínios vizinhos.',
+      '●●●●● Sect Agitator: alguns vampiros existem só para causar derramamento de sangue, e você se conta entre eles. Indivíduos como Lucinda, da Camarilla, e Francisco Domingo de Polonia, do Sabbat, tinham gosto pela guerra e ficaram vazios quando ela acabou. Você conhece todos os gatilhos e o pavio certo para acender uma nova guerra entre seitas. Pode começar localizada, mas, uma vez acesas as chamas, você pode alimentá-las até se espalharem. Adicione dois dados a todas as suas pools de testes Sociais para inflamar a tensão sectária.',
+    ],
+  },
   'Mask': {
     source: 'CORE · P. 190',
     kind: 'BACKGROUND',

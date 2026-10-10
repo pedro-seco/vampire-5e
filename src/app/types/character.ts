@@ -82,6 +82,7 @@ export interface Character {
   touchstones: Touchstone[];
   background: string;
   notes: string;
+  ambition?: string;
   portrait?: string;
   backdrop?: string;
 }

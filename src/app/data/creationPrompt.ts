@@ -23,7 +23,7 @@ Passe pelas fases a seguir **uma de cada vez**. Apresente as opções, faça as 
 **Fase 6 — Disciplinas:** 3 pontos em Disciplinas do clã; opcionalmente 1 ponto fora do clã; liste os poderes e pergunte as escolhas. Quem tem Blood Sorcery pode escolher rituais, quem tem Oblivion pode escolher cerimônias e quem tem Thin-blood Alchemy escolhe fórmulas; coloque esses nomes (em inglês, exatamente como nos livros) no array "rituals" da respectiva Disciplina, respeitando o nível da Disciplina.
 **Fase 7 — Advantages e Flaws:** 7 pontos; flaws dão pontos extras (máx. +2); liste as opções e pergunte as escolhas.
 **Fase 8 — Trackers:** Humanity (7, ajustada pelo Predator Type), BP (1 ou conforme a geração), Health = Stamina+3, Willpower = Composure+Resolve.
-**Fase 9 — Convictions e Touchstones:** 3 Convictions (declarações morais); 1–3 Touchstones (ligações mortais, cada uma ligada a uma Conviction).
+**Fase 9 — Ambition, Convictions e Touchstones:** uma Ambition (objetivo de longo prazo, mensurável em termos de jogo, escrita em uma frase curta; ela vira o título da aba de narrativa); 3 Convictions (declarações morais); 1–3 Touchstones (ligações mortais, cada uma ligada a uma Conviction).
 **Fase 10 — Background, Idiomas e Cola para dados:** parágrafo de origem; idiomas (1 ponto de Linguistics por idioma adicional); sugira de 2 a 4 pools de dados úteis (Atributo + Perícia, com especialidade ou Disciplina quando fizer sentido).
 **Fase 11 — Revisão e JSON:** resuma a ficha, peça correções e então entregue o JSON completo em um único bloco de código.
 
@@ -74,10 +74,10 @@ Entregue exatamente esta estrutura, com as 27 chaves de perícia presentes:
   "pools": [{"title":"","attr":"","skill":"","specialty":"","disc":""}],
   "convictions": [],
   "touchstones": [{"name":"","summary":"","linkedConviction":"","description":""}],
-  "background": "", "notes": ""
+  "background": "", "notes": "", "ambition": ""
 }
 \`\`\`
 
-**Regras:** id = "char_" + o unix timestamp atual como inteiro. O array health tem tamanho healthMax. O array willpower tem tamanho willpowerMax. As chaves de perícia são camelCase (animalKen, não animal_ken). Todas as 27 chaves de perícia devem estar presentes. Em cada pool, attr é a chave do Atributo em minúsculas (por exemplo strength), skill é a chave da perícia (por exemplo brawl), specialty é opcional e disc é o nome de uma Disciplina em inglês ou vazio. Cada linkedConviction deve repetir exatamente o texto de uma das Convictions. Use apenas os valores de clã, facção e Predator Type listados acima.
+**Regras:** id = "char_" + o unix timestamp atual como inteiro. O array health tem tamanho healthMax. O array willpower tem tamanho willpowerMax. As chaves de perícia são camelCase (animalKen, não animal_ken). Todas as 27 chaves de perícia devem estar presentes. Em cada pool, attr é a chave do Atributo em minúsculas (por exemplo strength), skill é a chave da perícia (por exemplo brawl), specialty é opcional e disc é o nome de uma Disciplina em inglês ou vazio. Cada linkedConviction deve repetir exatamente o texto de uma das Convictions. ambition é uma frase curta em português, sem ponto final obrigatório, que aparece como título da aba de narrativa. Use apenas os valores de clã, facção e Predator Type listados acima.
 
 Comece agora pela Fase 1.`;

@@ -19,6 +19,7 @@ function Masthead() {
 function Lead() {
   const { character, editMode, update } = useCharacter();
   const setBackground = (text: string) => update((draft) => { draft.background = text; });
+  const setAmbition = (text: string) => update((draft) => { draft.ambition = text; });
   const setPortrait = (portrait: string | undefined) =>
     update((draft) => {
       if (portrait) draft.portrait = portrait;
@@ -28,7 +29,9 @@ function Lead() {
   return (
     <section className="paper-lead">
       <div className="paper-text">
-        <h2>Background</h2>
+        <h2>
+          <Editable id="ambition-text" value={character.ambition || 'Background'} editable={editMode} onCommit={setAmbition} />
+        </h2>
         <Editable as="div" id="background-text" className="paper-background" value={character.background} editable={editMode} onCommit={setBackground} />
         <Convictions />
       </div>
